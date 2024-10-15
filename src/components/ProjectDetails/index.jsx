@@ -2,6 +2,7 @@ import { CloseRounded, GitHub, LinkedIn } from '@mui/icons-material';
 import { Modal } from '@mui/material';
 import React from 'react'
 import styled from 'styled-components'
+import TableWithData from './TableData';
 
 const Container = styled.div`
 width: 100%;
@@ -18,18 +19,47 @@ transition: all 0.5s ease;
 `;
 
 const Wrapper = styled.div`
-max-width: 800px;
-width: 100%;
-border-radius: 16px;
-margin: 50px 12px;
-height: min-content;
-background-color: ${({ theme }) => theme.card};
-color: ${({ theme }) => theme.text_primary};
-padding: 20px;
-display: flex;
-flex-direction: column;
-position: relative;
+  max-width: 800px;
+  width: 100%;
+  border-radius: 16px;
+  margin: 50px 12px;
+  height: min-content;
+  background-color: ${({ theme }) => theme.card};
+  color: ${({ theme }) => theme.text_primary};
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
 `;
+
+const SideBySideSections = styled.div`
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+
+  @media only screen and (max-width: 768px) {
+    flex-direction: column; /* Stack the sections vertically */
+    gap: 20px;
+`;
+
+const Section = styled.div`
+  width: 48%; /* Adjust width to fit two sections side by side */
+  background-color: ${({ theme }) => theme.bgLight};
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+
+   @media only screen and (max-width: 768px) {
+    width: 100%; /* Full width when stacked */
+    font-size: 14px;
+    // margin: 6px 6px;
+  }
+
+  // p {
+  //   font-size: 14px; /* Smaller font size for paragraph text */
+  // }
+`;
+
 
 const Title = styled.div`
   font-size: 28px;
@@ -183,57 +213,94 @@ const Button = styled.a`
 
 
 const index = ({ openModal, setOpenModal }) => {
-    const project = openModal?.project;
-    return (
-        <Modal open={true} onClose={() => setOpenModal({ state: false, project: null })}>
-            <Container>
-                <Wrapper>
-                    <CloseRounded
-                        style={{
-                            position: "absolute",
-                            top: "10px",
-                            right: "20px",
-                            cursor: "pointer",
-                        }}
-                        onClick={() => setOpenModal({ state: false, project: null })}
-                    />
-                    <Image src={project?.image} />
-                    <Title>{project?.title}</Title>
-                    {/* <Date>{project.date}</Date> */}
-                    <Tags>
-                        {project?.tags.map((tag) => (
-                            <Tag>{tag}</Tag>
-                        ))}
-                    </Tags>
-                    <Desc>{project?.description}</Desc>
-                    {project.member && (
-                        <>
-                            <Label>Members</Label>
-                            <Members>
-                                {project?.member.map((member) => (
-                                    <Member>
-                                        <MemberImage src={member.img} />
-                                        <MemberName>{member.name}</MemberName>
-                                        <a href={member.github} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
-                                            <GitHub />
-                                        </a>
-                                        <a href={member.linkedin} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
-                                            <LinkedIn />
-                                        </a>
-                                    </Member>
-                                ))}
-                            </Members>
-                        </>
-                    )}
-                    <ButtonGroup>
-                        <Button dull href="#" target='new'>Make Payment</Button>
-                        <Button href="#" target='new'>Access Course</Button>
-                    </ButtonGroup>
-                </Wrapper>
-            </Container>
+  const project = openModal?.project;
+  return (
+    <Modal open={true} onClose={() => setOpenModal({ state: false, project: null })}>
+      <Container>
+        <Wrapper>
+          <CloseRounded
+            style={{
+              position: "absolute",
+              top: "10px",
+              right: "20px",
+              cursor: "pointer",
+            }}
+            onClick={() => setOpenModal({ state: false, project: null })}
+          />
+          <Image src={project?.image} />
+          <Title>{project?.title}</Title>
+          <Tags>
+            {project?.tags.map((tag) => (
+              <Tag key={tag}>{tag}</Tag>
+            ))}
+          </Tags>
+          <Desc><p>About this Course</p></Desc>
+          
+          <Desc>{project?.description}</Desc>
+          <Desc>Duration: {project?.duration}</Desc>
+          <Desc>Methodology: {project?.methodology}</Desc>
+          
+          <Desc>
+          <p>Prerequisite</p>
+          <p>
+            {project?.prerequisite.map((prerequisite, index) => (
+              <li key={index}>{prerequisite}</li>
+            ))}
+          </p>
+          </Desc>
 
-        </Modal>
-    )
+
+          {/* Add Side-by-Side Sections */}
+          <SideBySideSections>
+            <Section>
+              <h3>Learning outcomes</h3>
+              <p>
+            {project?.objectives.map((objective, index) => (
+              <li key={index}>{objective}</li>
+            ))}
+          </p>
+            </Section>
+            <Section>
+              <h3>Course outline</h3>
+              <p>
+            {project?.outline.map((outline, index) => (
+              <p key={index}>{outline}</p>
+            ))}
+          </p>
+            </Section>
+          </SideBySideSections>
+
+          <br />
+          
+            
+
+          <Desc>
+          <p>Assessment: {project?.assessment}</p>
+          </Desc>
+
+          
+          <Desc>
+          <p>Course Delivery Formats</p>
+          <p>
+            {project?.cdf.map((cdf, index) => (
+              <li key={index}>{cdf}</li>
+            ))}
+          </p>
+          </Desc>
+
+        
+          <Desc>
+          <p>Cost: {project?.cost}</p>
+          </Desc>
+
+          <ButtonGroup>
+            <Button dull href="#" target='new'>Make Payment</Button>
+            <Button href="#" target='new'>Access Course</Button>
+          </ButtonGroup>
+        </Wrapper>
+      </Container>
+    </Modal>
+  );
 }
 
-export default index
+export default index;

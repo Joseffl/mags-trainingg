@@ -154,102 +154,376 @@ export const education = [
 export const projects = [
    {
     id: 9,
-    title: "Introduction to Engineering Principles and Practices",
+    title: "Commissioning and StartUp",
     date: "Sep 2023 - Oct 2023",
     description:
-      "This foundational course provides an overview of core engineering disciplines, including civil, mechanical, electrical, and chemical engineering. Participants will learn basic engineering concepts, technical drawing, CAD, and the role of engineering in modern society.",
+      "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      "https://i.ibb.co/r649b5N/1.png",
-    tags: ["10 chapters"
+      "https://i.ibb.co/SN6MJdG/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover.jpg",
+    tags: ["Author: Adeyemi"
   ],
+    duration: "2 Days",
+    prerequisite: [
+      "A bachelor's degree in engineering, technology, or a related field.",
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of commissioning and start-up principles and procedures."
+    ],
+    methodology: "Theoretical/Practical",
     category: "android app",
     github: "https://github.com/Joseffl/laroyexchange",
     webapp: "https://bit.ly/3u1sbXt",
+    objectives: [
+          "Understand the principles and importance of commissioning and start-up.",
+        	"Develop effective commissioning plans and strategies.",
+        	"Learn about the verification and testing of systems and equipment.",
+        	"Execute Pre-commissioning and Commissioning Activities",
+        	"Manage Initial Start-up",
+        	"Master safe and systematic start-up procedures.",
+        	"Gain insights into operator training and documentation handover.",
+        	"Troubleshoot and Resolve Issues",
+        	"Enhance Team Coordination",
+        	"Improve Project Outcomes",
+        	"Analyze real-world case studies to identify best practices and common challenges."
+        
+    ],
+    outline: [
+        "Module 1:  Introduction to Commissioning and Start-Up",
+        "Module 2:  Preparation and planning",
+        "Module 3:  Mechanical Completion  and Integrity checking",
+        "Module 4:  Pre-commissioning & Operational Testing",
+        "Module 5:  Start Up & Initial Operation",
+        "Module 6:  Performance and Acceptance testing", 
+        "Module 7:  Post Commissioning",
+        "Module 8:  Case Study"
+        
+    ],
+    assessment: "	Online Written  Exam / AutoCAD Design Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses", 
+      "In-house workshops"
+    ],
+    cost: "₦100,000 or $80"
+    
   },
   {
     id: 0,
-    title: "Mechanical and Structural Engineering fundamentals",
+    title: "Basic Line Sizing",
     date: "Aug 2023 - Sep 2023",
     description:
-      "Gain a comprehensive understanding of mechanical and structural engineering, focusing on design, analysis, and the use of advanced materials. Topics include thermodynamics, fluid mechanics, and the basics of structural integrity.",
+      "A Basic Line Sizing course typically aims to equip students with the fundamental knowledge and skills required to determine the appropriate size of pipes or lines for fluid transportation systems.",
     image:
       "https://i.ibb.co/vwv6FSg/3.png",
-    tags: ['12 chapters'],
+    tags: ['Author: Adeyemi'],
     category: "machine learning",
     github: "https://github.com/Joseffl/creative-company-website",
     webapp: "https://ccdesignwebs.netlify.app",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand fluid flow principles.",
+        	"Understand the basic Pipe and Fittings",
+        	"Understand the basic the methods and formulas to calculate pipe diameter based on flow rate, fluid properties, and allowable pressure drop.",
+          "Understand the importance of line sizing for particular industries (e.g., oil and gas, chemical, water supply).",
+          "Understand line sizing for different fluids: Apply line sizing principles to liquids, gases, and multiphase flows.",
+          "Understand the basic industry-accepted standards (e.g., ASME B31, API) for line sizing calculations and material selection."
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Fluid Mechanics",
+        "Module 2:  Pipe and Fittings",
+        "Module 3:  Fluid Flow in Pipes",
+        "Module 4:  Line Sizing Calculations",
+        "Module 5:  Special Considerations",
+        "Module 6:  Line Sizing Standards and Codes", 
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Virtual",
+    ],
+    cost: "FREE"
   },
   
   {
     id: 1,
-    title: "Engineering Mathematics and Computational Methods",
+    title: "Control Sizing",
     date: "Aug 2023 - Sep 2023",
-    description:
-      "Explore mathematical methods and computational tools essential for engineering problem-solving. This course covers calculus, linear algebra, differential equations, and introduces simulation software for engineering applications.",
+    description: [
+      "A control valve sizing course aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size of control valves for various industrial applications.",
+      "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."],
     image:
       "https://i.ibb.co/S5X0JYT/2.png",
-    tags: ["5 chapters"],
+    tags: ["Author: Adeyemi"],
     category: "web app",
     github: "https://github.com/Joseffl/ai_summarizer",
     webapp: "https://bit.ly/3UbxnCV",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics; flow rate, pressure, velocity, and head loss.",
+      "Basic Mathematics",
+      "Units and Conversions",
+      "Knowledge of Calculation tools (Excel)",
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the fundamental principles and techniques used to calculate the required size of a control valve based on given process conditions, including flow rate, pressure drop, and fluid properties.",
+          "Understanding Valve Types and Characteristics: Familiarize with different types of control valves, their operating principles, and key characteristics such as flow characteristics, pressure drops, and noise levels.",
+          "Understanding the Valve Selection Criteria",
+          "Understanding the various codes and standards to perform valve sizing.",
+          "Learning how to perform valve sizing for  incompressible and compressible liquid",
+          "Learning how to perform valve sizing via Aspen Hysys"
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to control valves",
+        "Module 2:  Control valve sizing principles.",
+        "Module 3:  Flow characteristics",
+        "Module 4:  Valve selection and sizing  ",
+        "Module 5:  Sizing valves for incompressible liquid",
+        "Module 6:  Sizing valves for compressible fliud",
+        "Module 7:  Valve Sizing with Aspen Hysys",
+        "Module 8:   Valve Datasheet"
+
+
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom, Face to Face or Virtual",
+    ],
+    cost: "₦100,000 or $80"
   },
   {
     id: 2,
-    title: "Electrical, Electronics, and Control Systems Engineering",
+    title: "Gas Line Sizing",
     date: "Oct 2022 - Present",
     description:
-      "Delve into the principles of electrical and electronics engineering, with a focus on circuit design, power systems, and control systems. This course includes practical applications in renewable energy and telecommunications.",
+      "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
     image:
       "https://i.ibb.co/LzYBb6R/4.png",
     tags: [
-      "15 chapters",
+      'Author: Adeyemi',
     ],
     category: "web app",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+          "Understanding the gas flow velocity and pressure drop importance and calculation",
+          "Surge the typical surge factors.",
+          "Understanding the GPSA engineering data book.",
+          "Understanding the how to determine friction factor through a pipe.",
+          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a gas pipeline ",
+          "Understanding the gas velocity calculation ",
+          "Understanding the general and empirical pressure drop calculation along the pipe",
+          "Understanding the how to perform gas line sizing via codes and standards.",
+          "Understanding the how to perform  gas line sizing via Aspen Hysys"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+        "Module 2: Surge Factor / Fluid Hammer",
+        "Module 3: Introduction to Line Sizing Calculations",
+        "Module 4: GPSA engineering data book.",
+        "Module 5:  Gas Line Sizing Standards and Codes",
+        "Module 6:  Gas Velocity & Pressure drop criterial for  Gas Line Sizing", 
+        "Module 7:   Gas Line Sizing with Excel",
+        "Module 8:   Gas Line Sizing with Aspen Hysys"
+
+
+
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom, Face to Face or Virtual",
+    ],
+    cost: "₦130,000 / $100"
   },
   
+
   {
     id: 3,
-    title: "Aerospace and Automotive Engineering Innovations ",
-    date: "Jun 2023 - Jul 2023",
+    title: "HAZARD AND IDENTIFICATION",
+    date: "Oct 2022 - Present",
     description:
-      "This course covers essential topics in aerospace and automotive engineering, including aerodynamics, propulsion, and vehicle design. Participants will explore innovations in unmanned aerial vehicles (UAVs) and electric vehicles.",
+      "A Hazard Identification (HAZID) course is a comprehensive program designed to equip individuals with the essential knowledge and skills to proactively identify, assess, and manage potential hazards within their workplace or projects. This course is crucial for ensuring workplace safety, regulatory compliance, and minimizing the risk of accidents or incidents.",
     image:
-      "https://i.ibb.co/QmWt0vq/6.png",
-    tags: ["21 chapters"
-  ],
-    category: "android app",
-    github: "https://github.com/Joseffl/react-portfolio1",
-    webapp: "https://bit.ly/3SdepZT",
-  },
-  {
-    id: 4,
-    title: "Robotics and Automation Engineering",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Dive into the world of robotics and automation, exploring robotic systems' design, control, and application across industries. This course covers mechanical, electronic, and software aspects of robotics.",
-    image:
-      "https://i.ibb.co/hLtC1pv/5.png",
+      "https://i.ibb.co/LzYBb6R/4.png",
     tags: [
-      "9 chapters",
+      'Author: Adeyemi',
     ],
     category: "web app",
-    github: "https://github.com/Joseffl/laroy-gym",
-    webapp: "https://laroy-gym.netlify.app/",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Safety Concepts",
+      "Process Understanding",
+      "Team Collaboration Skills",
+      "Technical Skills"
+
+    ],
+    methodology: "Theoretical/Practical",
+    objectives: [
+          "Understanding hazard identification techniques.",
+          "Recognizing potential hazards.",
+          "Evaluating the severity of hazards.",
+          "Prioritizing hazards.",
+          "Developing risk management strategies.",
+          "Understanding regulatory requirements"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to HAZID.",
+        "Module 2:  Hazard Identification Techniques",
+        "Module 3:  Hazard Assessment.",
+        "Module 4:  HAZID Planning",
+        "Module 5:  HAZID Team Roles and Responsibilities.",
+        "Module 6:  HAZID Execution.",
+        "Module 7:  HAZID Methodology",
+        "Module 8:  HAZID Reporting and Documentation.",
+        "Case Studies"
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses", 
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+  {
+    id: 4,
+    title: "Gas Line Sizing",
+    date: "Oct 2022 - Present",
+    description:
+      "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "web app",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+          "Understanding the gas flow velocity and pressure drop importance and calculation",
+          "Surge the typical surge factors.",
+          "Understanding the GPSA engineering data book.",
+          "Understanding the how to determine friction factor through a pipe.",
+          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a gas pipeline ",
+          "Understanding the gas velocity calculation ",
+          "Understanding the general and empirical pressure drop calculation along the pipe",
+          "Understanding the how to perform gas line sizing via codes and standards.",
+          "Understanding the how to perform  gas line sizing via Aspen Hysys"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+        "Module 2: Surge Factor / Fluid Hammer",
+        "Module 3: Introduction to Line Sizing Calculations",
+        "Module 4: GPSA engineering data book.",
+        "Module 5:  Gas Line Sizing Standards and Codes",
+        "Module 6:  Gas Velocity & Pressure drop criterial for  Gas Line Sizing", 
+        "Module 7:   Gas Line Sizing with Excel",
+        "Module 8:   Gas Line Sizing with Aspen Hysys"
+
+
+
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom, Face to Face or Virtual",
+    ],
+    cost: "₦130,000 / $100"
   },
   {
     id: 10,
-    title: "Machine Design and Analysis",
-    date: "Jun 2023 - Jul 2023",
+    title: "Gas Line Sizing",
+    date: "Oct 2022 - Present",
     description:
-      "Machine Design and Analysis is a comprehensive course designed to provide an in-depth understanding of mechanical systems, their components, and design principles. This course covers the essential concepts of machine elements, mechanics, materials, and engineering analysis techniques, equipping students with the skills needed to design, analyze, and optimize mechanical systems.",
+      "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
     image:
-      "https://i.ibb.co/0J8wVrn/7.png",
-    tags: ["8 chapters"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "web app",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+          "Understanding the gas flow velocity and pressure drop importance and calculation",
+          "Surge the typical surge factors.",
+          "Understanding the GPSA engineering data book.",
+          "Understanding the how to determine friction factor through a pipe.",
+          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a gas pipeline ",
+          "Understanding the gas velocity calculation ",
+          "Understanding the general and empirical pressure drop calculation along the pipe",
+          "Understanding the how to perform gas line sizing via codes and standards.",
+          "Understanding the how to perform  gas line sizing via Aspen Hysys"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+        "Module 2: Surge Factor / Fluid Hammer",
+        "Module 3: Introduction to Line Sizing Calculations",
+        "Module 4: GPSA engineering data book.",
+        "Module 5:  Gas Line Sizing Standards and Codes",
+        "Module 6:  Gas Velocity & Pressure drop criterial for  Gas Line Sizing", 
+        "Module 7:   Gas Line Sizing with Excel",
+        "Module 8:   Gas Line Sizing with Aspen Hysys"
+
+
+
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom, Face to Face or Virtual",
+    ],
+    cost: "₦130,000 / $100"
   },
   // {
   //   id: 4,
