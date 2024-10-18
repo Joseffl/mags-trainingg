@@ -158,14 +158,14 @@ const Contact = () => {
   };
 
   return (
-    <Container>
+    <Container id="contact">
       <Wrapper>
         <Title>Contact Us</Title>
         <Desc>For Enquiries</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Send us an email</ContactTitle>
 
-          <ContactLabel htmlFor="first_name">First Name</ContactLabel>
+          <ContactLabel htmlFor="from_name">First Name</ContactLabel>
           <ContactInput id="first_name" name="first_name" required />
 
           <ContactLabel htmlFor="last_name">Last Name</ContactLabel>
@@ -225,7 +225,7 @@ const Contact = () => {
             {/* Add more courses as needed */}
           </ContactSelect>
 
-          <ContactLabel htmlFor="enquiry">Summary of your enquiry</ContactLabel>
+          <ContactLabel htmlFor="message">Summary of your enquiry</ContactLabel>
           <ContactInputMessage id="enquiry" name="enquiry" rows="4" required />
 
           <ContactButton type="submit" value="Send" />

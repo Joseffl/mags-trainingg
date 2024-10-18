@@ -24,13 +24,13 @@ const Navbar = () => {
         </MobileIcon>
         <NavItems>
           <NavLink href="#about">About</NavLink>
-          <NavLink href='#skills'>Projects</NavLink>
-          <NavLink href='#experience'>Services</NavLink>
-          <NavLink href='#projects'>Courses</NavLink>
+          <NavLink href='#projects'>Projects</NavLink>
+          <NavLink href='#services'>Services</NavLink>
+          <NavLink href='#courses'>Courses</NavLink>
           {/* <NavLink href='#education'>Education</NavLink> */}
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href="#" >Contact us</GitHubButton>
+          <GitHubButton href="#contact" >Contact us</GitHubButton>
         </ButtonContainer>
         {
           isOpen &&
@@ -38,19 +38,19 @@ const Navbar = () => {
             <MobileLink href="#about" onClick={() => {
               setIsOpen(!isOpen)
             }}>About</MobileLink>
-            <MobileLink href='#skills' onClick={() => {
+            <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
-            <MobileLink href='#experience' onClick={() => {
+            <MobileLink href='#services' onClick={() => {
               setIsOpen(!isOpen)
             }}>Services</MobileLink>
-            <MobileLink href='#projects' onClick={() => {
+            <MobileLink href='#courses' onClick={() => {
               setIsOpen(!isOpen)
             }}>Courses</MobileLink>
             {/*<MobileLink href='#education' onClick={() => {
               setIsOpen(!isOpen)
             }}>Education</MobileLink>*/}
-            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href="#">Contact Us</GitHubButton>
+            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href="#contact">Contact Us</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>

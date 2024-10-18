@@ -159,7 +159,7 @@ export const projects = [
     description:
       "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      "https://i.ibb.co/SN6MJdG/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover.jpg",
+      "https://i.ibb.co/1nq881V/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover.png",
     tags: ["Author: Adeyemi"
   ],
     duration: "2 Days",
@@ -213,7 +213,7 @@ export const projects = [
     description:
       "A Basic Line Sizing course typically aims to equip students with the fundamental knowledge and skills required to determine the appropriate size of pipes or lines for fluid transportation systems.",
     image:
-      "https://i.ibb.co/vwv6FSg/3.png",
+      "https://i.ibb.co/J3bqqCm/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-2.png",
     tags: ['Author: Adeyemi'],
     category: "machine learning",
     github: "https://github.com/Joseffl/creative-company-website",
@@ -258,7 +258,7 @@ export const projects = [
       "A control valve sizing course aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size of control valves for various industrial applications.",
       "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."],
     image:
-      "https://i.ibb.co/S5X0JYT/2.png",
+      "https://i.ibb.co/rdhKfh1/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-1.png",
     tags: ["Author: Adeyemi"],
     category: "web app",
     github: "https://github.com/Joseffl/ai_summarizer",
@@ -307,7 +307,7 @@ export const projects = [
     description:
       "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      "https://i.ibb.co/FwxyzhK/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-3.png",
     tags: [
       'Author: Adeyemi',
     ],

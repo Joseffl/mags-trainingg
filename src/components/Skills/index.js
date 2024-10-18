@@ -121,7 +121,7 @@ const SkillImage = styled.img`
 
 const Skills = () => {
   return (
-    <Container id="skills">
+    <Container id="projects">
       <Wrapper>
         <Title>Projects</Title>
         <Desc>Here are some of projects we've worked on over the past 20 years.
