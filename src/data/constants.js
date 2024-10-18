@@ -360,7 +360,7 @@ export const projects = [
 
   {
     id: 3,
-    title: "HAZARD AND IDENTIFICATION",
+    title: "HAZARD AND IDENTIFICATION (HAZID)",
     date: "Oct 2022 - Present",
     description:
       "A Hazard Identification (HAZID) course is a comprehensive program designed to equip individuals with the essential knowledge and skills to proactively identify, assess, and manage potential hazards within their workplace or projects. This course is crucial for ensuring workplace safety, regulatory compliance, and minimizing the risk of accidents or incidents.",
@@ -415,10 +415,10 @@ export const projects = [
 
   {
     id: 4,
-    title: "Gas Line Sizing",
+    title: "Hazard and Operability studies (HAZOP)",
     date: "Oct 2022 - Present",
     description:
-      "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
+      "HAZOP is a systematic and structured technique used to identify potential hazards and operational problems in a process or system. It's a widely used method in the process industry, particularly in areas like chemical engineering, pharmaceuticals, and oil and gas. This course aims to equip participants with the knowledge and skills necessary to accurately identify potential hazards and operational problems in a process or system.",
     image:
       "https://i.ibb.co/LzYBb6R/4.png",
     tags: [
@@ -428,53 +428,64 @@ export const projects = [
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
-    duration: "3 Days",
+    duration: "2 Days",
     prerequisite: [
-      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
-      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+      "Basic understanding of process engineering.",
+      "Process flow diagrams (PFDs)",
+      "   Piping and instrumentation diagrams (P&IDs)",
+      "   Plant Layout diagrams",
+      "   Material safety data sheets (MSDS)",
+      "   Provisional operating instructions",
+      "   Heat and material balances",
+      "   Equipment datasheets",
+      "   Start-up and emergency shut-down procedures",
+      "Experience in the process industry.",
+      "Problem-solving and critical thinking.",
+      "Communication and teamwork"
 
 
     ],
-    methodology: "Theoretical",
+    methodology: "Theoretical/Practical",
     objectives: [
-          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
-          "Understanding the gas flow velocity and pressure drop importance and calculation",
-          "Surge the typical surge factors.",
-          "Understanding the GPSA engineering data book.",
-          "Understanding the how to determine friction factor through a pipe.",
-          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a gas pipeline ",
-          "Understanding the gas velocity calculation ",
-          "Understanding the general and empirical pressure drop calculation along the pipe",
-          "Understanding the how to perform gas line sizing via codes and standards.",
-          "Understanding the how to perform  gas line sizing via Aspen Hysys"
+          "Understand the principles and methodology of HAZOP.",
+          "Identify potential hazards and operational problems in a process.",
+          "Develop and implement effective hazard control measures.",
+          "Enhance process safety and reliability.",
+          "Analyze how the HAZOP technique can be applied at the different stages of a project’s lifecycle such as FEED, detailed design, revalidation and decommissioning",
+          "Prepare for a HAZOP workshop, determine the skills and actions necessary to lead a HAZOP and how to generate a HAZOP report"
+
 
                   
     ],
     outline: [
-        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
-        "Module 2: Surge Factor / Fluid Hammer",
-        "Module 3: Introduction to Line Sizing Calculations",
-        "Module 4: GPSA engineering data book.",
-        "Module 5:  Gas Line Sizing Standards and Codes",
-        "Module 6:  Gas Velocity & Pressure drop criterial for  Gas Line Sizing", 
-        "Module 7:   Gas Line Sizing with Excel",
-        "Module 8:   Gas Line Sizing with Aspen Hysys"
+        "Module 1: Introduction to HAZOP",
+        "Module 2: HAZOP Methodology & Procedure",
+        "Phases of Hazop",
+        "Module 3: HAZOP Case Studies",
+        "Module 4: Hazard Identification and Evaluation",
+        "Module 5: Hazard Control Measures",
+        "Module 6: HAZOP Documentation and Follow-up / HAZOP worksheet"
+
 
 
 
     ],
     assessment: "	Online Written Exam  ",
     cdf: [
-      "Classroom, Face to Face or Virtual",
+      "Classroom-based training",
+      "Online courses", 
+      "In-house workshops",
+      "On-the-job training"
+,
     ],
-    cost: "₦130,000 / $100"
+    cost: "₦120,000 / $100"
   },
   {
     id: 10,
-    title: "Gas Line Sizing",
+    title: "Instrumentation & Control Design 1",
     date: "Oct 2022 - Present",
     description:
-      "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
+      "An Instrumentation and Control Design course focuses on the principles and practices of designing systems that monitor and control industrial processes. Participants learn to integrate instrumentation and control strategies to optimize performance and ensure safety in various applications. Participants will acquire a robust understanding of instrumentation and control design, enabling them to create effective control systems that enhance efficiency, safety, and reliability in industrial applications.",
     image:
       "https://i.ibb.co/LzYBb6R/4.png",
     tags: [
@@ -484,46 +495,55 @@ export const projects = [
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
-    duration: "3 Days",
+    duration: "2 Days",
     prerequisite: [
-      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
-      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+      "Core Engineering Concepts Electrical Engineering: Understanding of electrical circuits, components, and principles.",
+      "Control Systems: Knowledge of feedback control systems, transfer functions, and stability analysis.",
+      "Process Control: Familiarity with process control concepts, instrumentation, and loop tuning.",
+      "Signal Processing",
+      "Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams."
 
 
     ],
-    methodology: "Theoretical",
+    methodology: "Theoretical/Practical",
     objectives: [
-          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
-          "Understanding the gas flow velocity and pressure drop importance and calculation",
-          "Surge the typical surge factors.",
-          "Understanding the GPSA engineering data book.",
-          "Understanding the how to determine friction factor through a pipe.",
-          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a gas pipeline ",
-          "Understanding the gas velocity calculation ",
-          "Understanding the general and empirical pressure drop calculation along the pipe",
-          "Understanding the how to perform gas line sizing via codes and standards.",
-          "Understanding the how to perform  gas line sizing via Aspen Hysys"
+          "Understand the fundamentals of instrumentation and control systems.",
+          "Understanding of electrical circuits, components, and principles.",
+          "Knowledge of feedback control systems, transfer functions, and stability analysis.",
+          "Familiarity with process control concepts, instrumentation, and loop tuning.",
+          "Basic understanding of signal processing techniques.",
+          "Knowledge of safety standards and hazard identification in process industries.",
+          "Learn to design and implement control systems for various processes.",
+          "Gain practical skills in selecting and applying different types of sensors and actuators.",
+          "Develop proficiency in using control strategies and software tools."
+
 
                   
     ],
     outline: [
-        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
-        "Module 2: Surge Factor / Fluid Hammer",
-        "Module 3: Introduction to Line Sizing Calculations",
-        "Module 4: GPSA engineering data book.",
-        "Module 5:  Gas Line Sizing Standards and Codes",
-        "Module 6:  Gas Velocity & Pressure drop criterial for  Gas Line Sizing", 
-        "Module 7:   Gas Line Sizing with Excel",
-        "Module 8:   Gas Line Sizing with Aspen Hysys"
+        "Module 1: Introduction to measurements and control concepts Pressure measurement",
+        "Module 2: Types of Sensors and Transducers Understanding various sensors (temperature, pressure, flow, level)",
+        "Module 3: Control Theory Fundamentals",
+        "Module 4: Control System Design",
+        "Module 5: Actuators and Control Elements",
+        "Module 6: System Integration and Communication",
+        "Module 7: Safety and Reliability in Control Systems",
+        "Module 8: Practical Applications and Case Studies",
+        "Module 9: Final Project"
+
 
 
 
     ],
-    assessment: "	Online Written Exam  ",
+    assessment: "	Online Written  Exam / AutoCAD Design Exam   ",
     cdf: [
-      "Classroom, Face to Face or Virtual",
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
     ],
-    cost: "₦130,000 / $100"
+    cost: "₦60,000 / $50"
   },
   // {
   //   id: 4,
