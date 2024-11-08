@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Mags Engineering",
+  name: "Mags Engineering Limited",
   roles: [
     "a Front-End Developer",
     "an Android Developer",
@@ -7,7 +7,7 @@ export const Bio = {
     "a Graphics Designer",
   ],
   description:
-    "is a premier engineering firm specializing in innovative solutions and project management across various industries. We deliver high-quality design and construction services and offer specialized training workshops to equip professionals with the latest skills and knowledge. Whether it's infrastructure development or advanced manufacturing, we turn complex challenges into successful outcomes.",
+    "Mags Engineering is a prominent Engineering, Procurement, and Construction (EPC) company specializing in delivering comprehensive solutions across various sectors, including oil and gas, power, and infrastructure. With a focus on innovation and sustainability, Mags Engineering is known for its expertise in managing complex projects from initial design through to execution and maintenance. The company emphasizes quality, safety, and efficiency, leveraging advanced technologies and skilled professionals to meet client needs and industry standards. Mags engineering is committed to fostering long-term partnerships and contributing to the development of sustainable infrastructure.",
   github: "#",
   resume:
     "https://drive.google.com/file/d/1rqeUcfiz8Ea3m1FecDcAdKzErcmmWkqW/view?usp=sharing",
@@ -18,107 +18,235 @@ export const Bio = {
 
 export const skills = [
   {
-    title: "Mechanical",
-    skills: [],
+    title: "Oil and Gas Projects",
+    name: [
+      "Obodo Flowstation Piping & Instrument Diagram Modification",
+      "CAWC-2 Flowstation Surge Vessel Modification",
+      "FSO YOHO Spools and Bunkertrax Skid Fabrication",
+      "Piping Modification for Coriolis Meter Erha Diesel Oil System",
+      "Piping Modification for Coriolis Meter Etim Diesel Oil System",
+      "EFE Wellheads Hookup & Flowline Construction",
+      "Feasibility study into Critical Review of Current Conversion Facilities and Research Output on Carbon Dioxide Utilization."
+
+
+    ],
   },
   {
-    title: "Civil",
-    skills: [],
+    title: "Oil and Gas Projects",
+    name: [
+      "ATALA HALKIN Piping & Instrument Diagram Design",
+      "Design of Orifice Plate for OGAINGBIR Flow Station",
+      "HAZOP of Production of Nitrobenzene",
+      "HAZOP of Aniline",
+      "Feasibility Studies of 1 MMTPA of Methanol and 2.5MMTPA of Urea Plant",
+      "Simulation of Intercooler Heat Exchanger",
+      "Preliminary design of 1st &2nd stage Intercooler Heat Exchanger"
+
+    ],
   },
   {
-    title: "Electrical",
-    skills: [],
+    title: "Oil and Gas Projects",
+    name: [
+      "Bench study into economic analysis of the method of removing methanol from natural gas.",
+      "Feasibilities studies of correlations for predicting water content in sweet natural gas.",
+      "Development of Bio-surfactant material for wellbore clean-up (Mud filter cake)",
+      "Revamping of Flare system to manage surge drum liquid entrainment.",
+      "Design of a new 16” gas lift header to accommodate increase in production capacity.",
+      "Design of Ammonia receiving import terminal (FEED)."
+
+    ],
   },
   {
-    title: "Structual",
-    skills: [],
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Hydraulic Design of piping system; Liquid/Gas line	",		
+      "Control value sizing",
+      "Hazard & operability study (HAZOP)",
+      "Development of Process flow diagram & Piping & Instrumentation Diagram",
+      "Plant 3D modelling using Autodesk Plant 3D",
+      "Basic Process equipment sizing", 		
+      "Change management procedure" 
+
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Various process design stages; Conceptual, FEED & Detailed.",
+      "Multiple pump & piping design", 
+      "Drafting engineering for Mechanical Engineers",
+      "Drafting engineering for Process Engineers",
+      "Hydraulic Design of Pump system	",		
+      "Pressure relief valve sizing", 	
+      "Plant 3D modelling using Aveva PDMS (Plant Design Management System)"
+
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Rules of thumb for process engineers",
+      "Pump characters & performance evaluation", 
+      "Pump installation detailed procedures ",
+      "Relief valve sizing for pump discharge", 
+      "Principles of pump selection",
+      "Inspection & repair of storage tanks (API 653-650)",
+      "Thermal rating & hydraulic analysis shell & tube heat exchanger "
+
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Guideline for design solution for process equipment failures ",
+      "Process control for engineers", 
+      "Commissioning of oil & gas process plants", 
+      "Process engineering management", 
+      "Hydrogen system code, standards & guidelines", 
+      "Refinery process design",
+      "Instrumentation symbols & identification (ISA – 5.1-1984 (R1992)"
+
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Introduction of oil & gas operation safety", 
+      "Vent Sizing", 
+      "Process controls for operators",
+      "Pipeline strainers",
+      "Guideline for auditing process safety management systems", 
+      "Pumps & pumps piping", 
+      "Process safety" 
+
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Distillation technology & tower simulation",
+      "Standard for the Installation of Stationary Pumps for Fire Protection (NFPA 20)",
+      "Mechanical seal for pump heat exchanger maintenance & repairs",
+      "EPC (engineering procurement & construction) contract", 
+      "Design, types, installation & commissioning of LNG storage & regeneration system", 
+      "Tank design & fundamental operation", 
+      "LPG safety – guideline for good safety procure in the LPG industry" 
+       
+    ],
+  },
+  {
+    title: "Oil and Gas Previous Trainings",
+    name: [
+      "Fabrication, installation & erection procedure for piping", 
+      "A guide to corrosion under installation management", 
+      "Compressor sizing", 
+      "Flare system design", 
+      "LNG regasification terminal for process engineer" 
+
+    ],
   },
 ];
+
+export const subtitles = [
+    {
+      title: 'Integrity',
+      description: 'We conduct business with honesty and transparency and uphold ethical standards in all dealings and decisions.'
+    },
+    {
+      title: 'Safety',
+      description: 'We prioritize the health and safety of employees, clients, and the communities in which we operate.'
+    },
+    {
+      title: 'Excellence',
+      description: 'We strive for the highest quality in all projects and services.'
+    },
+    {
+      title: 'Collaboration',
+      description: 'We foster teamwork and open communication within the company and with clients and partners.'
+    },
+    {
+      title: 'Innovation',
+      description: 'We embrace creativity and cutting-edge technology to deliver forward-thinking engineering solutions.'
+    },
+    {
+      title: 'Customer Focus',
+      description: 'We put clients at the center of everything we do and build strong relationships through responsiveness and understanding their needs.'
+    },
+    {
+      title: 'Accountability',
+      description: 'We take responsibility for our actions and their outcomes and hold ourselves and each other to high standards of performance.'
+    },
+    {
+      title: 'Respect',
+      description: 'We treat everyone with dignity and respect, fostering a positive workplace culture and appreciate the contributions of all team members.'
+    }
+  ];
 
 export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
-    role: "Mechanical Engineering Services",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Design and manufacture custom mechanical systems and components to meet specific client requirements, leveraging cutting-edge technology and advanced manufacturing processes.",
-    skills: [
-      "CAD Modeling & Simulation:",
-      "Prototyping & Testing",
-      "Manufacturing Process Optimization",
+    role: "Mechanical Engineering",
+    // company: "Flipr Inovations Pvt. Ltd.",
+    // date: "Aug 2023 - July 2023",
+    // desc: "Design and manufacture custom mechanical systems and components to meet specific client requirements, leveraging cutting-edge technology and advanced manufacturing processes.",
+    // skills: [
+    //   "CAD Modeling & Simulation:",
+    //   "Prototyping & Testing",
+    //   "Manufacturing Process Optimization",
       
-    ],
+    // ],
    
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFQb9_Lb3bZug/company-logo_200_200/0/1644414857251?e=1693440000&v=beta&t=7WqhIiUCg_0otFDwWn-O_SP-Z4Ftoe4be1WlnjYoESc",
-    role: "Civil and Structural Engineering Services",
-    company: "Neurobit",
-    date: "June 2023 - Present",
-    desc: "Comprehensive structural engineering services, including the design and analysis of buildings, bridges, and infrastructure projects, ensuring safety, stability, and compliance with industry standards.",
-    skills: [
-      "Structural Design and Analysis",
-      "Geotechnical Engineering",
-      "Project Management & Consulting",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    role: "Piping Engineering",  
   },
   {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
-    role: "Electrical and Electronics Engineering Services",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Design and implement electrical systems for residential, commercial, and industrial applications, ensuring energy efficiency and adherence to safety regulations.",
-    skills: [
-      "Power Distribution & Control Systems",
-      "Renewable Energy Solutions",
-      "Instrumentation & Control Engineering",
-    ],
+    id: 0,
+    role: "Plant Drafting & 3D Modelling ",  
   },
   {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ",
-    role: "Chemical and Process Engineering Services ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Provide process engineering services for chemical, petrochemical, and pharmaceutical industries, focusing on efficiency, safety, and environmental compliance.",
-    skills: [
-      "Process Engineering & Design",
-      "Safety and Compliance",
-      "Environmental Engineering Solutions",
-    ],
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+    id: 0,
+    role: "Process Engineering",  
   },
   {
-    id: 3,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4",
-    role: "Software and Systems Engineering Services",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "Develop software and systems for embedded applications and IoT, integrating hardware and software to create smart, connected products.",
-    skills: [
-      "Embedded Software Development",
-      "Internet of Things (IoT) Applications",
-      "Systems Integration & Testing",
-    ],
+    id: 0,
+    role: "Feasibilities Studies",  
   },
   {
-    id: 4,
-    img: "https://media.licdn.com/dms/image/C4D0BAQH4od9HG2K7bw/company-logo_100_100/0/1661484397513?e=1692230400&v=beta&t=IW-eebE0PpFxqZ8Q3UCYYtlAokbhAEqsNePBv2Pmg18",
-    role: "Aerospace and Defense Engineering Services",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "Provide comprehensive engineering solutions for the aerospace and defense sectors, including aircraft design, systems integration, and compliance with regulatory standards.",
-    skills: [
-      "Aerodynamics & Flight Mechanics",
-      "Avionics and systems integrations",
-      "Materials & Structural Engineering",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+    id: 0,
+    role: "Front End Engineering Design (FEED)",  
   },
+  {
+    id: 0,
+    role: "Detailed Engineering Design",  
+  },
+  {
+    id: 0,
+    role: "HAZOP/HAZID Study",  
+  },
+  {
+    id: 0,
+    role: "Project Management Consultancy",  
+  },
+  {
+    id: 0,
+    role: "Procurement & Construction",  
+  },
+  {
+    id: 0,
+    role: "Pre-Commissioning & Commissioning",  
+  },
+  {
+    id: 0,
+    role: "Research & Development",  
+  },
+  {
+    id: 0,
+    role: "Training",  
+  },
+  
 ];
 
 export const education = [
