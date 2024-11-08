@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Services</Title>
                 <Desc>
-                    Here are some of the services we offer at Mags Engineering.
+                    Here are some of the services we offer at Mags Engineering Limited.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
