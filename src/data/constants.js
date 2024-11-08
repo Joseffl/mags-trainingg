@@ -1,11 +1,5 @@
 export const Bio = {
   name: "Mags Engineering Limited",
-  roles: [
-    "a Front-End Developer",
-    "an Android Developer",
-    //"UI/UX Designer",
-    "a Graphics Designer",
-  ],
   description:
     "Mags Engineering is a prominent Engineering, Procurement, and Construction (EPC) company specializing in delivering comprehensive solutions across various sectors, including oil and gas, power, and infrastructure. With a focus on innovation and sustainability, Mags Engineering is known for its expertise in managing complex projects from initial design through to execution and maintenance. The company emphasizes quality, safety, and efficiency, leveraging advanced technologies and skilled professionals to meet client needs and industry standards. Mags engineering is committed to fostering long-term partnerships and contributing to the development of sustainable infrastructure.",
   github: "#",
