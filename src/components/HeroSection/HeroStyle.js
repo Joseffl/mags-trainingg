@@ -3,7 +3,7 @@ import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.bgLight}; /* Use light blue from theme */
-  display: flex;
+  display: grid;
   justify-content: center;
   position: relative;
   padding: 80px 30px;
@@ -17,7 +17,7 @@ export const HeroContainer = styled.div`
   }
 
   /* Updated clip-path for a more dynamic shape */
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 80% 95%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 85% 100%, 0 100%);
 `;
 
 export const HeroBg = styled.div`
@@ -123,7 +123,7 @@ export const Img = styled.img`
 
 export const Title = styled.div`
   font-weight: 700;
-  font-size: 50px;
+  font-size: 40px;
   color: ${({ theme }) => theme.text_primary};
   line-height: 68px;
   @media (max-width: 960px) {
@@ -131,7 +131,7 @@ export const Title = styled.div`
   }
 
   @media (max-width: 640px) {
-    font-size: 40px;
+    font-size: 45px;
     line-height: 48px;
     margin-bottom: 8px;
   }
@@ -160,7 +160,7 @@ export const Span = styled.span`
 `;
 
 export const SubTitle = styled.div`
-  font-size: 20px;
+  font-size: 18px;
   line-height: 32px;
   margin-bottom: 42px;
   color: ${({ theme }) => theme.text_primary + 95};
@@ -174,6 +174,28 @@ export const SubTitle = styled.div`
     line-height: 32px;
   }
 `;
+
+export const SubTitleContainer = styled.div`
+  width: 100%; /* Make the container take full width */
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack items vertically */
+  padding: 20px; /* Optional: Add some padding */
+  box-sizing: border-box; /* Ensure padding is included in width */
+`;
+
+export const SubtitleItem = styled.div`
+  margin-bottom: 16px; /* Space between items */
+`;
+
+export const SubtitleTitle = styled.h3`
+  margin: 0; /* Remove default margin */
+  font-weight: bold; /* Make the title bold */
+`;
+
+export const SubtitleDescription = styled.p`
+  margin: 0; /* Remove default margin */
+`;
+
 
 export const ResumeButton = styled.a`
   -webkit-appearance: button;
