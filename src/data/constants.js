@@ -291,7 +291,7 @@ export const projects = [
       "A basic understanding of commissioning and start-up principles and procedures."
     ],
     methodology: "Theoretical/Practical",
-    category: "android app",
+    category: "commissioning",
     github: "https://github.com/Joseffl/laroyexchange",
     webapp: "https://bit.ly/3u1sbXt",
     objectives: [
@@ -337,7 +337,7 @@ export const projects = [
     image:
       "https://i.ibb.co/J3bqqCm/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-2.png",
     tags: ['Author: Adeyemi'],
-    category: "machine learning",
+    category: "process",
     github: "https://github.com/Joseffl/creative-company-website",
     webapp: "https://ccdesignwebs.netlify.app",
 
@@ -374,7 +374,7 @@ export const projects = [
   
   {
     id: 1,
-    title: "Control Sizing",
+    title: "Control Valve Sizing",
     date: "Aug 2023 - Sep 2023",
     description: [
       "A control valve sizing course aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size of control valves for various industrial applications.",
@@ -382,7 +382,7 @@ export const projects = [
     image:
       "https://i.ibb.co/rdhKfh1/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-1.png",
     tags: ["Author: Adeyemi"],
-    category: "web app",
+    category: "process",
     github: "https://github.com/Joseffl/ai_summarizer",
     webapp: "https://bit.ly/3UbxnCV",
 
@@ -424,7 +424,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Gas Line Sizing",
+    title: "process",
     date: "Oct 2022 - Present",
     description:
       "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
@@ -491,7 +491,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "web app",
+    category: "hazop hazid",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -546,7 +546,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "web app",
+    category: "hazop hazid",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -613,7 +613,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "web app",
+    category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -667,71 +667,229 @@ export const projects = [
     ],
     cost: "₦60,000 / $50"
   },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
-  // {
-  //   id: 5,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
-  // {
-  //   id: 6,
-  //   title: "Breaking Bad",
-  //   date: "Jun 2021",
-  //   description:
-  //     "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-  //   image:
-  //     "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-  //   tags: ["React Js", "API", "Axios", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Breaking-Bad",
-  //   webapp: "https://breaking-bad-webapp.netlify.app",
-  // },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
-  // {
-  //   id: 8,
-  //   title: "Face Recognition",
-  //   date: "Jan 2021",
-  //   description:
-  //     "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  // },
+  {
+    id: 10,
+    title: "Change Management Procedure",
+    date: "Oct 2022 - Present",
+    description:
+      "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector. This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Background of EPC (Engineering, Procurement, and Construction) projects"
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the concept of change and change management.",
+          "Understand key roles in the change management process.",
+          "Determine the phases of change management.",
+          "Learn to formulate an effective plan for the change process.",
+          "Deeply understand the reasons for resistance to change.",
+          "Find out about effective methods of preventing and eliminating resistance to change.",
+          "Gain the ability to design fruitful communication related to the change process.",
+          "Learn techniques for effective implementation of change.",
+          "Develop skills associated with controlling the change process.",
+          "Build proficiency in shaping a change-oriented organizational culture."
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Scope",
+        "Module 3:  Procedure",
+        "Module 4:  Authorization",
+        "Module 5:  Cost of Trend Preparation ",
+        "Module 6:  Cost Effects",
+        "Module 7:  Schedule Effects",
+        "Module 8:  Trend meetings",
+        "Module 9:  Contract Amendments ",
+        "Module 10: Final Settlement",
+        "Module 11: Document Update",
+        "Module 12: Roles and Responsibilities",
+        "Module 13: Tools and Techniques",
+        "Module 14: Communication Plan",
+        "Module 15: Monitoring and Continuous Improvement",
+        "Module 16: Case Studies"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦80,000 / $60"
+  },
+  {
+    id: 10,
+    title: "Plant Layout & Spacing (GE GAP Guidelines)",
+    date: "Oct 2022 - Present",
+    description:
+    [
+      "A plant layout course typically covers the design and arrangement of facilities, equipment, and resources in a manufacturing or service environment.",
+      "Plant layouts have a major influence on the operation of a plant. An improper layout design can lead to hazardous situations, impractical maintenance or reduced plant efficiency. These can have a significant financial impact for the owner of the plant. So understanding the various considerations that come with determining a plant layout is important for designing a proper layout.",
+      "In this course different considerations are discussed for different levels of layout design and applications. This will increase your understanding of what has to be taken into account when positioning your equipment’s during designing the plant layout. Topics include safety, proximity, maintenance, constructability, practicality and economic considerations. After this course participants will have the knowledge to design a basic plant layout.",
+      "The following codes and standard are referred; API 500, API 2510, API RP 752, NFPA 30, NFPA 50A, NFPA 58, NFPA 59."
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Affinity with industrial plants"
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Knowledge of process industry plants",
+          "Understand the overview of the plant layout considerations",
+          "Identify the potential hazards on a plant and incorporate them in your layout design",
+          "Knowledge of GE GAP Guidelines and Industrial Risk Insurers (IRI) requirements",
+          "Understand the spacing’s for various unit operations and equipment’s as per codes and standards & manufacturer recommendation.",
+          "Perform an inter unit operations/equipment’s spacing for oil and gas plants",
+          "Perform an intra unit operations/equipment’s spacing for oil and gas plants",
+          "Perform storage tank spacing for oil and gas plants"
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to process industry plants",
+        "Module 2:  Identify different types of industrial plants.",
+        "Module 3:  GE GAP Guidelines",
+        "Module 4:  Industrial Risk Insurers (IRI) requirements",
+        "Module 5:  Layout Consideration ",
+        "Module 6:  Plant Spacing",
+        "Module 7:  Process Equipment Spacing",
+        "Module 8:  Specific Facilities",
+        "Module 9:  Building siting in process plants", 
+        "Module 10: Process Units to Offplot Facility Spacing",
+        "Module 11: Case Studies and Applications"
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦120,000 / $100"
+  },
+  {
+    id: 10,
+    title: "Installation of Stationary Pumps for Fire Protection",
+    date: "Oct 2022 - Present",
+    description:
+    [
+      "The installation of stationary pumps for fire protection is a critical aspect of ensuring that a facility or structure is adequately protected in the event of a fire. These pumps are designed to provide a reliable and sufficient supply of water to fire suppression systems such as sprinklers, hydrants, and other fire protection equipment.",
+
+      "The scope of this training shall include liquid supplies; suction, discharge, and auxiliary equipment; power supplies, including power supply arrangements; electric drive and control; diesel engine drive and control; steam turbine drive and control; and acceptance tests and operation.", 
+      "Standards and regulations (NFPA 20,  NFPA 13,  NFPA 22,  NFPA 24,  NFPA 25,  NFPA 37,  NFPA 51B,  NFPA 70,  NFPA 70E,  NFPA 72,  NFPA 110, etc.)",
+
+      "This course equips participants with solid understanding of the principles and practices for installing and maintaining stationary fire protection pumps, ensuring reliable and compliant systems that meet both safety standards and operational requirements."
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Understanding of Fire Protection Systems",
+      "Basic Knowledge of Hydraulics and Fluid Mechanics",
+      "Familiarity with Plumbing and Piping Systems",
+      "Basic Knowledge of Pumping Equipment",
+      "Course Recommendations:  ",
+      "If participants lack some of the prerequisite knowledge, they may benefit from taking introductory courses in the following areas: ",
+      "Basic Fire Protection Systems (e.g., Sprinklers, Hydrants)",
+      "Pump Technology and Operations (Introduction to pumps and fluid mechanics)",
+      "NFPA Standards Overview"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the role of fire protection systems and the importance of pumps in these systems.", 
+          "Familiarize participants with the different types of fire protection pumps. ",
+          "Learn about the key design principles and considerations when installing fire protection pumps",
+          "Step-by-step process for the actual installation of fire protection pumps.",
+          "Equip participants with the skills to maintain and troubleshoot fire protection pumps to ensure long-term reliability.",
+          "Understand the testing and commissioning procedures to ensure that the pump system is functioning correctly.",
+          "Learn about the necessary documentation and compliance requirements for fire protection pump systems.",
+          "Review real-world examples and best practices for fire protection pump installation."
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  General Requirements.",
+        "Module 3:  Types of Fire Protection Pumps",
+        "Module 4:  Applications of the types of Fire Protection Pumps",
+        "Module 5:  Design Considerations for Fire Protection Pump Installation",
+        "Module 6:  Pump Installation Procedures",
+        "Module 7:  Acceptance testing, performance and Maintenance",
+        "Module 8:  Fire Protection Pump System Documentation and Compliance",
+        "Module 9:  Case Studies"
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦120,000 / $100"
+  },
+  
 ];
 
 export const TimeLineData = [
