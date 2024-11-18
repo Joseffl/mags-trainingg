@@ -65,14 +65,14 @@ const Card = styled.div`
 
     }
 
-    border: 0.1px solid #306EE8;
+    // border: 0.1px solid #28ac30;
     box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
 `
 
 const Top = styled.div`
     width: 100%;
     display: flex;
-    gap: 12px
+    // gap: 12px
 `
 
 const Image = styled.img`
@@ -154,7 +154,7 @@ const ExperienceCard = ({ experience }) => {
                     <br />
                 </Body>
             </Top>
-            <Description>
+            {/* <Description>
                 {experience?.desc &&
                     <Span>{experience?.desc}</Span>
 
@@ -177,7 +177,7 @@ const ExperienceCard = ({ experience }) => {
                 <a href={experience.doc} target="new">
                     
                 </a>
-            }
+            } */}
         </Card>
     )
 }
