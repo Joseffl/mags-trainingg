@@ -8,11 +8,11 @@ import { projects } from '../../data/constants'
 const Projects = ({openModal,setOpenModal}) => {
   const [toggle, setToggle] = useState('all');
   return (
-    <Container id="courses">
+    <Container id="training">
       <Wrapper>
-        <Title>Courses</Title>
+        <Title>Trainings</Title>
         <Desc>
-          Here are some of the courses we offer at Mags Engineering
+          Here are some of the trainings we offer at Mags Engineering
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,22 +21,46 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>MACHINE OPERATIONS</ToggleButton>
+          {toggle === 'mechanical' ?
+            <ToggleButton active value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>MACHINE OPERATIONS</ToggleButton>
+            <ToggleButton value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>BUILDING</ToggleButton>
+          {toggle === 'process' ?
+            <ToggleButton active value="process" onClick={() => setToggle('process')}>Process</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>BUILDING</ToggleButton>
+            <ToggleButton value="process" onClick={() => setToggle('process')}>Process</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>FIELD OPERATIONS</ToggleButton>
+          {toggle === 'hazop hazid' ?
+            <ToggleButton active value="hazop hazid" onClick={() => setToggle('hazop hazid')}>HAZOP/HAZID Study</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>FIELD OPERATIONS</ToggleButton>
+            <ToggleButton value="hazop hazid" onClick={() => setToggle('hazop hazid')}>HAZOP/HAZID Study</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'project management' ?
+            <ToggleButton active value="project management" onClick={() => setToggle('project management')}>Project Management Consultancy</ToggleButton>
+            :
+            <ToggleButton value="project management" onClick={() => setToggle('project management')}>Project Management Consultancy</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'procurement construction' ?
+            <ToggleButton active value="procurement construction" onClick={() => setToggle('procurement construction')}>Procurement & Construction</ToggleButton>
+            :
+            <ToggleButton value="procurement construction" onClick={() => setToggle('procurement construction')}>Procurement & Construction</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'commissioning' ?
+            <ToggleButton active value="commissioning" onClick={() => setToggle('commissioning')}>Precommissioning & Commissioning</ToggleButton>
+            :
+            <ToggleButton value="commissioning" onClick={() => setToggle('commissioning')}>Precommissioning & Commissioning</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'plant drafting' ?
+            <ToggleButton active value="plant drafting" onClick={() => setToggle('plant drafting')}>Plant Drafting & 3D Modelling</ToggleButton>
+            :
+            <ToggleButton value="plant drafting" onClick={() => setToggle('plant drafting')}>Plant Drafting & 3D Modelling</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
