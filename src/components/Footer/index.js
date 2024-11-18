@@ -9,9 +9,9 @@ const FooterContainer = styled.div`
   padding: 2rem 0;
   display: flex;
   justify-content: center;
-  //background: linear-gradient(100.26deg, rgba(0, 102, 255, 0.05) 42.33%, rgba(150, 0, 225, 0.05) 127.07%);
+  background: linear-gradient(135deg, #28ac30 0%, #0c7c20 100%);
+  box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2); /* Adds depth */
 `;
-
 
 const FooterWrapper = styled.footer`
   width: 100%;
@@ -20,81 +20,47 @@ const FooterWrapper = styled.footer`
   flex-direction: column;
   gap: 14px;
   align-items: center;
-  padding: 1rem;
-  color: ${({ theme }) => theme.text_primary};
+  padding: 1.5rem;
+  color: #ffffff; /* Use white for contrast on green */
 `;
 
 const Logo = styled.h1`
   font-weight: 600;
-  font-size: 20px;
-  color: ${({ theme }) => theme.primary};
-`;
-
-const Nav = styled.nav`
-  width: 100%;
-  max-width: 800px;
-  margin-top: 0.5rem;
-  display: flex;
-  flex-direction: row;
-  gap: 2rem;
-  justify-content: center;
-  @media (max-width: 768px) {
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
-    text-align: center;
-    font-size: 12px;
-  }
-`;
-
-const NavLink = styled.a`
-color: ${({ theme }) => theme.text_primary};
-  text-decoration: none;
-  font-size: 1.2rem;
-  transition: color 0.2s ease-in-out;
-  &:hover {
-    color: ${({ theme }) => theme.primary};
-  }
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
+  font-size: 24px;
+  color: #ffffff;
+  text-transform: uppercase; /* Adds a professional touch */
 `;
 
 const SocialMediaIcons = styled.div`
   display: flex;
+  gap: 1.5rem;
   margin-top: 1rem;
 `;
 
 const SocialMediaIcon = styled.a`
-  display: inline-block;
-  margin: 0 1rem;
-  font-size: 1.5rem;
-  color: ${({ theme }) => theme.text_primary};
-  transition: color 0.2s ease-in-out;
+  font-size: 1.8rem;
+  color: #ffffff;
+  transition: transform 0.3s ease, color 0.3s ease;
   &:hover {
-    color: ${({ theme }) => theme.primary};
+    transform: scale(1.2);
+    color: #d4ffd8; /* Light green for hover */
   }
 `;
 
 const Copyright = styled.p`
   margin-top: 1.5rem;
   font-size: 0.9rem;
-  color: ${({ theme }) => theme.soft2};
+  color: #d1f3d1;
   text-align: center;
 `;
+
 
 function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>MAGS ENGINEERING</Logo>
-        <Nav>
-          {/* <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink> */}
-    {/*<NavLink href="#experience">Experience</NavLink>*/}
-          {/* <NavLink href="#projects">Projects</NavLink> */}
-          {/* <NavLink href="#education">Education</NavLink> */}
-        </Nav>
+        <Logo>MAGS ENGINEERING LIMITED</Logo>
+        
         <SocialMediaIcons>
           <SocialMediaIcon href="#" target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon>
