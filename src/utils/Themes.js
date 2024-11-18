@@ -12,14 +12,14 @@ export const darkTheme = {
   };
 
   export const lightTheme = {
-    bg: "#F0F8FF",
-    bgLight: "hsla(200, 100%, 95%, 1)", // Light Blue Background
-    primary: "hsla(210, 100%, 50%, 1)", // Sky Blue
-    text_primary: "#2E3A45",
-    text_secondary: "#5A6775",
-    card: "#FFFFFF",
-    button: "#4682B4",
+    bg: "#FCFDFE", // Very light off-white for main background
+    bgLight: "#F2F4F5", // Slightly darker off-white for contrast
+    primary: "#03970c", // Calming green for primary elements
+    text_primary: "#060606", // Darker slate blue for text
+    text_tertiary: "#F2F3F4",
+    text_secondary: "#060606", // Softer slate gray for secondary text
+    card: "#FFFFFF", // Pure white for cards
+    button: "#5DBB9D", // Bright green for button emphasis
     white: "#FFFFFF",
     black: "#000000",
-  };
-  
+};
