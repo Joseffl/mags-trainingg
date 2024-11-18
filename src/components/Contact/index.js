@@ -7,236 +7,193 @@ import 'react-phone-input-2/lib/style.css';
 
 const Container = styled.div`
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  z-index: 1;
   align-items: center;
-  @media (max-width: 960px) {
-    padding: 0px;
-  }
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0fdf4 0%, #e6f9ef 100%);
+  position: relative;
+  padding: 50px;
+  overflow: hidden;
+`;
+
+const BackgroundShapes = styled.div`
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  background: url('/path-to-your-blobs-or-pattern.svg') no-repeat center/cover;
+  opacity: 0.1;
 `;
 
 const Wrapper = styled.div`
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-direction: column;
+  z-index: 1;
   width: 100%;
-  max-width: 1350px;
-  padding: 0px 0px 80px 0px;
-  gap: 12px;
-  @media (max-width: 960px) {
-    flex-direction: column;
-  }
+  max-width: 700px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 15px 30px rgba(0, 128, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 `;
 
-const Title = styled.div`
+const Title = styled.h1`
   font-size: 42px;
+  font-weight: 700;
   text-align: center;
-  font-weight: 600;
-  margin-top: 20px;
-  color: ${({ theme }) => theme.text_primary};
+  color: #28ac30;
+  background: linear-gradient(90deg, #28ac30, #85d67f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15);
+
   @media (max-width: 768px) {
-    margin-top: 12px;
-    font-size: 32px;
+    font-size: 36px;
   }
 `;
 
-const Desc = styled.div`
+const Desc = styled.p`
   font-size: 18px;
   text-align: center;
-  max-width: 600px;
-  color: ${({ theme }) => theme.text_secondary};
-  @media (max-width: 768px) {
-    margin-top: 12px;
-    font-size: 16px;
-  }
+  color: #666;
+  margin-bottom: 20px;
 `;
 
 const ContactForm = styled.form`
-  width: 95%;
-  max-width: 600px;
   display: flex;
   flex-direction: column;
-  background-color: ${({ theme }) => theme.card};
-  padding: 32px;
-  border-radius: 16px;
-  box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
-  margin-top: 28px;
-  gap: 12px;
+  gap: 20px;
 `;
 
-const ContactTitle = styled.div`
-  font-size: 24px;
-  margin-bottom: 6px;
-  font-weight: 600;
-  color: ${({ theme }) => theme.text_primary};
-`;
-
-const ContactLabel = styled.label`
-  font-size: 16px;
-  font-weight: 500;
-  color: ${({ theme }) => theme.text_primary};
-  margin-bottom: 4px;
-`;
-
-const ContactInput = styled.input`
-  flex: 1;
-  background-color: transparent;
-  border: 1px solid ${({ theme }) => theme.text_secondary};
-  outline: none;
-  font-size: 18px;
-  color: ${({ theme }) => theme.text_primary};
-  border-radius: 12px;
-  padding: 12px 16px;
-  &:focus {
-    border: 1px solid ${({ theme }) => theme.primary};
-  }
-`;
-
-const ContactSelect = styled.select`
-  flex: 1;
-  background-color: transparent;
-  border: 1px solid ${({ theme }) => theme.text_secondary};
-  outline: none;
-  font-size: 18px;
-  color: black;  /* Text color for better visibility */
-  background-color: white;  /* Background color */
-  border-radius: 12px;
-  padding: 12px 16px;
-  appearance: none;
-  &:focus {
-    border: 1px solid ${({ theme }) => theme.primary};
-  }
-`;
-
-const ContactInputMessage = styled.textarea`
-  flex: 1;
-  background-color: transparent;
-  border: 1px solid ${({ theme }) => theme.text_secondary};
-  outline: none;
-  font-size: 18px;
-  color: ${({ theme }) => theme.text_primary};
-  border-radius: 12px;
-  padding: 12px 16px;
-  &:focus {
-    border: 1px solid ${({ theme }) => theme.primary};
-  }
-`;
-
-const ContactButton = styled.input`
+const Input = styled.input`
   width: 100%;
-  text-decoration: none;
-  text-align: center;
-  background: hsla(271, 100%, 50%, 1);
-  background: linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-  padding: 13px 16px;
-  margin-top: 2px;
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
   border-radius: 12px;
-  border: none;
-  color: ${({ theme }) => theme.text_primary};
-  font-size: 18px;
+  background: #f8f8f8;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+
+  &:focus {
+    border-color: #0a8650;
+    box-shadow: 0 0 10px rgba(10, 134, 80, 0.2);
+    outline: none;
+    background: white;
+  }
+`;
+
+const StyledPhoneInput = styled(PhoneInput)`
+  .react-tel-input {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background: #f8f8f8;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+
+    &.focused {
+      border-color: #0a8650;
+      box-shadow: 0 0 10px rgba(10, 134, 80, 0.2);
+      outline: none;
+      background: white;
+    }
+
+    input {
+      border: none;
+      outline: none;
+      background: transparent;
+      width: calc(100% - 30px); /* Adjust for the flag icon */
+    }
+
+    .flag-dropdown {
+      border: none;
+      background: transparent;
+    }
+  }
+`;
+
+const Textarea = styled.textarea`
+  width: 100%;
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background: #f8f8f8;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+
+  &:focus {
+    border-color: #0a8650;
+    box-shadow: 0 0 10px rgba(10, 134, 80, 0.2);
+    outline: none;
+    background: white;
+  }
+`;
+
+const SubmitButton = styled.button`
+  padding: 15px;
+  font-size: 16px;
   font-weight: 600;
+  color: white;
+  background: linear-gradient(90deg, #0a8650, #32cd32);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.3s;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(50, 205, 50, 0.3);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
 `;
 
 const Contact = () => {
+  const formRef = useRef();
   const [open, setOpen] = useState(false);
-  const [phone, setPhone] = useState('');
-  const form = useRef();
+  const [phone, setPhone] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_txl95xo', 'template_q6iinar', form.current, 'hWAiFxCtIcUV1ChT2')
-      .then((result) => {
+    emailjs
+      .sendForm('service_txl95xo', 'template_q6iinar', formRef.current, 'hWAiFxCtIcUV1ChT2')
+      .then(() => {
         setOpen(true);
-        form.current.reset();
-      }, (error) => {
-        console.log(error.text);
-      });
+        formRef.current.reset();
+        setPhone(""); // Reset phone input
+      })
+      .catch((err) => console.error(err));
   };
 
   return (
     <Container id="contact">
+      <BackgroundShapes />
       <Wrapper>
         <Title>Contact Us</Title>
-        <Desc>For Enquiries</Desc>
-        <ContactForm ref={form} onSubmit={handleSubmit}>
-          <ContactTitle>Send us an email</ContactTitle>
-
-          <ContactLabel htmlFor="from_name">First Name</ContactLabel>
-          <ContactInput id="first_name" name="first_name" required />
-
-          <ContactLabel htmlFor="last_name">Last Name</ContactLabel>
-          <ContactInput id="last_name" name="last_name" required />
-
-          <ContactLabel htmlFor="company">Company</ContactLabel>
-          <ContactInput id="company" name="company" required />
-
-          <ContactLabel htmlFor="work_email">Work Email</ContactLabel>
-          <ContactInput id="work_email" name="work_email" type="email" required />
-          
-          <ContactLabel htmlFor="phone">Phone number</ContactLabel>
-          <ContactInput id="phone" name="phone" required />
-
-          {/* <ContactLabel htmlFor="phone">Phone Number (with country code)</ContactLabel>
-          <PhoneInput
-            country={'us'}
+        <Desc>Have any questions or feedback? We’re here to help!</Desc>
+        <ContactForm ref={formRef} onSubmit={handleSubmit}>
+          <Input type="text" name="first_name" placeholder="First Name" required />
+          <Input type="text" name="last_name" placeholder="Last Name" required />
+          <Input type="email" name="email" placeholder="Email" required />
+          <StyledPhoneInput
+            country="ng"
             value={phone}
-            onChange={(phone) => setPhone(phone)}
-            inputStyle={{
-              width: '100%',
-              fontSize: '18px',
-              borderRadius: '12px',
-              padding: '12px',
-              border: '1px solid #aaa',
-              backgroundColor: 'transparent',
-              color: '#000',
+            onChange={(value) => setPhone(value)}
+            inputProps={{
+              name: "phone",
+              required: true,
             }}
-            dropdownStyle={{
-              color: '#000',
-            }}
-            required
-          /> */}
-
-          <ContactLabel htmlFor="region">Region</ContactLabel>
-          <ContactSelect id="region" name="region" required>
-            <option value="">Select Region</option>
-            <option value="North America">North America</option>
-            <option value="Asia Pacific">Asia Pacific</option>
-            <option value="UK/Europe">UK/Europe</option>
-            <option value="Middle East">Middle East</option>
-            <option value="Africa">Africa</option>
-            <option value="Others">Others</option>
-          </ContactSelect>
-
-          <ContactLabel htmlFor="courses">Which course are you interested in?</ContactLabel>
-          <ContactSelect id="courses" name="courses" required>
-            <option value="">Select a course</option>
-            <option value="Commissioning and Start-up">Commissioning and Start-up</option>
-            <option value="Control Sizing">Control Sizing</option>
-            <option value="HAZID">HAZID</option>
-            <option value="HAZOP">HAZOP</option>
-            <option value="I & CD1">I & CD 1</option>
-            <option value="I & CD2">I & CD 2</option>
-            <option value="Basic Line Sizing">Basic Line Sizing</option>
-            <option value="Gas Line Sizing">Gas Line Sizing</option>
-            {/* Add more courses as needed */}
-          </ContactSelect>
-
-          <ContactLabel htmlFor="message">Summary of your enquiry</ContactLabel>
-          <ContactInputMessage id="enquiry" name="enquiry" rows="4" required />
-
-          <ContactButton type="submit" value="Send" />
+          />
+          <Textarea name="message" rows="5" placeholder="Your Message" required />
+          <SubmitButton type="submit">Submit</SubmitButton>
         </ContactForm>
-
-        <Snackbar
-          open={open}
-          autoHideDuration={6000}
-          onClose={() => setOpen(false)}
-          message="Email sent successfully!"
-        />
+        <Snackbar open={open} autoHideDuration={6000} onClose={() => setOpen(false)} message="Message sent successfully!" />
       </Wrapper>
     </Container>
   );
