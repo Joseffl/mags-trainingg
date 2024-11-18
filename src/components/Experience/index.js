@@ -1,6 +1,5 @@
-
-import React from 'react'
-import styled from 'styled-components'
+import React from 'react';
+import styled from 'styled-components';
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem from '@mui/lab/TimelineItem';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
@@ -11,96 +10,150 @@ import ExperienceCard from '../Cards/ExperienceCard';
 import { experiences } from '../../data/constants';
 
 const Container = styled.div`
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    position: relative;
-    z-index: 1;
-    align-items: center;
-    padding: 40px 0px 80px 0px;
-    @media (max-width: 960px) {
-        padding: 0px;
-    }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px 80px 20px;
+  background: linear-gradient(135deg, #ffffff, #f4fcf4); /* Subtle green tint on white */
 `;
 
 const Wrapper = styled.div`
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    width: 100%;
-    max-width: 1350px;
-    padding: 80px 0;
-    gap: 12px;
-    @media (max-width: 960px) {
-        flex-direction: column;
-    }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1350px;
+  width: 100%;
+  padding: 40px 20px;
+  gap: 24px;
 `;
 
-const Title = styled.div`
-font-size: 42px;
-text-align: center;
-font-weight: 600;
-margin-top: 20px;
-  color: ${({ theme }) => theme.text_primary};
+const Title = styled.h1`
+  font-size: 42px;
+  font-weight: 700;
+  text-align: center;
+  color: #28ac30; /* Primary green color */
+  background: linear-gradient(90deg, #28ac30, #85d67f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15);
+
   @media (max-width: 768px) {
-      margin-top: 12px;
-      font-size: 32px;
+    font-size: 36px;
   }
 `;
 
-const Desc = styled.div`
+const Desc = styled.p`
+  font-size: 20px;
+  text-align: center;
+  color: #333333;
+  max-width: 600px;
+  margin-bottom: 20px;
+
+  @media (max-width: 768px) {
     font-size: 18px;
-    text-align: center;
-    max-width: 600px;
-    color: ${({ theme }) => theme.text_secondary};
-    @media (max-width: 768px) {
-        margin-top: 12px;
-        font-size: 16px;
-    }
+  }
 `;
 
 const TimelineSection = styled.div`
-    width: 100%;
-    max-width: 1000px;
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+
+  & .MuiTimelineItem-root {
+    animation: fadeInUp 0.8s ease-in-out;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
 `;
 
+const StyledTimelineDot = styled(TimelineDot)`
+  background: linear-gradient(135deg, #28ac30, #85d67f); /* Gradient green */
+  border: 3px solid #ffffff;
+`;
 
+const StyledTimelineConnector = styled(TimelineConnector)`
+  background: #28ac30; /* Solid green for connection lines */
+`;
+
+const StyledExperienceCard = styled.div`
+  background: #ffffff; /* White background for each box */
+  border: 0.5px solid #28ac30; /* Green border for the boxes */
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(40, 172, 48, 0.2);
+  }
+`;
+
+const ExploreButton = styled.a`
+  display: inline-block;
+  padding: 12px 24px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(90deg, #28ac30, #85d67f);
+  border: none;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(40, 172, 48, 0.3);
+  transition: all 0.3s ease;
+
+  &:hover {
+    background: linear-gradient(90deg, #85d67f, #28ac30);
+    box-shadow: 0 6px 12px rgba(40, 172, 48, 0.4);
+    transform: translateY(-2px);
+  }
+`;
 
 const index = () => {
-    return (
-        <Container id="services">
-            <Wrapper>
-                <Title>Services</Title>
-                <Desc>
-                    Here are some of the services we offer at Mags Engineering Limited.
-                </Desc>
-                <TimelineSection>
-                    <Timeline>
-                        {experiences.map((experience,index) => (
-                            <TimelineItem>
-                                <TimelineSeparator>
-                                    <TimelineDot variant="outlined" color="secondary" />
-                                    {index !== experiences.length - 1 && <TimelineConnector style={{ background: '#854CE6' }} />}
-                                </TimelineSeparator>
-                                <TimelineContent sx={{ py: '12px', px: 2 }}>
-                                    <ExperienceCard experience={experience}/>
-                                </TimelineContent>
-                            </TimelineItem>
-                        ))}
-                    </Timeline>
+  return (
+    <Container id="services">
+      <Wrapper>
+        <Title>Our Services</Title>
+        <Desc>
+          At Mags Engineering Limited, we provide cutting-edge engineering solutions tailored to meet the specific needs of our clients.
+        </Desc>
+        <TimelineSection>
+          <Timeline>
+            {experiences.map((experience, index) => (
+              <TimelineItem key={index}>
+                <TimelineSeparator>
+                  <StyledTimelineDot />
+                  {index !== experiences.length - 1 && <StyledTimelineConnector />}
+                </TimelineSeparator>
+                <TimelineContent sx={{ py: '12px', px: 2 }}>
+                  <StyledExperienceCard>
+                    <ExperienceCard experience={experience} />
+                  </StyledExperienceCard>
+                </TimelineContent>
+              </TimelineItem>
+            ))}
+          </Timeline>
+        </TimelineSection>
+        {/* <ExploreButton href="#contact">Explore More</ExploreButton> */}
+      </Wrapper>
+    </Container>
+  );
+};
 
-                </TimelineSection>
-                        </Wrapper>
-        </Container>
-    )
-}
-
-export default index
+export default index;
