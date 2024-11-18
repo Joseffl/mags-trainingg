@@ -2,12 +2,13 @@ import styled from "styled-components";
 import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
-  background: ${({ theme }) => theme.bgLight}; /* Use light blue from theme */
+  background: linear-gradient(135deg, #28ac30 0%, #1d7a23 100%); /* Stylish green gradient */
   display: grid;
   justify-content: center;
   position: relative;
   padding: 80px 30px;
   z-index: 1;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); /* Dynamic shape */
 
   @media (max-width: 960px) {
     padding: 66px 16px;
@@ -16,9 +17,17 @@ export const HeroContainer = styled.div`
     padding: 32px 16px;
   }
 
-  /* Updated clip-path for a more dynamic shape */
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 85% 100%, 0 100%);
+  animation: fadeIn 1.5s ease-in-out;
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 `;
+
 
 export const HeroBg = styled.div`
   position: absolute;
@@ -99,60 +108,44 @@ export const HeroRightContainer = styled.div`
 
 // Updated Hero Image Style
 export const Img = styled.img`
-  position: relative;
   width: 100%;
-  height: 100%;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 450px;
+  border-radius: 15px;
+  border: 4px solid ${({ theme }) => theme.primary};
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 
-  /* Removed the circle style */
-  border-radius: 10px; /* Subtle rounded corners for the square */
-  border: 4px solid ${({ theme }) => theme.primary}; /* Blue border for emphasis */
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  
   @media (max-width: 768px) {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 350px;
   }
 
   @media (max-width: 640px) {
-    max-width: 280px;
-    max-height: 280px;
+    max-width: 250px;
   }
 `;
+
 
 export const Title = styled.div`
-  font-weight: 700;
+  font-weight: 800;
   font-size: 40px;
-  color: ${({ theme }) => theme.text_primary};
+  color: ${({ theme }) => theme.text_tertiary};
+  text-transform: uppercase;
+  text-align: left;
+  letter-spacing: 1.5px;
   line-height: 68px;
+  
+
   @media (max-width: 960px) {
+    font-size: 36px;
     text-align: center;
   }
 
   @media (max-width: 640px) {
-    font-size: 45px;
+    font-size: 28px;
     line-height: 48px;
-    margin-bottom: 8px;
   }
 `;
 
-export const TextLoop = styled.div`
-  font-weight: 600;
-  font-size: 32px;
-  display: flex;
-  gap: 12px;
-  color: ${({ theme }) => theme.text_primary};
-  line-height: 68px;
-  @media (max-width: 960px) {
-    text-align: center;
-  }
-  @media (max-width: 640px) {
-    font-size: 22px;
-    line-height: 48px;
-    margin-bottom: 16px;
-  }
-`;
+
 
 export const Span = styled.span`
   color: ${({ theme }) => theme.primary};
@@ -160,20 +153,23 @@ export const Span = styled.span`
 `;
 
 export const SubTitle = styled.div`
-  font-size: 18px;
+  font-size: 20px;
   line-height: 32px;
   margin-bottom: 42px;
-  color: ${({ theme }) => theme.text_primary + 95};
+  color: rgba(255, 255, 255, 0.8); /* Increased contrast */
+  text-align: left;
 
   @media (max-width: 960px) {
+    font-size: 18px;
     text-align: center;
   }
 
   @media (max-width: 640px) {
     font-size: 16px;
-    line-height: 32px;
+    line-height: 28px;
   }
 `;
+
 
 export const SubTitleContainer = styled.div`
   width: 100%; /* Make the container take full width */
@@ -198,57 +194,30 @@ export const SubtitleDescription = styled.p`
 
 
 export const ResumeButton = styled.a`
-  -webkit-appearance: button;
-  -moz-appearance: button;
   appearance: button;
   text-decoration: none;
-  width: 95%;
+  width: 100%;
   max-width: 300px;
   text-align: center;
   padding: 16px 0;
   color: ${({ theme }) => theme.white};
-  border-radius: 20px;
-  cursor: pointer;
   font-size: 20px;
   font-weight: 600;
-  transition: all 0.2s ease-in-out !important;
-
-  /* Updated Background for Blue Theme */
-  background: hsla(210, 100%, 50%, 1); /* Starting blue color */
-  background: linear-gradient(
-    225deg,
-    hsla(210, 100%, 50%, 1) 0%,  /* Sky Blue */
-    hsla(230, 100%, 50%, 1) 100% /* Royal Blue */
-  );
-  background: -moz-linear-gradient(
-    225deg,
-    hsla(210, 100%, 50%, 1) 0%,  /* Sky Blue */
-    hsla(230, 100%, 50%, 1) 100% /* Royal Blue */
-  );
-  background: -webkit-linear-gradient(
-    225deg,
-    hsla(210, 100%, 50%, 1) 0%,  /* Sky Blue */
-    hsla(230, 100%, 50%, 1) 100% /* Royal Blue */
-  );
-
-  /* Updated Shadow for Blue Theme */
-  box-shadow: 20px 20px 60px rgba(31, 38, 52, 0.5),
-    -20px -20px 60px rgba(31, 38, 52, 0.5);
+  border-radius: 25px;
+  background: linear-gradient(135deg, #28ac30, #1d7a23);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.4s ease;
 
   &:hover {
+    background: linear-gradient(135deg, #1d7a23, #28ac30);
     transform: scale(1.05);
-    transition: all 0.4s ease-in-out;
-    box-shadow: 20px 20px 60px rgba(31, 38, 52, 0.5),
-      -20px -20px 60px rgba(31, 38, 52, 0.5);
-    filter: brightness(1.1); /* Brightness increased for the hover effect */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
   }
 
- 
-    
-    
-    @media (max-width: 640px) {
-        padding: 12px 0;
-        font-size: 18px;
-    } 
-
+  @media (max-width: 640px) {
+    padding: 12px 0;
+    font-size: 18px;
+  }
 `;
+
