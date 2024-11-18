@@ -235,8 +235,14 @@ const index = ({ openModal, setOpenModal }) => {
             ))}
           </Tags>
           <Desc><p>About this Course</p></Desc>
+
+          <p>
+            {project?.description.map((description, index) => (
+              <p key={index}>{description}</p>
+            ))}
+          </p>
           
-          <Desc>{project?.description}</Desc>
+          
           <Desc>Duration: {project?.duration}</Desc>
           <Desc>Methodology: {project?.methodology}</Desc>
           
