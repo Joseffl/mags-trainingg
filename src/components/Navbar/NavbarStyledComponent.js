@@ -1,9 +1,10 @@
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../../themes/default';
+import { HashLink as Link } from "react-router-hash-link";
 
 export const Nav = styled.div`
-    background-color: ${({theme}) => theme.card_light};
+    background-color: #e4eee5;
     height: 80px;
     display: flex;
     align-items: center;
@@ -41,7 +42,8 @@ export const NavLogo = styled(LinkR)`
 export const Span = styled.div`
     padding: 0 4px;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
+    text-decoration: none;
 `;
 export const NavItems = styled.ul`
     width: 100%;
@@ -71,6 +73,26 @@ export const NavLink = styled.a`
       border-bottom: 2px solid ${({ theme }) => theme.primary};
     }
 `;
+
+// export const StyledHashLink = styled(Link)`
+//     ${NavLink};
+// `;
+// export const HashLink = styled.a`
+//     color: ${({ theme }) => theme.text_primary};
+//     font-weight: 500;
+//     cursor: pointer;
+//     transition: all 0.2s ease-in-out;
+//     text-decoration: none;
+//     :hover {
+//       color: ${({ theme }) => theme.primary};
+//     }
+
+//     &.active {
+//       border-bottom: 2px solid #28ac30;
+//     }
+// `;
+
+
 
 
 export const GitHubButton = styled.a`
