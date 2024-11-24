@@ -10,11 +10,13 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  width: 100%;
   background: linear-gradient(135deg, #f0fdf4 0%, #e6f9ef 100%);
   position: relative;
-  padding: 50px;
+  padding: 20px;
   overflow: hidden;
 `;
+
 
 const BackgroundShapes = styled.div`
   position: absolute;
@@ -30,15 +32,22 @@ const BackgroundShapes = styled.div`
 const Wrapper = styled.div`
   z-index: 1;
   width: 100%;
-  max-width: 700px;
+  max-width: 700px; /* Restrict for large screens */
   background-color: white;
-  padding: 40px;
+  padding: 20px;
   border-radius: 20px;
   box-shadow: 0 15px 30px rgba(0, 128, 0, 0.15);
   display: flex;
   flex-direction: column;
   gap: 20px;
+
+  @media (max-width: 768px) {
+    max-width: 100%; /* Full width on smaller devices */
+    padding: 15px;
+    border-radius: 12px;
+  }
 `;
+
 
 const Title = styled.h1`
   font-size: 42px;
@@ -88,33 +97,35 @@ const Input = styled.input`
 const StyledPhoneInput = styled(PhoneInput)`
   .react-tel-input {
     width: 100%;
-    padding: 15px;
-    font-size: 16px;
+    padding: 0; /* Reset padding for container alignment */
+    background: #f8f8f8;
     border: 1px solid #ccc;
     border-radius: 12px;
-    background: #f8f8f8;
     transition: border 0.3s ease, box-shadow 0.3s ease;
 
-    &.focused {
+    &:focus-within {
       border-color: #0a8650;
       box-shadow: 0 0 10px rgba(10, 134, 80, 0.2);
-      outline: none;
-      background: white;
     }
 
     input {
+      width: 100%;
+      padding: 15px;
+      font-size: 16px;
       border: none;
       outline: none;
       background: transparent;
-      width: calc(100% - 30px); /* Adjust for the flag icon */
+      box-sizing: border-box; /* Ensure proper sizing */
     }
 
     .flag-dropdown {
-      border: none;
       background: transparent;
+      border: none;
+      margin-left: 10px; /* Add space between flag and input */
     }
   }
 `;
+
 
 const Textarea = styled.textarea`
   width: 100%;

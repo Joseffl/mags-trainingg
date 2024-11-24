@@ -243,35 +243,7 @@ export const experiences = [
   
 ];
 
-export const education = [
-  {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQE4UC9Z_k3c7A/company-logo_200_200/0/1579422507409?e=1692230400&v=beta&t=HJssPsrwwkAJAsvFiVIYPdM8GzUuuSK5YlATKgLx3Bc",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
-  },
-  {
-    id: 1,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
-  },
-  {
-    id: 2,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
-  },
-];
+
 
 export const projects = [
    {
@@ -328,6 +300,7 @@ export const projects = [
     cost: "₦100,000 or $80"
     
   },
+  
   {
     id: 0,
     title: "Basic Line Sizing",
@@ -341,10 +314,12 @@ export const projects = [
     github: "https://github.com/Joseffl/creative-company-website",
     webapp: "https://ccdesignwebs.netlify.app",
 
-    duration: "1 Day",
+    duration: "3 Days",
     prerequisite: [
-      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
-      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+      "A bachelor's degree in engineering, technology, or a related field.",
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of commissioning and start-up principles and procedures."
+
 
     ],
     methodology: "Theoretical",
@@ -368,6 +343,57 @@ export const projects = [
     assessment: "	Online Written Exam  ",
     cdf: [
       "Virtual",
+    ],
+    cost: "FREE"
+  },
+  {
+    id: 0,
+    title: "Liquid Line Sizing",
+    date: "Aug 2023 - Sep 2023",
+    description:
+      "A liquid line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for liquid lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
+    image:
+      "https://i.ibb.co/J3bqqCm/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-2.png",
+    tags: ['Author: Adeyemi'],
+    category: "process",
+    github: "https://github.com/Joseffl/creative-company-website",
+    webapp: "https://ccdesignwebs.netlify.app",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+          "Understanding the flow velocity and pressure drop importance and calculation",
+          "Surge the typical surge factors.",
+          "Understanding the how to determine friction factor through a pipe.",
+          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a liquid pipeline ",
+          "Understanding the velocity calculation ",
+          "Understanding the pressure drop calculation along the pipe",
+          "Understanding the how to perform line sizing using codes and standards.",
+          "Understanding the how to perform line sizing via Aspen Hysys"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to liquid line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+        "Module 2:  Surge Factor / Fluid Hammer",
+        "Module 3:  Introduction to Line Sizing Calculations",
+        "Module 4:  Liquid Line Sizing Standards and Codes",
+        "Module 5:  Velocity & Pressure drop criterial for Liquid Line Sizing ",
+        "Module 6:  Liquid Line Sizing with Excel",
+        "Module 7:  Liquid Line Sizing with Aspen Hysys"
+ 
+    ],
+    assessment: "	Online Written Exam  ",
+    cdf: [
+      "Classroom, Face to Face or Virtual",
     ],
     cost: "FREE"
   },
@@ -424,7 +450,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "process",
+    title: "Gas Line Sizing",
     date: "Oct 2022 - Present",
     description:
       "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
@@ -433,7 +459,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "web app",
+    category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -669,6 +695,68 @@ export const projects = [
   },
   {
     id: 10,
+    title: "Instrumentation & Control Design 2",
+    date: "Oct 2022 - Present",
+    description:
+      "An Instrumentation and Control Design 2 course focuses on the principles and practices of designing of Piping and Instrumentation Diagram [P&ID] Study, Tubing and Fittings Sizes,  RELAY & Gate Logic and PLC Base Logic.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Core Engineering Concepts Electrical Engineering: Understanding of electrical circuits, components, and principles.",
+      "Control Systems: Knowledge of feedback control systems, transfer functions, and stability analysis.",
+      "Process Control: Familiarity with process control concepts, instrumentation, and loop tuning.",
+      "Signal Processing"
+
+
+    ],
+    methodology: "Theoretical/Practical",
+    objectives: [
+          "Understand the line and  instrument symbols used in P&ID",
+          "Understand the study single loop DWG and discuss each symbols",
+          "Understand which components are in circuit and how instruments are connected, located  and their functions",
+          "Understand the characteristics Of Pipe And Tubing, tube; Run Installation, Measuring And Cutting, Bending Offsets, Bending Techniques",
+          "Understand the compression Fittings and Installation",
+          "Understand how to test For Leaks and general Guide Lines for Installing Tubing.",
+          "Understand the Following points related to Relay & Digital Logic Gates: Working Principle, Types, Technical Terms, Logic Diagram (Reading), Function In Interlock.",
+          "Understand the PLC Base Logic"
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1: Piping and Instrumentation Diagram [P&ID] Study",
+        "Module 2: Tubing and Fittings Sizes",
+        "Module 3: RELAY & Gate Logic",
+        "Module 4: PLC Base Logic ", 
+        "Module 5: Case Studies",
+        "Module 6: Final Project"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam / AutoCAD Design Exam   ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦80,000 / $60"
+  },
+  {
+    id: 10,
     title: "Change Management Procedure",
     date: "Oct 2022 - Present",
     description:
@@ -736,6 +824,1058 @@ export const projects = [
 ,
     ],
     cost: "₦80,000 / $60"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Process Units Piping",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Process Units Piping Course is designed to provide participants with the necessary skills and knowledge to select appropriate materials for piping systems used in various process units across industries such as oil and gas, chemicals, and manufacturing. The course emphasizes the importance of material selection to ensure safety, reliability, and efficiency in process operations using the following  material grades; A312 TP304L, A106 Gr. B/A672 Gr.B60,  B165 N04400, A312 TP321H, & A312 TP304.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of Process Units Piping."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of piping materials and their characteristics.",
+          "Identify factors influencing material selection, including corrosion, pressure, temperature, and fluid type.",
+          "Learn about industry standards and specifications related to piping chemical materials.",
+          "Determine the corrosion rate."
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to  Process Units Piping",
+        "Module 2:   Corrosion rate",
+        "Module 3:   Fuel Gas ",
+        "Module 4:   Natural Gas",
+        "Module 5:   Methanol Mixtures",
+        "Module 6:   Process Oxygen",
+        "Module 7:   Process Condensate ", 
+        "Module 8:   Ammonia Water",
+        "Module 9:   Turbine Condensate",
+        "Module 10:  Hydrogen Gas",
+        "Module 11:  Syngas (H2+CO+CO2)",
+        "Module 12:  Reformed Gas (H2+CO+CO2)"
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Utility Piping ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Piping Utility Course focuses on the principles and practices of selecting appropriate materials for piping systems in various industries. Participants will learn how to evaluate materials based on their properties, applications, and performance in different environments using the following  material grades; A106 Gr.B/A672 Gr.B60, A312 TP304 &  A53 Gr. B/GALV",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of piping utility systems."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of piping materials and their characteristics.",
+          "Identify factors influencing material selection, including corrosion, pressure, temperature, and fluid type.",
+          "Learn about industry standards and specifications related to piping utility materials.",
+          "Determine the corrosion rate."
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Piping Utility Materials",
+        "Module 2:  Corrosion rate",
+        "Module 3:  Boiler Blow Down ",
+        "Module 4:  Boiler Feed Water", 
+        "Module 5:  Cooling Water", 
+        "Module 6:  LPS/LPC ",
+        "Module 7:  MPS/MPC ",
+        "Module 8:  Nitrogen",
+        "Module 9:  Plant Air",
+        "Module 10: Service Water",
+        "Module 11: Fire Foam",
+        "Module 12: Fire Water (AG) ",
+        "Module 13: Demineralized Water",
+        "Module 14: Instrument Air ",
+        "Module 15: Fire Water (after filter)"
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Separator & Tanks ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Separators and Tanks Course focuses on the critical aspects of selecting materials for separators and storage tanks used in various industries, particularly in oil and gas, chemicals, and petrochemicals. Participants will gain insight into the unique challenges posed by these applications, including pressure, temperature, and corrosive environments using the material grades; carbon steel &  Stainless Steel",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of Separator & Tanks systems."
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of piping materials and their characteristics.",
+          "Identify factors influencing material selection, including corrosion, pressure, temperature, and fluid type.",
+          "Learn about industry standards and specifications related to  Separators and Tanks materials.",
+          "Determine the corrosion rate."
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Piping Utility Materials",
+        "Module 2:  Corrosion rate",
+        "Module 3:  Natural Gas",
+        "Module 4:  Rich Methanol / Methanol Water",
+        "Module 5:  LPC/MPC/HPC/MPS ",
+        "Module 6:  BFW+Steam",
+        "Module 7:  Reformed Gas/ Syngas (H2+CO+CO2)",
+        "Module 8:  Saturated Natural Gas",
+        "Module 9:  Ammonia"
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Turbine & Compressors ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Turbines and Compressors Course is designed to provide participants with a comprehensive understanding of the material selection process for turbines and compressors used in various industries, including power generation, aerospace, and oil and gas. Given the demanding operating conditions these components face, careful material selection is crucial for performance, safety, and longevity using the material grades; carbon steel & Stainless Steel (T>150).",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of Turbine & Compressors."
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the operational principles of turbines and compressors and their material requirements.",
+          "Identify the properties and characteristics of materials used in these applications.",
+          "Learn about the factors influencing material selection, including temperature, pressure, and corrosive environments.",
+          "Explore industry standards and specifications relevant to turbines and compressors.",
+          "Develop strategies for assessing and mitigating material failure risks.",
+          "Determine the corrosion rate."
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to  Turbine & Compressors Materials",
+        "Module 2:  Corrosion rate",
+        "Module 3:  HPS/LPS", 
+        "Module 4:  HHPS/LPS",
+        "Module 5:  Nitrogen",
+        "Module 6:  Syngas (H2+CO+CO2)"
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Valves ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Valves Course is designed to provide participants with the knowledge and skills necessary to select appropriate materials for valves used in various applications across industries such as oil and gas, chemicals, water treatment, and power generation. Given the critical role valves play in controlling flow and ensuring safety, effective material selection is essential for performance, durability, and reliability using the material grades; SA216 WCB, A351 CF8, SA217 WC6, A216 WCB, Monel.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of Valves."
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the types and functions of valves in industrial applications.",
+          "Identify the properties of materials commonly used in valve construction.",
+          "Learn about the factors influencing material selection, including operating conditions and fluid characteristics.",
+          "Explore industry standards and specifications relevant to valve materials.",
+          "Develop strategies for assessing and mitigating risks associated with valve material failures.",
+          "Determine the corrosion rate."
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Valves",
+        "Module 2:  Material Properties and Performance",
+        "Module 3:  Corrosion and Wear Mechanisms",
+        "Module 4:  Corrosion rate",
+        "Module 5:   Natural Gas",
+        "Module 6:  Purge Gas", 
+        "Module 7:  Syngas",
+        "Module 8:  Process Condensate ",
+        "Module 9:  LPS, MPS, HPS ",
+        "Module 10:  HHPS", 
+        "Module 11:  LPC, MPC , HPC ",
+        "Module 12:  Nitrogen", 
+        "Module 13:  Crude Methanol", 
+        "Module 14:  Flashed Methanol ",
+        "Module 15:  Refined Methanol", 
+        "Module 16:  Process Gas", 
+        "Module 17:  Oxygen."
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Heat Exchanger ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Heat Exchangers Course is designed to provide participants with a thorough understanding of the criteria and processes involved in selecting materials for heat exchangers used in various industries, including oil and gas, chemicals, power generation, and HVAC. Given the critical role heat exchangers play in thermal management, appropriate material selection is essential for efficiency, safety, and durability using the material grades; carbon steel, SA-516 70N, SA-240 304L, SA-266 2N, SA-965 F304L/SA-182 F304 & Stainless Steel.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of Heat Exchanger."
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the function and types of heat exchangers.",
+          "Identify the properties of materials commonly used in heat exchangers.",
+          "Learn about the factors influencing material selection, including temperature, pressure, and fluid characteristics.",
+          "Explore industry standards and regulations related to heat exchanger materials.",
+          "Develop strategies for assessing and mitigating risks associated with material failure.",
+          "Determine the corrosion rate."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to  Turbine & Compressors Materials",
+        "Module 2:  Corrosion rate",
+        "Module 3:   Component of Channel Side (Head, Shell, Channel Flange, Pass Partition, Nozzle, Flange).",
+        "Module 4:  Component of Heat Transfer (Tie Rod, Spacer, Baffle, Support Plate, Partition Plate, Impingement, Tubesheet, Hex Bolt, Hex Nut, Body Flange, Shell Side Shell, Tubes/U-Tubes, Sealing Strip)."
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Material Selection for Chemical Piping  ",
+    date: "Oct 2022 - Present",
+    description:
+      "The Material Selection for Piping in Chemical Applications Course is designed to equip professionals with the knowledge and skills necessary to select appropriate materials for piping systems specifically used in the chemical industry. Given the unique challenges posed by corrosive environments, temperature extremes, and varying pressures, this course emphasizes the importance of careful material selection to ensure safety, performance, and longevity using the following  material grades; A312 TP304L , A312 TP316L, CPVC &   A312 TP304.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Several years of experience in the field of engineering, construction, or operations.",
+      "A basic understanding of piping chemical systems."
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of piping materials and their characteristics.",
+          "Identify factors influencing material selection, including corrosion, pressure, temperature, and fluid type.",
+          "Learn about industry standards and specifications related to piping chemical materials.",
+          "Determine the corrosion rate."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Chemical Piping Materials",
+        "Module 2:  Corrosion rate",
+        "Module 3:  Oxygen Scavenger ",
+        "Module 4:  NAOH Solution ",
+        "Module 5:  Phosphate Solution ",
+        "Module 6:  Crossion Inhibitor (AG)", 
+        "Module 7:  H2SO4", 
+        "Module 8:  HCL Solution (2~40%) (AG)",
+        "Module 9:  NaClO Solution (10%) (AG)",
+        "Module 10: Lube Oil "
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+  {
+    id: 10,
+    title: "Multiphase Line Sizing",
+    date: "Oct 2022 - Present",
+    description:
+      "A multiphase line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for multiphase lines (gas and liquid) in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+          "Understanding the multiphase flow velocity and pressure drop importance and calculation",
+          "Surge the typical surge factors.",
+          "Understanding the GPSA engineering data book.",
+          "Understanding the how to determine friction factor through a pipe.",
+          "Understanding Sizing Criteria (Velocity & Pressure Drop) of a  multiphase pipeline ",
+          "Understanding the Erosional and Minimum velocity calculation", 
+          "Understanding the general and empirical pressure drop calculation along the pipe",
+          "Understanding the how to perform multiphase line sizing via codes and standards.",
+          "Understanding the how to perform multiphase line sizing via Aspen Hysys"
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+        "Module 2:  Surge Factor / Fluid Hammer",
+        "Module 3:  Introduction to Line Sizing Calculations",
+        "Module 4:  GPSA engineering data book.",
+        "Module 5:  Multiphase Line Sizing Standards and Codes",
+        "Module 6:  Erosional & Minimum Velocity and Pressure drop criterial for Multiphase Line Sizing ",
+        "Module 7:  Multiphase Line Sizing with Excel",
+        "Module 8:  Multiphase Line Sizing with Aspen Hysys"
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom, Face to Face or Virtual"
+,
+    ],
+    cost: "₦130,000 / $100"
+  },
+  {
+    id: 10,
+    title: "Pump Sizing",
+    date: "Oct 2022 - Present",
+    description:
+      "Pump sizing involves determining the right dimensions and capacities of a pump for a specific application. The process includes identifying the pump’s flow rate, head pressure, pump speed, and other related factors. By properly sizing a pump, you can match its performance capabilities to your requirements, ensuring that the pump operates efficiently and reliably. Either API Rp 14e or IS0 13075 codes standard will be use for the sizing.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Concepts of Fluid mechanics.",
+      "Basic Knowledge of Pumps and Their Applications",
+      "Basic Mathematics",
+      "Units and Conversions",
+      "Knowledge of Calculation tools (Excel)"
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understanding the pump piping",
+          "Understanding the difference between Net Positive Suction Head Available (NPSHa) and  Net Positive Suction Head Required (NPSHr)",
+          "Understanding the Reciprocating, rotary and centrifugal pump suction and Discharge piping systems.",
+          "Knowing the effect of cavitation in pump system.",
+          "Understanding the various parameters for pump sizing calculation", 
+          "Learning how to perform pump sizing with Excel",
+          "Learning how to perform pump sizing with hysys",
+          "Understanding the pump datasheet"
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to pump and pump piping",
+        "Module 2:  Net Positive Suction Head Available (NPSHa) and  Net Positive Suction Head Required (NPSHr)",
+        "Module 3:  Reciprocating, rotary  and  centrifugal  pump  suction  and Discharge piping  systems",
+        "Module 4:  Cavitation",
+        "Module 5:  Calculation Inputs, Pump Total Differential Head, Net Positive Suction Head Available, Pump Absorbed Power and Frictional Head Loss. ",
+        "Module 6:  Pump Sizing with Excel",
+        "Module 7:  Pump Sizing with Aspen Hysys",
+        "Module 8:  Pump Datasheet"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom, Face to Face or Virtual"
+,
+    ],
+    cost: "₦150,000 / $120"
+  },
+  {
+    id: 10,
+    title: "Oil and Gas Material Selection",
+    date: "Oct 2022 - Present",
+    description:
+      "The Oil and Gas Material Selection Course is designed to provide participants with a comprehensive understanding of material selection processes specific to the oil and gas industry. The course covers the criteria for choosing materials that can withstand the harsh environments and operational challenges faced in upstream, midstream, and downstream applications.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Basic knowledge of the oil and gas industry, including its processes, equipment, and challenges, is beneficial.",
+      "Familiarity with various materials used in oil and gas operations (e.g., metals, alloys, polymers, composites)."
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of material properties and their relevance in oil and gas applications.",
+          "Identify factors affecting material selection, including corrosion, temperature, pressure, and environmental conditions.",
+          "Learn about industry standards and regulations governing material selection.",
+          "Explore various materials commonly used in the industry, including metals, polymers, and composites."
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Material Selection",
+        "Module 2:  Material Properties and Behavior",
+        "Module 3:  Corrosion Mechanisms",
+        "Module 4:  Material Standards and Specifications",
+        "Module 5:  Materials Used in Oil and Gas",
+        "Module 6:  Material selection for Piping Utility",
+        "Module 7:  Material selection for Piping Chemicals",
+        "Module 8:  Material selection for Piping Process Units",
+        "Module 9:  Material selection for separator & Tanks",
+        "Module 10: Material selection for Turbine & Compressors",
+        "Module 11: Material selection for Heat Exchangers",
+        "Module 12: Material selection for Valves"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+,
+    ],
+    cost: "FREE"
+  },
+  {
+    id: 10,
+    title: "Process Flow Diagram (PFD)",
+    date: "Oct 2022 - Present",
+    description:
+      "Core Engineering Concepts: Basic Thermodynamics, Fluid Mechanics and Unit Operations. Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Core Engineering Concepts: Basic Thermodynamics, Fluid Mechanics and Unit Operations.",
+      "Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams."
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the purpose and importance of PFDs in process management.",
+          "Learn the standard symbols and notation used in PFDs.",
+          "Develop skills to design and analyze process flow diagrams.",
+          "Apply PFDs for process improvement and communication."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1: Introduction to Process Flow Diagrams",
+        "Module 2: Fundamental Concepts",
+        "Module 3: Standard Symbols and Notation",
+        "Module 4: Designing a Process Flow Diagram",
+        "Module 5: Analyzing and Interpreting PFDs",
+        "Module 6: Case Studies and Applications",
+        "Module 7: Process Improvement Techniques",
+        "Module 8: Final Project"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+,
+    ],
+    cost: "₦80,000 / $60"
+  },
+  {
+    id: 10,
+    title: "Piping & Instrumentation Diagram (P&ID)",
+    date: "Oct 2022 - Present",
+    description:
+      "A course on Piping and Instrumentation Diagrams (P&IDs) focuses on teaching participants how to create, interpret, and utilize these critical diagrams in engineering and industrial settings. P&IDs are essential for understanding the design, operation, and maintenance of process systems. Participants will gain a solid understanding of P&IDs, equipping them with the skills needed to create and analyze these diagrams effectively, enhancing their ability to contribute to project success and safety in their respective fields.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Core Engineering Concepts: Basic Thermodynamics, Fluid Mechanics and Unit Operations.",
+      "Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams.",
+      "Knowledge of PFD"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the purpose and importance of P&IDs in process design and safety.",
+          "Learn the standard symbols and conventions used in P&IDs.",
+          "Develop skills to create and analyze P&IDs effectively.",
+          "Apply P&IDs in project documentation and process safety management."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1: Introduction to Process Flow Diagrams",
+        "Module 2: Importance of Reading P & IDs in Industry",
+        "Module 3: P & ID Structure and Typical Information",
+        "Module 4: Legend Sheet/Master Sheet – The Key for Reading P&IDs",
+        "Module 5: Symbols and Meanings on a P&ID",
+        "Module 6: Valves in Control Loops and Primary Flow Elements.",
+        "Module 7: Line Designation, Equipment, Instrument & Fitting Tagging",
+        "Module 8: Insights into How Process Operations are controlled",
+        "Module 9: Reading and Interpretation of P&ID",
+        "Module 10: Drafting of P&ID",
+        "Module 11: Case Studies / Project Work"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+,
+    ],
+    cost: "₦80,000 / $60"
+  },
+  {
+    id: 10,
+    title: "Pressure Safety Valve Sizing",
+    date: "Oct 2022 - Present",
+    description:
+      "Pressure Safety Valves (PSV) are utilized and engineered into designs to relieve pressure in emergency conditions. PSVs are used in numerous industries and can be designed in many different ways depending on the needs of the system. This course will get you accustomed to PSVs and show you how to size and select the appropriate one for your needs. Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing.",
+    image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Engineering Principles; (Thermodynamics, Fluid Mechanics, Statics and Dynamics).",
+      "Basic Mathematics",
+      "Units and Conversions",
+      "Process Safety Knowledge",
+      "Knowledge of Calculation tools (Excel)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Explain the various applications of Codes and standards for sizing a PSV.",
+          "Understand the various types of PSVs and steps for sizing.",
+          "Perform calculations for sizing and selection of pressure relief devices for gas, liquid and steam",
+          "Explain how to apply the API RP 520 Part I, Sizing and Selection of Pressure Relieving Devices.",
+          "Understand the different scenarios for PSV application",
+          "Perform various PSV sizing with excel-sheet and hysys"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1: Introduction and Overview of PSVs",
+        "Module 2: Codes, Standards, & Components of a PSV System",
+        "Module 3: Types of PSVs & Steps for Sizing",
+        "Module 4: Different Relieving Scenarios",
+        "Module 5: PSV Sizing",
+        "Module 6: Sizing application on Gas, Liquid and steam.",
+        "Module 7: PSV Sizing with Aspen Hysys",
+        "Module 8: PSV Datasheet"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam ",
+    cdf: [
+      "Classroom, Face to Face or Virtual"
+
+,
+    ],
+    cost: "₦150,000 / $130"
   },
   {
     id: 10,
