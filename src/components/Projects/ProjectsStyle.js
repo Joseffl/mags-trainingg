@@ -9,7 +9,7 @@ export const Container = styled.div`
     position: relative;
     z-index: 1;
     align-items: center;
-    clip-path: polygon(0 0, 100% 0, 100% 100%,100% 98%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%,100% 100%, 0 100%);
 `;
 
 export const Wrapper = styled.div`
@@ -64,10 +64,12 @@ export const ToggleButtonGroup = styled.div`
     border-radius: 12px;
     font-weight: 500;
     margin: 22px 0px;
+    padding: 0 16px;
     @media (max-width: 768px) {
+        justify-content: center; /* Center items horizontally only for smaller devices */
         font-size: 12px;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
+        flex-wrap: wrap; 
+        
     }
 `
 
