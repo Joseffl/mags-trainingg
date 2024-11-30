@@ -2862,7 +2862,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "mechanical",
+    category: "procurement construction",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -2902,11 +2902,18 @@ export const projects = [
                   
     ],
     outline: [
-        "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
-        "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
-        "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
-        "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
-        "Make informed decisions about the selection and use of carbon steel in various industries."
+        "Module 1:  Introduction",
+        "Module 2:  Technical Background.",
+        "Module 3:  Standards and Codes.",
+        "Module 4:  Metallurgy",
+        "Module 5:  Properties",
+        "Module 6:  Oxidation Resistance",
+        "Module 7:  Fabrication",
+        "Module 8:  Applications",
+        "Module 9:  Corrosion and Protective Coatings",
+        "Module 10: Testing and Inspection",
+        "Module 11:  Case Studies"
+
 
 
 
@@ -2939,13 +2946,13 @@ export const projects = [
   
   {
     id: 10,
-    title: "Carbon Steel ",
+    title: "Calibration - Technicians Guide ",
     date: "Oct 2022 - Present",
     description:
     [
           
-      "Carbon steel is a type of steel that is primarily composed of iron and carbon, with small amounts of other elements like manganese, silicon, and copper. Carbon steel is one of the most widely used materials in the manufacturing and construction industries due to its strength, versatility, and cost-effectiveness.",
-      "Carbon Steel Course provides critical knowledge of one of the most widely used materials in engineering and manufacturing. From understanding its properties and applications to mastering testing and maintenance procedures, this course is essential for professionals working with carbon steel across many industries."
+      "Calibration is the process of adjusting and verifying the accuracy of measuring instruments to ensure that they provide accurate, consistent, and reliable readings. In many fields such as manufacturing, engineering, and process industries, calibration is crucial for quality control, safety, and compliance with regulatory standards.",
+      "Calibration Technician's Guide course will equip you with the necessary skills and knowledge to handle and maintain precision instruments. By understanding the principles of calibration, troubleshooting techniques, and industry standards, technicians can help ensure that measurements are accurate and that equipment operates within specified tolerances."
 
 
     ],
@@ -2958,11 +2965,12 @@ export const projects = [
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
-    duration: "2 Days",
+    duration: "3 Days",
     prerequisite: [
-      "•	Educational Background",
-      "•	Basic Understanding of Materials Science",
-      "•	Basic understanding of industrial safety procedures when working with metals or machinery."
+      "•	Basic Knowledge of Instruments.",
+      "•	Mathematical and Analytical Skills.",
+      "•	Safety Awareness."
+
 
 
 
@@ -2976,12 +2984,10 @@ export const projects = [
     ],
     methodology: "Theoretical",
     objectives: [
-          "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
-          "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
-          "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
-          "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
-          "Make informed decisions about the selection and use of carbon steel in various industries."
-
+          "Apply principles and best practices of calibration across different types of instruments and devices.",
+          "Understand the importance of maintaining accurate and up-to-date calibration documentation.",
+          "Perform the calibration of a wide range of instrumentation, including temperature, pressure, level, flow, final control devices, and process analytical instruments.",
+          "Troubleshoot and resolve common issues in calibration, ensuring reliable and accurate measurement in industrial processes."
 
 
 
@@ -2994,11 +3000,113 @@ export const projects = [
                   
     ],
     outline: [
-        "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
-        "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
-        "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
-        "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
-        "Make informed decisions about the selection and use of carbon steel in various industries."
+        "Module 1:  Calibration principles",
+        "Module 2:  Documentation.",
+        "Module 3:  Temperature instrumentation calibration",
+        "Module 4:  Pressure  instrumentation calibration",
+        "Module 5:  Level  instrumentation calibration",  
+        "Module 6:  Flow  instrumentation calibration",
+        "Module 7:  Final control devices  calibration",
+        "Module 8:  Process analytical  instrumentation calibration", 
+        "Module 9:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦70,000 / $50"
+  },
+
+
+  {
+    id: 10,
+    title: "Causes of Delays in EPC, PM ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Calibration is the process of adjusting and verifying the accuracy of measuring instruments to ensure that they provide accurate, consistent, and reliable readings. In many fields such as manufacturing, engineering, and process industries, calibration is crucial for quality control, safety, and compliance with regulatory standards.",
+      "Calibration Technician's Guide course will equip you with the necessary skills and knowledge to handle and maintain precision instruments. By understanding the principles of calibration, troubleshooting techniques, and industry standards, technicians can help ensure that measurements are accurate and that equipment operates within specified tolerances."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "procurement construction",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "The course is suitable for both beginners and experienced professionals. However, the following may be beneficial: ",
+      "•	Basic Knowledge of Project Management.",
+      "•	Familiarity with the EPC Industry.",
+      "•	Experience with Construction or Engineering Projects."
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Analyze real-world case studies of EPC projects that faced delays in various phases (engineering, procurement, construction, project management, and finance).",
+          "Apply theoretical knowledge from earlier modules to assess the root causes of delays in these case studies.",
+          "Identify key lessons learned from the case studies and how these can be applied to future projects to avoid similar delays.",
+          "Gain practical insights into effective strategies and best practices for preventing delays and successfully managing EPC projects."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to EPC and Project Management (PM)",
+        "Module 2:   Delays in Engineering.",
+        "Module 3:   Delays in Procurement",
+        "Module 4:   Delays in Construction",
+        "Module 5:   Delays in Project Management",
+        "Module 6:   Delays in Finance",
+        "Module 7:   Case Studies "
+
+
 
 
 
@@ -3027,6 +3135,9 @@ export const projects = [
     ],
     cost: "₦50,000 / $40"
   },
+
+
+ 
   
 ];
 
