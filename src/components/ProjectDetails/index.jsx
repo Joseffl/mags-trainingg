@@ -212,6 +212,8 @@ const Button = styled.a`
 `;
 
 
+
+
 const index = ({ openModal, setOpenModal }) => {
   const project = openModal?.project;
   return (
@@ -234,13 +236,20 @@ const index = ({ openModal, setOpenModal }) => {
               <Tag key={tag}>{tag}</Tag>
             ))}
           </Tags>
-          <Desc><p>About this Course</p></Desc>
+          <Desc><h3>About this Course</h3></Desc>
 
-          <p>
+          {/* <div>
             {project?.description.map((description, index) => (
               <p key={index}>{description}</p>
             ))}
-          </p>
+          </div> */}
+          <div>
+            {Array.isArray(project?.description) ? (
+              project.description.map((desc, index) => <p key={index}>{desc}</p>)
+            ) : (
+              <p>{project?.description || "No description available"}</p> // Handles non-array cases
+            )}
+          </div>
           
           
           <Desc>Duration: {project?.duration}</Desc>
@@ -260,6 +269,7 @@ const index = ({ openModal, setOpenModal }) => {
           <SideBySideSections>
             <Section>
               <h3>Learning outcomes</h3>
+              
               <p>
             {project?.objectives.map((objective, index) => (
               <li key={index}>{objective}</li>

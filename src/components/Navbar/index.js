@@ -15,7 +15,8 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo>
           <Link to="/" style={{ display: "flex", alignItems: "center", color: "#28ac30", cursor: 'pointer' }}>
-            <img src={LogoImg} style={{ height: "4rem", width: "4rem" }} alt="Logo" /> <Span>MAGS</Span>
+            <img src={LogoImg} style={{ height: "4rem", width: "4rem" }} alt="Logo" /> 
+            <Span style={{ textDecoration: 'none' }}>MAGS</Span>
           </Link>
         </NavLogo>
         <MobileIcon>
@@ -54,17 +55,61 @@ const Navbar = () => {
           <NavLink as={Link} to="/training">Training</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href="/#contact">Contact Us</GitHubButton>
+        <GitHubButton>
+        <HashLink
+              smooth
+              to="/#contact"
+              style={{
+                color: "inherit",
+                fontWeight: "500",
+                cursor: "pointer",
+                textDecoration: "none",
+              }}
+            >
+              Contact Us
+            </HashLink>
+          </GitHubButton>
         </ButtonContainer>
         {isOpen && (
           <MobileMenu isOpen={isOpen}>
-            <MobileLink href="/#about" onClick={() => setIsOpen(false)}>About</MobileLink>
+            <MobileLink 
+              as={HashLink} 
+              smooth 
+              to="/#about" 
+              onClick={() => setIsOpen(false)} 
+              style={{ textDecoration: 'none', color: 'inherit' }}
+            >
+              About
+            </MobileLink>
+
             <MobileLink as={Link} to="/projects" onClick={() => setIsOpen(false)}>Projects</MobileLink>
-            <MobileLink href="/#services" onClick={() => setIsOpen(false)}>Services</MobileLink>
+
+            <MobileLink 
+              as={HashLink} 
+              smooth 
+              to="/#services" 
+              onClick={() => setIsOpen(false)} 
+              style={{ textDecoration: 'none', color: 'inherit' }}
+            >
+              Services
+            </MobileLink>
+            
             <MobileLink as={Link} to="/training" onClick={() => setIsOpen(false)}>Training</MobileLink>
+
             <GitHubButton
-              style={{ padding: '10px 16px', background: `${theme.primary}`, color: 'white', width: 'max-content' }}
-              href="/#contact"
+              as={HashLink}
+              smooth
+              to="/#contact"
+
+              style={{
+                padding: '10px 16px',
+                background: `${theme.primary}`,
+                color: 'white',
+                width: 'max-content',
+                textDecoration: 'none',
+              }}
+              
+              
             >
               Contact Us
             </GitHubButton>

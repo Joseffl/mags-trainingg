@@ -836,7 +836,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -900,7 +900,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -970,7 +970,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -1038,7 +1038,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -1107,7 +1107,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -1190,7 +1190,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -1263,7 +1263,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -2029,13 +2029,1005 @@ export const projects = [
     ],
     cost: "₦120,000 / $100"
   },
+
+  
+  {
+    id: 10,
+    title: "Atmospheric and Low Pressure Storage Tank Venting",
+    date: "Oct 2022 - Present",
+    description:
+    [
+      "Atmospheric and Low Pressure Storage Tank Venting refers to the systems and practices used to manage the pressure and venting of gases from storage tanks, specifically for liquids such as crude oil, chemicals, and petroleum products, that are stored under atmospheric or low-pressure conditions.", 
+      "Storage tanks are common in industries such as oil and gas, chemicals, and petrochemicals, where they are used to store liquids and gases. Proper venting is crucial to maintain the safety of these tanks and prevent hazardous conditions such as overpressure, vacuum, or the release of toxic vapors.",
+      "This course is crucial for professionals in industries dealing with large-scale storage tanks. It provides the knowledge necessary to ensure safe and environmentally responsible operations, focusing on the importance of properly designed and maintained venting systems. By understanding the principles of venting, design calculations, safety protocols, and relevant codes, participants can help prevent tank damage, environmental hazards, and ensure compliance with regulatory standards."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Engineering Knowledge",
+      "Understanding of Storage Tanks and Tank Operations",
+      "Basic Process Safety Management (PSM)",
+      "Knowledge of Basic Venting Principles",
+      "Familiarity with Codes and Standards",
+      "API Standards: (API 2000 & NFPA 30)"
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the basic principles and purpose of venting in atmospheric and low-pressure storage tanks.",
+          "Design, size, and select appropriate venting systems to ensure tank safety, environmental compliance, and operational efficiency.",
+          "Understand relevant industry standards (e.g., API 2000, NFPA) and apply them to their operations.",
+          "Recognize and mitigate risks associated with overpressure, vacuum conditions, and emissions.",
+          "Maintain and troubleshoot venting systems to ensure optimal and safe tank operation."
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Storage Tanks",
+        "Module 2:   Venting Systems Overview.",
+        "Module 3:   Venting Design Considerations",
+        "Module 4:   Safety and Environmental Considerations",
+        "Module 5:   Venting Systems and Codes/Standards ",
+        "Module 6:   Sizing and Selection of Venting Equipment",
+        "Module 7:   Operational Procedures and Monitoring",
+        "Module 8:   Maintenance of Venting Systems",
+        "Module 9:   Case Studies "
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦150,000 / $120"
+  },
+
+  {
+    id: 10,
+    title: "Strainers",
+    date: "Oct 2022 - Present",
+    description:
+    [
+      "Strainers Course typically focuses on the design, selection, installation, and maintenance of strainers used in industrial systems to filter debris, particulates, and contaminants from fluids (liquids or gases).", 
+
+      "This course will not only improve participant’s understanding of the technology behind strainers but also help them develop practical skills for maintaining reliable, efficient, and safe filtration systems. Whether you’re involved in industrial process design, maintenance, or operations, such training can improve system performance, reduce downtime, and ensure compliance with safety standards.",
+
+      "The following codes and standards will be reference for this training; ASME, ASTM (A216, A351 & A312), API (614 & 610), ISO (9001 & 15156), MSS (SP-40, SP-45 & SP-82), NFPA (20 & 30), ANSI (B16.34 & B16.5), depending on the specific application of the strainer."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Engineering or Technical Background",
+      "Understanding of Pipeline Systems",
+      "Experience or Basic Knowledge of Strainers and Filtration Systems"
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Identify different types of strainers and their appropriate applications in fluid systems.",
+          "Select and size strainers correctly for various flow conditions, considering factors like pressure, flow rate, and filtration needs.",
+          "Install and integrate strainers into systems following industry standards and best practices.",
+          "Troubleshoot common issues related to strainer performance, such as clogging or pressure drop.",
+          "Maintain and clean strainers, ensuring they operate at peak performance over time.",
+          "Comply with safety and regulatory standards in strainer installation and operation."
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Strainers",
+        "Module 2:   Strainer Design and Selection",
+        "Module 3:   Strainer Installation",
+        "Module 4:   Operation and Performance",
+        "Module 5:   Maintenance and Troubleshooting",
+        "Module 6:   Safety and Compliance",
+        "Module 7:   Strainer Testing and Commissioning",
+        "Module 8:   Specialized Strainer Applications",
+        "Module 9:   Case Studies"
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+
+  {
+    id: 10,
+    title: "Fired Heaters for General Refinery Service",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Fired Heater for General Refinery Service course typically covers the design, operation, maintenance, and safety aspects of fired heaters used in refinery processes. Fired heaters are essential pieces of equipment in refineries, used to provide heat to various processes, such as distillation, cracking, reforming, and hydroprocessing. ",
+      "A course on fired heaters for general refinery service would provide a comprehensive understanding of how these heaters work, the types of fired heaters used in refineries, and the key factors in ensuring their reliable and safe operation.",
+      "The following codes and standards will be use; ANSI/API 560, ISO 13705."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "The prerequisites for a Fired Heaters for General Refinery Service course typically include a foundational understanding of various engineering and process-related concepts, as well as specific knowledge related to refinery operations. Below are common prerequisites for such a course: ",
+      "•	Basic Engineering Knowledge",
+      "•	Refinery Operations Knowledge",
+      "•	Fundamental Thermodynamics"
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the role of fired heaters in refinery operations.",
+          "Design, operate, and maintain fired heaters with a focus on safety, reliability, and efficiency.",
+          "Troubleshoot common operational issues and understand key performance metrics.",
+          "Implement best practices in emissions control and energy optimization.",
+          "Safely manage startup, shutdown, and emergency situations related to fired heaters."
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Fired Heaters",
+        "Module 2:   Design Considerations.",
+        "Module 3:   Fired Heater Components",
+        "Module 4:   Tubes & Tube supports.",
+        "Module 5:   Headers ",
+        "Module 6:   Piping, terminals and manifolds",
+        "Module 7:   Refractories and insulation",
+        "Module 8:   Burners and auxiliary ",
+        "Module 9:   Instrument and auxiliary connections",
+        "Module 10:  Shop fabrication and field erection",
+        "Module 11:  Fired Heater Operation",
+        "Module 12:  Inspection, examination and testing",
+        "Module 13:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦130,000 / $100"
+  },
+
+
+  {
+    id: 10,
+    title: "Absorption & Stripping ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Absorption and stripping are important processes used in chemical engineering, particularly in the treatment of gases and liquids. These processes are applied to separate components of mixtures by utilizing differences in their physical properties, such as solubility or volatility",
+
+      "Absorption and Stripping Course equips professionals with the knowledge and skills necessary to understand, design, and optimize these important processes in the chemical, petroleum, and environmental sectors. By focusing on the theoretical principles, practical design, and operational considerations, participants can improve the efficiency, safety, and sustainability of industrial operations involving absorption and stripping."
+
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "A strong foundation in chemical engineering principles, mass transfer concepts, and basic equipment design is key to fully understanding the complexities of absorption and stripping processes.",
+      "•	Basic Chemical Engineering Principles ",
+      "•	Mass Transfer Fundamentals ",
+      "•	Chemical Process Equipment"
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the basic principles and mechanisms of absorption and stripping processes.",
+          "Design and optimize absorption and stripping systems for various industrial applications.",
+          "Select appropriate solvents and process conditions based on system requirements.",
+          "Troubleshoot common operational problems in absorption and stripping columns.",
+          "Assess the energy efficiency and economic feasibility of absorption and stripping processes"
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Absorption and Stripping",
+        "Module 2:  Absorption Process.",
+        "Module 3:  Stripping Process",
+        "Module 4:  Mass Transfer in Absorption and Stripping",
+        "Module 5:  Design of Absorption and Stripping Columns",
+        "Module 6: Solvent Selection and Management",
+        "Module 7:  Operational Consideration",
+        "Module 8:  Case Studies and Real-World Applications"
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦60,000 / $50"
+  },
+
+
+  {
+    id: 10,
+    title: "Basic Operation & Function of Control Valves ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Control valves are a critical component in industrial processes, regulating the flow of fluids (liquids, gases, or slurries) through a system. Their primary function is to adjust the flow rate based on input from a control system, which can be linked to various process parameters such as pressure, temperature, or level. Control valves are widely used in industries like oil and gas, chemical processing, water treatment, and power generation to ensure optimal process control, system efficiency, and safety.",
+      "This Basic Operation & Function of Control Valves Course provides a strong foundation in control valve technology and its applications across various industries. It helps participants understand the critical role of control valves in maintaining operational efficiency and safety within industrial processes."
+
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Knowledge of Fluid Mechanics.",
+      "Basic Understanding of Instrumentation and Control"
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the terminology related to control valves and their applications across various industries.",
+          "Gain knowledge of the basic designs of control valves and their suitability for different process conditions.",
+          "Learn how to evaluate characterization and trim design for optimizing valve performance in various applications.",
+          "Recognize and address technical considerations related to control valves, including material selection and installation requirements.",
+          "Comprehend the force-balance principle and how it relates to actuator functionality and valve operation.",
+          "Understand the basic designs of actuators and how they interact with control valves to regulate flow accurately.",
+          "Explore the concept of control valve unit action and its impact on system response and flow regulation.",
+          "Master the concept of actuator benchset range and its importance in valve calibration for optimal performance.",
+          "Gain a solid understanding of the principles behind valve positioners, including how they influence valve control and accuracy.",
+          "Learn the mechanics of control loop action, how it interacts with control valves, and its effect on process stability.",
+          "Understand control valve packing designs, their role in preventing leaks, and how they maintain valve integrity.",
+          "Gain insight into seat leakage considerations, and learn techniques for minimizing or preventing leakage in control valve systems."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Terminology",
+        "Module 2:   Control Valve Basic Designs ",
+        "Module 3:   Characterization and Trim Design",
+        "Module 4:   Control Valve Technical Considerations ",
+        "Module 5:   Force-Balance Principle", 
+        "Module 6:   Actuator Basic Designs",
+        "Module 7:   Control Valve Unit Action ",
+        "Module 8:   Actuator Benchset Range",
+        "Module 9:   Valve Positioner Basics",
+        "Module 10:  Control Loop Action ",
+        "Module 11:  Control Valve Packing Designs ",
+        "Module 12:  Seat Leakage",
+        "Module 13:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦60,000 / $50"
+  },
+
+  
+  {
+    id: 10,
+    title: "Boiler Emergencies and Solution ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Boilers are critical components in various industrial systems, generating steam or hot water for processes such as heating, power generation, and manufacturing. However, due to their high-pressure, high-temperature environment, boilers can face several emergency situations that may lead to equipment damage, downtime, or safety hazards. Understanding these emergencies and the corresponding solutions is essential for maintaining safe and efficient boiler operations.", 
+
+      "The course focuses on identifying common boiler emergencies, understanding their causes, and providing practical solutions and safety protocols to mitigate risks. It is tailored for plant operators, engineers, and maintenance personnel working with boiler systems, aiming to improve their emergency response skills and reduce downtime caused by boiler failures"
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Knowledge of Boiler Systems.",
+      "General Safety Awareness"
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "To understand the basic components, types, and functions of a boiler, and to explain its role in industrial applications, focusing on heat transfer, combustion, and steam generation.",
+          "To identify the causes and effects of low and low-low drum level conditions, and to learn the corrective actions and safety protocols to maintain optimal drum levels in a boiler.",
+          "To recognize the risks associated with high and high-high drum level conditions and to develop skills in diagnosing, troubleshooting, and mitigating high drum level issues.",
+          "To understand the causes and consequences of high and high-high furnace draft pressures, and to learn methods for controlling and stabilizing furnace draft for safe and efficient combustion.",
+          "To identify the causes of high bed temperatures in a boiler system, and to learn corrective actions for managing and reducing excessive bed temperatures to ensure safe operation.",
+          "To recognize the impact of low bed temperatures on combustion efficiency and boiler performance, and to develop strategies to maintain proper bed temperatures in the boiler system.",
+          "To understand the function of water walls, screen tubes, and evaporator tubes, and to identify the causes, symptoms, and corrective actions for tube failures in these critical components.",
+          "To understand the role of super heater tubes in steam generation, and to identify the causes and solutions for super heater tube failures, including troubleshooting and replacement procedures.",
+          "To recognize the causes and risks of high super heater temperatures, and to learn the techniques for managing and reducing super heater temperature to prevent damage and ensure optimal steam quality.",
+          "To identify the consequences of low super heater temperatures, and to understand the corrective actions required to restore the super heater to its optimal temperature range for efficient boiler operation.",
+          "To understand the causes of flame failure in the combustion process, and to learn the procedures for diagnosing and resolving flame failure issues to maintain safe and efficient boiler operation.",
+          "To learn the causes and safety risks of furnace explosions, and to develop the skills needed to prevent, detect, and respond effectively to furnace explosion incidents.",
+          "To understand the causes and hazards of high boiler pressure, and to develop skills in monitoring, controlling, and safely managing high pressure situations in the boiler system.",
+          "To identify the causes and symptoms of coal feeder failure, and to learn the troubleshooting techniques and corrective actions necessary to restore coal feeder functionality and maintain efficient combustion.",
+          "To understand the role of PAH (Primary Air Heater) and SAH (Secondary Air Heater) tubes in boiler systems, and to identify the causes of tube failures, along with methods for detecting and addressing these issues.",
+          "To recognize the importance of boiler feed pumps, understand the causes of feed pump failure, and to learn the steps for diagnosing and repairing feed pump issues to ensure proper water circulation.",
+          "To understand the function of fans in maintaining airflow and combustion efficiency, and to learn the causes, symptoms, and corrective actions for fan failure to prevent operational disruptions."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Boilers and Their Function",
+        "Module 2:   Drum level low and low-low.",
+        "Module 3:   Drum level high and high high",
+        "Module 4:   Furnace Draft high and high high",
+        "Module 5:   Bed Temperature High ",
+        "Module 6:   Bed Temperature Low",
+        "Module 7:   Water wall / screen tube / evaporator tube failure",
+        "Module 8:   Super heater tube failure",
+        "Module 9:   High super heater temperature",
+        "Module 10:  Low Super heater temperature",
+        "Module 11:  Flame Failure",
+        "Module 12:  Furnace Explosion",
+        "Module 13:  Boiler pressure high",
+        "Module 14:  Coal feeder failure",
+        "Module 15:  PAH / SAH tube failure",
+        "Module 16:  Boiler feed pump failure",
+        "Module 17:  Fan Failure",
+        "Module 18:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+
+  {
+    id: 10,
+    title: "Auxiliary System of the Gas Turbine ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Gas turbines are widely used in power generation, aviation, and industrial applications due to their high efficiency and reliability. To ensure optimal performance, gas turbines rely on various auxiliary systems that support their operation. These systems handle everything from fuel supply and lubrication to cooling, control, and protection.", 
+      "Auxiliary System of the Gas Turbine Course is designed to provide participants with an in-depth understanding of the auxiliary systems that support the operation and performance of gas turbines in various industries, such as power generation, aviation, and oil & gas. The auxiliary systems play a critical role in ensuring the safe, efficient, and reliable operation of gas turbines, which are key components in many industrial applications."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "To benefit from this course, participants should have: ",
+      "•	Basic Engineering Knowledge.",
+      "•	Mechanical/Electrical Experience.",
+      "•	Safety Training."
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the key auxiliary systems supporting the operation of gas turbines.",
+          "Troubleshoot and maintain lubrication, fuel, air, cooling, and control systems.",
+          "Optimize the performance and reliability of gas turbine systems by managing auxiliary systems effectively.",
+          "Understand the role of emissions and exhaust systems in maintaining regulatory compliance.",
+          "Apply best practices for maintenance and predictive analysis to ensure continuous and safe operation of gas turbines."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Gas Turbines and Auxiliary Systems",
+        "Module 2:   Lubrication System.",
+        "Module 3:   Fuel System",
+        "Module 4:   Air and Cooling System",
+        "Module 5:   Starting and Shutdown Systems ",
+        "Module 6:   Control and Monitoring Systems",
+        "Module 7:   Exhaust and Emissions Control",
+        "Module 8:   Vibration and Monitoring Systems ",
+        "Module 9:   Case Studies " 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦70,000 / $50"
+  },
+
+
+  {
+    id: 10,
+    title: "API Centrifugal Pump ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "API centrifugal pump is a type of centrifugal pump specifically designed and manufactured to meet the standards set by the American Petroleum Institute (API) for use in the petroleum, chemical, and natural gas industries. These pumps are widely used for handling liquids such as crude oil, refined products, chemicals, and other process fluids that require high efficiency, reliability, and safety in demanding industrial environments.", 
+      "API Centrifugal Pump Course focuses on the design, operation, maintenance, and troubleshooting of centrifugal pumps used in industrial applications, particularly in the petroleum, chemical, and gas industries. The course typically aligns with the American Petroleum Institute (API) standards, which provide guidelines and best practices for pumps used in these sectors, ensuring reliability, safety, and efficiency."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "To benefit from the course, participants should have: ",
+      "•	Basic Engineering Knowledge.",
+      "•	Familiarity with Pumps.",
+      "•	Safety Awareness."
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the design, operation, and selection of centrifugal pumps as per API 610 standards.",
+          "Perform regular maintenance and troubleshoot common centrifugal pump issues.",
+          "Apply performance monitoring techniques to ensure optimal pump operation.",
+          "Implement safety protocols and ensure environmental compliance in pump operations.",
+          "Design, select, and install pumps for specific applications within petroleum, chemical, and gas industries."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   API Pump Type Definitions.", 
+        "Module 2:   Understanding API Standards.",
+        "Module 3:   API Standards for Pumps",
+        "Module 4:   Pump Design and Selection",
+        "Module 5:   API  Pumps and applications",
+        "Module 6:   Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+
+  {
+    id: 10,
+    title: "Automation & PLC  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Automation and PLC (Programmable Logic Controllers) are key components in modern industrial systems, helping streamline processes, increase efficiency, improve safety, and reduce human intervention. Automation refers to the use of technology to control equipment, processes, or systems without direct human involvement. PLCs are specialized computer-based controllers designed to automate tasks in manufacturing, production, and other industrial sectors.",
+      "Automation & PLC Course teaches the basics of industrial automation, including how PLCs are used to control and automate machinery and processes. Participants will learn programming techniques, troubleshooting, and maintenance of PLC-based automation systems, focusing on real-world applications in industrial settings."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "To benefit fully from the course, participants should have: ",
+      "•	Basic Electrical/Electronic Knowledge.",
+      "•	Basic Programming Understanding."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of industrial automation systems and PLCs.",
+          "Program PLCs using common languages such as Ladder Logic, Functional Block Diagram, and Structured Text.",
+          "Troubleshoot and maintain PLC systems to ensure optimal performance.",
+          "Integrate PLCs with other automation components like sensors, actuators, HMIs, and SCADA systems.",
+          "Apply advanced control techniques such as PID and motion control for specific industrial applications."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Automation",
+        "Module 2:  Basics of PLC (Programmable Logic Controller).",
+        "Module 3:  PLC Programming Basics",
+        "Module 4:  Advanced PLC Programming Techniques",
+        "Module 5:  Communication and Networking in Automation ",
+        "Module 6:  The Power Supply",
+        "Module 7:  The I/O System ",
+        "Module 8:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Carbon Steel ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Carbon steel is a type of steel that is primarily composed of iron and carbon, with small amounts of other elements like manganese, silicon, and copper. Carbon steel is one of the most widely used materials in the manufacturing and construction industries due to its strength, versatility, and cost-effectiveness.",
+      "Carbon Steel Course provides critical knowledge of one of the most widely used materials in engineering and manufacturing. From understanding its properties and applications to mastering testing and maintenance procedures, this course is essential for professionals working with carbon steel across many industries."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "•	Educational Background",
+      "•	Basic Understanding of Materials Science",
+      "•	Basic understanding of industrial safety procedures when working with metals or machinery."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
+          "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
+          "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
+          "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
+          "Make informed decisions about the selection and use of carbon steel in various industries."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
+        "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
+        "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
+        "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
+        "Make informed decisions about the selection and use of carbon steel in various industries."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+  
+  {
+    id: 10,
+    title: "Carbon Steel ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Carbon steel is a type of steel that is primarily composed of iron and carbon, with small amounts of other elements like manganese, silicon, and copper. Carbon steel is one of the most widely used materials in the manufacturing and construction industries due to its strength, versatility, and cost-effectiveness.",
+      "Carbon Steel Course provides critical knowledge of one of the most widely used materials in engineering and manufacturing. From understanding its properties and applications to mastering testing and maintenance procedures, this course is essential for professionals working with carbon steel across many industries."
+
+
+    ],
+      image:
+      "https://i.ibb.co/LzYBb6R/4.png",
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "•	Educational Background",
+      "•	Basic Understanding of Materials Science",
+      "•	Basic understanding of industrial safety procedures when working with metals or machinery."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
+          "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
+          "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
+          "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
+          "Make informed decisions about the selection and use of carbon steel in various industries."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Demonstrate a comprehensive understanding of carbon steel, its properties, and applications.",
+        "Apply standards, codes, and best practices related to carbon steel in industrial and commercial settings.",
+        "Understand the critical aspects of carbon steel fabrication, testing, and corrosion resistance.",
+        "Analyze real-world challenges in using carbon steel and propose solutions based on technical knowledge.",
+        "Make informed decisions about the selection and use of carbon steel in various industries."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦50,000 / $40"
+  },
   
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  // { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  // { year: 2021, text: "Started my own platform" },
-];
+
