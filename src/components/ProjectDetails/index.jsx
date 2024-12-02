@@ -252,11 +252,17 @@ const index = ({ openModal, setOpenModal }) => {
           </div>
           
           
-          <Desc>Duration: {project?.duration}</Desc>
-          <Desc>Methodology: {project?.methodology}</Desc>
+          <Desc>
+            <h3> Duration </h3> {project?.duration}
+          </Desc>
+
+          <Desc>
+            <h3>Methodology </h3>
+             {project?.methodology}
+          </Desc>
           
           <Desc>
-          <p>Prerequisite</p>
+          <h3>Prerequisite</h3>
           <p>
             {project?.prerequisite.map((prerequisite, index) => (
               <li key={index}>{prerequisite}</li>
@@ -291,12 +297,13 @@ const index = ({ openModal, setOpenModal }) => {
             
 
           <Desc>
-          <p>Assessment: {project?.assessment}</p>
+            <h3>Assessment </h3>
+          <p>{project?.assessment}</p>
           </Desc>
 
           
           <Desc>
-          <p>Course Delivery Formats</p>
+          <h3>Course Delivery Formats</h3>
           <p>
             {project?.cdf.map((cdf, index) => (
               <li key={index}>{cdf}</li>
@@ -306,7 +313,8 @@ const index = ({ openModal, setOpenModal }) => {
 
         
           <Desc>
-          <p>Cost: {project?.cost}</p>
+            <h3>Cost </h3>
+          <p>{project?.cost}</p>
           </Desc>
 
           <ButtonGroup>

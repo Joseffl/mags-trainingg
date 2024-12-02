@@ -253,7 +253,7 @@ export const projects = [
     description:
       "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      "https://i.ibb.co/1nq881V/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover.png",
+      require("./coursesImg/COMMISIONING.png"),
     tags: ["Author: Adeyemi"
   ],
     duration: "2 Days",
@@ -352,8 +352,8 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "A liquid line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for liquid lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
-    image:
-      "https://i.ibb.co/J3bqqCm/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-2.png",
+      image:
+      require("./coursesImg/liquid line.png"),
     tags: ['Author: Adeyemi'],
     category: "process",
     github: "https://github.com/Joseffl/creative-company-website",
@@ -405,8 +405,8 @@ export const projects = [
     description: [
       "A control valve sizing course aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size of control valves for various industrial applications.",
       "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."],
-    image:
-      "https://i.ibb.co/rdhKfh1/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-1.png",
+      image:
+      require("./coursesImg/CONTROL VALVE SIZING.png"),
     tags: ["Author: Adeyemi"],
     category: "process",
     github: "https://github.com/Joseffl/ai_summarizer",
@@ -454,9 +454,9 @@ export const projects = [
     date: "Oct 2022 - Present",
     description:
       "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
-    image:
-      "https://i.ibb.co/FwxyzhK/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-3.png",
-    tags: [
+      image:
+      require("./coursesImg/gas line sizing.png"),
+      tags: [
       'Author: Adeyemi',
     ],
     category: "process",
@@ -512,8 +512,8 @@ export const projects = [
     date: "Oct 2022 - Present",
     description:
       "A Hazard Identification (HAZID) course is a comprehensive program designed to equip individuals with the essential knowledge and skills to proactively identify, assess, and manage potential hazards within their workplace or projects. This course is crucial for ensuring workplace safety, regulatory compliance, and minimizing the risk of accidents or incidents.",
-    image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      image:
+      require("./coursesImg/hazid.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -568,7 +568,7 @@ export const projects = [
     description:
       "HAZOP is a systematic and structured technique used to identify potential hazards and operational problems in a process or system. It's a widely used method in the process industry, particularly in areas like chemical engineering, pharmaceuticals, and oil and gas. This course aims to equip participants with the knowledge and skills necessary to accurately identify potential hazards and operational problems in a process or system.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/hazop.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -634,8 +634,8 @@ export const projects = [
     date: "Oct 2022 - Present",
     description:
       "An Instrumentation and Control Design course focuses on the principles and practices of designing systems that monitor and control industrial processes. Participants learn to integrate instrumentation and control strategies to optimize performance and ensure safety in various applications. Participants will acquire a robust understanding of instrumentation and control design, enabling them to create effective control systems that enhance efficiency, safety, and reliability in industrial applications.",
-    image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      image:
+      require("./coursesImg/instrumentation.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -700,7 +700,7 @@ export const projects = [
     description:
       "An Instrumentation and Control Design 2 course focuses on the principles and practices of designing of Piping and Instrumentation Diagram [P&ID] Study, Tubing and Fittings Sizes,  RELAY & Gate Logic and PLC Base Logic.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/instrumentation.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -762,7 +762,7 @@ export const projects = [
     description:
       "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector. This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/change management.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -832,7 +832,7 @@ export const projects = [
     description:
       "The Material Selection for Process Units Piping Course is designed to provide participants with the necessary skills and knowledge to select appropriate materials for piping systems used in various process units across industries such as oil and gas, chemicals, and manufacturing. The course emphasizes the importance of material selection to ensure safety, reliability, and efficiency in process operations using the following  material grades; A312 TP304L, A106 Gr. B/A672 Gr.B60,  B165 N04400, A312 TP321H, & A312 TP304.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -896,7 +896,7 @@ export const projects = [
     description:
       "The Material Selection for Piping Utility Course focuses on the principles and practices of selecting appropriate materials for piping systems in various industries. Participants will learn how to evaluate materials based on their properties, applications, and performance in different environments using the following  material grades; A106 Gr.B/A672 Gr.B60, A312 TP304 &  A53 Gr. B/GALV",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -966,7 +966,7 @@ export const projects = [
     description:
       "The Material Selection for Separators and Tanks Course focuses on the critical aspects of selecting materials for separators and storage tanks used in various industries, particularly in oil and gas, chemicals, and petrochemicals. Participants will gain insight into the unique challenges posed by these applications, including pressure, temperature, and corrosive environments using the material grades; carbon steel &  Stainless Steel",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1034,7 +1034,7 @@ export const projects = [
     description:
       "The Material Selection for Turbines and Compressors Course is designed to provide participants with a comprehensive understanding of the material selection process for turbines and compressors used in various industries, including power generation, aerospace, and oil and gas. Given the demanding operating conditions these components face, careful material selection is crucial for performance, safety, and longevity using the material grades; carbon steel & Stainless Steel (T>150).",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1103,7 +1103,7 @@ export const projects = [
     description:
       "The Material Selection for Valves Course is designed to provide participants with the knowledge and skills necessary to select appropriate materials for valves used in various applications across industries such as oil and gas, chemicals, water treatment, and power generation. Given the critical role valves play in controlling flow and ensuring safety, effective material selection is essential for performance, durability, and reliability using the material grades; SA216 WCB, A351 CF8, SA217 WC6, A216 WCB, Monel.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1186,7 +1186,7 @@ export const projects = [
     description:
       "The Material Selection for Heat Exchangers Course is designed to provide participants with a thorough understanding of the criteria and processes involved in selecting materials for heat exchangers used in various industries, including oil and gas, chemicals, power generation, and HVAC. Given the critical role heat exchangers play in thermal management, appropriate material selection is essential for efficiency, safety, and durability using the material grades; carbon steel, SA-516 70N, SA-240 304L, SA-266 2N, SA-965 F304L/SA-182 F304 & Stainless Steel.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1259,7 +1259,7 @@ export const projects = [
     description:
       "The Material Selection for Piping in Chemical Applications Course is designed to equip professionals with the knowledge and skills necessary to select appropriate materials for piping systems specifically used in the chemical industry. Given the unique challenges posed by corrosive environments, temperature extremes, and varying pressures, this course emphasizes the importance of careful material selection to ensure safety, performance, and longevity using the following  material grades; A312 TP304L , A312 TP316L, CPVC &   A312 TP304.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/material selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1338,7 +1338,7 @@ export const projects = [
     description:
       "A multiphase line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for multiphase lines (gas and liquid) in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/multiphase line.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1421,7 +1421,7 @@ export const projects = [
     description:
       "Pump sizing involves determining the right dimensions and capacities of a pump for a specific application. The process includes identifying the pump’s flow rate, head pressure, pump speed, and other related factors. By properly sizing a pump, you can match its performance capabilities to your requirements, ensuring that the pump operates efficiently and reliably. Either API Rp 14e or IS0 13075 codes standard will be use for the sizing.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/PUMP SIZING.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2216,9 +2216,9 @@ export const projects = [
     duration: "3 Days",
     prerequisite: [
       "The prerequisites for a Fired Heaters for General Refinery Service course typically include a foundational understanding of various engineering and process-related concepts, as well as specific knowledge related to refinery operations. Below are common prerequisites for such a course: ",
-      "•	Basic Engineering Knowledge",
-      "•	Refinery Operations Knowledge",
-      "•	Fundamental Thermodynamics"
+      "   Basic Engineering Knowledge",
+      "   Refinery Operations Knowledge",
+      "   Fundamental Thermodynamics"
 
 
 
@@ -2305,9 +2305,9 @@ export const projects = [
     duration: "2 Days",
     prerequisite: [
       "A strong foundation in chemical engineering principles, mass transfer concepts, and basic equipment design is key to fully understanding the complexities of absorption and stripping processes.",
-      "•	Basic Chemical Engineering Principles ",
-      "•	Mass Transfer Fundamentals ",
-      "•	Chemical Process Equipment"
+      " 	Basic Chemical Engineering Principles ",
+      "	  Mass Transfer Fundamentals ",
+      " 	Chemical Process Equipment"
 
 
 
@@ -2599,9 +2599,9 @@ export const projects = [
     duration: "2 Days",
     prerequisite: [
       "To benefit from this course, participants should have: ",
-      "•	Basic Engineering Knowledge.",
-      "•	Mechanical/Electrical Experience.",
-      "•	Safety Training."
+      " 	Basic Engineering Knowledge.",
+      "	  Mechanical/Electrical Experience.",
+      "	  Safety Training."
 
 
 
@@ -2778,8 +2778,8 @@ export const projects = [
     duration: "2 Days",
     prerequisite: [
       "To benefit fully from the course, participants should have: ",
-      "•	Basic Electrical/Electronic Knowledge.",
-      "•	Basic Programming Understanding."
+      "	  Basic Electrical/Electronic Knowledge.",
+      " 	Basic Programming Understanding."
 
 
 
@@ -2868,9 +2868,9 @@ export const projects = [
 
     duration: "2 Days",
     prerequisite: [
-      "•	Educational Background",
-      "•	Basic Understanding of Materials Science",
-      "•	Basic understanding of industrial safety procedures when working with metals or machinery."
+      "	Educational Background",
+      "	Basic Understanding of Materials Science",
+      "	Basic understanding of industrial safety procedures when working with metals or machinery."
 
 
 
@@ -2967,9 +2967,9 @@ export const projects = [
 
     duration: "3 Days",
     prerequisite: [
-      "•	Basic Knowledge of Instruments.",
-      "•	Mathematical and Analytical Skills.",
-      "•	Safety Awareness."
+      "	Basic Knowledge of Instruments.",
+      "	Mathematical and Analytical Skills.",
+      "	Safety Awareness."
 
 
 
@@ -3064,9 +3064,9 @@ export const projects = [
     duration: "2 Days",
     prerequisite: [
       "The course is suitable for both beginners and experienced professionals. However, the following may be beneficial: ",
-      "•	Basic Knowledge of Project Management.",
-      "•	Familiarity with the EPC Industry.",
-      "•	Experience with Construction or Engineering Projects."
+      " 	Basic Knowledge of Project Management.",
+      " 	Familiarity with the EPC Industry.",
+      " 	Experience with Construction or Engineering Projects."
 
 
 
