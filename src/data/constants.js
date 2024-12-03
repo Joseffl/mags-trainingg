@@ -1599,7 +1599,7 @@ export const projects = [
     description:
       "Core Engineering Concepts: Basic Thermodynamics, Fluid Mechanics and Unit Operations. Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/PFD.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1689,7 +1689,7 @@ export const projects = [
     description:
       "A course on Piping and Instrumentation Diagrams (P&IDs) focuses on teaching participants how to create, interpret, and utilize these critical diagrams in engineering and industrial settings. P&IDs are essential for understanding the design, operation, and maintenance of process systems. Participants will gain a solid understanding of P&IDs, equipping them with the skills needed to create and analyze these diagrams effectively, enhancing their ability to contribute to project success and safety in their respective fields.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/p and id.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1786,7 +1786,7 @@ export const projects = [
     description:
       "Pressure Safety Valves (PSV) are utilized and engineered into designs to relieve pressure in emergency conditions. PSVs are used in numerous industries and can be designed in many different ways depending on the needs of the system. This course will get you accustomed to PSVs and show you how to size and select the appropriate one for your needs. Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/psv sizing.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1889,7 +1889,7 @@ export const projects = [
       "The following codes and standard are referred; API 500, API 2510, API RP 752, NFPA 30, NFPA 50A, NFPA 58, NFPA 59."
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/PLANT LAYOUT.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1962,7 +1962,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/STANDARD FOR  THE INSTALLATION OF STATIONARY PUMPS FOR FIRE PROTECTION.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2044,7 +2044,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/ATMOSPHERIC AND LOW-PRESSURE STORAGE TANK VENTING.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2124,7 +2124,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/STRAINERS.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2205,7 +2205,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/fired heaters.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2294,7 +2294,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/ABSORPTION AND STRIPPING.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2380,7 +2380,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/BASIC OPERATION AND FUNCTION OF CONTROL VALVES.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2479,7 +2479,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/BOILER EMERGENCIES.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2588,7 +2588,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/AUXILLARY SYSTEM OF THE GAS TURBINE.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2678,7 +2678,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/Centrifugal compressor.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2767,7 +2767,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/AUTOMATION AND PLC.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2858,7 +2858,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/CARBON STEEL.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2957,7 +2957,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/CALIBRATION - TECHNICIANS GUIDE.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -3053,7 +3053,7 @@ export const projects = [
 
     ],
       image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+      require("./coursesImg/CAUSES OF DELAYS IN EPC, PM.png"),
     tags: [
       'Author: Adeyemi',
     ],
