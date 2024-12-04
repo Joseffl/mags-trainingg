@@ -5,9 +5,9 @@ export const Bio = {
   github: "#",
   resume:
     "https://drive.google.com/file/d/1rqeUcfiz8Ea3m1FecDcAdKzErcmmWkqW/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/animasaun-joseph-2942b0200",
-  twitter: "https://twitter.com/Laroyyking?s=08",
-  insta: "https://instagram.com/_josefan?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+  linkedin: "",
+  twitter: "",
+  insta: "https://www.instagram.com/mags_engineering?igsh=b2VkaHMyZnNnMmc1",
 };
 
 export const skills = [
@@ -353,7 +353,7 @@ export const projects = [
     description:
       "A liquid line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for liquid lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
       image:
-      require("./coursesImg/liquid line.png"),
+      require("./coursesImg/liquid line sizing.png"),
     tags: ['Author: Adeyemi'],
     category: "process",
     github: "https://github.com/Joseffl/creative-company-website",
@@ -700,7 +700,7 @@ export const projects = [
     description:
       "An Instrumentation and Control Design 2 course focuses on the principles and practices of designing of Piping and Instrumentation Diagram [P&ID] Study, Tubing and Fittings Sizes,  RELAY & Gate Logic and PLC Base Logic.",
     image:
-    require("./coursesImg/instrumentation.png"),
+    require("./coursesImg/instrumentation 2.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1338,7 +1338,7 @@ export const projects = [
     description:
       "A multiphase line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for multiphase lines (gas and liquid) in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
     image:
-    require("./coursesImg/multiphase line.png"),
+    require("./coursesImg/multiphase line sizing.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -1508,7 +1508,7 @@ export const projects = [
     description:
       "The Oil and Gas Material Selection Course is designed to provide participants with a comprehensive understanding of material selection processes specific to the oil and gas industry. The course covers the criteria for choosing materials that can withstand the harsh environments and operational challenges faced in upstream, midstream, and downstream applications.",
     image:
-      "https://i.ibb.co/LzYBb6R/4.png",
+    require("./coursesImg/oil and gas selection.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2678,7 +2678,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/Centrifugal compressor.png"),
+      require("./coursesImg/Centrifugal.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -2912,7 +2912,7 @@ export const projects = [
         "Module 8:  Applications",
         "Module 9:  Corrosion and Protective Coatings",
         "Module 10: Testing and Inspection",
-        "Module 11:  Case Studies"
+        "Module 11: Case Studies"
 
 
 
@@ -3134,6 +3134,433 @@ export const projects = [
 ,
     ],
     cost: "₦50,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Compressor",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "This comprehensive training program is designed to provide in-depth knowledge on various types of compressors, focusing on centrifugal, reciprocating, and axial compressors. The modules aim to equip engineers, designers, and technicians with the necessary skills to understand the working principles, design considerations, performance characteristics, and practical aspects of compressor operation. Topics will cover both the theoretical and practical aspects of compressor technology, providing the participants with tools and methodologies to estimate, specify, control, and maintain compressors in different industrial applications."
+
+    ],
+      image:
+      require("./coursesImg/COMPRESSOR.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "procurement construction",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of thermodynamics and fluid mechanics.",
+      "Familiarity with mechanical engineering principles, of compressors.",
+      "Fundamental knowledge of process engineering in industrial systems (such as chemical, power, and manufacturing plants).",
+      "Basic understanding of control systems and instrumentation used in industrial equipment.",
+      "Previous experience in compressor operation or design is helpful, though not required for beginners interested in gaining detailed knowledge."
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamental principles of compressor technology, including the different types of compressors and their applications.",
+          "Estimate and select centrifugal compressors using power rating methods and sizing techniques.",
+          "Specify and design compressors, including understanding power ratings, sizing considerations, and the importance of metallurgy, shaft seals, and balance pistons.",
+          "Evaluate compressor performance characteristics, and develop approaches to optimize and control compressor performance.",
+          "Understand and apply mechanical and process design principles for both centrifugal and reciprocating compressors.",
+          "Identify and solve unique compressor problems, particularly related to performance and operational issues.",
+          "Implement control and instrumentation systems for centrifugal compressors to ensure smooth operation and efficiency.",
+          "Understand the design, performance, and maintenance of reciprocating compressors, and apply proper sizing and performance analysis techniques.",
+          "Master the sizing techniques for axial compressors and understand their unique characteristics and applications."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Centrifugal Compressor Estimate.",
+        "Module 3:  How to specify a compressor; Power rating method and sizing",
+        "Module 4:  New Ideas on  Centrifugal Compressor; Metallurgy, design, shaft seals and balance pistons",
+        "Module 5:  Approach to compressor performance ",
+        "Module 6:  Important performance characteristics",
+        "Module 7:  Process and mechanical design",
+        "Module 8:  How to control Centrifugal Compressor",
+        "Module 9:  How to instrument Centrifugal Compressor ", 
+        "Module 10: Unique compressor problems",
+        "Module 11: Piston compressor rating",
+        "Module 12: Mechanical Design of  Reciprocating Compressor",
+        "Module 13: Performance characteristics of  Reciprocating Compressor",
+        "Module 14: Installation, operation and maintenance of  Reciprocating Compressor",
+        "Module 15: How to size  Axial Compressor",
+        "Module 16: Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+
+  {
+    id: 10,
+    title: "Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Centrifugal compressor is a type of dynamic compressor commonly used in petroleum, chemical, and gas service industries due to its high efficiency, reliability, and ability to handle large volumes of gases. These industries rely on centrifugal compressors to boost the pressure of gases for various applications, including refining, natural gas transportation, and chemical processing.", 
+      "Centrifugal Compressor for Petroleum, Chemical, and Gas Service Industries course typically focuses on the principles, design, operation, and maintenance of centrifugal compressors used in various industrial applications. These compressors are widely used in the petroleum, chemical, and gas industries for tasks such as gas compression, air handling, and refrigeration. Below is an outline of the key topics often covered in such a course: "
+
+    ],
+      image:
+      require("./coursesImg/Centrifugal.png"),
+    tags: [
+      'Author: Engr. Adeyemi',
+    ],
+    category: "procurement construction",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "The prerequisites typically focus on foundational knowledge in mechanical and chemical engineering principles, as well as an understanding of fluid mechanics, thermodynamics, and industrial systems."
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "In-depth understanding of centrifugal compressor technology and its applications.",
+          "Knowledge of design, operation, and troubleshooting techniques for maintaining high-performance compressors.",
+          "Ability to identify and resolve common issues related to compressor systems.",
+          "Familiarity with safety, maintenance, and regulatory considerations specific to the petroleum, chemical, and gas industries"
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Centrifugal Compressors",
+        "Module 2:   Applications in Petroleum, Chemical, and Gas Industries.",
+        "Module 3:   Basic Design",
+        "Module 4:   Accessories",
+        "Module 5:   Inspection, Testing And preparation for shipment ",
+        "Module 6:   Vendors data",
+        "Module 7:   Case Studies " 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦60,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Storage tank inspection",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Storage tank inspection is a crucial part of maintaining the safety, integrity, and operational efficiency of tanks used across various industries, particularly those that store hazardous liquids or chemicals. Regular and thorough inspections help prevent leaks, minimize environmental risks, ensure regulatory compliance, and prolong the life of storage tanks. ",
+      "Using advanced inspection methods like ultrasonic testing and magnetic flux leakage, combined with routine visual checks, can identify potential issues early, allowing for timely repairs and ensuring safe tank operation. Proper documentation and adherence to industry standards, such as API 653, ensure that tanks remain safe and compliant throughout their lifecycle.",
+      "Storage Tank Inspection Course is designed to provide professionals with the knowledge and skills needed to inspect, evaluate, and maintain storage tanks used in various industries, particularly in the petroleum, chemical, and gas sectors. Storage tanks are essential for the safe storage of liquids, gases, chemicals, and other materials, and their inspection is crucial for ensuring safety, regulatory compliance, and operational efficiency."
+
+    ],
+      image:
+      require("./coursesImg/API 653- sTORAGE TANK INSPECTION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "procurement construction",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "4 Days",
+    prerequisite: [
+      "Basic Engineering Knowledge",
+      "Safety Training",
+      "Knowledge of Industry Standards and Codes",
+      "Basic Inspection Techniques"
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand and apply industry standards and regulations related to tank inspection.",
+          "Effectively conduct visual inspections and non-destructive testing on tanks.",
+          "Identify potential risks and failures associated with storage tanks.",
+          "Document inspection findings and generate professional reports.",
+          "Implement maintenance and repair solutions for common tank problems.",
+          "Safely perform inspections, especially in confined spaces or hazardous environments."
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction to Storage Tanks",
+        "Module 2:  Regulatory and Industry Standards.",
+        "Module 3:  Inspection Principles and Techniques",
+        "Module 4:  Corrosion and Damage Mechanisms",
+        "Module 5:  Risk-Based Inspection (RBI)", 
+        "Module 6:  Tank Inspection Reports and Documentation",
+        "Module 7:  Maintenance and Repair Procedures",
+        "Module 8:  Tank Testing and Testing Procedures",
+        "Module 9:  Emergency and Safety Procedures ",
+        "Module 10: Case Studies "
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦300,000 / $250"
+  },
+
+  {
+    id: 10,
+    title: "Distillation and Vapor Pressure Measurement in Petroleum Products",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Distillation and vapor pressure measurement are critical techniques in the analysis of petroleum products. These methods provide important information regarding the volatility, purity, and composition of petroleum products such as crude oil, gasoline, diesel, jet fuel, and lubricating oils. ",
+      "This course provides in-depth knowledge of distillation and vapor pressure measurement techniques applied to various petroleum products. It covers both theoretical and practical aspects, focusing on the significance of distillation and vapor pressure in the characterization of petroleum and its derivatives. ",
+      "The course explores different methods of distillation measurement (at atmospheric and reduced pressures), simulated distillation techniques, and vapor pressure measurements. Additionally, it covers the importance of these measurements for various petroleum products, including crude oil, spark-ignition fuels, diesel fuels, aviation fuels, solvents, and liquefied petroleum gas (LPG). Through case studies and real-world examples, participants will learn how to analyze distillation and vapor pressure data to meet industry standards and optimize production processes.",
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Chemistry and Thermodynamics.",
+      "Petroleum Refining Processes.",
+      "Instrumentation and Measurement Techniques.",
+      "Safety Standards."
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the Principles of Distillation and Vapor Pressure",
+          "Describe the techniques and equipment used for distillation at atmospheric pressure.",
+          "Interpret data and understand the implications of distillation cuts for different petroleum products.",
+          "Discuss the principles and methods used for distillation under reduced pressure conditions.",
+          "Analyze the advantages and limitations of reduced pressure distillation in petroleum refining.",
+          "Understand the process and applications of simulated distillation.",
+          "Explain the differences between traditional distillation methods and simulated distillation, particularly for complex petroleum mixtures.",
+          "Master the principles and techniques for measuring vapor pressure in petroleum products.",
+          "Evaluate the significance of vapor pressure in the storage, handling, and transportation of petroleum products.",
+          "Investigate the technology and methods for real-time, on-line measurement of distillation and vapor pressure.",
+          "Discuss the benefits and challenges of implementing on-line measurement systems in industrial settings.",
+          "Analyze distillation and vapor pressure data for different categories of petroleum products, including crude oil, spark-ignition fuels, diesel, aviation fuels, solvents, and LPG.",
+          "Compare data sets to understand product characteristics and regulatory compliance."
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Distillation Measurement at Atmospheric Pressure.",
+        "Module 3:  Distillation Measurement at Reduced Pressure",
+        "Module 4:  Simulated Distillation Measurement",
+        "Module 5:  Vapor Pressure Measurement",
+        "Module 6:  An Overview of On-Line Measurement for Distillation and Vapor Pressure",
+        "Module 7:  Distillation and Vapor Pressure Data of Crude Oil",
+        "Module 8:  Distillation and Vapor Pressure Data in Spark-Ignition Fuels",
+        "Module 9:  Distillation and Vapor Pressure Data of Diesel Fuels",
+        "Module 10: Distillation and Vapor Pressure in Aviation Fuels",
+        "Module 11: Distillation and Vapor Pressure Data of Solvents",
+        "Module 12: Distillation and Vapor Pressure Data in Liquefied Petroleum Gas.",
+        "Module 13: Case Studies "
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
   },
 
 

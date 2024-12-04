@@ -64,10 +64,10 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href="#" target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href="#" target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Laroytech. All rights reserved.
+          &copy; 2024 Mags Engineering . All rights reserved.
         </Copyright>
 
       </FooterWrapper>
