@@ -44,12 +44,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="project management" onClick={() => setToggle('project management')}>Project Management Consultancy</ToggleButton>
           }
-          <Divider />
-          {toggle === 'procurement construction' ?
-            <ToggleButton active value="procurement construction" onClick={() => setToggle('procurement construction')}>Procurement & Construction</ToggleButton>
-            :
-            <ToggleButton value="procurement construction" onClick={() => setToggle('procurement construction')}>Procurement & Construction</ToggleButton>
-          }
+          
           <Divider />
           {toggle === 'commissioning' ?
             <ToggleButton active value="commissioning" onClick={() => setToggle('commissioning')}>Precommissioning & Commissioning</ToggleButton>

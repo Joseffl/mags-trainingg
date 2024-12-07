@@ -2862,7 +2862,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "procurement construction",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -3057,7 +3057,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "procurement construction",
+    category: "project management",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -3151,7 +3151,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "procurement construction",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -3264,7 +3264,7 @@ export const projects = [
     tags: [
       'Author: Engr. Adeyemi',
     ],
-    category: "procurement construction",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -3561,6 +3561,590 @@ export const projects = [
 ,
     ],
     cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Distillation Column Selection and Sizing",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Distillation Column Selection and Sizing is a crucial step in the design and operation of distillation processes, commonly used in the chemical, petrochemical, pharmaceutical, and food industries. The objective of this process is to efficiently separate mixtures of liquids based on their different volatilities.",
+      "The Distillation Column Selection and Sizing course provides participants with essential knowledge and practical tools for selecting and sizing distillation columns used in chemical, petroleum, and petrochemical processes. This course covers the fundamental principles of distillation, the history and evolution of distillation technologies, various types of distillation processes, and detailed insights into distillation column internals and their role in effective separation. It further delves into the factors influencing column selection, general design considerations, and how to optimize the design of distillation columns for efficient operation. The course also includes real-world case studies to illustrate the application of these principles in industrial settings."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Participants are expected to have a basic understanding of the following concepts: ",
+      "Basic Chemistry and Thermodynamics.",
+      "Chemical Engineering Principles.",
+      "Basic Process Design.",
+      "Petroleum and Chemical Industries."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the Principles of Distillation: ",
+          "Identify the Different Types of Distillation Processes",
+          "Understand the History and Evolution of Distillation",
+          "Comprehend the Different Modes of Distillation Operation",
+          "Understand Distillation Column Internals",
+          "Select Appropriate Column Internals for Specific Applications",
+          "Explore the Design Considerations for Distillation Columns",
+          "Understand the Process of Selecting the Right Type of Distillation Column",
+          "Apply Knowledge to Real-World Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Scope.",
+        "Module 3:   Distillation",
+        "Module 4:   Distillation History",
+        "Module 5:   Types of Distillation Processes",
+        "Module 6:   Mode of Operation",
+        "Module 7:   Column Internals",
+        "Module 8:   Types of Distillation Column",
+        "Module 9:   General Design Consideration",
+        "Module 10:  The Selection of Column Internals",
+        "Module 11:  Case Studies "
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+
+  {
+    id: 10,
+    title: "Mechanical Drafting (Equipment & Piping  (AutoCAD)) Engineering",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Mechanical Drafting (Equipment & Piping) Engineering course is designed to teach students the fundamental skills of mechanical drafting with a focus on equipment and piping systems, using AutoCAD as the primary tool. The course typically emphasizes creating precise technical drawings for mechanical equipment and piping installations, which are crucial in industries like manufacturing, petrochemicals, power plants, and HVAC systems. ",
+      "This course is ideal for individuals pursuing a career in mechanical engineering, industrial design, or construction, where proficiency in drafting mechanical equipment and piping systems is essential."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "8 Days",
+    prerequisite: [
+      "Basic knowledge of AutoCAD.",
+      "Basic understanding of mechanical engineering concepts.",
+      "Basic mathematics and geometry skills.",
+      "Familiarity with industrial equipment and piping systems."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Be proficient in AutoCAD for creating detailed mechanical equipment and piping system drawings.",
+          "Understand the principles behind piping systems, equipment layouts, and mechanical system design.",
+          "Be able to create both 2D technical drawings and isometric views for piping and equipment systems.",
+          "Know how to apply drafting standards, symbols, and conventions in mechanical engineering.",
+          "Develop the ability to integrate mechanical equipment with piping systems in real-world design projects.",
+          "Understand the importance of quality control and accuracy in mechanical and piping drafting."
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Mechanical Drafting & AutoCAD Basics",
+        "Module 2:   Basic Mechanical Equipment Drafting.",
+        "Module 3:   Introduction to Piping Systems",
+        "Module 4:   Piping Layout and Design",
+        "Module 5:   Advanced Equipment Drafting",
+        "Module 6:   Isometric Piping Drawings",
+        "Module 7:   Drafting Standards and Quality Control",
+        "Module 8:   Final Project – Equipment and Piping System Design",
+        "Module 9:   Final Review, Presentation & Exam"
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦120,000 / $90"
+  },
+
+
+  {
+    id: 10,
+    title: "Introduction to Oil and Gas",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Oil and gas are two of the most significant sources of energy used globally, powering industries, transportation, and homes. They are both fossil fuels, formed over millions of years from the remains of ancient plants and animals buried and subjected to intense heat and pressure deep within the Earth. ",
+      "The Introduction to Oil and Gas course provides a comprehensive foundation for the world of oil and gas. It is designed to equip students with an understanding of the key components and operations of the industry, from exploration to production, transportation, refining, and distribution. Through a detailed exploration of the upstream, midstream, and downstream sectors, as well as safety systems, utilities, and future trends, this course offers a well-rounded introduction to the oil and gas industry.",
+      "With a mix of theoretical content, real-world case studies, and a forward-looking perspective, this course prepares participants to understand the challenges and opportunities in the oil and gas industry, and to apply their knowledge to various practical scenarios."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "This course is designed for individuals with little to no prior knowledge of the oil and gas industry.", 
+      "Basic Understanding of Science.",
+      "Interest or Background in Engineering or Energy."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the structure and operation of the oil and gas industry ",
+          "Explain the core activities in the upstream sector ",
+          "Analyze the midstream sector's role",
+          "Understand the downstream sector",
+          "Recognize the importance of associated, utility, and safety systems ",
+          "Assess future trends in the oil and gas industry.",
+          "Apply case study analysis to real-world scenarios."
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to oil and gas industry",
+        "Module 2:   The Upstream Sector.",
+        "Module 3:   The Midstream Sector.",
+        "Module 4:   The Downstream Sector.",
+        "Module 5:   Associated, Utility & Safety Systems",
+        "Module 6:   Future Trends in the Oil and Gas Industry",
+        "Module 7:   Case Studies "
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦60,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Basic Drafting Engineering",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Basic Drafting Engineering course focuses on the foundational skills needed for technical drawing and design in engineering. Drafting is a critical part of the engineering and manufacturing processes, as it involves creating precise, standardized representations of structures, systems, and components. ",
+      "Basic Drafting Engineering Course provides an introduction to the principles and practices of technical drawing, aimed at beginners or those seeking foundational skills in drafting. This type of course typically covers both manual and digital drafting techniques, focusing on the creation of accurate and clear drawings used in engineering, architecture, and manufacturing. ",
+      "By the end of the course, students will have acquired the basic skills needed to pursue further study or entry-level roles in engineering design, drafting, or architecture. They may continue to explore specialized areas like mechanical drafting, civil engineering drafting, or advanced CAD design."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Basic Mathematics",
+      "Basic Computer Skills",
+      "Basic Problem-Solving Skills",
+      "Interest or Curiosity in Design and Engineering"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the concept of change and change management.",
+          "Understand key roles in the change management process.",
+          "Determine the phases of change management.",
+          "Learn to formulate an effective plan for the change process.",
+          "Deeply understand the reasons for resistance to change.",
+          "Find out about effective methods of preventing and eliminating resistance to change.",
+          "Gain the ability to design fruitful communication related to the change process.",
+          "Learn techniques for effective implementation of change.",
+          "Develop skills associated with controlling the change process.",
+          "Build proficiency in shaping a change-oriented organizational culture."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Drafting",
+        "Module 2:   Drawing Standards and Conventions.",
+        "Module 3:   Basic Geometric Constructions",
+        "Module 4:   Orthographic Projection (Plant General Arrangement)",
+        "Module 5:   Isometric and Axonometric Drawing (Piping)",
+        "Module 6:   Introduction to CAD (Computer-Aided Design)",
+        "Module 7:   Assembly and Component Drawings",
+        "Module 8:   Sectional and Detail Views",
+        "Module 9:   Piping and Electrical Drawings (Basic)",
+        "Module 10:  Drawing for Manufacturing and Fabrication",
+        "Module 11:  Technical Report Writing (Basic)"
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "FREE"
+  },
+
+
+  {
+    id: 10,
+    title: "Gas Processing Operation",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Gas processing operations involve a series of steps and technologies used to treat and refine natural gas, which is extracted from reservoirs, before it can be transported and used. Natural gas extracted from the ground often contains impurities, such as water, carbon dioxide (CO2), hydrogen sulfide (H2S), and natural gas liquids (NGLs), which need to be removed to meet the quality standards required for transportation and end use. The goal of gas processing is to separate valuable components, remove contaminants, and ensure the gas meets pipeline specifications",
+      "This course is ideal for professionals, technicians, engineers, and students interested in pursuing careers or advancing their expertise in the natural gas sector. The focus is on the various processes used to remove impurities, separate natural gas liquids (NGLs), and make natural gas suitable for use in industries like power generation, residential heating, and transportation."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Science Knowledge.",
+      "Basic Engineering Concepts.",
+      "Introduction to Gas or Oil Industry"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the composition of natural gas and the types of impurities that need to be removed.",
+          "Learn about the key processes involved in natural gas treatment and purification, such as dehydration, sulfur removal, and CO2 removal.",
+          "Explore the techniques for separating natural gas liquids (NGLs) and their uses.",
+          "Gain practical knowledge of equipment used in gas processing plants (e.g., compressors, distillation columns, heat exchangers).",
+          "Learn the safety and regulatory practices in the operation and maintenance of gas processing facilities.",
+          "Understand the economic, environmental, and sustainability challenges in gas processing."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Gas Processing",
+        "Module 2:   Composition and Properties of Natural Gas.",
+        "Module 3:   Gas Treatment Processes",
+        "Module 4:   Natural Gas Liquids (NGL) Recovery",
+        "Module 5:   Gas Processing Equipment",
+        "Module 6:   Gas Processing Plant Operations",
+        "Module 7:   Safety and Environmental Considerations",
+        "Module 8:   Economic and Sustainability Aspects",
+        "Module 9:   Case Studies and Industry Trends"
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦60,000 / $40"
   },
 
 
