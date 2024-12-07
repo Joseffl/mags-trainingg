@@ -3694,7 +3694,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "Petroleum",
+    category: "plant drafting",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -3920,7 +3920,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "Petroleum",
+    category: "plant drafting",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -4147,9 +4147,360 @@ export const projects = [
     cost: "₦60,000 / $40"
   },
 
+  {
+    id: 10,
+    title: "Structural Drafting Engineering",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Structural Drafting Engineering is a specialized area of engineering focused on creating detailed technical drawings for the design and construction of structures, such as buildings, bridges, and other infrastructure projects. Structural drafters and engineers use specialized tools and software to produce accurate, detailed, and standardized plans, including structural layouts, component specifications, and material details. These drawings are essential for contractors, fabricators, and construction teams to ensure that structures are built safely, efficiently, and according to design specifications.",
+      "Structural Drafting Engineering (AutoCAD) course is designed to teach students how to create detailed and accurate structural drawings and designs using AutoCAD. These drawings are essential for the construction and fabrication of buildings, bridges, and other infrastructure projects. The course covers the principles of structural engineering and the application of AutoCAD for creating blueprints, layouts, foundation plans, and reinforcement details."
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic knowledge of civil or structural engineering principles.",
+      "Basic proficiency in AutoCAD.",
+      "Basic drafting knowledge"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Use AutoCAD effectively for creating structural drawings, including foundation plans, framing plans, and reinforcement details.",
+          "Understand and apply structural engineering principles to create accurate and efficient drawings.",
+          "Create detailed structural layouts for buildings, bridges, and other infrastructure projects.",
+          "Develop construction details such as beam and column connections, foundation reinforcement, and structural steel detailing.",
+          "Apply industry standards (e.g., AISC, BS, IS, Eurocodes) in the creation of structural drawings."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Structural Drafting and AutoCAD Basics",
+        "Module 2:   Structural Drafting Process",
+        "Module 3:   Structural Drafting Techniques",
+        "Module 4:   Standards and Codes in Structural Drafting",
+        "Module 5:   Structural Foundation and Floor Plans.",
+        "Module 6:   Framing Plans and Structural Components",
+        "Module 7:   Structural Detailing for Steel and Concrete",
+        "Module 8:  Beams, Columns, Panels, Stairs, Ladders layouts",
+        "Module 9:  Case Studies"
+
+
+
+
+
+
 
  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+,
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Electrical Drafting (Microsoft Visio) Engineering ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Electrical Drafting (Microsoft Visio) Engineering course focuses on teaching the fundamental skills of electrical drafting using Microsoft Visio as a tool for creating electrical diagrams, circuit layouts, and system schematics. Microsoft Visio is a versatile and widely-used tool for creating various technical diagrams, including electrical schematics, wiring diagrams, and system flowcharts.",
+      "Electrical Drafting (Microsoft Visio) Engineering course is designed to teach individuals how to use Microsoft Visio for creating electrical schematics, wiring diagrams, circuit layouts, and other types of electrical drawings. This course is suitable for electrical engineers, designers, and technicians looking to develop skills in visualizing and documenting electrical systems using Visio."
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "5 Days",
+    prerequisite: [
+      "Basic knowledge of electrical systems and components (e.g., circuit breakers, transformers, switches, and conductors).",
+      "Familiarity with basic principles of electricity (voltage, current, resistance, power).",
+      "Basic understanding of Microsoft Visio."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand how to use Microsoft Visio as a tool for electrical drafting.",
+          "Be able to design and draft electrical schematics, wiring diagrams, and panel layouts.",
+          "Apply industry standards for electrical symbols and diagramming conventions.",
+          "Create one-line diagrams and electrical circuit diagrams.",
+          "Integrate control systems, power distribution, and wiring layouts in Visio.",
+          "Prepare clear and accurate electrical documentation suitable for engineering projects and construction."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Electrical Drafting and Visio Basics",
+        "Module 2:   Electrical Symbols and Diagramming Conventions.",
+        "Module 3:   Creating Electrical Schematics",
+        "Module 4:   Designing Wiring Diagrams and Panel Layouts",
+        "Module 5:   Advanced Electrical Drafting in Visio",
+        "Module 6:   Drafting Standards ",
+        "Module 7:   Case Studies",
+        "Module 8:   Final Project "
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Process Drafting Engineering (Microsoft Visio) ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process Drafting Engineering (Microsoft Visio) course is designed to teach students how to create detailed process diagrams, equipment layouts, and schematics using Microsoft Visio, which is commonly used for visualizing, documenting, and analyzing process systems in industries like chemical, oil & gas, power generation, and manufacturing. This course focuses on process flow diagrams (PFDs), piping and instrumentation diagrams (P&IDs), equipment layouts, and other process-related drawings."
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "6 Days",
+    prerequisite: [
+      "Basic knowledge of process engineering.",
+      "Familiarity with Microsoft Visio.",
+      "Basic knowledge of drafting principles"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Use Microsoft Visio effectively to create process flow diagrams (PFDs), piping and instrumentation diagrams (P&IDs), and other process-related documentation.",
+          "Understand and apply industry-standard symbols and conventions for process drafting.",
+          "Design equipment layouts, piping systems, and control systems for industrial processes.",
+          "Create dynamic and clear process diagrams that are useful for plant design, maintenance, and operations.",
+          "Utilize Visio’s advanced features for shapes, templates, and data linking to generate accurate process documentation."
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Process Drafting and Microsoft Visio Basics",
+        "Module 2:   Creating Process Flow Diagrams (PFDs) in Visio",
+        "Module 3:   Creating Piping and Instrumentation Diagrams (P&IDs)",
+        "Module 4:   Advanced Process Drafting Techniques",
+        "Module 5:   Drafting Standards, Documentation, and Reporting",
+        "Module 6:   Case Studies "
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Process Drafting Engineering (Autocad) ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process Drafting Engineering refers to the creation and design of technical drawings and diagrams used to represent industrial processes, systems, and equipment layouts. It is a vital discipline within industries such as chemical processing, oil and gas, power generation, and manufacturing. The purpose of process drafting is to ensure that all components of a process system are accurately depicted, well-coordinated, and compliant with industry standards, ensuring efficient operation, safety, and ease of maintenance.",
+      "Process Drafting Engineering course is designed to teach students how to create technical drawings and schematics for process systems using AutoCAD, one of the most widely used software applications in the field of engineering drafting. This course typically focuses on creating detailed process flow diagrams (PFDs), piping and instrumentation diagrams (P&IDs), and other essential process-related documents, such as equipment layouts, piping systems, and safety drawings. AutoCAD offers precision and the ability to generate complex designs, which makes it invaluable in industries such as chemical, petroleum, power, and manufacturing."
+
+    ],
+      image:
+      require("./coursesImg/DISTILLATION.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "8 Days",
+    prerequisite: [
+      "Basic knowledge of process engineering.",
+      "Familiarity with AutoCAD",
+      "Basic knowledge of drafting principles"
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Master the use of AutoCAD to design process flow diagrams (PFDs), piping and instrumentation diagrams (P&IDs), and equipment layouts.",
+          "Understand the symbols and standards used in process engineering for drafting.",
+          "Create detailed and professional process designs, including piping layouts, instrumentation, and control systems.",
+          "Apply industry standards such as ISO, ANSI, and other relevant guidelines for process drafting.",
+          "Create 3D models of process plants and integrate them into overall layouts.",
+          "Develop process documentation for real-world industrial projects." 
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction to Process Drafting and AutoCAD Basics",
+        "Module 2:   Process Flow Diagrams (PFDs).",
+        "Module 3:   Piping and Instrumentation Diagrams (P&IDs)",
+        "Module 4:   Advanced Process Drafting Techniques",
+        "Module 5:   Drafting Standards, Documentation, and Reporting",
+        "Module 6:   Case Studies"
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
 ];
 
 
