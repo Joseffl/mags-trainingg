@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import FacebookIcon from '@mui/icons-material/Facebook';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -64,7 +65,9 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href="#" target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          
         </SocialMediaIcons>
         <Copyright>
           &copy; 2024 Mags Engineering . All rights reserved.
