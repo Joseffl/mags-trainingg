@@ -308,7 +308,7 @@ export const projects = [
     description:
       "A Basic Line Sizing course typically aims to equip students with the fundamental knowledge and skills required to determine the appropriate size of pipes or lines for fluid transportation systems.",
     image:
-      "https://i.ibb.co/J3bqqCm/Blue-Modern-Manufacturing-Engineering-Service-Facebook-Cover-2.png",
+    require("./coursesImg/Basic line.png"),
     tags: ['Author: Adeyemi'],
     category: "process",
     github: "https://github.com/Joseffl/creative-company-website",
@@ -3575,7 +3575,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/distillation column.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -3690,7 +3690,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/mechanical drafting.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -3803,7 +3803,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/intro to oil.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -3916,7 +3916,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/basic drafting.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4040,7 +4040,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/gas processing.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4158,7 +4158,7 @@ export const projects = [
       "Structural Drafting Engineering (AutoCAD) course is designed to teach students how to create detailed and accurate structural drawings and designs using AutoCAD. These drawings are essential for the construction and fabrication of buildings, bridges, and other infrastructure projects. The course covers the principles of structural engineering and the application of AutoCAD for creating blueprints, layouts, foundation plans, and reinforcement details."
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/structural drafting.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4276,7 +4276,7 @@ export const projects = [
       "Electrical Drafting (Microsoft Visio) Engineering course is designed to teach individuals how to use Microsoft Visio for creating electrical schematics, wiring diagrams, circuit layouts, and other types of electrical drawings. This course is suitable for electrical engineers, designers, and technicians looking to develop skills in visualizing and documenting electrical systems using Visio."
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/electrical drafting.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4393,7 +4393,7 @@ export const projects = [
       "Process Drafting Engineering (Microsoft Visio) course is designed to teach students how to create detailed process diagrams, equipment layouts, and schematics using Microsoft Visio, which is commonly used for visualizing, documenting, and analyzing process systems in industries like chemical, oil & gas, power generation, and manufacturing. This course focuses on process flow diagrams (PFDs), piping and instrumentation diagrams (P&IDs), equipment layouts, and other process-related drawings."
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/process drafting visio.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4452,7 +4452,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      require("./coursesImg/process drafting.png"),
     tags: [
       'Author: Adeyemi',
     ],
