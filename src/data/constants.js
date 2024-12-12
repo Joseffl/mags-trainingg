@@ -4228,32 +4228,6 @@ export const projects = [
 
 
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ],
     assessment: "	Online Written  Exam",
     cdf: [
@@ -4293,22 +4267,6 @@ export const projects = [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ],
     methodology: "Theoretical",
     objectives: [
@@ -4318,19 +4276,6 @@ export const projects = [
           "Create one-line diagrams and electrical circuit diagrams.",
           "Integrate control systems, power distribution, and wiring layouts in Visio.",
           "Prepare clear and accurate electrical documentation suitable for engineering projects and construction."
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                   
     ],
@@ -4343,34 +4288,6 @@ export const projects = [
         "Module 6:   Drafting Standards ",
         "Module 7:   Case Studies",
         "Module 8:   Final Project "
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     ],
@@ -4500,6 +4417,327 @@ export const projects = [
       "On-the-job training"
     ],
     cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Specification for Oil & Gas Separator  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "An oil and gas separator is a crucial piece of equipment in the oil and gas industry used to separate the mixed production fluids (oil, gas, water, and other solids) into their individual components. The separator typically works in the upstream segment of the industry, before the fluids undergo further processing or transportation. ",
+      "The Specification for Oil & Gas Separator course provides a comprehensive guide for engineers, designers, and professionals working with separation equipment in the oil and gas industry. This specification outlines the fundamental concepts, guidelines, and technical aspects involved in the design, fabrication, testing, and operation of separators. Separators are essential equipment used to separate different phases (oil, gas, and water) from production streams in the oil and gas industry. Through this course, participants will gain a deeper understanding of separator specifications, from initial design through to commissioning, and will acquire the knowledge necessary to meet industry standards and address practical challenges."
+
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "plant drafting",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "5 Days",
+    prerequisite: [
+      "Basic Engineering Knowledge.",
+      "Familiarity with Oil & Gas Processes.",
+      "Fundamentals of Fluid Mechanics.",
+      "Experience with Industry Standards."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the Role and Importance of Separators.",
+          "Comprehend Industry Standards and Scope.",
+          "Learn Key Terminology and Definitions.",
+          "Select Materials for Separator Construction.",
+          "Apply Principles of Separator Design.",
+          "Understand Fabrication, Testing, and Painting.",
+          "Marking and Identification Standards.",
+          "Inspection and Rejection Protocols.",
+          "Evaluate Process Considerations.",
+          "Implement Corrosion Guidelines.",
+          "Perform Separator Design and Sizing Calculations.",
+          "Work through Separator Sizing Example Calculation.",
+          "Understand Separator Design Information.",
+          "Use of Monograms in Separator Design."
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Scope.",
+        "Module 3:   Definitions",
+        "Module 4:   Material",
+        "Module 5:   Design",
+        "Module 6:   Fabrication, Testing, and Painting",
+        "Module 7:   Marking",
+        "Module 8:   Inspection and Rejection", 
+        "Module 9:   Process Considerations",
+        "Module 10:  Corrosion Guidelines",
+        "Module 11:  Design and Sizing Calculations",
+        "Module 12:  Separator Sizing Example Calculation",
+        "Module 13:  Separator Design Information",
+        "Module 14:  Use of Monogram",
+        "Module 15:  Case Studies"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $120"
+  },
+
+  
+  {
+    id: 10,
+    title: "Refinery Process Design ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Refinery Process Design refers to the structured and systematic approach to designing the processes and systems used in the operation of an oil refinery. The objective is to efficiently and safely convert crude oil into various valuable products such as gasoline, diesel, jet fuel, kerosene, liquefied petroleum gas (LPG), and petrochemicals. The design process involves a combination of chemical engineering, process engineering, mechanical engineering, and safety management.",
+      "This course provides a comprehensive understanding of the key principles and techniques involved in refinery process design. It covers the essential areas of crude oil refining, from the estimation of stream properties and mass balances to the design of major refining units like the crude distillation column. By the end of this course, students will gain the technical knowledge needed to design and optimize refinery processes effectively, ensuring efficient operation and compliance with safety and environmental standards."
+
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "A basic understanding of chemical engineering principles, including mass and energy balances.",
+      "Familiarity with fluid mechanics, thermodynamics, and process control.",
+      "Basic knowledge of separation processes and distillation techniques.",
+      "Experience using process simulation software.",
+      "An introductory level understanding of oil refining processes and operations."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, students will be able to:",
+          "Understand the Fundamentals of Refinery Process Design",
+          "Estimate Stream Properties in Refining Systems",
+          "Perform Mass Balances in Refinery Design",
+          "Design a Crude Distillation Column"
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:   Estimation of Refinery Stream Properties.",
+        "Estimation of (average temperatures, average oAPI and sulfur content, Psuedo‐component concept, average oAPI and % sulfur content,  Product TBP from crude TBP, product specific gravity and sulfur content, blend viscosity,), Characterization factor, Molecular weight, Viscosity, Enthalpy, Vapor pressure, Flash point estimation and flash point index for blends, Pour point estimation and pour point index for blends, Equilibrium flash vaporization curve",
+        "Module 3:   Refinery Mass Balances",
+        "Refinery Block diagram, Refinery modeling using conceptual black box approach, Mass balances across the (CDU, VDU, Thermal Cracker, HVGO hydrotreater, LVGO hydrotreater, FCC, Diesel hydrotreater, kerosene hydrotreater,  reformer,  naphtha hydrotreater,  alkylator and isomerizer,  gasoline pool,  LPG, Gasoil and fuel oil pools). Naphtha consolidation.",
+        "Module 4:   Design of Crude Distillation Column",
+        "Architecture of Main and Secondary Columns, Design aspects of the CDU, Mass balances across the CDU and flash zone, CDU mass balance table, Flash zone mass balance table, Estimation of (flash zone temperature, draw off stream temperatures, tower top temperature, residue product stream temperature, side stripper products temperature, condenser duty, Overflow from Top tray, Top and Bottom Pump Around Duty, flash zone liquid reflux rate, column diameters), Total Tower energy balance and total condenser duty, Verification of fractionation criteria."
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦130,000 / $100"
+  },
+
+  {
+    id: 10,
+    title: "Oil and Gas Separation - Design & Sizing",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Hydrocarbon streams as produced at the wellhead are composed of a mixture of gas, liquid hydrocarbons, and sometimes free water. In most cases it is desirable to separate these phases as soon as possible after bringing them to the surface and handle or transport the two or three phases separately. This separation of the liquids from the gas phase is accomplished by passing the well-stream through an oil-gas or oil-gas-water separator.",
+      "Different design criteria must be used in sizing and selecting a separator for a hydrocarbon stream based on the composition of the fluid mixture.",
+      "The Oil and Gas Separation (Design & Sizing) course provides an in-depth understanding of the principles, designs, and operational aspects of oil and gas separators, with a focus on optimizing separation processes in oil and gas production facilities. The course covers the construction, types, and factors affecting separation, as well as the detailed design and sizing of separators. Participants will gain insights into various separation equipment, multi-stage systems, and specialized separators for different operational conditions. ",
+
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Petroleum engineering fundamentals, including exploration, production, and processing.",
+      "Fluid Mechanics concepts, particularly related to gas and liquid flows.",
+      "Thermodynamics in the context of separation and phase behavior.",
+      "Process engineering principles, including design and operation of equipment in industrial settings."
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the purpose of separation in oil and gas production.",
+          "Explain the physical principles behind oil, gas, and water separation processes.",
+          "Identify the various types of separators used in the industry.",
+          "Understand the factors influencing the selection of separators based on operational conditions.", 
+          "Apply knowledge to design and size gas and liquid separators based on flow rates and operating conditions.",
+          "Perform the calculations for separator capacity, including gas and liquid volume.",
+          "Examine the factors such as pressure, temperature, fluid properties, and flow rate that affect the efficiency of separation.",
+          "Use engineering principles to optimize separation performance.",
+          "Understand the function and application of other equipment used in the separation process, such as filters and scrubbers.",
+          "Develop Multi-Stage Separation Systems:",
+          "Design and analyze two-stage separation systems for more efficient processing.",
+          "Learn about low-temperature gas separation units and filter separators. "
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Construction of Separators.",
+        "Module 3:   Separator Types",
+        "Module 4:   Factors Affecting Separation",
+        "Module 5:   Separator Design - Introduction",
+        "Module 6:   Separator Design - Gas Capacity",
+        "Module 7:   Separator Design - Liquid Capacity",
+        "Module 8:   Other Types Separation Equipment",
+        "Module 9:   Two Stage Separation System",
+        "Module 10:  Filter Separators",
+        "Module 11:  Low Temperature Gas Separation Units",
+        "Module 12:  Vertical Gas Scrubber",
+        "Module 13:  Case Studies "
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $120"
+  },
+
+  {
+    id: 10,
+    title: "Oil & Gas Separators",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The term “oil and gas separator” in oilfield terminology designates a pressure vessel used for separating well fluids produced from oil and gas wells into gaseous and liquid components. A separating vessel may be referred to in the following ways: Oil and gas separator, Separator, Stage separator, Trap, knockout drum, Flash chamber, Expansion separator, Scrubber, Filter.",
+      "This course describes the design, use, functions, capacities, classifications, performance, operation, and maintenance of oil and gas separators. Vertical, horizontal and spherical separators in both two- and three-phase arrangements are discussed. Quality of effluent fluids is approximated. Equations for calculating the sizes and capacities of separators and capacity curves and tables for sizing oil and gas separators are provided. These capacity curves and tables can be used to estimate capacities of separators as well as to determine the size of separator required to handle given volumes of fluids. Sample calculations for sizing separators are included."
+
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "5 Days",
+    prerequisite: [
+      "Basic Engineering Knowledge.",
+      "Familiarity with Oil & Gas Processes.",
+      "Fundamentals of Fluid Mechanics.",
+      "Experience with Industry Standards"
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Recognize the main functions of separators in oil and gas production, and the additional roles they play in ensuring process efficiency.",
+          "Identify common challenges in oil and gas separation, including issues like emulsion formation, foaming, and gas-liquid separation.",
+          "Understand various methods and technologies used to separate oil from gas and vice versa, ensuring optimal separation efficiency.",
+          "Learn about the types and functions of mist extractors in separators, and how they help remove liquid droplets from gas streams.",
+          "Gain skills in assessing the quality of separated fluids, ensuring that product specifications are met.",
+          "Understand the different types of separators and their applications, including horizontal, vertical, and two-phase separators.",
+          "Explore the role of centrifugal separators and gas scrubbers in enhancing separation efficiency.",
+          "Learn how to estimate the size and capacity requirements for separators based on operational data and fluid characteristics.",
+          "Gain practical knowledge of using computer software tools for sizing separators, streamlining the design process.",
+          "Learn to read and apply capacity curves for both vertical and horizontal separators to optimize design and operational efficiency.",
+          "Understand the real-world factors that influence separator sizing, including location, process conditions, and flow rates.",
+          "Learn how stage separation is implemented to increase the efficiency of oil and gas separation in multi-phase flow systems.",
+          "Gain expertise in selecting the appropriate separator or scrubber for specific applications, based on factors like fluid composition and flow rates.",
+          "Learn about the codes and standards for constructing oil and gas separators, ensuring compliance with safety and regulatory requirements.",
+          "Gain knowledge of the control systems, valves, and safety features that are crucial for the safe and efficient operation of separators.",
+          "Learn best practices for the operation, maintenance, and troubleshooting of oil and gas separators to ensure consistent performance and longevity.",
+          "Study real-world case studies to understand common challenges and solutions related to separator design, operation, and maintenance."
+
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:    Introduction",
+        "Module 2:   Primary Functions of Oil and Gas.",
+        "Module 3:   Secondary Functions of Oil and Gas",
+        "Module 4:   Special Problems in Oil and Gas Separation",
+        "Module 5:   Methods Used To Remove Oil From Gas in Separators",
+        "Module 6:  Mist Extractors Used in Oil and Gas Separators",
+        "Module 7:   Methods Used To Remove Gas From Oil In Separators",
+        "Module 8:  Estimated Quality of Separated Fluids",
+        "Module 9:    Classification of Oil and Gas Separators",
+        "Module 10:  Centrifugal Oil and Gas Separators and Gas Scrubbers",
+        "Module 11:  Estimating the Sizes and Capacities of Oil and Gas Separators",
+        "Module 12:  Computer Sizing of Oil and Gas Separators",
+        "Module 13:  Capacity Curves for Vertical and Horizontal Oil and Gas Separators",
+        "Module 14:  Practical Considerations in Sizing Oil and Gas Separators",
+        "Module 15:  Stage Separation of Oil and Gas",
+        "Module 16:  Selection and Application of Separators and Scrubbers",
+        "Module 17: Construction Codes for Oil and Gas Separators",
+        "Module 18: Controls, Valves, Accessories, and Safety Features for Oil and Gas Separators",
+        "Module 19:  Operation and Maintenance Considerations for Oil and Gas Separators",
+        "Module 20:   Case Studies"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦200,000 / $150"
   },
 
 ];
