@@ -4740,6 +4740,391 @@ export const projects = [
     cost: "₦200,000 / $150"
   },
 
+  {
+    id: 10,
+    title: "Process Fundamentals",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process fundamentals generally refers to the basic concepts, principles, and components involved in the design, operation, and management of processes. A process can be understood as a series of steps or activities performed to achieve a specific objective, often in the context of business, engineering, or manufacturing.", 
+      "The Process Fundamentals course is designed to provide a foundational understanding of the essential principles and operations in industrial processing, particularly within the chemical and petroleum industries. This course covers key concepts in chemistry, physics, refining processes, separation techniques, and refinery operations. The modules are carefully structured to guide learners through the basic principles, practical applications, and operational aspects of crude oil refining, as well as the specific equipment and processes used in refineries. The course emphasizes both theoretical knowledge and practical skills, using case studies to encourage problem-solving and critical thinking."
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "This course is suitable for individuals with basic knowledge in science, particularly those with a background in:",
+      "General Chemistry",
+      "High school Physics or equivalent",
+      "Introduction to Chemical Engineering",
+      "Familiarity with industrial operations"
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the core concepts of chemistry that form the basis for process operations, such as atomic structure, chemical bonding, and reaction mechanisms.",
+          "Understand the physical properties of matter (density, viscosity, boiling points, etc.) and their influence on industrial operations, especially in relation to refinery processes.",
+          "Understand the overall process of crude oil refining, including distillation, cracking, and conversion processes.",
+          "Identify the different products derived from crude oil and their commercial uses.",
+          "Learn the basic unit operations involved in process industries, including separation techniques like filtration, distillation, absorption, and membrane processes.",
+          "Understand the significance of these operations in the context of refinery processes.",
+          "Comprehend the different types and grades of crude oil, as well as their chemical and physical properties.",
+          "Understand how these characteristics influence refining processes and the final products.",
+          "Get acquainted with the first stages of refinery operations, including crude distillation, and separation of lighter and heavier fractions.",
+          "Understand the role of heat exchangers, distillation columns, and other equipment in the refinery.",
+          "Learn about secondary refinery operations such as cracking, reforming, and hydroprocessing.",
+          "Understand the technology and principles behind these processes and their importance in converting crude oil into valuable products.",
+          "Explore the expansion of lube oil production in refineries.",
+          "Understand the chemical processes, technologies, and equipment involved in the production of lubricants from crude oil.",
+          "Study advanced refinery processes such as alkylation, polymerization, and hydrocracking.",
+          "Understand the significance of these processes in the production of high-quality fuels and petrochemicals.",
+          "Understand the importance of sampling in process operations.",
+          "Learn various sampling techniques for quality control, process monitoring, and testing in refinery settings.",
+          "Familiarize with key industry-specific terminology and definitions related to process operations and refinery practices.",
+          "Apply knowledge learned throughout the course to real-world case studies."
+
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Basic Chemistry",
+        "Module 2:  Basic Physics & Physical Properties of Matter.",
+        "Module 3:  Crude Oil Refining",
+        "Module 4:  Unit Operation/Separation Techniques",
+        "Module 5:  Characteristics of Crude Oil ",
+        "Module 6:  Refinery I Operations",
+        "Module 7:  Refinery II Operations",
+        "Module 8:  Lube Expansion Block",
+        "Module 9:  Refinery III Operations",
+        "Module 10: Sampling",
+        "Module 11: Glossary Definitions",
+        "Module 12:  Case Studies "
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦80,000 / $60"
+  },
+
+
+  {
+    id: 10,
+    title: "Well Servicing and Workover",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Well servicing and workover are essential operations in the life cycle of an oil or gas well. These activities are necessary to maintain well production, repair damaged equipment, or improve well performance. Though related, well servicing and workover operations are distinct in terms of their scope, complexity, and the type of interventions performed.",
+      "The Well Servicing and Workover course is designed to provide a comprehensive understanding of the techniques, equipment, and procedures used in well maintenance, repair, and enhancement. Well servicing and workover operations are essential to ensure that oil and gas wells maintain optimal production rates throughout their lifespan. The course covers a range of operations, from light and heavy workovers on live wells to servicing killed wells. Participants will also explore special cases that require unique approaches, along with detailed case studies to highlight real-world challenges and solutions. This course equips participants with the knowledge and skills necessary to safely and efficiently manage well servicing and workover operations."
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Before enrolling in this course, participants should have the following foundational knowledge:",
+      "Basic understanding of petroleum engineering concepts, including well completion, reservoir management, and production techniques."
+      "Familiarity with well operation and wellbore integrity concepts.",
+      "Basic knowledge of fluid mechanics, pressure management, and well control.",
+      "Prior experience in the oil and gas industry or completion of introductory courses in well operations would be beneficial but is not mandatory."
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a clear understanding of the importance and role of well servicing and workover operations in maintaining well performance.",
+          "Learn the key differences between well servicing and workover operations and when each is necessary.",
+          "Understand the various types of operations performed on live wells, including light and heavy workovers, and the different equipment and techniques used.",
+          "Learn how to identify the appropriate operation for specific well conditions.",
+          "Learn the techniques and equipment used for light servicing operations, including simple repairs, maintenance, and optimization tasks on live wells.",
+          "Understand the safety measures and procedures required for light operations on active wells.",
+          "Explore the more complex procedures involved in heavy workovers on live wells, such as pulling tubing, replacing equipment, and handling higher risks associated with well control.",
+          "Learn about the equipment and safety protocols used during high-risk workover operations.",
+          "Learn how to handle operations on wells that have been killed (shut-in), including techniques for re-entry, wellbore cleaning, and re-pressurization.",
+          "Understand the unique challenges involved in working with killed wells and how to safely reinitiate production.",
+          "Learn about special well servicing and workover cases, including unconventional wells, deepwater operations, and complex reservoir conditions that require customized approaches.",
+          "Understand how to approach challenges such as corrosion, scaling, equipment failure, and wellbore damage.",
+          "Analyze real-world case studies that highlight various workover scenarios and challenges faced during well servicing.",
+          "Explore how different operational strategies, equipment, and safety measures were applied in these cases to resolve issues and optimize well production."
+
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Main types of operation.",
+        "Module 3:  Light operations on live wells",
+        "Module 4:  Heavy  operations on live wells",
+        "Module 5:   Operations on killed wells",
+        "Module 6:   Special Cases",
+        "Module 7:   Case Studies"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Artificial Lift",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Artificial lift refers to a variety of techniques used to lift or boost the flow of hydrocarbons from the wellbore to the surface when the natural reservoir pressure is insufficient to bring the fluids (oil, gas, water) to the surface on their own. It is commonly employed in oil and gas fields after the natural reservoir pressure has declined to the point where the well can no longer flow naturally, or when the flow rate needs to be increased for economic reasons.
+
+      "Artificial lift systems are designed to increase the production rate and maintain the flow of fluids over time. These systems can be mechanical or non-mechanical, depending on the characteristics of the reservoir and the type of fluids being produced.",
+
+      "The Artificial Lift course focuses on the various methods and technologies used to enhance the production of oil and gas from wells where natural reservoir pressure is insufficient to lift fluids to the surface. Artificial lift systems are essential for maintaining production rates and optimizing well performance over time. This course covers key artificial lift methods such as pumping systems and gas lift, providing participants with the knowledge to choose and apply the right artificial lift method based on well conditions and reservoir characteristics. Through practical case studies, participants will also learn how to evaluate, troubleshoot, and optimize artificial lift systems to ensure efficient and cost-effective operations."
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Before enrolling in this course, participants should have:",
+      "Basic understanding of petroleum engineering concepts, including drilling, well completion, and reservoir engineering.",
+      "Familiarity with production systems and well performance evaluation.",
+      "Basic knowledge of fluid mechanics and pressure management in oil and gas wells.",
+      "Prior experience with well operations or an introductory course in well testing and production is beneficial but not mandatory."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain an understanding of the role of artificial lift in optimizing production from wells with insufficient natural pressure.",
+          "Learn about the various types of artificial lift methods and their applications in different well conditions.",
+          "Understand the operation of various pumping systems, such as beam pumps (rod pumps), progressive cavity pumps (PCP), and electric submersible pumps (ESP).",
+          "Evaluate when to apply each pumping method based on well characteristics like depth, flow rate, and fluid properties.",
+          "Learn about the gas lift method, which uses injected gas to reduce the density of fluids in the wellbore, allowing the oil or gas to flow more easily to the surface.",
+          "Understand the design, operation, and advantages of gas lift systems, including how to manage injection pressures and gas flow.",
+          "Learn how to evaluate well conditions, including reservoir pressure, production rates, and fluid types, to select the most appropriate artificial lift method.",
+          "Consider factors such as cost, operational complexity, and maintenance requirements when choosing the right artificial lift system for a well.",
+          "Analyze real-world case studies to understand the challenges and solutions involved in implementing artificial lift systems.",
+          "Explore how artificial lift systems have been optimized and maintained in different reservoir conditions"
+
+                  
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Pumping.",
+        "Module 3:  Gas Lift",
+        "Module 4:  Choosing an artificial lift process",
+        "Module 5:  Case Studies"
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "The Equipment of Naturally Flowing Wells",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A naturally flowing well is a well in which the hydrocarbon (oil, gas, or water) naturally rises to the surface due to the pressure differential between the reservoir and the surface. This occurs when the reservoir pressure is high enough to push the fluids to the surface without the need for artificial lift methods, such as pumps or gas injection. However, even though no external artificial lift is needed, there is still a set of equipment that ensures the well's functionality, safety, and efficiency.",
+
+      "The Equipment of Naturally Flowing Wells course provides a comprehensive introduction to the equipment and components used in naturally flowing oil and gas wells. These types of wells, which rely on the natural pressure of the reservoir to drive the fluids to the surface, require specialized equipment to maintain safe, efficient, and long-term production. The course covers the general configuration of flowing well equipment, including the production wellhead, tubing, packers, and downhole safety devices. Participants will also learn about running procedures and how to optimize the operation of flowing wells. The course includes practical case studies to help participants apply theoretical knowledge to real-world situations."
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Before enrolling in this course, participants should have the following foundational knowledge:",
+      "Basic understanding of petroleum engineering concepts, including wellbore construction, reservoir engineering, and fluid dynamics.",
+      "Familiarity with well completion processes and the basic equipment used in oil and gas production.",
+      "Basic understanding of production systems and well testing would be beneficial but not mandatory.",
+      "Prior experience with well operations is helpful but not required."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a clear understanding of the function and configuration of key equipment used in naturally flowing wells.",
+          "Understand how each component contributes to safe, efficient, and optimal production in a naturally flowing well.",
+          "Learn about the general layout and setup of equipment that supports the production of hydrocarbons in naturally flowing wells, from the wellhead to the surface facilities.",
+          "Explore how the wellhead, tubing, packers, and other components work together to ensure smooth flow.",
+          "Understand the importance of the production wellhead in controlling the flow of fluids from the reservoir.",
+          "Learn about the components of the wellhead, including the Christmas tree, valves, and other critical parts that control pressure, flow, and safety.",
+          "Gain insight into the design and function of the production string or tubing, which transports fluids from the reservoir to the surface.",
+          "Learn how tubing is selected and installed based on reservoir conditions and production needs.",
+          "Understand the function of packers in sealing off certain zones of the wellbore, preventing unwanted fluid movement, and maintaining well integrity.",
+          "Explore the different types of packers used in naturally flowing wells and their applications.",
+          "Learn about the various downhole equipment used in naturally flowing wells, including pumps, valves, and other tools that assist in production and flow control.",
+          "Understand the critical role subsurface safety valves (SSSV) play in protecting against blowouts and ensuring the safety of the well in emergency situations.",
+          "Learn how SSSVs operate, their design, and how they are installed and maintained.",
+          "Gain practical knowledge of the procedures involved in running production equipment into the well, including tubing, packers, and safety valves.",
+          "Learn best practices for installation, testing, and troubleshooting during the running process.",
+          "Review real-world case studies that illustrate challenges and solutions related to naturally flowing wells.",
+          "Analyze how equipment is selected, installed, and operated in different reservoir conditions to optimize well performance and ensure safety."
+                            
+    ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  General configuration of flowing well equipment.",
+        "Module 3:  The production wellhead",
+        "Module 4:  The production string or tubing",
+        "Module 5:  Packers ",
+        "Module 6:  Downhole Equipment",
+        "Module 7:  Subsurface safety valves",
+        "Module 8:  Running Procedure",
+        "Module 9:  Case Studies" 
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Introduction to Well Completion",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Well completion is a critical phase in the life cycle of an oil or gas well, following the drilling process and before the production phase. It involves preparing a well for production or injection by installing the necessary equipment and systems to ensure safe, efficient, and optimized flow of hydrocarbons from the reservoir to the surface. Well completion encompasses the installation of casings, tubing, packers, and other tools designed to enhance the well's performance, manage reservoir pressure, and protect the surrounding environment.",
+      "The Introduction to Well Completion course provides a comprehensive understanding of the well completion process, which is crucial for enabling efficient and safe oil and gas production. This course will introduce participants to the core concepts, factors influencing completion design, and the different configurations of well completion systems. Through practical case studies and real-world applications, participants will gain insights into how well completion is designed and executed to ensure optimal flow capacity and operational efficiency. This course is designed for those looking to understand the essential aspects of well completion and its role in the overall production system."
+    
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Participants should have the following knowledge or experience before taking this course:",
+      "Basic understanding of petroleum engineering principles, including drilling, reservoir engineering, and fluid mechanics.",
+      "Familiarity with the oil and gas industry, particularly upstream processes and operations.",
+      "Knowledge of basic wellbore construction and drilling techniques is beneficial, but not mandatory.",
+      "No prior experience in well completion design is required, but a fundamental understanding of the production lifecycle is recommended."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a solid foundation in well completion and its critical role in oil and gas production.",
+          "Understand the basic steps and phases involved in completing a well, from drilling to the final production stage.",
+          "Understand how factors such as reservoir characteristics, wellbore stability, fluid properties, and production goals influence completion decisions.",
+          "Evaluate the impact of different formation types, pressure conditions, and well environments on the completion design process.",
+          "Understand the concept of flow capacity and its significance in the overall design of well completion systems.",
+          "Learn how to assess and optimize the flow of hydrocarbons from the reservoir to the surface to maximize production rates.",
+          "Understand the different well completion types (e.g., open-hole, cased-hole, multilateral, and smart wells) and their applications.",
+          "Identify the benefits and limitations of each completion configuration based on reservoir characteristics and production goals.",
+          "Gain knowledge of the sequential steps in the completion process, from well design to equipment installation and testing.",
+          "Understand the roles of casing, tubing, perforating, and other components in well completion and how each contributes to overall well performance.",
+          "Analyze real-world case studies to understand how well completion challenges are overcome.",
+          "Apply theoretical knowledge to practical scenarios, focusing on completion design, operational optimization, and troubleshooting."                  
+              
+
+
+
+
+],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Main factors influencing completion design.",
+        "Module 3:  Overall approach to a well’s flow capacity.",
+        "Module 4:  Major types of completion configurations",
+        "Module 5:  Main phases in completion ",
+        "Module 6:  Case Studies "
+
+
+
+
+
+    ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦40,000 / $30"
+  },
+
 ];
 
 
