@@ -4843,14 +4843,14 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
     duration: "1 Day",
     prerequisite: [
       "Before enrolling in this course, participants should have the following foundational knowledge:",
-      "Basic understanding of petroleum engineering concepts, including well completion, reservoir management, and production techniques."
+      "Basic understanding of petroleum engineering concepts, including well completion, reservoir management, and production techniques.",
       "Familiarity with well operation and wellbore integrity concepts.",
       "Basic knowledge of fluid mechanics, pressure management, and well control.",
       "Prior experience in the oil and gas industry or completion of introductory courses in well operations would be beneficial but is not mandatory."
@@ -4910,7 +4910,7 @@ export const projects = [
     description:
     [
           
-      "Artificial lift refers to a variety of techniques used to lift or boost the flow of hydrocarbons from the wellbore to the surface when the natural reservoir pressure is insufficient to bring the fluids (oil, gas, water) to the surface on their own. It is commonly employed in oil and gas fields after the natural reservoir pressure has declined to the point where the well can no longer flow naturally, or when the flow rate needs to be increased for economic reasons.
+      "Artificial lift refers to a variety of techniques used to lift or boost the flow of hydrocarbons from the wellbore to the surface when the natural reservoir pressure is insufficient to bring the fluids (oil, gas, water) to the surface on their own. It is commonly employed in oil and gas fields after the natural reservoir pressure has declined to the point where the well can no longer flow naturally, or when the flow rate needs to be increased for economic reasons.",
 
       "Artificial lift systems are designed to increase the production rate and maintain the flow of fluids over time. These systems can be mechanical or non-mechanical, depending on the characteristics of the reservoir and the type of fluids being produced.",
 
@@ -4921,7 +4921,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -4989,7 +4989,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -5068,7 +5068,7 @@ export const projects = [
     tags: [
       'Author: Adeyemi',
     ],
-    category: "process",
+    category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -5099,9 +5099,7 @@ export const projects = [
               
 
 
-
-
-],
+        ],
     outline: [
         "Module 1:  Introduction",
         "Module 2:  Main factors influencing completion design.",
@@ -5114,7 +5112,7 @@ export const projects = [
 
 
 
-    ],
+        ],
     assessment: "	Online Written  Exam",
     cdf: [
       "Classroom-based training",
@@ -5123,6 +5121,815 @@ export const projects = [
       "On-the-job training"
     ],
     cost: "₦40,000 / $30"
+  },
+
+  {
+    id: 10,
+    title: "Connecting the Pay-zone and the Borehole",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "In oil and gas drilling, the pay-zone refers to the specific layer or formation within a reservoir that contains commercially recoverable quantities of hydrocarbons (oil or gas). The borehole is the hole that is drilled into the earth to access these hydrocarbon deposits. Connecting the pay-zone to the borehole effectively is crucial to allow the flow of oil, gas, or other fluids from the reservoir into the wellbore for production.",
+      "This connection involves several steps during the well completion process, and the methods used depend on the nature of the reservoir and the well being drilled. The primary goal is to ensure that hydrocarbons can flow from the pay-zone into the borehole without leakage or contamination from surrounding formations.",
+
+      "The Connecting the Pay-zone and the Borehole course focuses on the critical process of linking the reservoir (pay-zone) to the wellbore, a key aspect of well completion. This course delves into the various stages of well completion, from drilling and casing the pay-zone to perforating the well and restoring the cement job. Special emphasis is placed on treating the pay-zone to optimize production and understanding the challenges of completing horizontal wells. The course integrates theoretical knowledge with practical case studies, providing participants with a comprehensive understanding of how to connect the pay-zone to the borehole efficiently and effectively."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Before enrolling in this course, participants should have:",
+      "Basic understanding of petroleum engineering principles, including drilling, reservoir engineering, and production techniques.",
+      "Familiarity with wellbore construction and basic concepts of well completion.",
+      "A foundational knowledge of fluid dynamics and well testing is helpful, though not mandatory.",
+      "No prior experience with specific pay-zone connection techniques is necessary, though an understanding of general well operations and completions would be beneficial."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a detailed understanding of the steps involved in connecting the reservoir to the wellbore, ensuring safe and efficient production from the pay-zone.",
+          "Learn how to drill and case the pay-zone effectively to ensure wellbore integrity and zonal isolation.",
+          "Understand the selection and installation of casing strings and the importance of proper drilling techniques in accessing the pay-zone.",
+          "Understand the critical role of cementing in isolating the wellbore from surrounding formations.",
+          "Learn how to evaluate cement jobs and restore cement integrity when necessary to maintain zonal isolation and prevent fluid migration.",
+          "Understand the perforating process, including techniques for creating perforations in the casing to connect the pay-zone to the wellbore.",
+          "Learn about perforating guns, charge designs, and best practices to optimize well performance.",
+          "Learn the various methods of treating the pay-zone to enhance well production, including acidizing, fracturing, and other stimulation techniques.",
+          "Understand how different treatments impact reservoir flow characteristics and optimize recovery rates.",
+          "Gain insights into the unique challenges involved in completing horizontal wells, including drilling, casing, perforating, and treatment techniques.",
+          "Learn how to design and complete horizontal wells to maximize productivity in complex reservoir conditions.",
+          "Analyze real-world case studies to see how theory is applied in practice.",
+          "Understand how different scenarios and challenges were addressed in well completion, particularly in terms of connecting the pay-zone to the borehole."
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Drilling and casing the pay-zone.",
+        "Module 3:  Evaluating and restoring the cement job",
+        "Module 4:  Perforating",
+        "Module 5:  Treating the Pay-zone", 
+        "Module 6:  The special case of horizontal wells",
+        "Module 7:   Case Studies"
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦50,000 / $40"
+  },
+
+
+  {
+    id: 10,
+    title: "Introduction to Process Modeling/Simulation using Aspen HYSYS ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
+      "The Aspen HYSYS course provides a comprehensive understanding of the Aspen HYSYS software, a leading process simulation tool widely used in the oil and gas, chemical, and petrochemical industries. This course covers the fundamentals of HYSYS, its applications, and key functionalities for process design, optimization, and troubleshooting. Participants will learn to navigate the simulation environment, define physical properties, set up unit operations, perform stream analysis, design equipment, and generate reports. By the end of the course, participants will be able to apply Aspen HYSYS effectively in designing, simulating, and analyzing complex chemical and petrochemical processes, with a focus on real-world case studies."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "8 Days",
+    prerequisite: [
+      "Before enrolling in this course, participants should have:",
+      "A basic understanding of process engineering principles.",
+      "Knowledge of fluid mechanics, thermodynamics, and chemical engineering concepts.",
+      "Familiarity with the basic operations in the oil and gas or chemical industry (e.g., reactors, heat exchangers, distillation columns, pumps, etc.).",
+      "Knowledge of basic computer skills or software tools."
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Navigate the Aspen HYSYS Environment",
+          "Understand HYSYS Applications",
+          "Utilize the Component List",
+          "Implement Physical Property Packages",
+          "Work with Petroleum Assays",
+          "Setup and Configure Unit Sets",
+          "Leverage Model Pallets",
+          "Perform Stream Analysis",
+          "Design Process Equipment",
+          "Work with Case Studies",
+          "Generate Reports",
+          "Simulate Propane Refrigeration Loop",
+          "Simulate Oil Characterization and Refining",
+          "Prepare for Aspen HYSYS User Certification",
+          "Review key concepts and techniques to prepare for Aspen HYSYS certification.",
+          "Understand the format and requirements of the certification exam."
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Hysys Applications.",
+        "Module 3:  Component List",
+        "Module 4:  Physical Property Package",
+        "Module 5:  Petroleum Assays",
+        "Module 6:  Unit Sets ",
+        "Module 7:  Model Pallets",
+        "Module 8:  Simulation Environment",
+        "Module 9:  Stream Analysis",
+        "Module 10: Equipment Design",
+        "Module 11: Case Study",
+        "Module 12: Reporting",
+        "Module 13: Propane Refrigeration Loop ",
+        "Module 14: Oil Characterization and simulation",
+        "Module 15: Case Studies",
+        "Module 16: Aspen Hysys User Certification Preparation"
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦180,000 / $150"
+  },
+
+  {
+    id: 10,
+    title: "Process Modeling/Simulation using Aspen HYSYS  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
+      "The Process Modelling/Simulation using Aspen HYSYS course is designed to provide participants with a comprehensive understanding of process simulation, focusing on key applications within the oil and gas, chemical, and petrochemical industries. Using Aspen HYSYS as the primary tool, this course covers process modeling techniques for critical processes such as acid gas removal, gas dehydration, sulfur recovery, sour water treatment, and column operations. Participants will learn to model, simulate, and analyze the performance of these processes and optimize system designs. By the end of the course, participants will be well-prepared to use Aspen HYSYS for a wide range of process simulations and understand the integration of hydraulics, pipe segments, and line sizing utilities in complex systems."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "10 Days",
+    prerequisite: [
+      "Before enrolling in this course, participants should have: ",
+      "A basic understanding of process engineering principles.",
+      "Knowledge of fluid mechanics, thermodynamics, and chemical engineering concepts.",
+      "Familiarity with the basic operations in the oil and gas or chemical industry (e.g., reactors, heat exchangers, distillation columns, pumps, etc.).",
+      "Knowledge of basic computer skills or software tools.",
+      "Good Knowledge of Aspen Hysys"
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Apply Aspen HYSYS for modeling and simulating industrial processes in the oil and gas sector.",
+          "Recognize the key applications of process simulation in optimizing operations and enhancing system design.",
+          "Develop a comprehensive understanding of acid gas removal processes.",
+          "Model acid gas treatment workflows in Aspen HYSYS, analyzing the key components of the system and process flow.",
+          "Understand the theory and operations of gas dehydration processes.",
+          "Create and analyze gas dehydration simulations in Aspen HYSYS, focusing on dehydration units such as molecular sieves and glycol systems.",
+          "Learn the key steps involved in sulfur recovery, particularly the SULSIM process in HYSYS.",
+          "Develop process models for sulfur recovery units, optimizing the recovery efficiency and analyzing system performance.",
+          "Understand the sour water stripping process, including the necessary components and reactions.",
+          "Simulate the sour water treatment process in Aspen HYSYS to improve process efficiency and mitigate environmental concerns.",
+          "Use Aspen HYSYS to model and simulate pipeline networks.",
+          "Understand the flow dynamics within pipe segments and optimize their performance within process models.",
+          "Use Aspen HYSYS' Line Sizing Utility to optimize pipeline dimensions and ensure efficient flow of fluids.",
+          "Understand the importance of proper line sizing for ensuring energy efficiency and cost savings in industrial processes.",
+          "Incorporate hydraulic calculations within Aspen HYSYS models.",
+          "Understand the role of hydraulics in process simulation, including pump sizing, pressure drops, and flow distribution.",
+          "Learn how to model and simulate distillation columns and other separation processes within Aspen HYSYS.",
+          "Optimize column operations, such as tray and packing design, reflux ratios, and energy requirements.",
+          "Review key concepts covered in the course to prepare for the Aspen HYSYS Expert Certification exam.",
+          "Understand the certification process and learn the best practices for achieving certification."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Hysys Applications.",
+        "Module 3:  Component List",
+        "Module 4:  Physical Property Package",
+        "Module 5:  Petroleum Assays",
+        "Module 6:  Unit Sets ",
+        "Module 7:  Model Pallets",
+        "Module 8:  Simulation Environment",
+        "Module 9:  Stream Analysis",
+        "Module 10: Equipment Design",
+        "Module 11: Case Study",
+        "Module 12: Reporting",
+        "Module 13: Propane Refrigeration Loop ",
+        "Module 14: Oil Characterization and simulation",
+        "Module 15: Case Studies",
+        "Module 16: Aspen Hysys User Certification Preparation"
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦180,000 / $150"
+  },
+
+  {
+    id: 10,
+    title: "Sizing of Strainers & Screen Openings For Strainers  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector.",
+      "This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Background of EPC (Engineering, Procurement, and Construction) projects"
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the concept of change and change management.",
+          "Understand key roles in the change management process.",
+          "Determine the phases of change management.",
+          "Learn to formulate an effective plan for the change process.",
+          "Deeply understand the reasons for resistance to change.",
+          "Find out about effective methods of preventing and eliminating resistance to change.",
+          "Gain the ability to design fruitful communication related to the change process.",
+          "Learn techniques for effective implementation of change.",
+          "Develop skills associated with controlling the change process.",
+          "Build proficiency in shaping a change-oriented organizational culture."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:   Screen Openings for Strainers",
+        "Module 2:   Opening Size (Mesh Size).",
+        "Module 3:   Strainer Mesh and Opening Sizes",
+        "Module 4:   Factors Influencing the Selection of Screen Openings",
+        "Module 5:   Common Screen Opening Sizes",
+        "Module 6:   Materials Used for Strainer Screens",
+        "Module 7:   Applications of Different Screen Openings",
+        "Module 8:   Common Strainer Types",
+        "Module 9:   Strainers Sizing",
+        "Module 10:  Key Factors in Strainer Sizing",
+        "Module 11:  Sizing Calculations for Strainers",
+        "Module 12:  Screen Correction Factor Chart",
+        "Module 13:  Viscosity And Density Correction Factor Chart",
+        "Module 14:  Correction Factors For Clogged Screens",
+        "Module 15:  Y-Strainer Pressure Drop-Liquids",
+        "Module 16:  Y-Strainer Pressure Drop - Saturated Steam",
+        "Module 17:  Y-Strainer Pressure Drop - Saturated Steam",
+        "Module 18:  Basket Strainer Pressure Drop-Liquids",
+        "Module 19:  Temporary Strainer Pressure Drop - Liquids",
+        "Module 20:  Fabricated Y & Tee Strainer Pressure Drop - Liquids"
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "P&ID Development Procedure Stage 1  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Developing a Piping and Instrumentation Diagram (P&ID) is a critical step in designing and documenting a process system. A P&ID shows the layout of equipment, piping, instruments, and control systems, serving as an essential tool for engineers and operators to understand how a process works.",
+
+      "The P&ID Development Procedure Beginner course provides a comprehensive introduction to the creation, interpretation, and management of Piping and Instrumentation Diagrams (P&IDs) in industrial and engineering environments. This course covers fundamental concepts, symbols, and conventions used in P&ID drawings, along with a detailed explanation of various equipment, pipelines, and instrumentation systems. The course is tailored for individuals new to the field, providing them with the essential tools and knowledge needed to understand and develop P&IDs for process systems.",
+
+      "By the end of this course, participants will be able to develop, read, and interpret P&IDs, contributing effectively to engineering projects by ensuring proper identification, specification, and communication of system design elements."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of industrial processes, piping systems, and instrumentation.",
+      "Familiarity with technical drawing concepts or engineering symbols can be helpful but is not required."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the overall structure and purpose of P&IDs in the context of industrial systems.",
+          "Identify and understand the various pipeline symbols used in P&ID diagrams.",
+          "Understand how different symbols represent various types of pipelines and flow paths.",
+          "Learn about other types of lines used in P&IDs, such as electrical lines, control lines, and instrumentation lines.",
+          "Understand the conventions used for pipeline identification to maintain consistency across drawings.",
+          "Understand how product designations are assigned to pipelines and equipment in P&IDs.",
+          "Understand how these numbers help in organizing and identifying various subsystems within the P&ID.",
+          "Understand the methodology and conventions behind numbering pipelines in P&IDs.",
+          "Understand the significance of these specifications in the design and operation of process systems.",
+          "Understand the role of insulation in process safety and energy efficiency.",
+          "Understand the different types of pipe fittings (elbows, tees, reducers, etc.) used in P&IDs.",
+          "Understand the role and symbols for various types of valves (e.g., globe, ball, and gate) in P&IDs.",
+          "Study the specific valves used in on/off services, such as shut-off and isolation valves.",
+          "Understand the symbol conventions for control valves in P&ID diagrams.",
+          "Study the types of valves used for one-way service, such as check valves and their application in preventing backflow.",
+          "Explore valves used for special duties such as safety valves, relief valves, and pressure-reducing valves.",
+          "Understand the importance of correctly identifying and labeling these valves in P&ID diagrams.",
+          "Understand how to depict valve actuators in P&IDs.",
+          "Understand how to represent tanks and pressure vessels in P&IDs, including their function and safety features.",
+          "Study the fittings and accessories (e.g., level gauges, manways) associated with tanks and pressure vessels.",
+          "Understand their role in ensuring system cleanliness and efficiency.",
+          "Study the symbols for pumps and compressors in P&IDs, including centrifugal and positive displacement types.",
+          "Understand the role of metering devices, such as flow meters, pressure gauges, and temperature sensors.",
+          "Understand how to represent these units in P&ID diagrams.",
+          "Study additional equipment commonly found in P&IDs, such as dryers, mixers, and separators.",
+          "Understand the importance of equipment identification and the standards used for labeling equipment in P&ID diagrams.",
+          "Study the role of instrumentation in P&IDs, including sensors, transmitters, and controllers.",
+          "Understand the workflow used by contractors in developing P&IDs, from design to review stages.",
+          "Understand how to manage and organize the P&ID creation process effectively.",
+          "Understand how to ensure the accuracy and quality of P&ID documents throughout the design process.",
+          "Understand how to manage P&IDs during the construction and operational phases of a project."
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1: Structure",
+        "Module 2: Pipeline Symbols",
+        "Module 3: Other Lines",
+        "Module 4: Pipeline Numbering and Identification",
+        "Module 5: Product Designations",
+        "Module 6: System Numbering",
+        "Module 7: Pipeline Numbering",
+        "Module 8: Pipeline Specifications",
+        "Module 9: Insulation",
+        "Module 10: Pipe Fittings",
+        "Module 11: Valves",
+        "Module 12: Valves used for “On/Off” Service",
+        "Module 13: Valves used for “Control” Service",
+        "Module 14: Valves used for “One-Way” Service",
+        "Module 15: Valves used for “Special” Duties",
+        "Module 16: Valve Actuators",
+        "Module 17: Tanks and Pressure Vessels",
+        "Module 18: Tank and Vessel Fixtures and Fittings",
+        "Module 19: Filters",
+        "Module 20: Pumps and Compressors",
+        "Module 21: Metering Devices",
+        "Module 22: Heat Exchangers",
+        "Module 23: Other items of Equipment",
+        "Module 24: Equipment Identification",
+        "Module 25: Instrument",
+        "Module 26: Contractor Workflow Description ",
+        "Module 27: Responsibilities and organization ",
+        "Module 28: Control, verification and review documents ",
+        "Module 29: On-site management of P&IDs"
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+
+  {
+    id: 10,
+    title: "P&ID Development Procedure Stage 2  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The P&ID Development Procedure course provides in-depth knowledge of advanced procedures for creating, interpreting, and managing Piping and Instrumentation Diagrams (P&IDs) in complex industrial systems. This course focuses on specific components and arrangements that are essential for ensuring the efficient, safe, and operable design of process systems. Participants will gain an understanding of the design philosophy behind various equipment configurations, valve arrangements, piping layouts, and instrumentation used across various industrial sectors.",
+
+      "The course covers topics like bypass and block valves for Pressure Safety Valves (PSVs), heat exchanger piping arrangements, sample connections, steam and nitrogen purge connections, and many others. These topics are critical for engineers, designers, and technicians who need to ensure that the P&ID diagrams align with operational, safety, and regulatory standards."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "5 Days",
+    prerequisite: [
+      "Basic knowledge of P&ID symbols and their meanings.",
+      "Familiarity with industrial piping and equipment, including valves, pumps, pressure vessels, and heat exchangers.",
+      "Fundamental understanding of process systems, instrumentation, and control systems.",
+      "Experience in industrial engineering or process design."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the purpose and importance of bypass and block valves for Pressure Safety Valves (PSVs).",
+          "Learn how to properly represent these valves in P&ID diagrams.",
+          "Understand the use of blind flanges and jack screw flanges in isolating sections of piping.",
+          "Learn how to symbolize and depict these flanges in P&ID drawings.",
+          "Study the proper piping arrangements for heat exchangers.",
+          "Learn how to represent heat exchangers, their connections, and flow paths in P&IDs.",
+          "Understand the importance of sample connections in process systems.",
+          "Learn how to represent sample connections and the associated instrumentation in P&IDs.",
+          "Study the use of steam-out and nitrogen purge connections for cleaning and purging systems.",
+          "Learn how to illustrate these connections in P&IDs to ensure safety and operational clarity.",
+          "Learn how to depict vessels, drains, vents, and pressure points in P&IDs.",
+          "Understand the significance of these components for process control, safety, and maintenance.",
+          "Understand the piping arrangements for pumps, including suction and discharge lines.",
+          "Learn how to correctly represent pump configurations and associated flow paths in P&IDs.",
+          "Study the concept of class break points in P&IDs.",
+          "Learn how to identify and represent different process areas and equipment class divisions in P&IDs.",
+          "Understand the principles of pipeline numbering, including conventions for identifying pipelines in process diagrams.",
+          "Learn how to ensure consistency in pipeline numbering across P&IDs.",
+          "Learn the importance of proper pipe slopes for ensuring free drainage.",
+          "Understand how to represent the required slopes in P&ID diagrams for drainage systems.",
+          "Study the depiction of drains and vents for level instrumentation devices, such as level gauges (LG), level transmitters (LT), and level switches (LS).",
+          "Learn how to represent these components accurately in P&ID diagrams.",
+          "Understand the concept of trim lines in process systems and their role in isolating and controlling flow paths.",
+          "Learn how to represent trim lines in P&ID drawings.",
+          "Study the role of thermowells in heat stack exchangers for temperature measurement.",
+          "Learn how to represent thermowells and their connections in P&ID diagrams.",
+          "Understand the application of thermowells in air cooler systems for temperature control.",
+          "Learn how to depict thermowells in air cooler arrangements in P&IDs.",
+          "Study the requirements for cooling water supply and return lines in pump systems.",
+          "Learn how to represent these cooling lines in P&IDs for pump-related applications.",
+          "Understand the representation of steam turbines in process systems.",
+          "Learn how to depict the key components of steam turbines in P&IDs.",
+          "Study the importance of battery limit block valve assemblies and associated instrumentation in isolating systems.",
+          "Learn how to represent these assemblies in P&IDs for clear system isolation and control.",
+          "Learn about the role of indication levels for monitoring process variables.",
+          "Understand how to represent level indicators and their connections in P&IDs.",
+          "Study the use of insulating joints and nozzles in P&IDs for safety and control.",
+          "Learn how to indicate insulating joints (I.F.) and nozzles in P&ID diagrams.",
+          "Understand the role of control valves in regulating process flow and pressure.",
+          "Learn how to depict control valves and their associated control loops in P&IDs.",
+          "Study the numbering and identification conventions for instrument air take-off valves in P&IDs.",
+          "Understand the importance of consistent numbering for ease of operation and maintenance."
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1: By-Pass and block valve for PSV",
+        "Module 2: Blind / with jack screw flange ",
+        "Module 3: Heat Exchanger (piping arrangement)",
+        "Module 4: Sample connection ",
+        "Module 5: Steam out connection / Nitrogen purge ",
+        "Module 6: Vessel, drain, vent and pressure point ",
+        "Module 7: Pumps piping arrangements ",
+        "Module 8: Class break points philosophy",
+        "Module 9: Pipeline Numbering",
+        "Module 10: Free draining / slope ",
+        "Module 11: Drain, vent for level instrumentation (LG/LT/LS) ",
+        "Module 12: Trim line", 
+        "Module 13: Thermowell for heat stack exchanger ",
+        "Module 14: Thermowell for aircooler",
+        "Module 15: Cooling water supply and return for pumps ",
+        "Module 16: Description of steam turbine ",
+        "Module 17: Battery limit block valve assembly and instrumentation ",
+        "Module 18: Indication Levels ",
+        "Module 19: Indication of insulating joint (I.F.), and number of nozzles ",
+        "Module 20: Control valve ",
+        "Module 21: Numbering for instrument air take off valve"
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦180,000 / $150"
+  },
+
+
+  {
+    id: 10,
+    title: "P&ID Development Procedure Stage 3  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The P&ID Development Procedure course provides in-depth knowledge and practical guidance for developing Piping and Instrumentation Diagrams (P&IDs), focusing on process work flow, utility distribution, piping arrangements, and key equipment and instrumentation in complex industrial systems. This course aims to equip participants with a structured approach to designing and managing P&IDs that ensure efficient, safe, and compliant process operations.",
+
+      "The curriculum covers essential aspects of P&ID development, such as equipment description, instrumentation tables, numbering procedures, utility distribution systems, tie-ins, block valve arrangements, and various piping components. Special topics, including typical arrangements for sea cooling water supply/return, purge connections, and fire water lines, provide further specialization for those working in process engineering and plant design.",
+
+      "The course emphasizes practical application and standardization, ensuring that participants can effectively contribute to the development and interpretation of P&IDs used for design, construction, and operation in industrial facilities."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "5 Days",
+    prerequisite: [
+      "Basic understanding of P&ID symbols and conventions.",
+      "Familiarity with industrial processes, equipment, and instrumentation.",
+      "General understanding of piping systems and process flow.",
+      "Basic knowledge of process engineering and mechanical or instrumentation design"
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the concept of process work flow in P&ID development.",
+          "Learn how to represent process flow logically and efficiently in a P&ID diagram.",
+          "Recognize and understand the typical labels and descriptions used for equipment in P&IDs.",
+          "Learn how to assign and use consistent labeling conventions for process equipment.",
+          "Understand the role of instrumentation tables in documenting control and instrumentation systems.",
+          "Learn how to create and interpret instrumentation tables that correspond to P&ID drawings.",
+          "Study the procedure for numbering tie-ins in P&IDs.",
+          "Learn how to organize tie-ins for clarity and consistency in complex systems.",
+          "Understand the specific valve arrangements required for low, medium, and high-pressure steam systems.",
+          "Learn how to represent these arrangements, including hose connections, in P&ID diagrams.",
+          "Study how to represent various utility systems (such as air, water, or gas) in P&IDs.",
+          "Learn how to depict utility distribution systems and ensure proper integration into the overall process.",
+          "Understand the necessity of purge systems for flare headers in P&IDs.",
+          "Learn how to represent purge systems for flare gas handling and safety in P&IDs.",
+          "Study how to indicate flange ratings for equipment in P&IDs.",
+          "Learn the importance of accurately representing flange ratings for safe operation and maintenance.",
+          "Address various other minor but important components that may appear in P&IDs, such as accessories, supports, and safety devices.",
+          "Understand how to include miscellaneous items without cluttering the diagram.",
+          "Learn about the use of bypass systems around Non-Return Valves (NRV) on pump discharge lines.",
+          "Understand how to represent these bypass lines in P&ID diagrams.",
+          "Study the representation of condensate systems in P&IDs, including collection, drainage, and disposal.",
+          "Learn how to effectively represent condensate lines and equipment in the diagram.",
+          "Understand the concept and role of drip pots in process systems, particularly in removing water or contaminants.",
+          "Learn how to represent drip pots and associated piping in P&IDs.",
+          "Study the layout and function of utility stations in P&IDs.",
+          "Learn how to represent utility stations that manage multiple services in P&ID diagrams.",
+          "Understand the purpose and representation of sulphur jacket lines in process systems.",
+          "Learn how to depict sulphur jacket lines in P&ID diagrams for heat control and system safety.",
+          "Study the sizing criteria for hose connections in P&ID diagrams.",
+          "Learn how to represent hose connections correctly according to industry standards.",
+          "Learn about the typical piping arrangements for sea cooling water systems, including four-way valve configurations.",
+          "Understand how to accurately represent these systems in P&IDs.",
+          "Study the standard piping arrangements for sea cooling water supply and return lines.",
+          "Learn to depict these piping systems and connections in P&ID diagrams.",
+          "Understand the standard arrangements for blowdown connections in process systems.",
+          "Learn how to represent blowdown connections in P&ID diagrams to ensure system safety and operational integrity.",
+          "Learn how to represent the distribution of utilities or process fluids to various users in P&IDs.",
+          "Understand how to organize and identify distribution lines clearly in diagrams.",
+          "Study the various piping components (e.g., valves, flanges, fittings) and their options for use in P&IDs.",
+          "Learn how to select and represent appropriate piping components for different applications.",
+          "Understand the system for numbering lines in P&IDs to ensure consistency and clarity.",
+          "Learn how to apply standard numbering systems to different types of process and utility lines.",
+          "Learn about the concept of process line battery limits and their importance in P&ID design.",
+          "Understand how to depict battery limits in P&ID diagrams to clearly indicate system boundaries.",
+          "Study the representation of fire water lines and their battery limits in P&IDs.",
+          "Understand the safety and regulatory implications of fire water line layouts.",
+          "Understand the process and representation of pit close drain purge systems in P&IDs.",
+          "Learn how to depict these systems and their associated components for effective drainage.",
+          "Learn how to properly document notes in P&IDs to clarify design elements, equipment specifications, and safety instructions.",
+          "Understand the importance of including notes for clarity and communication in P&ID development"
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Process Work Flow",
+        "Module 2:  Equipment Description Typical Labels",
+        "Module 3:  Instrumentation Tables",
+        "Module 4:  Tie-INS Numbering Procedure",
+        "Module 5:  Block valve arrangement for steam (LPS/MPS/HPS) and hose connections ",
+        "Module 6:  Utility distribution P&ID (Miscellaneous)", 
+        "Module 7:  Purge on flare header ",
+        "Module 8:  Flange rating indication for Equipment", 
+        "Module 9:  Miscellaneous ",
+        "Module 10:  By-Pass around NRV on pump discharge ",
+        "Module 11:  Condensate ",
+        "Module 12:  Drip poot ", 
+        "Module 13:  Utility station",  
+        "Module 14:  Sulphur jacket line", 
+        "Module 15:  Sizing criteria for hose connection ",
+        "Module 16:  Typical piping arrangement for sea cooling water supply/return with four way valve", 
+        "Module 17:  Typical piping arrangement for sea cooling water supply/return ",
+        "Module 18:  Typical arrangement for blow down connections", 
+        "Module 19:  Distribution to users",
+        "Module 20:  Piping Component Options",
+        "Module 21:  Lines Number System",
+        "Module 22:  Process Line Battery Limit",
+        "Module 23:  Fire Water Lines Battery Limit",
+        "Module 24:  Typical for pit close drain purge",
+        "Module 25:  Notes"
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦180,000 / $150"
+  },
+
+
+  {
+    id: 10,
+    title: "P&ID Development Procedure 4 - Process Control  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process control is essential in industries like chemical, oil and gas, pharmaceuticals, and manufacturing, where precise regulation of process parameters (such as temperature, pressure, and flow rate) is crucial.",
+
+      "The P&ID Development Procedure - Process Control course focuses on the integration of process control systems within Piping and Instrumentation Diagrams (P&IDs). This course provides participants with the knowledge and skills to understand, design, and develop control systems within the context of P&IDs. It covers various types of process control strategies, loop systems, and control mechanisms used in industrial applications to ensure efficient and safe operations.",
+
+      "This course explores core concepts such as feedback and feedforward control, cascade control, split-range control, and more. It also introduces participants to applicable industry standards for process control, terminology, and the role of process control systems in achieving optimal process performance. Through a hands-on case study, participants will apply their learning to real-world scenarios and enhance their ability to develop effective control systems in P&IDs.",
+
+      "By the end of this course, participants will be able to design control loops, integrate them into P&IDs, and ensure proper functionality of process control systems in various industrial settings."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process drafting.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic knowledge of P&IDs, including symbols, layout, and general interpretation.",
+      "Fundamental understanding of process systems in industries such as chemical, oil & gas, or power generation.",
+      "Basic knowledge of instrumentation and control systems such as sensors, actuators, controllers, and valves.",
+      "Basic understanding of process engineering principles."
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Be proficient in designing and integrating process control systems into P&IDs.",
+          "Understand various process control strategies and their applications in industrial processes.",
+          "Be able to interpret and implement feedback, feedforward, and combined control systems.",
+          "Have the skills to develop control loops and ensure that they are represented clearly and accurately in P&IDs for safe, efficient, and effective process operation. "
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction to Process Control",
+        "Module 2:  Applicable Standards Summary",
+        "Module 3:  Basic Loop",
+        "Module 4:  Terms used in  Process Control",
+        "Module 5:  Control Loop ",
+        "Module 6:  Feedback Control", 
+        "Module 7:  Feedforward Control",
+        "Module 8:  Feedforward-plus-Feedback Control",
+        "Module 9:  Ration Control ",
+        "Module 10: Cascade Control ",
+        "Module 11: Split Range Control", 
+        "Module 12: Case Study"
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $120"
   },
 
 ];
