@@ -629,6 +629,7 @@ export const projects = [
     ],
     cost: "₦120,000 / $100"
   },
+
   {
     id: 10,
     title: "Instrumentation & Control Design 1",
@@ -694,6 +695,7 @@ export const projects = [
     ],
     cost: "₦60,000 / $50"
   },
+
   {
     id: 10,
     title: "Instrumentation & Control Design 2",
@@ -826,6 +828,9 @@ export const projects = [
     ],
     cost: "₦80,000 / $60"
   },
+
+  
+  
   {
     id: 10,
     title: "Material Selection for Process Units Piping",
@@ -4431,7 +4436,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/specification for oil.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4513,7 +4518,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/refinery process.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4580,7 +4585,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/oil and gas separation.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4659,7 +4664,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/oil and gas separators.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4751,7 +4756,7 @@ export const projects = [
       "The Process Fundamentals course is designed to provide a foundational understanding of the essential principles and operations in industrial processing, particularly within the chemical and petroleum industries. This course covers key concepts in chemistry, physics, refining processes, separation techniques, and refinery operations. The modules are carefully structured to guide learners through the basic principles, practical applications, and operational aspects of crude oil refining, as well as the specific equipment and processes used in refineries. The course emphasizes both theoretical knowledge and practical skills, using case studies to encourage problem-solving and critical thinking."
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/process fundamentals.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4839,7 +4844,7 @@ export const projects = [
       "The Well Servicing and Workover course is designed to provide a comprehensive understanding of the techniques, equipment, and procedures used in well maintenance, repair, and enhancement. Well servicing and workover operations are essential to ensure that oil and gas wells maintain optimal production rates throughout their lifespan. The course covers a range of operations, from light and heavy workovers on live wells to servicing killed wells. Participants will also explore special cases that require unique approaches, along with detailed case studies to highlight real-world challenges and solutions. This course equips participants with the knowledge and skills necessary to safely and efficiently manage well servicing and workover operations."
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/Well Servicing and Workover.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4884,9 +4889,9 @@ export const projects = [
         "Module 2:  Main types of operation.",
         "Module 3:  Light operations on live wells",
         "Module 4:  Heavy  operations on live wells",
-        "Module 5:   Operations on killed wells",
-        "Module 6:   Special Cases",
-        "Module 7:   Case Studies"
+        "Module 5:  Operations on killed wells",
+        "Module 6:  Special Cases",
+        "Module 7:  Case Studies"
 
 
 
@@ -4917,7 +4922,7 @@ export const projects = [
       "The Artificial Lift course focuses on the various methods and technologies used to enhance the production of oil and gas from wells where natural reservoir pressure is insufficient to lift fluids to the surface. Artificial lift systems are essential for maintaining production rates and optimizing well performance over time. This course covers key artificial lift methods such as pumping systems and gas lift, providing participants with the knowledge to choose and apply the right artificial lift method based on well conditions and reservoir characteristics. Through practical case studies, participants will also learn how to evaluate, troubleshoot, and optimize artificial lift systems to ensure efficient and cost-effective operations."
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/Artificial Lift.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -4985,7 +4990,7 @@ export const projects = [
       "The Equipment of Naturally Flowing Wells course provides a comprehensive introduction to the equipment and components used in naturally flowing oil and gas wells. These types of wells, which rely on the natural pressure of the reservoir to drive the fluids to the surface, require specialized equipment to maintain safe, efficient, and long-term production. The course covers the general configuration of flowing well equipment, including the production wellhead, tubing, packers, and downhole safety devices. Participants will also learn about running procedures and how to optimize the operation of flowing wells. The course includes practical case studies to help participants apply theoretical knowledge to real-world situations."
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/The Equipment of Naturally Flowing Wells.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5064,7 +5069,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/intro to well.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5139,7 +5144,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/connecting the payzone.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5215,7 +5220,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/intro to process model using aspen.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5303,7 +5308,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/process model using aspen.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5398,7 +5403,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/sizing of strainers.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5486,7 +5491,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/p and id 1.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5605,7 +5610,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/p and id 2.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5731,7 +5736,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/p and id 3.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5871,7 +5876,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/process drafting.png"),
+      require("./coursesImg/p and id 4.png"),
     tags: [
       'Author: Adeyemi',
     ],
@@ -5930,6 +5935,324 @@ export const projects = [
       "On-the-job training"
     ],
     cost: "₦150,000 / $120"
+  },
+
+
+  {
+    id: 10,
+    title: "Conceptual Stage of Design  ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The Conceptual Stage of Design in Process Engineering course provides participants with the knowledge and tools required to generate innovative, practical, and feasible process designs. The course emphasizes the importance of creativity, cross-disciplinary collaboration, and problem-solving during the conceptual phase. Participants will learn how to assess requirements, explore multiple design alternatives, use simulation tools, evaluate economic and environmental impacts, and transition the design into the FEED & detailed engineering phase.",
+      "This course is designed for process engineers, project managers, and technical professionals who are involved in the early stages of process design for manufacturing, chemical plants, energy systems, and other industrial sectors."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/conceptual stage.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "The Conceptual Stage of Design in Process Engineering course provides participants with the knowledge and tools required to generate innovative, practical, and feasible process designs. The course emphasizes the importance of creativity, cross-disciplinary collaboration, and problem-solving during the conceptual phase. Participants will learn how to assess requirements, explore multiple design alternatives, use simulation tools, evaluate economic and environmental impacts, and transition the design into the FEED & detailed engineering phase.",
+      "This course is designed for process engineers, project managers, and technical professionals who are involved in the early stages of process design for manufacturing, chemical plants, energy systems, and other industrial sectors."
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the principles and importance of the conceptual design stage in process engineering.",
+          "Be able to create preliminary process flow diagrams and carry out basic material and energy balances.",
+          "Develop skills to conduct economic feasibility studies.",
+          "Be introduced to process simulation tools and their role in optimizing conceptual designs.",
+          "Understand how to evaluate and select process alternatives based on technical, economic, and environmental considerations."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction to the Conceptual Design Phase",
+        "Module 2:   Understanding Process Requirements.",
+        "Module 3:   Process Research",
+        "Module 4:   Development of Block Flow Diagram",
+        "Module 5:   Preliminary Process Flow Diagrams (PFD) from licensors",
+        "Module 6:   Process Simulation and Modeling",
+        "Module 7:   Feasibility Analysis and Preliminary Costing",
+        "Module 8:   Reporting and Documentation",
+        "Module 9:   Transitioning to Detailed Design and Engineering",
+        "Module 10:  Case Studies "
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $120"
+  },
+
+  {
+    id: 10,
+    title: "Contract Administration ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Contract administration refers to the process of managing and overseeing the performance of a contract throughout its lifecycle. It involves ensuring that all parties involved in the contract adhere to the agreed terms, conditions, and timelines. This process helps ensure that the contract's objectives are met efficiently and that any issues or disputes are resolved promptly.",
+
+      "The course on Contract Administration is designed to equip participants with the knowledge and skills required to manage contracts effectively throughout their lifecycle, from initiation to closure. This course will cover key elements of contract administration, including the various activities involved in managing contracts, ensuring performance, handling disputes, and administering the terms of the contract. Participants will gain practical insights through case studies and discussions to enhance their understanding of real-world contract management issues."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/contract admin.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Understanding of Contract Law.",
+      "Project Management Fundamentals.",
+      "Experience in Engineering or Contract Administration."
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand Contract Management Fundamentals: Comprehend the basic concepts and processes involved in managing contracts, including the structure and purpose of contracts.",
+          "Identify Key Contract Management Activities: Understand the roles and responsibilities involved in contract initiation, execution, monitoring, and amendment.",
+          "Ensure Contract Performance: Learn how to measure and ensure that contract obligations are met in terms of quality, time, and cost.",
+          "Close Contracts Effectively: Acquire the knowledge to properly conclude contracts, including compliance and documentation requirements.",
+          "Administer Contracts Efficiently: Understand the continuous role of contract administration in monitoring compliance, addressing issues, and managing variations.",
+          "Grasp the Engineer's Role in Contract Management: Understand the specific duties and responsibilities of engineers within the contract framework.",
+          "Handle Contract Termination: Learn how to manage contract terminations, including reasons for termination and the process involved.",
+          "Apply Learnings Through Case Studies: Develop practical solutions to common issues in contract management by analyzing real-world case studies."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Contract Management",
+        "Module 2:  Contract Management Activities.",
+        "Module 3:  Contract Performance",
+        "Module 4:  Closure of a Contract",
+        "Module 5:  Contract Administration",
+        "Module 6:  Responsibilities Of The Engineer",
+        "Module 7:  Termination of Contract",
+        "Module 8:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦60,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Cost Estimating Guidance ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Cost estimating is a crucial skill for successful project management. It involves careful planning, data gathering, and the use of proven methodologies to create realistic estimates. A good cost estimate forms the foundation for budgeting and controlling costs throughout the project, ensuring that the project remains financially viable and meets its goals. By using structured methods, incorporating risks, and constantly reviewing and validating estimates, project managers can help mitigate the risk of cost overruns and deliver successful projects.",
+      "The Cost Estimating course is designed to provide participants with a solid foundation in understanding and applying cost estimating techniques for projects in various industries. This course will cover the core principles and processes involved in creating accurate and reliable cost estimates, key best practices, and the roles and responsibilities of different stakeholders in the cost estimating process. Through case studies, participants will gain practical insights and learn to apply cost estimating methods to real-world scenarios."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/cost estimating.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Understanding of Project Management",
+      "Familiarity with Financial and Budgeting Terms.",
+      "Experience in Project-Based Work.",
+      "Analytical and Problem-Solving Skills."
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand Cost Estimating Fundamentals: Comprehend the purpose and importance of cost estimating in project management, and the key principles that guide the estimating process.",
+          "Master the Cost Estimating Process: Learn the steps involved in generating accurate cost estimates for different types of projects.",
+          "Apply Best Practices in Cost Estimating: Identify and implement industry-recognized practices that lead to the creation of reliable cost estimates.",
+          "Understand Roles and Responsibilities: Understand the roles of different stakeholders involved in the cost estimating process, and how their responsibilities impact the quality of estimates.",
+          "Perform Detailed Cost Estimation: Gain the skills to develop cost estimates using various methodologies, including bottom-up, top-down, and parametric estimating techniques.",
+          "Analyze Case Studies: Apply cost estimating concepts to real-world scenarios and learn how to address challenges encountered in the estimating process."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Overview of the cost estimating process.",
+        "Module 3:  Principles for the best practice cost estimating",
+        "Module 4:  Roles and responsibilities",
+        "Module 5:  Cost Estimating Process ",
+        "Module 6:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ], 
+    cost: "₦50,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Design Engineering Safety Checklist ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Design Engineering Safety Checklist is a comprehensive tool used to identify, assess, and mitigate potential hazards during the design phase of a project or product. It ensures that safety is integrated into the design process and helps engineers comply with relevant safety standards, codes, and regulations. By identifying safety risks early in the design process, the checklist contributes to reducing accidents, improving product reliability, and ensuring compliance with industry standards.",
+      "The Design Engineering Safety Checklist course is designed to provide engineers, safety professionals, and project managers with a comprehensive understanding of the safety considerations that must be addressed throughout the design phase of industrial projects. The course covers key areas of design, from plant layout and process design to equipment and instrumentation, ensuring safety is integrated into each aspect of the project. By focusing on critical safety factors, loss prevention, and regulatory compliance, this course helps professionals create safer and more efficient industrial environments. Participants will also learn to apply safety standards using case studies, allowing them to assess and address potential risks during the design process."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/eng safety checklist.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "hazop hazid",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic Knowledge of Engineering and Industrial Design.",
+      "Familiarity with Safety Standards and Regulations.",
+      "Experience in Project Management or Plant Operations.",
+      "Problem-Solving and Analytical Skills.",
+      "Understanding of Engineering Drawings and CAD."
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the Fundamentals of Design Engineering Safety: Grasp the importance of safety in industrial design and how it integrates with engineering best practices.",
+          "Implement Safety in Plant Layout: Learn how to design plant layouts that prioritize safety, accessibility, and efficiency while minimizing risks.",
+          "Design Safe Building Infrastructure: Understand the key safety considerations for designing industrial buildings, including structural integrity and hazard prevention.",
+          "Analyze Safety in Process Design: Recognize the safety risks associated with industrial processes and how to mitigate these risks during the design phase.",
+          "Ensure Safety in Piping Systems: Identify safety standards for piping systems, including the prevention of leaks, corrosion, and the proper handling of hazardous materials.",
+          "Integrate Safe Equipment Design: Learn how to design and select equipment that is both efficient and meets safety requirements.",
+          "Design Venting Systems for Safety: Understand the role of venting systems in preventing the buildup of hazardous gases and maintaining a safe working environment.",
+          "Implement Instrumentation and Electrical Safety: Learn how to integrate safety protocols into instrumentation and electrical systems to prevent hazards related to automation and control.",
+          "Apply Loss Prevention Strategies: Develop strategies to minimize risks, including chemical leaks, fires, and environmental damage, during the design phase.",
+          "Ensure Safe Raw Materials Handling: Understand the safety protocols required for the storage, handling, and transportation of raw materials in industrial settings.",
+          "Evaluate Safety Through Case Studies: Analyze real-world case studies to apply safety principles and checklists to actual design scenarios, identifying risks and recommending solutions."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Plant Layout.",
+        "Module 3:  Building",
+        "Module 4:  Process",
+        "Module 5:  Piping ",
+        "Module 6:  Equipment",
+        "Module 7:  Venting",
+        "Module 8:  Instrumentation and Electrical",
+        "Module 9:  Loss Prevention",
+        "Module 10: Raw Materials",
+        "Module 11:  Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
   },
 
 ];
