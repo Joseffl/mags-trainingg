@@ -318,8 +318,8 @@ const index = ({ openModal, setOpenModal }) => {
           </Desc>
 
           <ButtonGroup>
-            <Button dull href="#" target='new'>Make Payment</Button>
-            <Button href="#" target='new'>Access Course</Button>
+            <Button dull href="#" target='new'>Enroll Now</Button>
+            <Button href="#" target='new'>Make Enquiry</Button>
           </ButtonGroup>
         </Wrapper>
       </Container>
