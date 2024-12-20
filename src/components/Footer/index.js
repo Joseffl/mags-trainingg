@@ -70,7 +70,7 @@ function Footer() {
           
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Mags Engineering . All rights reserved.
+          &copy; 2022 Mags Engineering . All rights reserved.
         </Copyright>
 
       </FooterWrapper>

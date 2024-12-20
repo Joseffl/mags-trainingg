@@ -6255,6 +6255,270 @@ export const projects = [
     cost: "₦100,000 / $80"
   },
 
+  {
+    id: 10,
+    title: "Air Receiver Sizing ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Air Receiver Sizing is an essential aspect of designing a compressed air system to ensure efficient operation, avoid system fluctuations, and maintain consistent air pressure. The air receiver, often referred to as an air tank or air accumulator, serves as a buffer in a compressed air system, providing a reserve of compressed air to handle system surges, accommodate changes in air demand, and reduce the frequency of compressor cycling.",
+
+      "The course will provide participants with a comprehensive understanding of how to properly size air receivers, considering factors such as system flow rate, pressure variations, compressor capacity, and specific operational needs. It is ideal for professionals in industries that rely on compressed air systems, including manufacturing, automotive, chemical, and food processing."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/air receiver sizing.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "The prerequisites for an Air Receiver Sizing Course generally include foundational knowledge of compressed air systems, fluid dynamics, and basic mechanical and electrical engineering principles. To ensure that participants can fully grasp the course material and apply it effectively, it is recommended that they have the following background:",
+      "Basic Knowledge of Compressed Air Systems",
+      "Fluid Mechanics and Pneumatics Basics",
+      "Engineering and Thermodynamics Fundamentals",
+      "Basic Safety Knowledge"
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the principles and guidelines for sizing air receivers.",
+          "Properly size air receivers for various compressed air systems, taking into account flow rate, pressure, and demand characteristics.",
+          "Comprehend the safety standards and codes associated with air receiver design and operation.",
+          "Evaluate the impact of air receiver sizing on compressor performance and system efficiency.",
+          "Perform routine maintenance and troubleshooting of air receivers.",
+          "Optimize air receiver sizing to improve energy efficiency and reduce operational costs."
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction to Compressed Air Systems",
+        "Module 2:   Air Receiver Sizing Principles.",
+        "Module 3:   Factors Influencing Air Receiver Size",
+        "Module 4:   Safety Considerations and Codes",
+        "Module 5:   Impact of Receiver Size on Compressor Performance",
+        "Module 6:   Air receiver sizing (Template calculation)",
+        "Module 7:   Air Receiver Design and Installation",
+        "Module 8:   Case Studies and Practical Applications "
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦70,000 / $60"
+  },
+
+  {
+    id: 10,
+    title: "Process Design Engineering ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process Design Engineering is a branch of engineering focused on designing, analyzing, and optimizing processes in industries such as chemical, petrochemical, food processing, pharmaceutical, oil and gas, and more. It involves creating systems that efficiently convert raw materials into products or services while meeting safety, quality, cost, and environmental standards. The role of process design engineers is to ensure that these processes are not only functional but also cost-effective, sustainable, and scalable.",
+      "This course provides an in-depth exploration of process design engineering, focusing on key aspects of the design, simulation, and optimization of industrial processes, particularly in the context of oil and gas industries. Participants will gain essential skills in process engineering, understanding of upstream oil and gas operations, insights into fluid phase behavior, and proficiency in using process simulation software. Through these modules, students will develop the ability to design and optimize processes that are efficient, safe, and cost-effective in industrial applications."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/process design eng.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Before embarking on this course, students should have the following foundational knowledge:",
+      "Basic Thermodynamics.",
+      "Fluid Mechanics.",
+      "Chemistry and Material Science.",
+      "Engineering Fundamentals."
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Upon successful completion of this course, students will be able to:",
+          "Develop and design industrial processes considering safety, cost, and environmental factors.",
+          "Analyze material and energy balances to optimize process flow and efficiency.",
+          "Apply fundamental engineering principles to solve complex process engineering problems.",
+          "Understand the key processes and technologies involved in upstream oil and gas operations.",
+          "Evaluate exploration, drilling, production, and reservoir management.",
+          "Gain insight into equipment and process design specific to oil and gas extraction.",
+          "Understand the thermodynamic properties of fluids and the phases they undergo under varying pressure and temperature conditions.",
+          "Analyze phase diagrams and apply phase behavior principles to oil and gas systems.",
+          "Apply the knowledge of fluid behavior to optimize process designs in upstream oil and gas operations.",
+          "Use process simulation software to model, simulate, and optimize chemical processes.",
+          "Understand and apply different models for thermodynamic calculations, flow sheet simulation, and process optimization.",
+          "Interpret and troubleshoot simulation results to improve process designs and performance."
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:  Process Engineering",
+        "Module 2:  Upstream Oil & Gas Overview.",
+        "Module 3:  Fluid Phase Behavior",
+        "Module 4:  Process Simulations",
+        "Module 5:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦60,000 / $40"
+  },
+
+  {
+    id: 10,
+    title: "Material Specification ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A Material Specification course typically focuses on the principles, practices, and standards involved in specifying materials for construction, manufacturing, or product design. This course will focus on the following codes and standards; ASTM, ASME, API 5L, API 6A, AISI, API 5CT, ISO, EN/ ES, CSA, AS, JIS."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Author: Adeyemi',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Understanding of Materials Science",
+      "Engineering or Technical Background"
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of material selections in oil and gas applications.",
+          "Develop the ability to choose the most suitable materials for specific applications as per codes and standards and mode of operations",
+          "Understand and apply relevant standards and codes in material specification.",
+          "Implement effective quality control measures to ensure material conformance.",
+          "Select materials that enhance product performance and durability.",
+          "Choose materials that meet safety standards and reduce the risk of failures."
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1: Introduction to Materials",
+        "Module 2: Material Properties and Selection Criteria",
+        "Module 3: Standards, Codes and Regulations",
+        "Module 4: American Society for Testing and Materials (ASTM)",
+        "Module 5: The American Society of Mechanical Engineers (ASME) ",
+        "Module 6: American Petroleum Institute (API) 5L",
+        "Module 7: American Petroleum Institute (API) 6A",
+        "Module 8: American Iron and Steel Institute (AISI)",
+        "Module 9: American Petroleum Institute (API) 5CT",
+        "Module 10: International Organization for Standardization (ISO)",
+        "Module 11: European Norm (European Standard)",
+        "Module 12: Canadian Standards Association (CSA)",
+        "Module 13: Australian standards (AS)",
+        "Module 14: Japanese Industrial Standards (JIS)",
+        "Module 15: Material Testing and Evaluation",
+        "Module 16: Case Studies and Applications"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦120,000 / $100"
+  },
+
 ];
 
 
