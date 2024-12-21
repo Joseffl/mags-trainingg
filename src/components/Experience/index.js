@@ -97,10 +97,10 @@ const StyledExperienceCard = styled.div`
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
-  &:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(40, 172, 48, 0.2);
-  }
+  // &:hover {
+  //   transform: translateY(-5px);
+  //   box-shadow: 0 6px 12px rgba(40, 172, 48, 0.2);
+  // }
 `;
 
 const ExploreButton = styled.a`
