@@ -265,8 +265,6 @@ export const projects = [
     ],
     methodology: "Theoretical/Practical",
     category: "commissioning",
-    github: "https://github.com/Joseffl/laroyexchange",
-    webapp: "https://bit.ly/3u1sbXt",
     objectives: [
           "Understand the principles and importance of commissioning and start-up.",
         	"Develop effective commissioning plans and strategies.",
@@ -298,7 +296,8 @@ export const projects = [
       "Online courses", 
       "In-house workshops"
     ],
-    cost: "₦100,000 or $80"
+    cost: "₦100,000 or $80",
+    paymentLink: "https://sandbox.flutterwave.com/pay/smorzebvgitj",
     
   },
   
@@ -408,7 +407,7 @@ export const projects = [
       "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."],
       image:
       require("./coursesImg/CONTROL VALVE SIZING.png"),
-    tags: ["Trainer: Adeyemi"],
+    tags: ["Trainer: Engr. Magnus"],
     category: "process",
     github: "https://github.com/Joseffl/ai_summarizer",
     webapp: "https://bit.ly/3UbxnCV",
@@ -516,7 +515,7 @@ export const projects = [
       image:
       require("./coursesImg/hazid.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "hazop hazid",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -571,7 +570,7 @@ export const projects = [
     image:
       require("./coursesImg/hazop.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "hazop hazid",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -639,7 +638,7 @@ export const projects = [
       image:
       require("./coursesImg/instrumentation.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -705,7 +704,7 @@ export const projects = [
     image:
     require("./coursesImg/instrumentation 2.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -767,7 +766,7 @@ export const projects = [
     image:
     require("./coursesImg/change management.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -1429,7 +1428,7 @@ export const projects = [
     image:
     require("./coursesImg/PUMP SIZING.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -1607,7 +1606,7 @@ export const projects = [
     image:
     require("./coursesImg/PFD.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -1697,7 +1696,7 @@ export const projects = [
     image:
     require("./coursesImg/p and id.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -1794,7 +1793,7 @@ export const projects = [
     image:
     require("./coursesImg/psv sizing.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -2686,7 +2685,7 @@ export const projects = [
       image:
       require("./coursesImg/Centrifugal.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Adeyemi',
     ],
     category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -3061,7 +3060,7 @@ export const projects = [
       image:
       require("./coursesImg/CAUSES OF DELAYS IN EPC, PM.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "project management",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -3363,7 +3362,7 @@ export const projects = [
       image:
       require("./coursesImg/API 653- sTORAGE TANK INSPECTION.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechuckwu',
     ],
     category: "procurement construction",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -3467,7 +3466,7 @@ export const projects = [
       image:
       require("./coursesImg/DISTILLATION.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -3583,7 +3582,7 @@ export const projects = [
       image:
       require("./coursesImg/distillation column.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -3811,7 +3810,7 @@ export const projects = [
       image:
       require("./coursesImg/intro to oil.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4048,7 +4047,7 @@ export const projects = [
       image:
       require("./coursesImg/gas processing.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4520,7 +4519,7 @@ export const projects = [
       image:
       require("./coursesImg/refinery process.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4587,7 +4586,7 @@ export const projects = [
       image:
       require("./coursesImg/oil and gas separation.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4666,7 +4665,7 @@ export const projects = [
       image:
       require("./coursesImg/oil and gas separators.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4758,7 +4757,7 @@ export const projects = [
       image:
       require("./coursesImg/process fundamentals.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4846,7 +4845,7 @@ export const projects = [
       image:
       require("./coursesImg/Well Servicing and Workover.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4924,7 +4923,7 @@ export const projects = [
       image:
       require("./coursesImg/Artificial Lift.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -4992,7 +4991,7 @@ export const projects = [
       image:
       require("./coursesImg/The Equipment of Naturally Flowing Wells.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5071,7 +5070,7 @@ export const projects = [
       image:
       require("./coursesImg/intro to well.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5146,7 +5145,7 @@ export const projects = [
       image:
       require("./coursesImg/connecting the payzone.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "Petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5222,11 +5221,10 @@ export const projects = [
       image:
       require("./coursesImg/intro to process model using aspen.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
+    
 
     duration: "8 Days",
     prerequisite: [
@@ -5405,7 +5403,7 @@ export const projects = [
       image:
       require("./coursesImg/sizing of strainers.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5493,7 +5491,7 @@ export const projects = [
       image:
       require("./coursesImg/p and id 1.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5612,7 +5610,7 @@ export const projects = [
       image:
       require("./coursesImg/p and id 2.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5738,7 +5736,7 @@ export const projects = [
       image:
       require("./coursesImg/p and id 3.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5878,7 +5876,7 @@ export const projects = [
       image:
       require("./coursesImg/p and id 4.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -5954,7 +5952,7 @@ export const projects = [
       image:
       require("./coursesImg/conceptual stage.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -6029,7 +6027,7 @@ export const projects = [
       image:
       require("./coursesImg/contract admin.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Okechukwu',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -6106,7 +6104,7 @@ export const projects = [
       image:
       require("./coursesImg/cost estimating.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -6182,7 +6180,7 @@ export const projects = [
       image:
       require("./coursesImg/eng safety checklist.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "hazop hazid",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -6272,7 +6270,7 @@ export const projects = [
       image:
       require("./coursesImg/air receiver sizing.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Lateef',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
@@ -6355,7 +6353,7 @@ export const projects = [
       image:
       require("./coursesImg/process design eng.png"),
     tags: [
-      'Trainer: Adeyemi',
+      'Trainer: Engr. Magnus',
     ],
     category: "process",
     github: "https://github.com/Joseffl/react-todo-app",

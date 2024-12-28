@@ -3,6 +3,7 @@ import { Modal } from '@mui/material';
 import React from 'react'
 import styled from 'styled-components'
 import TableWithData from './TableData';
+import { HashLink } from 'react-router-hash-link';
 
 const Container = styled.div`
 width: 100%;
@@ -318,8 +319,14 @@ const index = ({ openModal, setOpenModal }) => {
           </Desc>
 
           <ButtonGroup>
-            <Button dull href="#" target='new'>Enroll Now</Button>
-            <Button href="#" target='new'>Make Enquiry</Button>
+            <Button dull href={project?.paymentLink} target='new'>Enroll Now</Button>
+            <Button 
+            as={HashLink}
+            smooth
+            to="/#contact"
+            >
+              Make Enquiry
+            </Button>
           </ButtonGroup>
         </Wrapper>
       </Container>
