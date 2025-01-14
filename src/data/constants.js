@@ -314,7 +314,7 @@ export const projects = [
     github: "https://github.com/Joseffl/creative-company-website",
     webapp: "https://ccdesignwebs.netlify.app",
 
-    duration: "3 Days",
+    duration: "1 Day",
     prerequisite: [
       "A bachelor's degree in engineering, technology, or a related field.",
       "Several years of experience in the field of engineering, construction, or operations.",
@@ -6515,6 +6515,730 @@ export const projects = [
       "On-the-job training"
     ],
     cost: "₦120,000 / $100"
+  },
+
+  {
+    id: 10,
+    title: "Plumbing Components and Equipment ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Plumbing components and equipment are essential parts of a plumbing system that ensure the safe, efficient, and effective distribution of water and removal of wastewater in residential, commercial, and industrial buildings. These components and equipment vary depending on the type of plumbing system and the specific requirements of the building or installation.",
+
+      "The Plumbing Components and Equipment course is designed to provide a thorough understanding of the various components and equipment used in modern plumbing systems. This course will delve into the key elements that make up plumbing infrastructure, including fixtures, pipes, valves, pumps, and insulation, as well as specialized systems like grease interceptors, water treatment, and cross-connection control. Participants will gain hands-on knowledge about plumbing system design, installation, maintenance, and best practices in materials selection. The course also covers environmentally-friendly solutions, such as green plumbing and bioremediation systems, which are increasingly relevant in today's sustainable construction and water conservation efforts."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Understanding of Plumbing Systems.",
+      "Mechanical or Engineering Background.",
+      "Basic Mathematics.",
+      "Blueprint Reading."
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Identify and explain the various types of plumbing fixtures (e.g., toilets, sinks, showers) and their design, installation, and maintenance requirements.",
+          "Gain knowledge of different types of pipes and piping systems, including materials, sizing, installation techniques, and pressure considerations.",
+          "Learn about various valve types used in plumbing systems, their functions, and applications, including shut-off, pressure-regulating, and check valves.",
+          "Gain an understanding of the role of pumps in plumbing systems, including selection criteria, installation, and maintenance procedures for various pump types.",
+          "Learn how to properly insulate piping systems to prevent heat loss, protect against freezing, and increase energy efficiency.",
+          "Understand the importance of hangers and supports in plumbing systems and learn how to design and install them to ensure system stability and longevity.",
+          "Learn how to apply vibration isolation techniques in plumbing systems to reduce noise, protect pipes, and improve system efficiency.",
+          "Understand the design, installation, and maintenance of grease interceptors for managing grease in commercial kitchens and other wastewater systems.",
+          "Learn the importance of cross-connection control in plumbing systems, including backflow prevention and compliance with safety regulations.",
+          "Understand the principles of water treatment and learn how to design and implement systems that ensure safe, clean water for residential, commercial, and industrial applications.",
+          "Learn the causes and effects of thermal expansion in piping systems and how to design systems to mitigate its impact.",
+          "Learn about the design and installation of potable water coolers, fountains, and centralized water systems in commercial or large-scale residential projects.",
+          "Gain insight into the use of bioremediation systems in wastewater treatment, including their role in pretreatment and environmental sustainability.",
+          "Learn about green plumbing principles and technologies aimed at reducing water and energy consumption, including sustainable materials and energy-efficient systems.",
+          "Apply the principles learned throughout the course by analyzing real-world plumbing system designs and solutions to common problems."
+
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:   Plumbing Fixtures",
+        "Module 2:   Piping System.",
+        "Module 3:   Valves",
+        "Module 4:   Pumps",
+        "Module 5:   Piping Insulation",
+        "Module 6:   Hangers and Supports",
+        "Module 7:   Vibration Isolation",
+        "Module 8:   Grease Interceptors",
+        "Module 9:   Cross-Connection Control",
+        "Module 10:  Water Treatment",
+        "Module 11:  Thermal Expansion",
+        "Module 12:  Potable Water Coolers and Central Water Systems",
+        "Module 13:  Bioremediation Pretreatment Systems",
+        "Module 14:  Green Plumbing",
+        "Module 15:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $130"
+  },
+
+  {
+    id: 10,
+    title: "Cause & Effect Diagram For Process Engineers ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A Cause and Effect Diagram, also known as a Fishbone Diagram or Ishikawa Diagram, is a useful tool for process engineers to identify and analyze the root causes of problems in a system or process. It visually maps out the potential causes of a specific effect or problem, helping engineers systematically investigate various factors that could contribute to an issue.",
+
+      "The Cause & Effect Diagram for Process Engineers course is designed to provide participants with an in-depth understanding of cause-and-effect analysis in process engineering. The course covers the development and application of Cause & Effect Diagrams (also known as Fishbone or Ishikawa diagrams) for identifying and solving complex issues in process plants. Emphasizing control, monitoring, and shutdown systems, the course will guide process engineers through practical steps for designing diagrams that help troubleshoot process inefficiencies, optimize systems, and ensure safety. Real-world examples and sample diagrams will help participants gain confidence in creating these diagrams for use in their own projects."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Knowledge of Process Engineering.",
+      "Understanding of Process Control Systems.",
+      "Problem-Solving Skills.",
+      "Mathematics and Analytical Thinking."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of the course, participants will be able to:",
+          "Recognize the role of Cause & Effect Diagrams in troubleshooting, process optimization, and safety within process plants.",
+          "Gain practical knowledge of how to prepare a Cause & Effect Diagram specifically for process plant operations, identifying key factors that contribute to system malfunctions or inefficiencies.",
+          "Learn how to break down a process plant into its key components (people, equipment, materials, environment, and methods) and use these components to build a comprehensive Cause & Effect Diagram.",
+          "Learn how to apply Cause & Effect Diagrams to identify the root causes of problems and implement corrective actions in process plant operations.",
+          "Develop and utilize Cause & Effect Diagrams to improve monitoring and control systems and facilitate effective shutdown procedures.",
+          "Review and analyze sample Cause & Effect Diagrams to understand their application in real-world scenarios and improve decision-making in process plants."
+
+
+                      
+
+
+        ],
+    outline: [
+        "Module 1:   An Introduction to Control, Monitoring and Shutdown of the Process Plant",
+        "Module 2:   How to Prepare Cause & Effect Diagram for Process Plant.",
+        "Module 3:   Sample Cause & Effect Diagram"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦120,000 / $100"
+  },
+  
+  {
+    id: 10,
+    title: "Air Dryer Sizing ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Air Dryer Sizing is the process of selecting the correct air dryer to meet the requirements of a compressed air system. An appropriately sized air dryer ensures that the compressed air is dried to the desired level, preventing moisture from damaging equipment and products. Incorrect sizing can lead to inefficiency, higher operating costs, and potential system failure. ",
+
+      "The Air Dryer Sizing course is designed for engineers and professionals involved in designing, operating, and maintaining compressed air systems. This course provides a detailed understanding of the calculations and considerations involved in selecting and sizing air dryers. Participants will learn about key sizing parameters, how to interpret process data, and how to apply industry standards to ensure the correct air dryer specification. The course covers essential calculations, including adsorbent bed volume, pressure drop, and adsorber vessel sizing, offering a comprehensive approach to achieving optimal system performance."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Knowledge of Compressed Air Systems.",
+      "Basic Engineering Principles.",
+      "Mathematics.",
+      "Process Data Interpretation."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of the course, participants will be able to:",
+          "Comprehend the importance of correct sizing in optimizing air dryer performance, system efficiency, and preventing equipment failure.",
+          "Learn about critical sizing parameters such as airflow, inlet and outlet temperatures, relative humidity, and dew point requirements.",
+          "Understand the various codes and standards that apply to air dryer systems, ensuring compliance and safe operation in industrial settings.",
+          "Accurately interpret process data, such as flow rates, pressure, temperature, and humidity, and use this data to guide air dryer sizing decisions.",
+          "Gain hands-on experience with the calculations required for air dryer sizing, including adsorbent bed volume, pressure drop, and adsorber vessel sizing.",
+          "Learn how to calculate the required volume of adsorbent material for the air dryer, ensuring proper moisture removal and system performance.",
+          "Learn how to calculate pressure drop across the air dryer system, ensuring minimal energy loss and optimizing system efficiency.",
+          "Understand how to calculate the required volume of the adsorber vessel, ensuring adequate capacity and performance during the drying cycle.",
+          "Learn how to analyze the results of the sizing calculations and how to adjust parameters to meet system requirements.",
+          "Analyze case studies to better understand the application of air dryer sizing principles in real-world settings and learn from practical examples."
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1:   Calculation Objective",
+        "Module 2:   General Information.",
+        "Module 3:   Codes & Standards",
+        "Module 4:   Sizing Parameters",
+        "Module 5:   Process Data",
+        "Module 6:   Calculation",
+        "Module 7:   Adsorbent Bed Volume Calculation",
+        "Module 8:   Pressure Drop Calculation",
+        "Module 9:   Adsorber Vessel Volume Sizing",
+        "Module 10:  Results",
+        "Module 11:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Special Plumbing Systems ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Special plumbing systems refer to specialized systems designed for unique or specific functions beyond the typical water supply, drainage, and waste systems found in most buildings. These systems cater to unique needs in specific environments like hospitals, industrial facilities, laboratories, food production, and more. These systems are often designed to meet stringent requirements for safety, functionality, and compliance with codes.",
+
+      "The Special Plumbing Systems course is designed for professionals seeking advanced knowledge and expertise in specialized plumbing systems. This course covers a wide range of unique plumbing applications that go beyond traditional systems, such as fire protection, healthcare facility design, industrial waste treatment, irrigation, and renewable energy solutions like solar energy. The course also addresses the design of complex systems like swimming pools, fountains, compressed air systems, and steam piping. Through theoretical lessons and case studies, participants will learn the unique requirements and considerations for each system, ensuring they are equipped to design, install, and maintain these specialized systems in various industries."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Fundamental Plumbing Knowledge.",
+      "Engineering or Technical Background.",
+      "Mathematics.",
+      "Familiarity with Codes and Standards."
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Upon successful completion of this course, participants will be able to:",
+          "Understand the principles of fire protection plumbing systems, including the selection of materials, system layout, and compliance with fire safety codes and standards.",
+          "Gain specialized knowledge in the design and installation of plumbing systems for healthcare facilities, ensuring compliance with health codes, infection control measures, and patient safety.",
+          "Learn the processes involved in the treatment and disposal of industrial waste, including system design considerations for effective waste management.",
+          "Understand how to design and implement irrigation systems for residential, commercial, and agricultural purposes, focusing on water efficiency and sustainability.",
+          "Gain expertise in the design and maintenance of reflecting pools and fountains, including water circulation, filtration, and aesthetic considerations.",
+          "Learn the unique plumbing requirements for public swimming pools, including filtration, water treatment, and sanitation standards.",
+          "Understand the design and safety considerations for gasoline and diesel oil plumbing systems, focusing on containment, transfer, and storage systems.",
+          "Learn the fundamentals of steam and condensate piping systems, including their applications in industrial settings, as well as safety and maintenance considerations.",
+          "Understand how to design and implement compressed air systems, focusing on system efficiency, pressure regulation, and safety protocols.",
+          "Learn how to incorporate solar energy into plumbing systems, particularly in domestic and commercial water heating applications, and understand the design, installation, and maintenance of solar thermal systems.",
+          "Gain knowledge in designing comprehensive site utility systems, including the integration of plumbing systems for large-scale residential or commercial projects.",
+          "Apply your knowledge to real-world case studies, addressing challenges and developing solutions for specialized plumbing systems in diverse settings."
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Fire Protection Systems.",
+        "Module 3:   Plumbing Design for Healthcare Facilities",
+        "Module 4:   Treatment of Industrial Waste",
+        "Module 5:   Irrigation Systems",
+        "Module 6:   Reflecting Pools and Fountains",
+        "Module 7:   Public Swimming Pools",
+        "Module 8:   Gasoline and Diesel Oil Systems",
+        "Module 9:   Steam and Condensate Piping",
+        "Module 10:  Compressed Air Systems",
+        "Module 11:  Solar Energy",
+        "Module 12:  Site Utility Systems",
+        "Module 13:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $130"
+  },
+
+  {
+    id: 10,
+    title: "Plumbing Systems ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Plumbing systems refer to the network of pipes, fixtures, and equipment used to deliver clean water, remove wastewater, and handle other fluid-based needs within buildings or infrastructure. These systems are essential for providing potable water, sanitation, and stormwater management. Plumbing systems are designed to ensure safety, efficiency, and sustainability, and they must comply with local building codes and regulations.",
+
+      "The Plumbing Systems course offers an in-depth exploration of the various systems involved in the plumbing design and maintenance of residential, commercial, and industrial buildings. This course provides professionals with the knowledge and skills necessary to design, install, and maintain a range of plumbing systems, from sanitary and storm drainage to specialized systems like graywater, vacuum, and pure water systems. Participants will learn about the principles, components, and best practices for ensuring efficient, safe, and sustainable plumbing operations. The course also includes hands-on case studies that enable students to apply theoretical concepts to real-world plumbing scenarios."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Knowledge of Plumbing: Understanding of basic plumbing concepts, including pipe systems, fixtures, and fittings.",
+      "Engineering Fundamentals: Familiarity with basic mechanical or civil engineering principles will be beneficial.",
+      "Mathematics: Basic understanding of algebra and geometry for system calculations.",
+      "Blueprint Reading: Knowledge of interpreting plumbing schematics and construction drawings is advantageous."
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Upon successful completion of the course, participants will be able to:",
+          "Understand the principles behind designing effective sanitary drainage systems, ensuring proper waste disposal and system integrity.",
+          "Learn about the collection, treatment, and reuse of graywater, and how to incorporate these systems into sustainable plumbing designs.",
+          "Gain knowledge on the critical role of venting in plumbing systems, including the design and installation of vent pipes to ensure proper air circulation and prevent harmful gas buildup.",
+          "Understand the importance of stormwater management, including how to design and install efficient storm drainage systems to prevent flooding and water damage.",
+          "Learn how to design reliable cold water supply systems that ensure consistent water pressure and meet the demands of users.",
+          "Master the principles behind domestic water heating systems, including the selection, installation, and maintenance of water heaters for both residential and commercial applications.",
+          "Learn about private sewage disposal systems, including septic systems and alternatives, ensuring proper waste treatment for properties not connected to municipal systems.",
+          "Explore the design and maintenance of private water supply systems, including wells and pumps, to ensure safe and reliable water access.",
+          "Gain an understanding of vacuum plumbing systems and their unique design considerations for applications requiring low water usage and increased efficiency.",
+          "Learn the principles of designing pure water systems for specialized applications, such as laboratories and medical facilities, where high purity water is essential.",
+          "Understand the specific requirements for lab waste systems, including chemical waste disposal and the safe handling of hazardous materials in plumbing systems.",
+          "Apply theoretical knowledge to real-world plumbing scenarios, studying case studies that highlight common challenges and innovative solutions in plumbing design and installation."
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Sanitary Drainage Systems",
+        "Module 3:   Graywater Systems ",
+        "Module 4:   Vents and Venting Systems",
+        "Module 5:   Storm Drainage Systems",
+        "Module 6:   Cold Water Systems",
+        "Module 7:   Domestic Water Heating Systems",
+        "Module 8:   Private Sewage Disposal Systems",
+        "Module 9:   Private Water Systems",
+        "Module 10:  Vacuum Systems",
+        "Module 11:  Pure Water Systems",
+        "Module 12:  Lab Waste Systems",
+        "Module 13:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $130"
+  },
+
+  {
+    id: 10,
+    title: "Fundamentals of Plumbing Engineering ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Fundamentals of plumbing engineering encompass the principles and knowledge that are essential for designing, installing, and maintaining plumbing systems in buildings, industrial facilities, and infrastructure. Plumbing engineering ensures the effective management of water distribution, waste management, and overall fluid handling within a building or facility. Below are the key fundamentals.",
+
+      "The Fundamentals of Plumbing Engineering course provides a comprehensive understanding of plumbing systems and their integral role in building design, construction, and operation. This course is ideal for engineers, architects, and professionals who want to develop a solid foundation in plumbing engineering practices. Topics covered include plumbing formulas, system design standards, cost estimation, job preparation, and advanced concepts such as energy conservation, seismic protection, acoustics, and plumbing for people with disabilities. Additionally, this course emphasizes modern practices like Building Information Modeling (BIM) and value engineering, while exploring how to ensure high-quality plumbing installations through careful planning and execution."
+
+    
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Understanding of Engineering Principles.",
+      "Construction Knowledge.",
+      "Mathematics.",
+      "Blueprint Reading.",
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of the course, participants will be able to:",
+          "Recognize and apply plumbing-specific terminology, symbols, and formulas essential for plumbing engineering and system design.",
+          "Comprehend and utilize national and international standards for plumbing materials and equipment, ensuring systems meet regulatory and safety requirements.",
+          "Learn how to write detailed plumbing specifications, including system components, installation procedures, and performance requirements.",
+          "Develop plumbing cost estimation skills, including the assessment of material, labor, and overhead costs, to prepare accurate and competitive plumbing budgets.",
+          "Understand how to prepare comprehensive plumbing drawings, site plans, and field reports for installation, maintenance, and inspection purposes.",
+          "Gain expertise in designing plumbing systems that meet the needs of people with disabilities, ensuring compliance with accessibility standards.",
+          "Learn how to incorporate energy-efficient and resource-conserving practices into plumbing systems, focusing on sustainability and cost savings.",
+          "Learn about the causes and prevention of corrosion in plumbing systems, and how to choose materials that mitigate corrosion risks.",
+          "Understand the considerations for plumbing systems in earthquake-prone areas and how to design for seismic protection.",
+          "Gain an understanding of how plumbing systems affect building acoustics and how to minimize noise through proper design and material selection.",
+          "Learn the basics of value engineering in plumbing design to optimize functionality while minimizing costs without compromising quality.",
+          "Understand best practices for ensuring high-quality plumbing installations, from design to completion, and addressing common issues during installation.",
+          "Learn how to approach plumbing projects in existing buildings, including system retrofits, upgrades, and maintenance considerations.",
+          "Understand the role of BIM in plumbing design, construction, and maintenance, and how it improves collaboration, accuracy, and efficiency in project delivery.",
+          "Review and discuss real-world plumbing case studies to reinforce learning and examine the application of plumbing engineering principles in practical scenarios."
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Formulas, Symbols, and Terminology",
+        "Module 2:   Standards for Plumbing Materials and Equipment.",
+        "Module 3:   Specifications",
+        "Module 4:   Plumbing Cost Estimation",
+        "Module 5:   Job Preparation, Drawings, and Field Reports",
+        "Module 6:   Plumbing for People with Disabilities",
+        "Module 7:   Energy and Resource Conservation in Plumbing",
+        "Module 8:   Corrosion",
+        "Module 9:   Seismic Protection of Plumbing Systems",
+        "Module 10:  Acoustics in Plumbing",
+        "Module 11:  Basics of Value Engineering",
+        "Module 12:  Ensuring High-Quality Plumbing Installations",
+        "Module 13:  Existing Building Job Preparation",
+        "Module 14:  Building Information Modeling",
+        "Module 15:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+  {
+    id: 10,
+    title: "Piping Material Specification 1 (PMS) ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Piping Material Specification (PMS) is a critical document in the design and construction of piping systems, typically used in industries such as oil and gas, petrochemical, chemical plants, power plants, and other industrial facilities. The PMS provides a comprehensive list of all materials required for the piping system, ensuring that the materials used meet both technical and safety standards.",
+      "The Piping Material Specification (PMS) course is designed to equip participants with in-depth knowledge of the materials, components, and standards that are critical to the design, construction, and maintenance of piping systems. This course covers all aspects of piping material selection, from understanding industry codes and standards to specifying appropriate materials for pipes, valves, fittings, flanges, gaskets, and other related components. Participants will also gain hands-on experience in applying these concepts to real-world scenarios through case studies, with a particular focus on ensuring the integrity, safety, and performance of piping systems across various industries such as oil and gas, power, and chemical processing."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "4 Days",
+    prerequisite: [
+      "Basic understanding of mechanical and civil engineering principles.",
+      "Familiarity with pipeline design and construction practices.",
+      "Knowledge of materials engineering and manufacturing processes (helpful but not essential).",
+      "Introduction to engineering codes and standards."
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Upon completion of this course, participants will be able to:",
+          "Gain a comprehensive understanding of the role of piping material specifications (PMS) in ensuring the performance, safety, and longevity of piping systems.",
+          "Learn how to identify and apply relevant codes and standards (such as ASME, ASTM, and API) to select the right materials and components for a piping system.",
+          "Master the procedures for creating, reviewing, and managing material specifications and their implementation throughout the lifecycle of a piping system.",
+          "Understand how to select appropriate materials for various pipeline components, including pipes, fittings, flanges, gaskets, and valves, based on operational and environmental conditions.",
+          "Gain expertise in selecting and working with different pressure classes (PMS 150#, 300#, and 450#) for various pipeline applications.",
+          "Learn how to ensure quality control and safety standards through material specification, installation practices, and testing procedures.",
+          "Apply theoretical knowledge to real-world scenarios through case studies that cover common challenges and solutions in piping material specification.",
+          "Develop practical experience in choosing materials, designing components, and adhering to best practices for piping systems."
+
+                                                    
+
+
+        ],
+    outline: [
+        "Module 1:   Scope",
+        "Module 2:   Codes & Standards.",
+        "Module 3:   Procedure",
+        "Module 4:   Material Specification",
+        "Module 5:   Pipeline ",
+        "Module 6:   Pipes",
+        "Module 7:   Fittings",
+        "Module 8:   Flanges",
+        "Module 9:   Gaskets ",
+        "Module 10:  Bolting & Threads",
+        "Module 11:  Thread Sealant",
+        "Module 12:  Valves",
+        "Module 13:  Quick Opening End Closure",
+        "Module 14:  Hydro-testing Vents & Drains",
+        "Module 15:  Pipeline Security Items",
+        "Module 16:  PMS 150# Class",
+        "Module 14:  PMS 300# Class",
+        "Module 15:  PMS 450# Class",
+        "Module 16:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦150,000 / $120"
   },
 
 ];
