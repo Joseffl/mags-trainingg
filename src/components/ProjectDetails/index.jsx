@@ -246,9 +246,11 @@ const index = ({ openModal, setOpenModal }) => {
           </div> */}
           <div>
             {Array.isArray(project?.description) ? (
-              project.description.map((desc, index) => <p key={index}>{desc}</p>)
+              project.description.map((desc, index) => (
+                <p key={index} style={{ marginBottom: "1rem" }}>{desc}</p>
+              ))
             ) : (
-              <p>{project?.description || "No description available"}</p> // Handles non-array cases
+              <p style={{ marginBottom: "1rem" }}>{project?.description || "No description available"}</p>
             )}
           </div>
           
