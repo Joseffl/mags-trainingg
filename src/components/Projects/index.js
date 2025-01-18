@@ -22,15 +22,15 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'mechanical' ?
-            <ToggleButton active value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical</ToggleButton>
+            <ToggleButton active value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical Engineering</ToggleButton>
             :
-            <ToggleButton value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical</ToggleButton>
+            <ToggleButton value="mechanical" onClick={() => setToggle('mechanical')}>Mechanical Engineering</ToggleButton>
           }
           <Divider />
           {toggle === 'process' ?
-            <ToggleButton active value="process" onClick={() => setToggle('process')}>Process</ToggleButton>
+            <ToggleButton active value="process" onClick={() => setToggle('process')}>Process Engineering</ToggleButton>
             :
-            <ToggleButton value="process" onClick={() => setToggle('process')}>Process</ToggleButton>
+            <ToggleButton value="process" onClick={() => setToggle('process')}>Process Engineering</ToggleButton>
           }
           <Divider />
           {toggle === 'hazop hazid' ?

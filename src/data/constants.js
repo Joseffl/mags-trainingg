@@ -1784,30 +1784,28 @@ export const projects = [
     ],
     cost: "₦80,000 / $60"
   },
-  {
-    id: 10,
-    title: "Pressure Safety Valve Sizing",
-    date: "Oct 2022 - Present",
-    description:
-      "Pressure Safety Valves (PSV) are utilized and engineered into designs to relieve pressure in emergency conditions. PSVs are used in numerous industries and can be designed in many different ways depending on the needs of the system. This course will get you accustomed to PSVs and show you how to size and select the appropriate one for your needs. Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing.",
-    image:
-    require("./coursesImg/psv sizing.png"),
-    tags: [
-      'Trainer: Engr. Lateef',
-    ],
-    category: "process",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
+//   {
+//     id: 10,
+//     title: "Pressure Safety Valve Sizing",
+//     date: "Oct 2022 - Present",
+//     description:
+//       "Pressure Safety Valves (PSV) are utilized and engineered into designs to relieve pressure in emergency conditions. PSVs are used in numerous industries and can be designed in many different ways depending on the needs of the system. This course will get you accustomed to PSVs and show you how to size and select the appropriate one for your needs. Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing.",
+//     image:
+//     require("./coursesImg/psv sizing.png"),
+//     tags: [
+//       'Trainer: Engr. Lateef',
+//     ],
+//     category: "process",
+//     github: "https://github.com/Joseffl/react-todo-app",
+//     webapp: "https://bit.ly/47GF1It",
 
-    duration: "3 Days",
-    prerequisite: [
-      "Basic Engineering Principles; (Thermodynamics, Fluid Mechanics, Statics and Dynamics).",
-      "Basic Mathematics",
-      "Units and Conversions",
-      "Process Safety Knowledge",
-      "Knowledge of Calculation tools (Excel)"
-
-
+//     duration: "3 Days",
+//     prerequisite: [
+//       "Basic Engineering Principles; (Thermodynamics, Fluid Mechanics, Statics and Dynamics).",
+//       "Basic Mathematics",
+//       "Units and Conversions",
+//       "Process Safety Knowledge",
+//       "Knowledge of Calculation tools (Excel)"
 
 
 
@@ -1820,15 +1818,17 @@ export const projects = [
 
 
 
-    ],
-    methodology: "Theoretical",
-    objectives: [
-          "Explain the various applications of Codes and standards for sizing a PSV.",
-          "Understand the various types of PSVs and steps for sizing.",
-          "Perform calculations for sizing and selection of pressure relief devices for gas, liquid and steam",
-          "Explain how to apply the API RP 520 Part I, Sizing and Selection of Pressure Relieving Devices.",
-          "Understand the different scenarios for PSV application",
-          "Perform various PSV sizing with excel-sheet and hysys"
+
+
+//     ],
+//     methodology: "Theoretical",
+//     objectives: [
+//           "Explain the various applications of Codes and standards for sizing a PSV.",
+//           "Understand the various types of PSVs and steps for sizing.",
+//           "Perform calculations for sizing and selection of pressure relief devices for gas, liquid and steam",
+//           "Explain how to apply the API RP 520 Part I, Sizing and Selection of Pressure Relieving Devices.",
+//           "Understand the different scenarios for PSV application",
+//           "Perform various PSV sizing with excel-sheet and hysys"
 
 
 
@@ -1846,16 +1846,16 @@ export const projects = [
 
 
                   
-    ],
-    outline: [
-        "Module 1: Introduction and Overview of PSVs",
-        "Module 2: Codes, Standards, & Components of a PSV System",
-        "Module 3: Types of PSVs & Steps for Sizing",
-        "Module 4: Different Relieving Scenarios",
-        "Module 5: PSV Sizing",
-        "Module 6: Sizing application on Gas, Liquid and steam.",
-        "Module 7: PSV Sizing with Aspen Hysys",
-        "Module 8: PSV Datasheet"
+//     ],
+//     outline: [
+//         "Module 1: Introduction and Overview of PSVs",
+//         "Module 2: Codes, Standards, & Components of a PSV System",
+//         "Module 3: Types of PSVs & Steps for Sizing",
+//         "Module 4: Different Relieving Scenarios",
+//         "Module 5: PSV Sizing",
+//         "Module 6: Sizing application on Gas, Liquid and steam.",
+//         "Module 7: PSV Sizing with Aspen Hysys",
+//         "Module 8: PSV Datasheet"
 
 
 
@@ -1873,15 +1873,15 @@ export const projects = [
 
 
 
-    ],
-    assessment: "	Online Written  Exam ",
-    cdf: [
-      "Classroom, Face to Face or Virtual"
+//     ],
+//     assessment: "	Online Written  Exam ",
+//     cdf: [
+//       "Classroom, Face to Face or Virtual"
 
-,
-    ],
-    cost: "₦150,000 / $130"
-  },
+// ,
+//     ],
+//     cost: "₦150,000 / $130"
+//   },
   {
     id: 10,
     title: "Plant Layout & Spacing (GE GAP Guidelines)",
@@ -7239,6 +7239,763 @@ export const projects = [
       "On-the-job training"
     ],
     cost: "₦150,000 / $120"
+  },
+
+  {
+    id: 10,
+    title: "LNG Process Overview ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Liquefied Natural Gas (LNG) is natural gas (mostly methane) that has been cooled to a liquid state for storage or transport. The liquefaction process reduces the volume of natural gas by about 600 times, making it easier and more economical to transport over long distances, particularly when pipelines are not viable, such as for international shipping. LNG is transported in specialized cryogenic containers or ships, and it is re-gasified at the destination to be used as a fuel.",
+
+      "The LNG Process Overview course provides a comprehensive introduction to the processes and technologies involved in the Liquefied Natural Gas (LNG) industry. This course covers key aspects such as LNG characteristics, the LNG value chain, and the various processes associated with LNG liquefaction and regasification. Participants will gain a thorough understanding of the technologies and licensors involved in LNG operations, as well as the relevant codes and standards that govern LNG production, transportation, and storage. The course also includes case studies that illustrate real-world applications of LNG processes, enabling participants to apply theoretical knowledge to practical scenarios."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Knowledge of Natural Gas and Hydrocarbons.",
+      "Fundamentals of Chemical Engineering.",
+      "Engineering or Technical Background.",
+      "Mathematics."
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of the course, participants will be able to:",
+          "Describe the physical properties and behavior of LNG, including its composition, temperature, pressure, and storage requirements.",
+          "Identify the key stages in the LNG value chain, from natural gas extraction to liquefaction, transportation, regasification, and distribution.",
+          "Understand the various codes and standards that regulate LNG production, safety, transportation, and storage, ensuring compliance with industry regulations.",
+          "Gain an overview of the components and operations involved in an LNG plant, including the facilities for liquefaction, storage, and loading.",
+          "Gain detailed knowledge of the LNG liquefaction process, including the different types of liquefaction technologies and the key parameters that influence the liquefaction process.",
+          "Learn about the various licensors involved in LNG liquefaction technologies, their roles, and the differences between technologies used in LNG plants.",
+          "Learn about the regasification process, including the different methods of converting LNG back to natural gas for use in power generation, transportation, and industrial applications.",
+          "Understand the key licensors and technologies involved in LNG regasification and the considerations for selecting a regasification technology.",
+          "Apply theoretical concepts to real-world LNG operations and projects, learning from case studies to address challenges and optimize processes"
+
+                                                    
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  LNG Characteristics.",
+        "Module 3:  LNG Value Chain",
+        "Module 4:  Codes and Standards",
+        "Module 5:  The LNG Plant ",
+        "Module 6:  LNG Liquefaction process",
+        "Module 7:  LNG Liquefaction process Licensors",
+        "Module 8:  LNG Regasification process",
+        "Module 9:  LNG Regasification process Licensors",
+        "Module 10: Case Studies" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Understanding & Development of Pump Datasheet ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A pump datasheet is a detailed document that provides all necessary technical specifications, operational parameters, and performance characteristics of a pump. It is essential for the proper selection, operation, and maintenance of pumps in various industrial applications, such as chemical, oil and gas, water treatment, and power generation.",
+
+      "The understanding and development of a pump datasheet require attention to detail, as this document is used to communicate key information between designers, engineers, and operators.",
+
+      "The Understanding & Development of Pump Datasheet course is designed to provide participants with a comprehensive understanding of how to interpret and develop pump datasheets. This course is aimed at engineers, designers, and professionals involved in the selection, operation, and maintenance of pumps in various industries. Participants will learn the key aspects of pump datasheets, including operational conditions, performance data, mechanical details, environmental considerations, and relevant standards. The course includes practical examples and case studies to enhance learning, ensuring participants can confidently create and evaluate pump datasheets for diverse applications."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Basic understanding of pump systems and operation.",
+      "Familiarity with mechanical engineering concepts.",
+      "Previous experience in industrial or process engineering is recommended but not mandatory.",
+      "Knowledge of basic fluid dynamics and pump characteristics.",
+      "Pump Sizing"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Understand and interpret the critical information provided in a pump datasheet.",
+          "Create a comprehensive and accurate pump datasheet based on system requirements.",
+          "Assess the operational requirements of a pump, including flow rate, pressure, and temperature.",
+          "Understand performance curves, efficiency, and power requirements to evaluate pump suitability for different applications.",
+          "Identify key mechanical elements of pumps, such as impellers, bearings, seals, and shafts, and their role in pump operation.",
+          "Consider the impact of environmental conditions, installation limitations, and maintenance requirements when developing a pump datasheet.",
+          "Identify and apply industry standards and regulatory requirements related to pump design and operation.",
+          "Gain knowledge of the testing and inspection procedures to ensure pumps meet required specifications.",
+          "Learn about different pump accessories, features, and customization options to meet specific project needs.",
+          "Analyze real-world case studies to understand the practical application of pump datasheets in various industries."
+                                                
+
+
+        ],
+    outline: [
+        "Module 1:  General Information",
+        "Module 2:  Operating Conditions.",
+        "Module 3:  Pump Details",
+        "Module 4:  Performance Data",
+        "Module 5:  Mechanical Details ",
+        "Module 6:  Environmental & Installation",
+        "Module 7:  Testing & Inspection",
+        "Module 8:  Accessories & Special Features",
+        "Module 9:  Compliance & Standards ",
+        "Module 10: Additional Notes",
+        "Module 11: Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦80,000 / $70"
+  },
+
+  {
+    id: 10,
+    title: "Safe Work Practice Simultaneous Operations (SIMOPS) ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "SIMOPs (Simultaneous Operations) refer to the management and coordination of multiple activities or operations that occur simultaneously within a facility or site, especially in complex or high-risk environments like oil and gas, petrochemical plants, construction sites, and offshore platforms. SIMOPs are crucial for ensuring safety, efficiency, and compliance when various activities intersect or overlap in a way that could potentially lead to safety hazards, operational conflicts, or accidents.",
+      "Managing SIMOPs involves careful planning, communication, and coordination between different teams, ensuring that all operations are carried out safely and efficiently without interfering with one another. This is particularly critical in projects where multiple contractors, departments, or teams are working at the same time on a site, often with different operational goals.",
+
+      "The SIMOPs (Simultaneous Operations) Management course is designed to provide participants with a thorough understanding of the principles, types, and importance of SIMOPs in high-risk, multi-disciplinary industrial environments, particularly in the oil and gas, construction, and offshore industries. The course covers the critical aspects of SIMOPs planning, coordination, and execution, emphasizing risk identification and mitigation strategies. Through practical case studies and real-world examples, participants will gain the skills necessary to successfully plan, manage, and execute SIMOPs to ensure safety, efficiency, and regulatory compliance."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic understanding of industrial operations, especially in the oil, gas, or construction sectors.",
+      "Familiarity with risk management and safety protocols in industrial settings.",
+      "Experience working in multi-disciplinary environments is beneficial but not required."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Define what SIMOPs are and why they are a critical part of operations in high-risk industrial settings.",
+          "Recognize different types of SIMOPs and how they apply to various operational environments.",
+          "Understand the inherent risks and challenges associated with conducting multiple operations simultaneously.",
+          "Develop and implement effective SIMOPs planning and coordination strategies.",
+          "Learn how to identify potential risks in SIMOPs and implement practical risk mitigation strategies.",
+          "Understand the full cycle of SIMOPs, from planning through execution and post-operation review.",
+          "Analyze real-world case studies to understand the practical challenges and lessons learned from SIMOPs in various industries."
+                                              
+
+
+        ],
+    outline: [
+        "Module 1:   What are SIMOPs",
+        "Module 2:   Types of SIMOPs.",
+        "Module 3:   Why are SIMOPs critical",
+        "Module 4:   Why are SIMOPs Planning Important",
+        "Module 5:   SIMOPs Planning and Coordination ",
+        "Module 6:   Identify Risks and Mitigation Measures",
+        "Module 7:   SIMPOs Cycle",
+        "Module 8:   Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "Process Sizing Criteria ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Process sizing criteria are essential guidelines and calculations used to determine the appropriate size and dimensions of equipment and systems within a chemical, petrochemical, or industrial process. These criteria help ensure that the equipment functions efficiently, meets safety standards, and operates within the required specifications for the particular application.",
+
+      "The Process Sizing Criteria course is designed to provide engineers, designers, and professionals involved in process engineering with the fundamental principles and criteria required to properly size and select equipment for industrial systems. This course will explore a variety of equipment, including pumps, compressors, vessels, heat exchangers, and more, offering participants a structured approach to the design and sizing process. Emphasis is placed on understanding design parameters such as pressure, temperature, and specific equipment factors. The course will also include practical guidance on how to apply these sizing criteria to achieve safe, efficient, and reliable system designs."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of process engineering concepts and principles",
+      "Familiarity with common industrial equipment such as pumps, compressors, and heat exchangers",
+      "Knowledge of fluid dynamics and thermodynamics as they pertain to industrial applications",
+      "Experience with process design tools, calculations, and design methods"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Identify and apply the essential design parameters, including design pressure, temperature, and equipment-specific factors, in the sizing of process equipment.",
+          "Understand the specific sizing criteria for pumps, compressors, vessels, glycol packages, heat exchangers, and other critical process equipment.",
+          "Calculate the appropriate dimensions and specifications for vessels, equipment nozzles, and piping systems.",
+          "Understand the principles behind the design and sizing of flare and cold vent systems for safe overpressure relief.",
+          "Apply real-world case studies to develop practical insights into equipment sizing and system integration."
+                                            
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Scope.",
+        "Module 3:  Reference Documents",
+        "Module 4:  Design Pressure",
+        "Module 5:  Design Temperature ",
+        "Module 6:  Design factors Pumps ", 
+        "Module 7:  Design factors  Compressors",
+        "Module 8:  Design factors  Glycol package unit",
+        "Module 9:  Design factors  Other equipment",
+        "Module 10: Design factors",
+        "Module 11: Vessels sizing criteria",
+        "Module 12: Diameter of vessels",
+        "Module 13: Heat exchangers",
+        "Module 14: Equipment nozzles",
+        "Module 15: Elevation of equipment",
+        "Module 16: Piping",
+        "Module 17: Flare and cold vent systems",
+        "Module 18: Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    cost: "₦140,000 / $120"
+  },
+
+  {
+    id: 10,
+    title: "Pressure Safety Valve Sizing Stage 1 ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Pressure Safety Valves (PSV) are utilized and engineered into designs to relieve pressure in emergency conditions. PSVs are used in numerous industries and can be designed in many different ways depending on the needs of the system. This course will get you accustomed to PSVs and show you how to size and select the appropriate one for your needs.",
+      "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic Engineering Principles; (Thermodynamics, Fluid Mechanics, Statics and Dynamics).",
+      "Basic Mathematics",
+      "Units and Conversions",
+      "Process Safety Knowledge",
+      "Knowledge of Calculation tools (Excel)",
+      "Aspen Hysys Knowledge"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Explain the various applications of Codes and standards for sizing a PSV.",
+          "Understand the various types of PSVs and steps for sizing.",
+          "Perform calculations for sizing and selection of pressure relief devices for gas, liquid and steam",
+          "Explain how to apply the API RP 520 Part I, Sizing and Selection of Pressure Relieving Devices.",
+          "Understand the different scenarios for PSV application",
+          "Perform various PSV sizing with excel-sheet and hysys"
+                                
+
+
+        ],
+    outline: [
+        "Module 1: Introduction and Overview of PSVs",
+        "Module 2: Codes, Standards, & Components of a PSV System",
+        "Module 3: Types of PSVs & Steps for Sizing",
+        "Module 4: Different Relieving Scenarios",
+        "Module 5: PSV Sizing for gas or vapor",
+        "Module 6: PSV Sizing with Aspen Hysys.",
+        "Module 7: PSV Datasheet",
+        "Module 8: Case Study"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom, Face to Face or Virtual"
+    ],
+    cost: "₦150,000 / $130"
+  },
+
+  {
+    id: 10,
+    title: "Pressure Safety Valve Sizing Stage 2 (Pressure Relief Valve) ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The sizing of a Pressure Safety Valve (PSV), specifically in Stage 2 (Pressure Relief Valve), involves determining the correct valve size and parameters to ensure the valve can relieve excess pressure in a system without causing damage or failure. Proper PSV sizing is essential for the safe operation of any process system, as it ensures that the system can handle overpressure situations without resulting in accidents or equipment failure.",
+
+      "The Pressure Safety Valve Sizing Stage 2 (Pressure Relief Valve) course is designed to provide engineers and safety professionals with advanced knowledge and practical skills for the accurate selection, sizing, and application of pressure relief valves (PRVs) in process systems. Participants will also learn about additional safety devices such as rupture discs and thermal relief valves, and gain hands-on experience through real-world case studies to enhance their practical decision-making."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "7 Days",
+    prerequisite: [
+      "Course on  Pressure Safety Valve Sizing Stage 1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Select the appropriate type of pressure relief valve (PRV) based on application, system parameters, and industry standards.",
+          "Understand the impact of back pressure on PSV sizing and design.",
+          "Apply advanced sizing calculations for PRVs handling gases, vapors, steam, and liquids under both critical and subcritical flow conditions.",
+          "Understand and apply the concepts of conventional, balanced, and pilot-operated pressure relief valves.",
+          "Perform detailed PSV sizing for specific scenarios such as fire conditions, blocked liquid discharge, and thermal relief.",
+          "Accurately complete PSV datasheets for proper valve specification.",
+          "Review and analyze case studies to identify optimal PSV design and sizing solutions in real-world applications."
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1: Review on  Pressure Safety Valve Sizing Stage 1",
+        "Module 2: Selection of   Pressure Relief Valves",
+        "Module 3: Back pressure consideration",
+        "Module 4: Conventional Pressure Relief Valves",
+        "Module 5: Balanced  Pressure Relief Valves",
+        "Module 6: Pilot operated Relief Valves.",
+        "Module 7: Rupture Disc",
+        "Module 8: PSV Sizing for Gas or vapor for critical flow",
+        "Module 9: PSV Sizing for Gas or vapor for subcritical flow",
+        "Module 10: PSV Sizing for Gas for Steam Relief.",
+        "Module 11: PSV Sizing for Liquid",
+        "Module 12: PSV Sizing for Thermal Relief Valve",
+        "Module 13: PSV Sizing for fire",
+        "Module 14: PSV Sizing for Blocked Liquid Discharge.",
+        "Module 15: PSV Datasheet",
+        "Module 16: Case Study"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom, Face to Face or Virtual"
+    ],
+    cost: "₦350,000 / $250"
+  },
+
+  {
+    id: 10,
+    title: "Vertical Vapor-Liquid Separator Sizing ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Sizing a Vertical Vapor-Liquid Separator (VLS) involves determining the appropriate dimensions and design parameters for a vessel that efficiently separates vapor and liquid phases in a process stream. The design process includes considerations like fluid flow rates, phase characteristics, and separation efficiency.",
+
+      "The Vertical Vapor-Liquid Separator Sizing course is designed to provide engineers and professionals in the process industries with the necessary knowledge and practical skills to perform the proper sizing and design calculations for vertical vapor-liquid separators. This course will cover the essential calculations, design considerations, and industry standards involved in separator sizing. Participants will gain a comprehensive understanding of the parameters, process data, and calculations required to select the appropriate separator dimensions and components for effective operation."
+
+    
+    ],
+      image:
+      require("./coursesImg/material spec.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic knowledge of fluid mechanics and thermodynamics",
+      "Familiarity with process engineering concepts related to separators and phase separation",
+      "Basic understanding of process data such as flow rates, pressure, temperature, and phase properties",
+      "Experience with engineering design tools and formulas for equipment sizing",
+      "Knowledge of codes and industry standards related to pressure vessels and separation technology"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "By the end of this course, participants will be able to:",
+          "Understand the basic principles behind vapor-liquid separation processes and the operational characteristics of vertical separators.",
+          "Use relevant codes and standards to ensure compliance in separator design and sizing.",
+          "Identify and calculate key sizing parameters, including vapor and liquid flow rates, separator vessel dimensions, and nozzle sizes.",
+          "Apply process data to accurately size vertical separators for specific operating conditions.",
+          "Perform step-by-step sizing calculations for separator diameter, height, inlet and outlet nozzle sizing, and head sizing.",
+          "Evaluate the results of separator sizing calculations and apply them to real-world applications.",
+          "Apply case study insights to practical separator design challenges in various industries."
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1:   Calculation Objective",
+        "Module 2:   General Information.",
+        "Module 3:   Codes & Standards",
+        "Module 4:   Sizing Parameters",
+        "Module 5:   Process Data",
+        "Module 6:   Calculation",
+        "Module 7:   Inlet Nozzle Sizing ",
+        "Module 8:   Separator Vessel Diameter Sizing",
+        "Module 9:   Separator Vessel Height Sizing",
+        "Module 10:  Vapor Outlet Nozzle Sizing ",
+        "Module 11:  Liquid Outlet Nozzle Sizing ",
+        "Module 12:  Separator Diameter Sizing ",
+        "Module 13:  Separator Height and Top and Bottom Head Sizing",
+        "Module 14:  Results",
+        "Module 15:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦140,000 / $120"
   },
 
 ];
