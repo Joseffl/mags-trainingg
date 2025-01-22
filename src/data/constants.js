@@ -182,33 +182,132 @@ export const experiences = [
     id: 0,
     img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
     role: "Mechanical Engineering",
-    // company: "Flipr Inovations Pvt. Ltd.",
-    // date: "Aug 2023 - July 2023",
-    // desc: "Design and manufacture custom mechanical systems and components to meet specific client requirements, leveraging cutting-edge technology and advanced manufacturing processes.",
-    // skills: [
-    //   "CAD Modeling & Simulation:",
-    //   "Prototyping & Testing",
-    //   "Manufacturing Process Optimization",
+    desc: "Mags Engineering Limited mechanical engineering services encompass a broad range of activities and expertise provided by mechanical engineers to support the design, development, operation, and maintenance of mechanical systems and components across various industries. These services are critical for industries such as manufacturing, construction, energy, automotive, aerospace, and more. Below is the core Mags Engineering Limited mechanical engineering services provided across industries:",
+    skills: [
+      "Design and Development",
+      "System Optimization; Energy Efficiency Optimization, Thermal Systems Design and Fluid and Gas Flow Systems.",
+      "Fabrication",
+      "Maintenance and Reliability; Preventive and Predictive Maintenance, Condition Monitoring, Root Cause Analysis (RCA) and Upgrades and Modifications.",
+      "Project Management; Turnkey Projects, Budgeting and Cost Estimation, Feasibility Studies, Risk Analysis and Safety Assessments.",
+      "HVAC Systems; Heating, Ventilation, and Air Conditioning (HVAC) Design.",
+      "Piping and Pressure Systems; Piping Design and Layout, Pressure Vessel Design, ",
+      "Consulting and Feasibility Studies; Technology Selection, Regulatory Compliance, Sustainability and Green Engineering "
+
       
-    // ],
+    ],
    
   },
+
   {
     id: 0,
-    role: "Piping Engineering",  
+    role: "Piping Engineering",
+    desc: "Mags Engineering Limited Piping engineering services encompass a wide range of activities related to the design, installation, operation, and maintenance of piping systems used in various industries, including oil and gas, power generation, chemical processing, water treatment, pharmaceuticals, and food production. These services ensure that the piping systems are safe, efficient, cost-effective, and compliant with industry standards. Below are the core Mags Engineering Limited Piping engineering services provided across industries:",
+    skills: [
+      "Piping Design and Layout, Conceptual Design, Detailed Piping Design, Pipe Sizing, Pipe Routing, Isometric Drawings, Supports and Bracketing.",
+      "Piping Stress Analysis and Simulation; Stress Analysis, Thermal Expansion, Dynamic Analysis",
+      "Piping Material Selection; Material Specification & Corrosion Prevention.",
+      "Piping Fabrication and Installation; Fabrication, Piping Installation, Pressure Testing.",
+      "Piping System Optimization; Flow Optimization, Leak Detection, Energy Efficiency.",
+      "Piping Support Design; Support Structures, Vibration and Shock Isolation, Expansion Joints.",
+      "Piping Codes and Standards Compliance; Industry Codes, Local Regulations, Inspection and Quality Assurance.",
+      "Piping System Maintenance and Reliability; Preventive Maintenance Plans, Condition Monitoring, Leak Repair and Replacement.",
+      "Piping Insulation and Heat Tracing; Thermal Insulation, Heat Tracing.",
+      "3D Modeling and CAD Services",
+      "Commissioning and Start-Up Services; System Commissioning & Start-Up Assistance.",
+      "Consultation and Feasibility Studies"
+
+      
+    ],
+   
   },
+
   {
     id: 0,
-    role: "Plant Drafting & 3D Modelling ",  
+    role: "Plant Drafting & 3D Modelling ",
+    desc: "Mags Engineering Limited Plant drafting and 3D modeling services are essential for the design, visualization, and optimization of industrial plants. Below is the core Mags Engineering Limited Plant drafting and 3D modeling services provided across industries:",
+    skills: [
+      "2D Drafting Services; Piping and Instrumentation Diagrams (P&IDs), Mechanical Layout Drawings, Electrical and Control Diagrams, Civil and Structural Drawings, As-Built Drawings.",
+      "3D Modeling Services; 3D Plant Design, Piping 3D Models, Process Equipment Modeling, Collision Detection (Clash Detection), Structural Modeling, HVAC and Electrical Systems.",
+      "Equipment Layout and Placement; Optimizing Equipment Placement, Space Utilization, Access and Safety.",
+      "Detailed Design and Drafting; Detailed Structural Elements, Detailing of Piping Systems, ",
+      "Material Take-Offs and Cost Estimation; Bill of Materials (BOM) & Cost Estimation.",
+      "As-Built 3D Models; As-Built Documentation & Retrofit and Revamping."
+
+
+      
+    ],
+   
   },
+  
   {
     id: 0,
-    role: "Process Engineering",  
+    role: "Process Engineering ",
+    desc: "Mags Engineering Limited Process engineering services are critical for designing, optimizing, and improving industrial processes across various sectors, including chemical, petrochemical, pharmaceutical, food and beverage, power generation, and more. Process engineers focus on maximizing efficiency, safety, environmental sustainability, and product quality while minimizing operational costs. Below is the core Mags Engineering Limited process engineering services provided across industries:",
+    skills: [
+      "Process Design and Development; Feasibility Studies, Flow Diagrams and Schematics, Process Simulation and Modeling, Equipment Specification: Identifying and selecting the appropriate equipment for each stage of the process, including reactors, heat exchangers, separators, compressors, pumps, and storage tanks.",
+      "Front End Engineering Design (FEED)",
+      "Detailed Engineering Design",
+      "Process Optimization; Energy Optimization, Process Efficiency Improvement, Waste Minimization, Yield Improvement.",
+      "Scale-Up and Pilot Testing; Pilot Plant Design, Scale-Up from Laboratory to Production, Data Analysis and Interpretation.",
+
+      "Safety and Risk Analysis; Hazard and Operability Study (HAZOP), 	Process Safety Management, Safety Instrumented Systems (SIS), Failure Mode and Effects Analysis (FMEA).",
+      "Commissioning and Start-Up; Commissioning Support, Start-Up and Troubleshooting, Performance Testing, ",
+      "Plant Optimization and Continuous Improvement; Continuous Improvement, Process Monitoring and Control, Root Cause Analysis (RCA). ",
+      "Project Management and Consultation; Project Design and Planning, Feasibility and Risk Assessment, Supply Chain Management.",
+      "Energy and Utilities Management; Utility Systems Design, Cogeneration Systems, Energy Audits and Analysis.",
+      "Supply Chain Integration; Material Flow Optimization, Logistics and Transportation Planning.",
+      "Product Quality and Process Monitoring; Quality Control & Batch Process Optimization"
+
+
+
+      
+    ],
+   
   },
+
   {
     id: 0,
-    role: "Feasibilities Studies",  
+    role: "Feasibility Studies ",
+    desc: "Mags Engineering Limited Feasibility studies are essential preliminary analyses conducted to determine the viability of a project or initiative before committing significant resources to its implementation. These studies help businesses, government agencies, and organizations evaluate the potential of a project, assess risks, and make informed decisions. Feasibility study services are applied in various industries, including construction, engineering, technology, energy, pharmaceuticals, and manufacturing. Below is the core Mags Engineering Limited Feasibility studies services provided across industries:",
+    skills: [
+      "Technical Feasibility; Technology and Process Evaluation, System Integration and Compatibility, Prototype Development, Innovation Assessment.",
+      "Economic Feasibility; Cost-Benefit Analysis, Budgeting and Financial Planning: Return on Investment (ROI): Break-Even Analysis.",
+      "Market Feasibility; Market Research and Demand Analysis, Market Entry Strategy, SWOT Analysis, Demand Forecasting.",
+      "Operational Feasibility; Operational Planning, Supply Chain and Resource Availability, Workforce Analysis, Facility and Infrastructure Requirements, Process Design and Optimization.",
+      "Risk Feasibility; Risk Identification and Assessment, Risk Mitigation Strategies, Contingency Planning.",
+      "Scheduling and Time Feasibility; Timeline and Milestone Analysis, Critical Path Analysis, Project Delays and Contingency Plans."
+
+
+
+
+      
+    ],
+   
   },
+
+  {
+    id: 0,
+    role: "Project Management Consultancy ",
+    desc: "Mags Engineering Limited Project Management Consultancy (PMC) services provide professional oversight, guidance, and management expertise throughout the lifecycle of a project, from initiation to completion. These services help ensure that projects are delivered on time, within budget, and to the required quality standards. Mags PMC professionals work closely with stakeholders to manage risks, resources, schedules, and costs, ensuring effective communication, project control, and successful outcomes. Mags PMC services are commonly used in complex projects such as construction, infrastructure development, and industrial plant design, and oil and gas projects, among others. Mags Engineering Limited Components of Project Management Consultancy (PMC) Services:",
+    skills: [
+      "Project Planning and Strategy; Project Definition and Scope Development, Feasibility Studies, Project Strategy Development, Risk Assessment and Management.",
+      "Cost and Budget Management; Cost Estimation and Budgeting, Cost Control and Monitoring, Value Engineering, Cash Flow Management.",
+      "Time and Schedule Management; Project Scheduling and Timeline Development, Resource Allocation and Optimization, Monitoring and Controlling Schedules, Critical Path Analysis.",
+      "Procurement Management; Procurement Planning and Strategy, Tendering and Contract Management, Supplier and Contractor Management, Inventory and Logistics Management.",
+      "Quality Management; Quality Assurance and Control (QA/QC), Standards and Regulations Compliance, Quality Audits and Inspections.",
+      "Project Monitoring and Control; Progress Tracking and Reporting, Performance Metrics and KPIs, Corrective Actions and Adjustments.",
+      "Change Management; Change Control Processes, Scope Management.",
+      "Project Closeout and Handover; Project Completion and Handover, Final Inspections and Testing, Project Documentation, Lessons Learned and Post-Project Evaluation."
+
+
+
+
+      
+    ],
+   
+  },
+
+
   {
     id: 0,
     role: "Front End Engineering Design (FEED)",  
@@ -221,10 +320,7 @@ export const experiences = [
     id: 0,
     role: "HAZOP/HAZID Study",  
   },
-  {
-    id: 0,
-    role: "Project Management Consultancy",  
-  },
+ 
   {
     id: 0,
     role: "Procurement & Construction",  
@@ -6532,7 +6628,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/plumbing components.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -6638,7 +6734,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/cause and effect.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -6724,7 +6820,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/Air dryer.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -6823,7 +6919,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/special plumbing systems.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -6928,7 +7024,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/plumbing systems.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7035,7 +7131,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/fundamentals.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7145,7 +7241,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/pms1.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7255,7 +7351,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/LNG.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7361,7 +7457,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/pump datasheet.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7470,7 +7566,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/simops.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7572,7 +7668,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/process sizing crit.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7683,7 +7779,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/psv1.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7785,7 +7881,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/psv2.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7894,7 +7990,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/material spec.png"),
+      require("./coursesImg/vert.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
