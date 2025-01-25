@@ -125,7 +125,7 @@ const ExploreButton = styled.a`
   }
 `;
 
-const index = () => {
+const Index = () => {
   const [expandedIndex, setExpandedIndex] = useState(null);
 
   const handleToggle = (index) => {
@@ -164,4 +164,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Index;
