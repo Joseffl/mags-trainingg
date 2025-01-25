@@ -1,17 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Document = styled.img`
-  display: none;
-  height: 70px;
-  width: fit-content;
-  background-color: #000;
-  border-radius: 10px;
-  &:hover {
-    cursor: pointer;
-    opacity: 0.8;
-  }
-`;
+
 
 const Description = styled.div`
   width: 100%;
@@ -57,10 +47,6 @@ const Card = styled.div`
     width: 300px;
   }
 
-  &:hover ${Document} {
-    display: flex;
-  }
-
   &:hover ${Span} {
     overflow: visible;
     -webkit-line-clamp: unset;
@@ -72,15 +58,6 @@ const Top = styled.div`
   display: flex;
 `;
 
-const Image = styled.img`
-  height: 50px;
-  background-color: #000;
-  border-radius: 10px;
-  margin-top: 4px;
-  @media only screen and (max-width: 768px) {
-    height: 40px;
-  }
-`;
 
 const Body = styled.div`
   width: 100%;
@@ -97,23 +74,6 @@ const Role = styled.div`
   }
 `;
 
-const Company = styled.div`
-  font-size: 14px;
-  font-weight: 500;
-  color: ${({ theme }) => theme.text_secondary + 99};
-  @media only screen and (max-width: 768px) {
-    font-size: 12px;
-  }
-`;
-
-const Date = styled.div`
-  font-size: 12px;
-  font-weight: 400;
-  color: ${({ theme }) => theme.text_secondary + 80};
-  @media only screen and (max-width: 768px) {
-    font-size: 10px;
-  }
-`;
 
 const Skills = styled.div`
   width: 100%;
@@ -143,18 +103,19 @@ const ItemWrapper = styled.div`
   gap: 8px;
 `;
 
-const ExperienceCard = ({ experience }) => {
+const ExperienceCard = ({ experience, isExpanded }) => {
   return (
     <Card>
       <Top>
         <Body>
           <Role>{experience.role}</Role>
-          <br />
         </Body>
       </Top>
       <Description>
-        {experience?.desc && <Span>{experience?.desc}</Span>}
-        {experience?.skills && (
+        <Span>
+          {experience?.desc && (isExpanded ? experience.desc : `${experience.desc.substring(0, 100)}...`)}
+        </Span>
+        {isExpanded && experience?.skills && (
           <>
             <br />
             <Skills>
@@ -168,7 +129,7 @@ const ExperienceCard = ({ experience }) => {
           </>
         )}
       </Description>
-      {experience.doc && (
+      {isExpanded && experience.doc && (
         <a href={experience.doc} target="new">
           <Document src={experience.doc} />
         </a>
@@ -178,3 +139,4 @@ const ExperienceCard = ({ experience }) => {
 };
 
 export default ExperienceCard;
+

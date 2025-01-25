@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styled from 'styled-components';
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem from '@mui/lab/TimelineItem';
@@ -126,6 +126,12 @@ const ExploreButton = styled.a`
 `;
 
 const index = () => {
+  const [expandedIndex, setExpandedIndex] = useState(null);
+
+  const handleToggle = (index) => {
+    setExpandedIndex((prevIndex) => (prevIndex === index ? null : index));
+  };
+
   return (
     <Container id="services">
       <Wrapper>
@@ -142,15 +148,17 @@ const index = () => {
                   {index !== experiences.length - 1 && <StyledTimelineConnector />}
                 </TimelineSeparator>
                 <TimelineContent sx={{ py: '12px', px: 2 }}>
-                  <StyledExperienceCard>
-                    <ExperienceCard experience={experience} />
+                  <StyledExperienceCard onClick={() => handleToggle(index)}>
+                    <ExperienceCard
+                      experience={experience}
+                      isExpanded={expandedIndex === index}
+                    />
                   </StyledExperienceCard>
                 </TimelineContent>
               </TimelineItem>
             ))}
           </Timeline>
         </TimelineSection>
-        {/* <ExploreButton href="#contact">Explore More</ExploreButton> */}
       </Wrapper>
     </Container>
   );

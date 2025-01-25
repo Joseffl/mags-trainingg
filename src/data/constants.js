@@ -199,7 +199,7 @@ export const experiences = [
   },
 
   {
-    id: 0,
+    id: 1,
     role: "Piping Engineering",
     desc: "Mags Engineering Limited Piping engineering services encompass a wide range of activities related to the design, installation, operation, and maintenance of piping systems used in various industries, including oil and gas, power generation, chemical processing, water treatment, pharmaceuticals, and food production. These services ensure that the piping systems are safe, efficient, cost-effective, and compliant with industry standards. Below are the core Mags Engineering Limited Piping engineering services provided across industries:",
     skills: [
@@ -222,7 +222,7 @@ export const experiences = [
   },
 
   {
-    id: 0,
+    id: 2,
     role: "Plant Drafting & 3D Modelling ",
     desc: "Mags Engineering Limited Plant drafting and 3D modeling services are essential for the design, visualization, and optimization of industrial plants. Below is the core Mags Engineering Limited Plant drafting and 3D modeling services provided across industries:",
     skills: [
@@ -240,7 +240,7 @@ export const experiences = [
   },
   
   {
-    id: 0,
+    id: 3,
     role: "Process Engineering ",
     desc: "Mags Engineering Limited Process engineering services are critical for designing, optimizing, and improving industrial processes across various sectors, including chemical, petrochemical, pharmaceutical, food and beverage, power generation, and more. Process engineers focus on maximizing efficiency, safety, environmental sustainability, and product quality while minimizing operational costs. Below is the core Mags Engineering Limited process engineering services provided across industries:",
     skills: [
@@ -266,7 +266,7 @@ export const experiences = [
   },
 
   {
-    id: 0,
+    id: 4,
     role: "Feasibility Studies ",
     desc: "Mags Engineering Limited Feasibility studies are essential preliminary analyses conducted to determine the viability of a project or initiative before committing significant resources to its implementation. These studies help businesses, government agencies, and organizations evaluate the potential of a project, assess risks, and make informed decisions. Feasibility study services are applied in various industries, including construction, engineering, technology, energy, pharmaceuticals, and manufacturing. Below is the core Mags Engineering Limited Feasibility studies services provided across industries:",
     skills: [
@@ -286,7 +286,7 @@ export const experiences = [
   },
 
   {
-    id: 0,
+    id: 5,
     role: "Project Management Consultancy ",
     desc: "Mags Engineering Limited Project Management Consultancy (PMC) services provide professional oversight, guidance, and management expertise throughout the lifecycle of a project, from initiation to completion. These services help ensure that projects are delivered on time, within budget, and to the required quality standards. Mags PMC professionals work closely with stakeholders to manage risks, resources, schedules, and costs, ensuring effective communication, project control, and successful outcomes. Mags PMC services are commonly used in complex projects such as construction, infrastructure development, and industrial plant design, and oil and gas projects, among others. Mags Engineering Limited Components of Project Management Consultancy (PMC) Services:",
     skills: [
@@ -309,32 +309,32 @@ export const experiences = [
 
 
   {
-    id: 0,
+    id: 6,
     role: "Front End Engineering Design (FEED)",  
   },
   {
-    id: 0,
+    id: 7,
     role: "Detailed Engineering Design",  
   },
   {
-    id: 0,
+    id: 8,
     role: "HAZOP/HAZID Study",  
   },
  
   {
-    id: 0,
+    id: 9,
     role: "Procurement & Construction",  
   },
   {
-    id: 0,
+    id: 10,
     role: "Pre-Commissioning & Commissioning",  
   },
   {
-    id: 0,
+    id: 11,
     role: "Research & Development",  
   },
   {
-    id: 0,
+    id: 12,
     role: "Training",  
   },
   
