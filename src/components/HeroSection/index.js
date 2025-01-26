@@ -17,6 +17,7 @@ import {
   SubtitleTitle,
 } from './HeroStyle';
 import HeroImg from '../../images/HeroImage.png';
+import HeroBanner from '../../images/HeroBanner.jpg';
 import { Bio, subtitles } from '../../data/constants';
 
 const HeroSection = () => {
@@ -40,7 +41,7 @@ const HeroSection = () => {
             <SubTitle>{Bio.description}</SubTitle>
           </HeroLeftContainer>
           <HeroRightContainer>
-            <Img src={HeroImg} alt="hero-image" />
+            <Img src={HeroBanner} alt="hero-image" />
           </HeroRightContainer>
         </HeroInnerContainer>
 
