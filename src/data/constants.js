@@ -314,27 +314,23 @@ export const experiences = [
   },
   {
     id: 7,
-    role: "Detailed Engineering Design",  
-  },
-  {
-    id: 8,
     role: "HAZOP/HAZID Study",  
   },
  
   {
-    id: 9,
+    id: 8,
     role: "Procurement & Construction",  
   },
   {
-    id: 10,
+    id: 9,
     role: "Pre-Commissioning & Commissioning",  
   },
   {
-    id: 11,
+    id: 10,
     role: "Research & Development",  
   },
   {
-    id: 12,
+    id: 11,
     role: "Training",  
   },
   

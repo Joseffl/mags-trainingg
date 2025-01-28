@@ -5,6 +5,7 @@ import { Snackbar } from "@mui/material";
 import PhoneInput from "react-phone-input-2";
 import "react-phone-input-2/lib/style.css";
 
+
 const Container = styled.div`
   display: flex;
   align-items: center;
@@ -169,10 +170,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        process.env.REACT_APP_EMAILJS_SERVICE_ID,
-        process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+        "service_f1hf2ku",
+        "template_15pki8i",
         formRef.current,
-        process.env.REACT_APP_EMAILJS_PUBLIC_KEY
+        "hWAiFxCtIcUV1ChT2"
       )
       .then(() => {
         setOpen(true);

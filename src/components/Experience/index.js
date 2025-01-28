@@ -8,6 +8,7 @@ import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import ExperienceCard from '../Cards/ExperienceCard';
 import { experiences } from '../../data/constants';
+import { useNavigate } from 'react-router-dom';
 
 const Container = styled.div`
   display: flex;
@@ -125,11 +126,13 @@ const ExploreButton = styled.a`
   }
 `;
 
-const Index = () => {
-  const [expandedIndex, setExpandedIndex] = useState(null);
 
-  const handleToggle = (index) => {
-    setExpandedIndex((prevIndex) => (prevIndex === index ? null : index));
+
+const Index = () => {
+  const navigate = useNavigate(); // For React Router
+
+  const handleNavigate = (id) => {
+    navigate(`/services/${id}`); // Navigate to the skill detail page
   };
 
   return (
@@ -141,18 +144,15 @@ const Index = () => {
         </Desc>
         <TimelineSection>
           <Timeline>
-            {experiences.map((experience, index) => (
-              <TimelineItem key={index}>
+            {experiences.map((experience) => (
+              <TimelineItem key={experience.id}>
                 <TimelineSeparator>
                   <StyledTimelineDot />
-                  {index !== experiences.length - 1 && <StyledTimelineConnector />}
+                  <StyledTimelineConnector />
                 </TimelineSeparator>
-                <TimelineContent sx={{ py: '12px', px: 2 }}>
-                  <StyledExperienceCard onClick={() => handleToggle(index)}>
-                    <ExperienceCard
-                      experience={experience}
-                      isExpanded={expandedIndex === index}
-                    />
+                <TimelineContent>
+                  <StyledExperienceCard onClick={() => handleNavigate(experience.id)}>
+                    <ExperienceCard experience={experience} />
                   </StyledExperienceCard>
                 </TimelineContent>
               </TimelineItem>
@@ -163,5 +163,6 @@ const Index = () => {
     </Container>
   );
 };
+
 
 export default Index;
