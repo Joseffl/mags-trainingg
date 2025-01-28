@@ -487,7 +487,7 @@ export const projects = [
     cdf: [
       "Classroom, Face to Face or Virtual",
     ],
-    cost: "FREE"
+    cost: "₦100,000 or $80"
   },
   
   {
