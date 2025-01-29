@@ -389,7 +389,7 @@ export const projects = [
       "In-house workshops"
     ],
     cost: "₦100,000 or $80",
-    paymentLink: "https://sandbox.flutterwave.com/pay/smorzebvgitj",
+    paymentLink: "",
     
   },
   
@@ -890,7 +890,7 @@ export const projects = [
         "Module 1:  Introduction",
         "Module 2:  Scope",
         "Module 3:  Procedure",
-        "Module 4:  Trainerization",
+        "Module 4:  Authorization",
         "Module 5:  Cost of Trend Preparation ",
         "Module 6:  Cost Effects",
         "Module 7:  Schedule Effects",
@@ -1694,7 +1694,7 @@ export const projects = [
     title: "Process Flow Diagram (PFD)",
     date: "Oct 2022 - Present",
     description:
-      "Core Engineering Concepts: Basic Thermodynamics, Fluid Mechanics and Unit Operations. Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams.",
+      "A course on process flow diagrams (PFDs) typically aims to equip participants with the skills needed to create, interpret, and utilize PFDs effectively across various industries.  Participants will gain practical experience in creating and analyzing PFDs, enhancing their ability to communicate processes clearly and drive improvements in their organizations. Participants will gain practical experience in creating and analyzing PFDs, enhancing their ability to communicate processes clearly and drive improvements in their organizations.",
     image:
     require("./coursesImg/PFD.png"),
     tags: [
@@ -5447,21 +5447,16 @@ export const projects = [
         ],
     outline: [
         "Module 1:  Introduction",
-        "Module 2:  Hysys Applications.",
-        "Module 3:  Component List",
-        "Module 4:  Physical Property Package",
-        "Module 5:  Petroleum Assays",
-        "Module 6:  Unit Sets ",
-        "Module 7:  Model Pallets",
-        "Module 8:  Simulation Environment",
-        "Module 9:  Stream Analysis",
-        "Module 10: Equipment Design",
-        "Module 11: Case Study",
-        "Module 12: Reporting",
-        "Module 13: Propane Refrigeration Loop ",
-        "Module 14: Oil Characterization and simulation",
-        "Module 15: Case Studies",
-        "Module 16: Aspen Hysys User Certification Preparation"
+        "Module 2:  Process Modelling/Simulation Applications.",
+        "Module 3:  Acid Gas Process Overview & Workflow",
+        "Module 4:  Gas Dehydration Process Overview & Workflow Module 5:   Sulfur Recovery (SULSIM) Process Overview & Workflow",
+        "Module 6:  Sour Water Process Overview & Workflow",
+        "Module 7:  Aspen HYSYS Pipe Segments",
+        "Module 8:  Line Sizing utility",
+        "Module 9:  Hydraulics",
+        "Module 10: Column Operations in Aspen HYSYS",
+        "Module 11: Case Studies",
+        "Module 12:  Aspen Hysys Expert Certification Preparation"
 
 
 
@@ -5476,7 +5471,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "₦180,000 / $150"
+    cost: "₦250,000 / $200"
   },
 
   {

@@ -266,6 +266,7 @@ const index = ({ openModal, setOpenModal }) => {
           
           <Desc>
           <h3>Prerequisite</h3>
+          <p></p>
           <p>
             {project?.prerequisite.map((prerequisite, index) => (
               <li key={index}>{prerequisite}</li>
@@ -326,6 +327,7 @@ const index = ({ openModal, setOpenModal }) => {
             as={HashLink}
             smooth
             to="/#contact"
+            // target="_blank"
             >
               Make Enquiry
             </Button>
