@@ -3,6 +3,8 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
+import PhoneIcon from '@mui/icons-material/Phone';
+import EmailIcon from '@mui/icons-material/Email';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -56,21 +58,64 @@ const Copyright = styled.p`
 `;
 
 
+const ContactDetails = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 500px; /* Limit width */
+  gap: 2px; /* Increase spacing */
+  margin-top: 1rem;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+`;
+
+const ContactItem = styled.a`
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.9rem;
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #d4ffd8; /* Light green for hover effect */
+  }
+`;
+
+
+
 function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
         <Logo>MAGS ENGINEERING LIMITED</Logo>
+
+        {/* Contact Details */}
+        <ContactDetails>
+          <ContactItem href="tel:+2348156358138">
+            <PhoneIcon /> +234 815 635 8138
+          </ContactItem>
+          <ContactItem href="mailto:contact@magsengineeringlimited.com">
+            <EmailIcon /> contact@magsengineeringlimited.com
+          </ContactItem>
+        </ContactDetails>
         
         <SocialMediaIcons>
           {/* <SocialMediaIcon href="#" target="display"><TwitterIcon /></SocialMediaIcon>
-          <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon> */}
+          <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon>  */}
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
           
         </SocialMediaIcons>
         <Copyright>
           &copy; 2022 Mags Engineering . All rights reserved.
+
         </Copyright>
 
       </FooterWrapper>

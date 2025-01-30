@@ -3144,8 +3144,8 @@ export const projects = [
     description:
     [
           
-      "Calibration is the process of adjusting and verifying the accuracy of measuring instruments to ensure that they provide accurate, consistent, and reliable readings. In many fields such as manufacturing, engineering, and process industries, calibration is crucial for quality control, safety, and compliance with regulatory standards.",
-      "Calibration Technician's Guide course will equip you with the necessary skills and knowledge to handle and maintain precision instruments. By understanding the principles of calibration, troubleshooting techniques, and industry standards, technicians can help ensure that measurements are accurate and that equipment operates within specified tolerances."
+      "EPC and project management delays are complex and often arise from multiple sources, including design errors, procurement issues, regulatory challenges, and poor project management practices. Effective planning, communication, risk management, and timely decision-making are critical in mitigating delays and ensuring projects are completed on schedule. Identifying potential causes early in the project and establishing contingency plans can significantly reduce the impact of these delays on overall project timelines and costs.",
+      "Causes of Delays in EPC and Project Management Course provides essential insights into the challenges that project managers and teams face in large-scale projects. By identifying common causes of delays and learning effective mitigation strategies, participants can better manage time, resources, and risks, ensuring more successful project delivery."
 
 
     ],
