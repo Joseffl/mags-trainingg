@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c1add93.css",
-    "main.js": "/static/js/main.6bbd9832.js",
+    "main.js": "/static/js/main.96968e00.js",
     "static/media/HeroImage.png": "/static/media/HeroImage.e86fb11f846993d2b0aa.png",
     "static/media/eng safety checklist.png": "/static/media/eng safety checklist.7ee72e015a7d9deb6c00.png",
     "static/media/AUXILLARY SYSTEM OF THE GAS TURBINE.png": "/static/media/AUXILLARY SYSTEM OF THE GAS TURBINE.66cd4fd713262cee18aa.png",
@@ -27,6 +27,7 @@
     "static/media/process design eng.png": "/static/media/process design eng.2b1c5f3bc4433b5eef51.png",
     "static/media/DISTILLATION.png": "/static/media/DISTILLATION.861790fb45f9b577826f.png",
     "static/media/structural drafting.png": "/static/media/structural drafting.3896fa81b37ba519fe48.png",
+    "static/media/Depressuring Blowdown.png": "/static/media/Depressuring Blowdown.8b3a1b3f54f8b77b10e4.png",
     "static/media/Well Servicing and Workover.png": "/static/media/Well Servicing and Workover.a64598162d8161eac24c.png",
     "static/media/CARBON STEEL.png": "/static/media/CARBON STEEL.a8c7516bd0d01687fb70.png",
     "static/media/gas processing.png": "/static/media/gas processing.f34fd991b24cd32874ad.png",
@@ -37,6 +38,7 @@
     "static/media/sizing of strainers.png": "/static/media/sizing of strainers.d24f99c587ad975e5659.png",
     "static/media/p and id 2.png": "/static/media/p and id 2.c498366dfd2488fcc3a2.png",
     "static/media/CAUSES OF DELAYS IN EPC, PM.png": "/static/media/CAUSES OF DELAYS IN EPC, PM.196c448bbedbd84a84c9.png",
+    "static/media/Chemical Process.png": "/static/media/Chemical Process.0caa2c2fd711276f6ccd.png",
     "static/media/Artificial Lift.png": "/static/media/Artificial Lift.ff0b7d16ad0bd6dea0b0.png",
     "static/media/material spec.png": "/static/media/material spec.ff2b2b0883b12e411ce4.png",
     "static/media/instrumentation 2.png": "/static/media/instrumentation 2.b5ef8e9d47c924d19583.png",
@@ -53,8 +55,10 @@
     "static/media/cause and effect.png": "/static/media/cause and effect.c8968c8623f65c544f5c.png",
     "static/media/ATMOSPHERIC AND LOW-PRESSURE STORAGE TANK VENTING.png": "/static/media/ATMOSPHERIC AND LOW-PRESSURE STORAGE TANK VENTING.2c6bb4c7755892091651.png",
     "static/media/material selection.png": "/static/media/material selection.a1d968a910ff3796e890.png",
+    "static/media/Decision Making.png": "/static/media/Decision Making.440e89025f1fb56ec9a0.png",
     "static/media/instrumentation.png": "/static/media/instrumentation.56ed3e24bbaac8d33b7e.png",
     "static/media/AUTOMATION AND PLC.png": "/static/media/AUTOMATION AND PLC.ae23e0cfed5f0b2b8dc8.png",
+    "static/media/Basic Production.png": "/static/media/Basic Production.9cf8098dbe2d52852f23.png",
     "static/media/intro to oil.png": "/static/media/intro to oil.b1f24462403c4cf3af0c.png",
     "static/media/special plumbing systems.png": "/static/media/special plumbing systems.766fd62d067358adb4cd.png",
     "static/media/hazop.png": "/static/media/hazop.1491b92e5fefc0dd9bcb.png",
@@ -87,10 +91,10 @@
     "static/media/HeroBanner.jpg": "/static/media/HeroBanner.31154bfc10cd2e406099.jpg",
     "index.html": "/index.html",
     "main.8c1add93.css.map": "/static/css/main.8c1add93.css.map",
-    "main.6bbd9832.js.map": "/static/js/main.6bbd9832.js.map"
+    "main.96968e00.js.map": "/static/js/main.96968e00.js.map"
   },
   "entrypoints": [
     "static/css/main.8c1add93.css",
-    "static/js/main.6bbd9832.js"
+    "static/js/main.96968e00.js"
   ]
 }
