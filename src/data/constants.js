@@ -8001,17 +8001,6 @@ export const projects = [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
     ],
     methodology: "Theoretical",
     objectives: [
@@ -8050,6 +8039,169 @@ export const projects = [
 
 
 
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦140,000 / $120"
+  },
+
+
+  {
+    id: 10,
+    title: "Basic Production Technology in Oilfield ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Oilfield production technology is a complex and multi-disciplinary field that involves many processes and specialized technologies. From drilling and completion to transportation and environmental management, each step requires careful planning, technology, and expertise to ensure the efficient and sustainable extraction of hydrocarbons.",
+
+      "This course provides an introduction to the fundamentals of production technology in the oilfield, focusing on the processes and equipment involved in the production and initial treatment of hydrocarbons. Participants will explore key systems and technologies used in oilfield operations, such as wellheads, separation processes, crude oil dehydration, storage, and gas processing. Real-world case studies will be used to demonstrate practical applications and common challenges faced in oilfield production. The course is designed to enhance the technical understanding of field operations, improving efficiency and safety."
+
+    
+    ],
+      image:
+      require("./coursesImg/Basic Production.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "Petroleum",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "A basic understanding of oil and gas industry operations. ",
+      "Technical or engineering background (helpful but not essential). "
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Comprehend the role and function of wellheads, flow lines, and inlet manifolds in oilfield operations ",
+          "Understand the fundamental processes involved in hydrocarbon production. ",
+          "Explain the principles of gas-liquid separation and its importance in oilfield production. ",
+          "Recognize the equipment used for separation and their operational considerations. ",
+          "Understand the purpose and methods of crude oil dehydration. ",
+          "Evaluate the technologies and equipment used to remove water and impurities from crude oil.", 
+          "Describe the design and purpose of storage tanks in oilfield operations. ",
+          "Learn about safe handling practices and compliance requirements for storage systems. ",
+          "Gain insights into the initial stages of gas processing.", 
+          "Understand the basics of gas conditioning and separation from associated hydrocarbons. ",
+          "Analyze real-world scenarios and challenges through case studies.", 
+          "Learn best practices and strategies to optimize oilfield production systems. "
+
+                                
+
+
+        ],
+    outline: [
+        "Module 1:    Wellhead, Flow Line and Inlet Manifold",
+        "Module 2:    Gas Liquid Separation",
+        "Module 3     Crude Oil Dehydration",
+        "Module 4:    Storage Tanks",
+        "Module 5:    Introduction to Gas Processing",
+        "Module 6:    Case Studies "
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+  {
+    id: 10,
+    title: "Chemical Process Safety ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Chemical process safety is an essential discipline in process engineering focused on preventing and mitigating accidents involving hazardous chemicals or processes. It aims to ensure that chemical processes are safe for both workers and the surrounding environment, while also maintaining operational efficiency.",
+
+      "The Chemical Process Safety course is designed to provide participants with a comprehensive understanding of the principles and practices necessary for maintaining safety in chemical process industries. The course explores critical topics related to hazards, safety measures, and regulatory standards that govern the safe design, operation, and maintenance of chemical processes. It provides a detailed examination of the theory and practical application of various safety concepts to prevent accidents, ensure worker health, and protect the environment.",
+
+      "Through in-depth modules, the course covers a wide array of topics, including toxicology, industrial hygiene, fire and explosion prevention, chemical reactivity, hazard identification, risk assessment, and the design of safety procedures. This course aims to prepare participants to mitigate risks, respond effectively to hazardous events, and integrate safety into every aspect of chemical operations.",
+
+      "Professionals in the field of process engineering, plant safety, risk management, and environmental health and safety will benefit from this course."
+
+    
+    ],
+      image:
+      require("./coursesImg/Chemical Process.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "hazop hazid",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "10 Days",
+    prerequisite: [
+      "Chemical Engineering Fundamentals.",
+      "Chemistry and Physics.",
+      "General Safety Concepts."
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the Fundamentals of Process Safety:",
+          "Gain a thorough understanding of chemical process safety principles, including hazard analysis, risk management, and the implementation of safety measures in the chemical industry.",
+          "Identify and evaluate the toxicological hazards associated with chemicals used in industrial processes and understand their health impacts on workers and the surrounding environment.",
+          "Understand the role of industrial hygiene in protecting workers and learn techniques to control exposure to hazardous chemicals.",
+          "Develop the ability to model the potential sources of hazardous chemical releases and understand the methods for assessing their potential impact.",
+          "Gain expertise in various toxic release and dispersion models used to predict the behavior of hazardous substances in the atmosphere.",
+          "Study the principles behind the occurrence of fires and explosions in chemical processes and the strategies to prevent them.",
+          "Learn the techniques and engineering solutions to prevent fires and explosions through proper process design, materials, and safety systems.",
+          "Recognize and analyze the risks associated with chemical reactivity, including runaway reactions and their potential consequences.",
+          "Understand the purpose and importance of pressure relief devices in chemical processes, and how they help prevent overpressure scenarios.",
+          "Learn how to size relief devices appropriately based on the specific needs and hazards of a given process.",
+          "Use hazard identification methods such as HAZOP, fault tree analysis, and failure mode effects analysis (FMEA) to recognize potential risks in chemical operations.",
+          "Apply risk assessment techniques to evaluate the likelihood and impact of various hazards, and determine the risk levels associated with different chemical processes.",
+          "Create and implement safety procedures, protocols, and safety design principles that protect both workers and the environment during chemical operations.",
+          "Study past industrial accidents and understand the lessons learned to prevent similar occurrences in the future, with a focus on continuous improvement."
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:  Introduction",
+        "Module 2:  Toxicology.",
+        "Module 3:  Industrial Hygiene",
+        "Module 4:  Source Model",
+        "Module 5:  Toxic releases and dispersion models ",
+        "Module 6:  Fires and Explosion",
+        "Module 7:  Concepts to prevent Fires and Explosion",
+        "Module 8:  Chemical Reactivity",
+        "Module 9:  Introduction to Reliefs ",
+        "Module 10: Relief Sizing",
+        "Module 11: Hazard Identification",
+        "Module 12: Risk Assessment",
+        "Module 13: Safety Procedures and Design",
+        "Module 14: Case Histories and Lessons Learned"
 
 
 
@@ -8057,6 +8209,83 @@ export const projects = [
 
 
 
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦450,000 / $350"
+  },
+
+
+  {
+    id: 10,
+    title: "Decision Making & Problem-Solving Strategies ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Effective decision-making and problem-solving are key to success in both professional and personal environments. These strategies are designed to address challenges, optimize outcomes, and minimize risks. ",
+
+      "In today's fast-paced and complex world, the ability to make effective decisions and solve problems creatively is critical for success in both personal and professional contexts. This course explores the psychological, strategic, and practical aspects of decision-making and problem-solving. Participants will gain insights into how their minds work during these processes, learn proven strategies for making effective decisions, and discover techniques for thinking creatively and collaboratively. Real-world case studies provide practical examples to help participants apply their newfound skills to everyday challenges."
+
+    
+    ],
+      image:
+      require("./coursesImg/Decision Making.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "project management",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "A basic understanding of teamwork and collaboration in professional settings. ",
+      "An interest in developing critical thinking and creative problem-solving skills. ",
+      "Experience in managing decisions or solving challenges in personal or professional life (preferred but not mandatory)."
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Recognize how the mind works during decision-making and problem-solving. ",
+          "Identify common cognitive biases and their impact on decisions. ",
+          "Develop skills for making sound, timely, and well-informed decisions. ",
+          "Understand the importance of emotional intelligence and intuition in decision-making. ",
+          "Learn techniques for sharing decisions with others to ensure alignment and commitment.",
+          "Build confidence in leading or contributing to group decision-making processes. ",
+          "Master key problem-solving strategies to tackle challenges efficiently. ",
+          "Apply logical frameworks and analytical tools for structured problem resolution. ",
+          "Use techniques for generating creative ideas to solve complex problems. ",
+          "Think outside the box to develop unique and innovative solutions. ",
+          "Improve reasoning, analysis, and evaluative skills for better decision-making. ",
+          "Cultivate habits that enhance independent and critical thinking. ",
+          "Analyze case studies to understand the application of decision-making and problem-solving strategies in various scenarios.", 
+          "Reflect on lessons learned to apply them effectively in personal and professional contexts."
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Your mind at work.",
+        "Module 2:    The art of effective decision making.",
+        "Module 3:    Sharing decisions with others.",
+        "Module 4:    Key problem-solving strategies.",
+        "Module 5:    How to generate ideas.",
+        "Module 6:    Thinking outside the box ", 
+        "Module 7:    Developing your thinking skills ",
+        "Module 8:    Case Studies "
 
 
 
@@ -8064,7 +8293,81 @@ export const projects = [
 
 
 
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
 
+    ],
+    cost: "₦100,000 / $90"
+  },
+
+
+  {
+    id: 10,
+    title: "Depressuring Blowdown ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The depressuring blowdown system is vital for safely and efficiently reducing the pressure in pipelines, vessels, or entire process units in various industries, such as oil, gas, and chemical processing. Proper management of blowdown systems is essential to prevent overpressure, protect equipment, and maintain safe operational conditions during both normal and emergency shutdowns.",
+
+      "This course provides an in-depth understanding of depressuring and blowdown systems, focusing on their design, modeling, and operational significance in process safety. Depressuring is a critical safety mechanism employed in industrial plants to rapidly reduce pressure during emergencies, such as overpressure or fire exposure, to mitigate risks and prevent catastrophic failures. The course covers acceptance criteria, API guidelines, modeling techniques using Aspen HYSYS, and practical case studies, equipping participants with the knowledge and skills to design, evaluate, and troubleshoot blowdown systems effectively."
+
+    
+    ],
+      image:
+      require("./coursesImg/Depressuring Blowdown.png"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "process",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic understanding of process safety and pressure relief systems.", 
+      "Familiarity with process design tools and standards, such as API codes. ",
+      "Knowledge of thermodynamics, fluid dynamics, and heat transfer principles. ",
+      "Experience with process simulation software (Hysys)"
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define depressuring and blowdown and explain their role in process safety ",
+          "Identify situations requiring depressuring systems.",
+          "Evaluate common depressuring scenarios, such as fire exposure, process upsets, or equipment failures.",
+          "Perform case-based analysis to identify optimal depressuring strategies. ",
+          "Understand the role of restriction orifices in controlling flow rates during blowdown.", 
+          "Evaluate performance characteristics such as heat transfer efficiency and pressure loss.",
+          "Interpret Piping and Instrumentation Diagrams (P&IDs) related to depressuring systems. ",
+          "Apply simulation tools like Aspen HYSYS to model depressuring scenarios. ",
+          "Analyze results to verify system compliance and optimize design. ",
+          "Identify common challenges in depressuring systems and develop effective solutions. ",
+          "Enhance system performance through best practices and lessons from case studies. "
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction and Objectives of Depressuring",
+        "Module 2:   Acceptance and Design Criteria.",
+        "Module 3:   Depressuring Criteria –API",
+        "Module 4:   Developing Depressuring Criteria",
+        "Module 5:   Depressuring Cases",
+        "Module 6:   Restriction Orifice P&ID",
+        "Module 7:   Depressuring Modeling Aspen Hysys",
+        "Module 8:   Case Studies "
 
 
 
@@ -8082,7 +8385,7 @@ export const projects = [
       "On-the-job training"
 
     ],
-    cost: "₦140,000 / $120"
+    cost: "₦150,000 / $120"
   },
 
 ];
