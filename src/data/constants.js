@@ -732,7 +732,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Magnus',
     ],
-    category: "process",
+    category: "PAI",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -798,7 +798,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Magnus',
     ],
-    category: "process",
+    category: "PAI",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -2868,7 +2868,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
-    category: "mechanical",
+    category: "PAI",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -8386,6 +8386,1910 @@ export const projects = [
 
     ],
     cost: "₦150,000 / $120"
+  },
+  
+  {
+    id: 10,
+    title: "Axial, Centrifugal and  Expander Compressors 1 (General Requirement)",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Axial Compressors, Centrifugal Compressors, and Expander-Compressors are all types of turbomachinery used in various industrial applications like gas compression, power generation, and refrigeration. Each type has distinct operating principles, advantages, and typical use cases.",
+
+      "This course provides a comprehensive understanding of the design, operation, and maintenance of axial and centrifugal compressors and expander-compressors, focusing on general requirements, standards, and best practices. It delves into the principles of compressor functionality, material selection, design considerations, and key components. Participants will gain insights into statutory requirements, control systems, accessories, and vendor data management, with practical applications demonstrated through real-world case studies."
+
+    
+    ],
+      image:
+      require("./coursesImg/Axial.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic knowledge of thermodynamics, fluid mechanics, and rotating equipment.",
+      "Familiarity with industrial processes involving compressors (oil & gas, petrochemical, or chemical industries).",
+      "Awareness of engineering drawings, symbols, and technical documentation.",
+      "Prior experience with machinery design, operation, or maintenance is beneficial."
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the scope, purpose, and normative references for axial and centrifugal compressors and expander-compressors.",
+          "Interpret defined terms, industry standards, and best practices in compressor design and operation",
+          "Learn the meaning of acronyms, abbreviations, and symbols commonly used in compressor systems.",
+          "Understand standard dimensions and unit conversions applied in compressor design.",
+          "Recognize unit responsibilities, including manufacturer, vendor, and operator roles.",
+          "Define the requirements for the design, selection, and application of compressors in industrial environments.",
+          "Analyze key design considerations for axial and centrifugal compressors and expander-compressors.",
+          "Understand the impact of design parameters on performance, reliability, and efficiency.",
+          "Identify essential compressor accessories and their functions.",
+          "Understand lubrication, cooling, sealing, and auxiliary system requirements.",
+          "Learn best practices for quality control, inspection, and testing of compressors before commissioning.",
+          "Understand shipment preparation, including handling and preservation requirements.",
+          "Assess vendor-supplied data, including technical specifications, maintenance requirements, and performance guarantees.",
+          "Ensure compliance with industry regulations and project requirements.",
+          "Examine industry case studies to identify challenges and solutions in compressor design, operation, and troubleshooting.",
+          "Develop problem-solving approaches based on lessons learned from past projects."
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Scope, Defined Terms, Normative Reference and Purpose",
+        "Module 2:     Acronyms, Abbreviations, and Symbols",
+        "Module 3      Dimensions and Units",
+        "Module 4:     Requirements and Unit Responsibility",
+        "Module 5:     Basic Design",
+        "Module 6:     Accessories",
+        "Module 7:     Inspection, Testing, and Preparation for Shipment",
+        "Module 8:     Vendor’s Data",
+        "Module 9:     Case Studies "
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦100,000 / $90"
+  },
+
+  {
+    id: 10,
+    title: "Axial, Centrifugal and  Expander Compressors 2 (Nonintegrally Geared Centrifugal and Axial Compressors)",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Axial Compressors, Centrifugal Compressors, and Expander-Compressors are all types of turbomachinery used in various industrial applications like gas compression, power generation, and refrigeration. Each type has distinct operating principles, advantages, and typical use cases.",
+
+      "This course provides a comprehensive understanding of the design, operation, and maintenance of axial and centrifugal compressors and expander-compressors, focusing on general requirements, standards, and best practices. It delves into the principles of compressor functionality, material selection, design considerations, and key components. Participants will gain insights into statutory requirements, control systems, accessories, and vendor data management, with practical applications demonstrated through real-world case studies."
+
+    
+    ],
+      image:
+      require("./coursesImg/Axial.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic knowledge of thermodynamics, fluid mechanics, and rotating equipment.",
+      "Familiarity with industrial processes involving compressors (oil & gas, petrochemical, or chemical industries).",
+      "Awareness of engineering drawings, symbols, and technical documentation.",
+      "Prior experience with machinery design, operation, or maintenance is beneficial."
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the scope, purpose, and normative references for axial and centrifugal compressors and expander-compressors.",
+          "Interpret defined terms, industry standards, and best practices in compressor design and operation",
+          "Learn the meaning of acronyms, abbreviations, and symbols commonly used in compressor systems.",
+          "Understand standard dimensions and unit conversions applied in compressor design.",
+          "Recognize unit responsibilities, including manufacturer, vendor, and operator roles.",
+          "Define the requirements for the design, selection, and application of compressors in industrial environments.",
+          "Analyze key design considerations for axial and centrifugal compressors and expander-compressors.",
+          "Understand the impact of design parameters on performance, reliability, and efficiency.",
+          "Develop a deeper understanding of control systems and instrumentation for monitoring performance and ensuring operational safety.",
+          "Utilize special tools for maintenance and troubleshooting of Nonintegrally geared compressors.",
+          "Understand inspection, testing, and preparation procedures for shipment readiness",
+          "Analyze real-world case studies to understand challenges and solutions specific to Nonintegrally geared compressors.",
+          "Design and specifications of compressor casings",
+          "Design and standards for inlet and outlet pressure connections",
+          "Detailed analysis of blades, vanes, diffusers, and impellers.",
+          "Study practical applications."
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Scope, Defined Terms, Normative Reference and Purpose",
+        "Module 2:     Acronyms, Abbreviations, and Symbols",
+        "Module 3      Dimensions and Units",
+        "Module 4:     Requirements and Unit Responsibility",
+        "Module 5:     Basic Design",
+        "Module 6:     Accessories",
+        "Module 7:     Inspection, Testing, and Preparation for Shipment",
+        "Module 8:     Vendor’s Data",
+        "Module 9:     Case Studies "
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+
+  {
+    id: 10,
+    title: "Axial, Centrifugal and  Expander Compressors 3 (Integrally Geared Centrifugal Compressors)",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Axial Compressors, Centrifugal Compressors, and Expander-Compressors are all types of turbomachinery used in various industrial applications like gas compression, power generation, and refrigeration. Each type has distinct operating principles, advantages, and typical use cases.",
+
+      "This course provides a comprehensive understanding of the design, operation, and maintenance of axial and centrifugal compressors and expander-compressors, focusing on general requirements, standards, and best practices. It delves into the principles of compressor functionality, material selection, design considerations, and key components. Participants will gain insights into statutory requirements, control systems, accessories, and vendor data management, with practical applications demonstrated through real-world case studies."
+
+    
+    ],
+      image:
+      require("./coursesImg/Axial.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic knowledge of thermodynamics, fluid mechanics, and rotating equipment.",
+      "Familiarity with industrial processes involving compressors (oil & gas, petrochemical, or chemical industries).",
+      "Awareness of engineering drawings, symbols, and technical documentation.",
+      "Prior experience with machinery design, operation, or maintenance is beneficial."
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the key terms, acronyms, and symbols specific to Integrally geared centrifugal and axial compressors.",
+          "Interpret dimensions, units, and nomenclature relevant to these systems.",
+          "Understand the statutory requirements and responsibilities of manufacturers and operators.",
+          "Apply basic and advanced design principles for Integrally geared compressors.",
+          "Select suitable materials for casings, stationary components, and rotating elements to ensure reliability and durability.",
+          "Identify and describe the functions of auxiliary systems such as lubrication, sealing systems, and mounting fixtures.",
+          "Understand the role of couplings, guards, and gearing in compressor operations.",
+          "Develop a deeper understanding of control systems and instrumentation for monitoring performance and ensuring operational safety.",
+          "Utilize special tools for maintenance and troubleshooting of Integrally geared compressors.",
+          "Understand inspection, testing, and preparation procedures for shipment readiness",
+          "Analyze real-world case studies to understand challenges and solutions specific to Integrally geared compressors.",
+          "Design and specifications of compressor casings",
+          "Design and standards for inlet and outlet pressure connections",
+          "Detailed analysis of blades, vanes, diffusers, and impellers.",
+          "Review and management of supplier-provided data and documentation.",
+          "Ensuring completeness and compliance with specifications.",
+          "Study practical applications."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Scope, Defined Terms, Normative Reference and Purpose",
+        "Module 2:     Acronyms, Abbreviations, and Symbols",
+        "Module 3      Dimensions and Units",
+        "Module 4:     Requirements and Unit Responsibility",
+        "Module 5:     Basic Design",
+        "Module 6:     Accessories",
+        "Module 7:     Inspection, Testing, and Preparation for Shipment",
+        "Module 8:     Supplier's Data",
+        "Module 9:     Case Studies "
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100"
+  },
+
+  {
+    id: 10,
+    title: "Axial, Centrifugal and  Expander Compressors 4 (Expander-compressors)",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Axial Compressors, Centrifugal Compressors, and Expander-Compressors are all types of turbomachinery used in various industrial applications like gas compression, power generation, and refrigeration. Each type has distinct operating principles, advantages, and typical use cases.",
+
+      "This course provides a comprehensive understanding of the design, operation, and maintenance of axial and centrifugal compressors and expander-compressors, focusing on general requirements, standards, and best practices. It delves into the principles of compressor functionality, material selection, design considerations, and key components. Participants will gain insights into statutory requirements, control systems, accessories, and vendor data management, with practical applications demonstrated through real-world case studies."
+
+    
+    ],
+      image:
+      require("./coursesImg/Axial.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic knowledge of thermodynamics, fluid mechanics, and rotating equipment.",
+      "Familiarity with industrial processes involving compressors (oil & gas, petrochemical, or chemical industries).",
+      "Awareness of engineering drawings, symbols, and technical documentation.",
+      "Prior experience with machinery design, operation, or maintenance is beneficial."
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the key terms, acronyms, and symbols specific to Integrally geared centrifugal and axial compressors.",
+          "Interpret dimensions, units, and nomenclature relevant to these systems.",
+          "Understand the statutory requirements and responsibilities of manufacturers and operators.",
+          "Apply basic and advanced design principles for Integrally geared compressors.",
+          "Select suitable materials for casings, stationary components, and rotating elements to ensure reliability and durability.",
+          "Identify and describe the functions of auxiliary systems such as lubrication, sealing systems, and mounting fixtures.",
+          "Understand the role of couplings, guards, and gearing in compressor operations.",
+          "Develop a deeper understanding of control systems and instrumentation for monitoring performance and ensuring operational safety.",
+          "Utilize special tools for maintenance and troubleshooting of Integrally geared compressors.",
+          "Understand inspection, testing, and preparation procedures for shipment readiness",
+          "Analyze real-world case studies to understand challenges and solutions specific to Integrally geared compressors.",
+          "Design and specifications of compressor casings",
+          "Design and standards for inlet and outlet pressure connections",
+          "Detailed analysis of blades, vanes, diffusers, and impellers.",
+          "Review and management of supplier-provided data and documentation.",
+          "Ensuring completeness and compliance with specifications.",
+          "Study practical applications."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Scope, Defined Terms, Normative Reference and Purpose",
+        "Module 2:     Acronyms, Abbreviations, and Symbols",
+        "Module 3      Dimensions and Units",
+        "Module 4:     Requirements and Unit Responsibility",
+        "Module 5:     Basic Design",
+        "Module 6:     Accessories",
+        "Module 7:     Inspection, Testing, and Preparation for Shipment",
+        "Module 8:     Supplier's Data",
+        "Module 9:     Case Studies "
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100"
+  },
+  
+  {
+    id: 10,
+    title: "EPC Contract & Engineering Documents in EPC",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "An EPC Contract is a form of project delivery system widely used in the engineering and construction industry, particularly for large-scale infrastructure, industrial, and energy projects. Under this contract model, the contractor is responsible for the engineering, procurement of materials and equipment, and construction of the project to deliver a fully operational facility to the client. Often referred to as a \"turnkey\" contract, it ensures the client receives a complete and functional facility upon project completion.", 
+
+      "This course provides a comprehensive understanding of Engineering, Procurement, and Construction (EPC) contracts, along with the crucial role of engineering documents in EPC projects. It is designed to equip participants with the knowledge to effectively manage EPC contracts and engineering documentation to ensure project success. The course delves into the challenges, technical specifications, quality assurance, project timelines, and critical aspects of contract administration, supplemented by real-world case studies."
+
+    
+    ],
+      image:
+      require("./coursesImg/EPC contract.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "project management",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic understanding of project management principles.",
+      "Familiarity with contract law and construction processes.",
+      "Awareness of engineering and design processes in large-scale projects.",
+      "Experience in construction, procurement, or engineering (preferred but not mandatory)."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define EPC contracts and recognize their role in delivering turnkey projects and identify common issues and challenges in EPC projects.",
+          "Explain the scope of work and technical specifications involved in EPC contracts.",
+          "Understand the roles of key stakeholders like the Design Director, Safety Consultant, and Proof Consultant.",
+          "Analyze the Authority Engineer's responsibilities in EPC contracts.",
+          "Learn how quality assurance is maintained and how variations or changes in scope are managed.", 
+          "Evaluate the risks and responsibilities associated with assignment and sub-contracting.",
+          "Understand clauses related to time, damages for delays, and bonuses for early completion.",
+          "Examine insurance, price, price variation clauses, and payment structures in EPC contracts. ",
+          "Assess the importance of proper financial planning and risk management.",
+          "Understand the Defect Liability Period (DLP) and its role in ensuring project quality and compliance.",
+          "Recognize the role of engineering documents in planning, design, execution, and commissioning.", 
+          "Understand key engineering documents, including design drawings, specifications, and operational manuals.", 
+          "Analyze case studies to understand best practices in EPC contract management and engineering documentation."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    EPC contract, Issues and challenges",
+        "Module 2:    Scope of works",
+        "Module 3:    Technical Specs",
+        "Module 4:    Design Director, Safety Consultant, Proof Consultant.",
+        "Module 5:    Authority’s Engineer",
+        "Module 6:    Quality assurance",
+        "Module 7:    Variation/ Change in Scope.",
+        "Module 8:    Assignment & Sub-contracting. ",
+        "Module 9:    Time for project completion, levy of Damages Bonus for early completion.",
+        "Module 10:   Insurance, Price, Price Variation clauses, Payment",
+        "Module 11:   Defect Liability Period (DLP)",
+        "Module 12:   Case Studies "
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦80,000 / $60"
+  },
+
+  {
+    id: 10,
+    title: "Fabrication, Installation & Erection Procedure for Piping",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The fabrication, installation, and erection of piping systems in industrial plants are critical processes that ensure the safe and efficient flow of fluids or gases within the system. These activities require adherence to strict standards and procedures to maintain the integrity, functionality, and safety of the piping system. The following is a typical procedure for fabricating, installing, and erecting piping systems, including the key steps and considerations at each stage. ",
+
+      "The Fabrication, Installation & Erection Procedure for Piping course is designed to provide comprehensive training on the essential processes involved in the construction and installation of piping systems. It covers the entire workflow from the scope of the piping project to quality assurance, pressure testing, and final reinstatement. The course is intended for engineers, supervisors, and technicians working in the oil and gas, chemical, power generation, and construction industries, aiming to equip them with the necessary knowledge and skills to perform high-quality piping installation and erection.",
+
+      "This course will cover key concepts including fabrication methods, welding, installation techniques, dimensional checking, and testing procedures. Additionally, it will delve into safety, environmental considerations, and the importance of maintaining high standards throughout the process."
+
+    
+    ],
+      image:
+      require("./coursesImg/Fabrication installation.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Familiarity with common piping materials, components, and their applications.",
+      "Basic understanding of industries such as oil and gas, chemical, or power generation where piping systems are critical.",
+      "Basic knowledge of construction or engineering principles related to mechanical systems, with some familiarity with the use of tools and equipment.",
+      "Familiarity with basic safety practices in industrial work environments, including the use of personal protective equipment (PPE)."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the key objectives and deliverables in piping fabrication, installation, and erection processes.",
+          "Gain insight into the terminology, standards, and references used in the industry for successful piping installation projects.",
+          "Identify key stakeholders, their responsibilities, and the coordination required among different teams during the fabrication, installation, and erection stages.",
+          "Master the step-by-step procedure for piping fabrication and installation, including pre-fabrication, welding, installation, and final testing.",
+          "Understand the materials used in piping systems and how to select, inspect, and manage them effectively.",
+          "Learn the techniques and processes involved in fabricating piping components before they are transported and assembled on-site.",
+          "Gain hands-on knowledge on erecting and assembling piping systems in alignment with project specifications.",
+          "Understand the unique considerations for installing underground piping, including trenching, support, and safety protocols.",
+          "Learn the methods for checking the dimensions and alignment of installed piping systems to ensure compliance with project specifications.",
+          "Understand the various welding techniques used in piping systems and how to ensure the integrity of welds through proper procedures.",
+          "Learn the processes of protecting and maintaining piping systems through surface treatments like galvanizing, painting, and coating.",
+          "Master the techniques for proper identification, labeling, and marking of pipes for easy reference and future maintenance.",
+          "Learn how to implement QA/QC procedures to ensure the piping system meets all standards and regulations.",
+          "Understand how to perform pressure testing to validate the strength and leak-free status of the piping system.",
+          "Gain knowledge on the importance of system flushing to remove debris and contaminants before final commissioning.",
+          "Learn how to return the piping system to full service after completion of testing and cleaning.",
+          "Understand the necessary equipment, tools, and resources required for the safe and effective installation and erection of piping systems.",
+          "Understand the health, safety, and environmental requirements for piping installation projects and how to implement them effectively."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Scope",
+        "Module 2:    Definition and Reference.",
+        "Module 3:    Responsibility",
+        "Module 4:    Procedure",
+        "Module 5:    Products and Materials",
+        "Module 6:    Pre-fabrication",
+        "Module 7:    Piping erection",
+        "Module 8:    Installation of Underground Piping",
+        "Module 9:    Dimensional Checking",
+        "Module 10:   Welding",
+        "Module 11:   Galvanizing Painting and Coating",
+        "Module 12:   Identification and Marking",
+        "Module 13:   Quality Assurance and Quality Control",
+        "Module 14:   Pressure Testing",
+        "Module 15:   Flushing",
+        "Module 16:   Reinstatement",
+        "Module 17:   Equipment and Resources ",
+        "Module 18:   Health Safety and Environment ", 
+        "Module 19:   Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦150,000 / $120  "
+  },
+
+
+  {
+    id: 10,
+    title: "AIR-COOLED HEAT EXCHANGERS",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Air-Cooled Heat Exchangers (ACHEs) are a type of heat exchanger that uses air as the cooling medium to dissipate heat from a fluid (usually a liquid) passing through the system. Unlike water-cooled heat exchangers, which rely on water to absorb heat, air-cooled heat exchangers depend on ambient air to carry away heat from the fluid, making them particularly useful in environments where water availability is limited or where water usage needs to be minimized. ",
+
+      "The AIR-COOLED HEAT EXCHANGERS course is designed to provide students with a comprehensive understanding of the principles, components, design, and operation of air-cooled heat exchangers (ACHE). This course focuses on the analysis of forced and induced draft systems, tube bundles, fan operation, as well as construction techniques and materials used in ACHE systems. Students will gain knowledge on advanced topics like air recirculation, evaporative cooling, and steam condensation, as well as the economic considerations involved in selecting and designing air-cooled heat exchangers.",
+
+      "By the end of the course, students will be equipped to evaluate the performance of ACHE systems, apply design principles, and make informed decisions in real-world industrial applications. They will also learn from industry-specific case studies to better understand practical challenges and solutions in heat exchanger design and operation."
+
+    
+    ],
+      image:
+      require("./coursesImg/Air-cooled.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "To fully benefit from this course, students should have foundational knowledge of:",
+      "Thermodynamics – Basic understanding of heat transfer principles and thermodynamic cycles.",
+      "Fluid Mechanics – Familiarity with fluid flow concepts, pressure drops, and fluid dynamics.",
+      "Heat Transfer – Knowledge of conduction, convection, and radiation principles.",
+      "Mechanical Engineering Basics – Understanding of mechanical systems and components, particularly those related to heat exchangers and cooling systems.",
+      "Mathematical Concepts – Basic calculus and algebra to assist in the analysis of system designs and performance."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the basic principles of air-cooled heat exchangers (ACHE)",
+          "Identify the various applications of ACHEs in different industries.",
+          "Explain the operational differences between forced and induced draft systems.",
+          "Compare the advantages and limitations of each system in practical applications.",
+          "Identify the components of a tube bundle and understand how they impact heat exchanger efficiency.",
+          "Discuss the types of tubing used and their materials, including the selection criteria based on heat transfer and fluid compatibility.",
+          "Assess the role of fins in increasing surface area for enhanced heat exchange.",
+          "Analyze the different types of fans used and understand their influence on airflow and system performance.",
+          "Evaluate different fan driver mechanisms and their energy implications.",
+          "Study how fan rings and plenums contribute to efficient airflow and cooling.",
+          "Investigate the technologies used to regulate and optimize airflow for effective heat exchange.",
+          "Identify the impact of air recirculation on system efficiency and methods to mitigate it.",
+          "Study the role of trim coolers in enhancing system performance and efficiency.",
+          "Analyze how humidification can improve the overall cooling process.",
+          "Learn how evaporative cooling enhances performance under specific operational conditions.",
+          "Study the role of steam condensers and their design considerations for effective heat transfer.",
+          "Discuss the specialized requirements of air-cooled overhead condensers in ACHE systems.",
+          "Assess how system design, materials, and operational factors influence the cost-effectiveness of air-cooled heat exchangers.",
+          "Learn how to design ACHE systems based on operational requirements, environmental conditions, and system performance needs.",
+          "Apply knowledge from real-world case studies to practical design, troubleshooting, and optimization of ACHE systems."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:   Forced and Induced Draft ",
+        "Module 3:   Tube Bundle",
+        "Module 4:   Tubing",
+        "Module 5:   Finned-Tube Construction",
+        "Module 6:   Fan",
+        "Module 7:   Fan Drivers",
+        "Module 8:   Fan Ring and Plenum Chambers",
+        "Module 9:   Air-Flow Control",
+        "Module 10:  Air Recirculation",
+        "Module 11:  Trim Coolers",
+        "Module 12:  Humidification Chambers",
+        "Module 13:  Evaporative Cooling",
+        "Module 14:  Steam Condensers",
+        "Module 15:  Air Cooled Overhead Condensers",
+        "Module 16:  Air Cooled Heat Exchanger Costs",
+        "Module 17:  Design Considerations ",
+        "Module 18:  Case Studies"
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦80,000 / $60 "
+  },
+
+
+  {
+    id: 10,
+    title: "AIR CONDITIONING",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Air conditioning systems function as heat transfer equipment by moving heat from one area to another area to maintain a comfortable temperature. In this context, the primary mechanism by which air conditioning achieves cooling is heat exchange.",
+
+      "This course provides an in-depth exploration of air conditioning systems, focusing on their role as heat transfer equipment in both comfort and industrial applications. The course covers the fundamental principles of air conditioning, including thermodynamic cycles, refrigerants, and heat exchangers. Participants will learn how air conditioning systems are designed, selected, and optimized for various environments, from residential and commercial comfort cooling to large-scale industrial applications. Additionally, the course delves into the critical aspects of load calculation, ventilation, and the operation of central and unitary refrigerant-based systems. Practical case studies will be used to provide real-world insight into the design, installation, and maintenance of air conditioning systems."
+
+    
+    ],
+      image:
+      require("./coursesImg/Air conditioning.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "A basic understanding of thermodynamics and heat transfer principles (conduction, convection, and radiation).",
+      "Familiarity with mechanical engineering concepts, particularly in refrigeration and HVAC (Heating, Ventilation, and Air Conditioning) systems).",
+      "Knowledge of fluid dynamics and the operation of heat exchangers (e.g., evaporators, condensers)."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a solid understanding of the thermodynamics and heat transfer principles behind air conditioning systems.",
+          "Recognize the role of air conditioning as a heat transfer equipment in controlling temperature and humidity.",
+          "Explore the importance of indoor air quality, temperature control, and energy efficiency in comfort air conditioning.",
+          "Study the requirements for air conditioning in industrial settings, where factors like heat load, equipment cooling, and humidity control are critical.",
+          "Learn to design systems that handle large-scale, high-capacity cooling needs.",
+          "Understand the role of ventilation in maintaining air quality and temperature control.",
+          "Learn how ventilation integrates with air conditioning systems to improve indoor air quality and comfort.",
+          "Identify the key components of air conditioning systems, such as compressors, evaporators, condensers, and expansion valves.",
+          "Understand the applications and advantages of these designs in space-constrained environments.",
+          "Understand how these components interact to transfer heat and maintain desired conditions.",
+          "Learn the design and operation of central air conditioning systems for large buildings or complexes.",
+          "Understand the advantages and limitations of central systems, including ductwork design and system integration.",
+          "Investigate unitary systems, which are typically used in smaller spaces or residential settings, and how they manage refrigerants and cooling loads.",
+          "Study the selection and performance characteristics of unitary air conditioning systems.",
+          "Learn the methods for calculating cooling loads based on factors like building size, insulation, external weather conditions, and internal heat generation.",
+          "Apply load calculations to design air conditioning systems that meet the specific needs of a space.",
+          "Analyze case studies to gain practical insights into the challenges and solutions in air conditioning system design and installation.",
+          "Explore how air conditioning systems are applied across different industries, including commercial, residential, and industrial environments."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Introduction ",
+        "Module 2:    Comfort Air Conditioning.",
+        "Module 3:    Industrial Air Conditioning",
+        "Module 4:    Ventilation",
+        "Module 5:    Air-Conditioning Equipment",
+        "Module 6:    Central Systems",
+        "Module 7:    Unitary Refrigerant-Based Air-Conditioning Systems",
+        "Module 8:    Load Calculation",
+        "Module 9:    Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦80,000 / $60 "
+  },
+
+
+  {
+    id: 10,
+    title: "COMPACT AND NONTUBULAR HEAT EXCHANGERS",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Compact and Non-tubular Heat Exchangers are a category of heat exchangers designed to offer efficient heat transfer in a compact form, often without the traditional tubular or shell-and-tube structure. These heat exchangers are especially useful in applications where space is limited, where high heat transfer efficiency is required, or where the traditional tubular designs would be too large or expensive to implement. ",
+
+      "This course provides a comprehensive study of compact and non-tubular heat exchangers, focusing on a variety of advanced heat exchanger designs that offer space-saving solutions while maintaining high heat transfer performance. Unlike traditional shell-and-tube heat exchangers, compact and non-tubular designs are increasingly used in industries where constraints, high thermal efficiency, space and specialized material properties are important. The course covers several types of compact heat exchangers, including plate-and-frame, spiral-plate, plate-fin, and nonmetallic options such as graphite, ceramic, and Teflon heat exchangers, participants will be equipped with the knowledge to select, design, and troubleshoot compact and non-tubular heat exchangers based on application-specific needs."
+
+    
+    ],
+      image:
+      require("./coursesImg/Compact.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "A foundational understanding of thermodynamics, heat transfer, and fluid dynamics.",
+      "Basic knowledge of conventional heat exchangers (such as shell-and-tube) and their design principles.",
+      "Familiarity with materials science, particularly in relation to heat transfer materials such as metals, ceramics, and polymers.",
+      "Experience with mechanical or chemical engineering principles, including the use of design calculations to optimize heat exchangers."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Gain a strong understanding of the various types of compact heat exchangers and their design features.",
+          "Recognize the advantages and limitations of compact heat exchangers compared to traditional shell-and-tube heat exchangers, particularly in terms of space, performance, and efficiency.",
+          "Learn the design principles of plate-and-frame heat exchangers, including the function of gaskets and the flow arrangements that optimize heat transfer.",
+          "Apply plate-and-frame exchangers to applications requiring high heat transfer performance and compact design.",
+          "Understand the differences between gasketed and welded-plate heat exchangers, including their advantages, such as leak prevention in welded designs and flexibility in gasketed designs.",
+          "Design and optimize these heat exchangers for specific thermal applications.",
+          "Investigate the design and operation of spiral-plate heat exchangers, focusing on their compact structure and suitability for handling viscous fluids and high-temperature applications.",
+          "Learn how brazed-plate-fin exchangers provide compact heat transfer solutions with high heat transfer efficiency by integrating plates and fins in a brazed design.",
+          "Explore applications in industries such as refrigeration and cryogenics.",
+          "Understand the design and performance of plate-fin tubular heat exchangers, focusing on their application in processes requiring compact heat exchangers with high heat transfer rates.",
+          "Investigate the design features of spiral-tube exchangers, which offer a space-saving solution while maintaining good heat transfer and low pressure drop.",
+          "Learn the characteristics of graphite heat exchangers, including their resistance to corrosion and high-temperature applications in chemical processes",
+          "Analyze when to select graphite exchangers for applications involving aggressive chemicals or extreme temperatures.",
+          "Understand the design of cascade coolers and their role in multi-stage cooling processes, particularly in cryogenics and specialized chemical processes.",
+          "Study the unique bayonet-tube exchanger design, which is ideal for high-pressure applications and offers compactness and versatility.",
+          "Explore the design considerations of atmospheric sections in heat exchangers, focusing on the use of non-pressurized zones for energy recovery or air cooling.",
+          "Investigate the benefits and challenges of using nonmetallic materials (such as plastics and composites) in heat exchangers, particularly for handling aggressive or corrosive fluids.",
+          "Learn about the unique properties of PVDF (Polyvinylidene Fluoride) heat exchangers, including their chemical resistance and applications in the semiconductor and pharmaceutical industries.",
+          "Understand the role of ceramic heat exchangers, which offer high-temperature resistance and stability in high-performance applications, such as in energy and chemical industries.",
+          "Study the use of Teflon-based heat exchangers, focusing on their chemical inertness, non-stick properties, and suitability for aggressive or reactive fluids.",
+          "Use case studies to identify design challenges and solutions for optimizing heat exchanger performance based on specific process requirements."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Compact Heat Exchangers",
+        "Module 2:    Plate-and-Frame Exchangers",
+        "Module 3:    Gasketed-Plate Exchangers",
+        "Module 4:    Welded- and Brazed-Plate Exchangers",
+        "Module 5:    Spiral-Plate Exchangers ",
+        "Module 6:    Brazed-Plate-Fin Exchangers",
+        "Module 7:    Plate-Fin Tubular Exchangers (PFE) ",
+        "Module 8:    Spiral-Tube Exchangers (STE) ",
+        "Module 9:    Graphite Heat Exchangers",
+        "Module 10:   Cascade Coolers",
+        "Module 11:   Bayonet-Tube Exchangers",
+        "Module 12:   Atmospheric Sections",
+        "Module 13:   Nonmetallic Heat Exchangers",
+        "Module 14:   PVDF Heat Exchangers",
+        "Module 15:   Ceramic Heat Exchangers",
+        "Module 16:   Teflon Heat Exchangers",
+        "Module 17:   Case Studies" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100  "
+  },
+
+
+  {
+    id: 10,
+    title: "CRYOGENIC PROCESSES",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Cryogenic processes refer to processes that occur at extremely low temperatures, typically below -150°C (-238°F), where gases become liquids, solids, or exhibit unique physical properties. These processes are often used for a variety of industrial, scientific, and engineering applications. Cryogenic temperatures are typically achieved using specialized refrigeration systems or cryogenic fluids such as liquid nitrogen (LN2), liquid oxygen (LOX), or liquid helium (LHE). ",
+
+      "This course provides an in-depth understanding of cryogenic processes, which involve the study and application of extremely low temperatures, typically below -150°C (-238°F). The course covers the essential principles of cryogenics, including the properties of cryogenic fluids, refrigeration, liquefaction, process equipment, separation and purification systems, and safety considerations. The course is designed to equip students with both theoretical knowledge and practical applications of cryogenics in various industries such as aerospace, medical, food preservation, and industrial gas production.",
+
+      "Throughout the course, Participants will explore the key components and technologies associated with cryogenic systems and gain insight into the safety protocols necessary when handling cryogenic materials. Case studies will provide real-world examples of how cryogenic processes are implemented across different sectors."
+
+    
+    ],
+      image:
+      require("./coursesImg/Cryogenic processes.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "A basic understanding of thermodynamics and heat transfer principles.",
+      "Familiarity with Fluid mechanics and material properties ",
+      "Basic chemistry (particularly gas laws and phase transitions)."
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the fundamentals of cryogenic processes, including the principles of low-temperature thermodynamics and their practical applications.",
+          "Identify and describe the properties of cryogenic fluids, including the characteristics that distinguish them from standard fluids at higher temperatures.",
+          "Comprehend the properties and behaviors of materials at cryogenic temperatures, focusing on changes in solid-state properties and their implications for material selection.",
+          "Analyze refrigeration and liquefaction processes used to produce and maintain cryogenic conditions in various systems.",
+          "Describe the function and design of cryogenic process equipment, including compressors, heat exchangers, and expansion devices.",
+          "Examine separation and purification systems employed in cryogenic applications, particularly in the production of pure gases and liquefied natural gas (LNG).",
+          "Understand storage and transfer systems for cryogenic liquids and gases, including insulation, pressure control, and transfer mechanisms.",
+          "Apply principles of cryogenic instrumentation in monitoring and controlling cryogenic processes, ensuring system efficiency and safety.",
+          "Implement safety practices related to cryogenic systems, including handling cryogenic fluids and managing associated risks like asphyxiation and frostbite.",
+          "Explore the use of heat exchangers in processes involving solids (e.g., solid-liquid and solid-gas heat transfer Critically evaluate real-world case studies, understanding the practical challenges and solutions applied in cryogenic industries such as space exploration, medicine, and food preservation."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Introduction",
+        "Module 2:    Properties of Cryogenic Fluids.",
+        "Module 3:    Properties of Solids",
+        "Module 4:    Refrigeration and Liquefaction",
+        "Module 5:    Process Equipment",
+        "Module 6:    Separation and Purification Systems",
+        "Module 7:    Storage and Transfer Systems",
+        "Module 8:    Cryogenic Instrumentation",
+        "Module 9:    Safety",
+        "Module 10:   Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100  "
+  },
+
+  {
+    id: 10,
+    title: "HAIRPIN/DOUBLE-PIPE HEAT EXCHANGERS",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Hairpin (Double-Pipe) Heat Exchangers are a simple and compact type of heat exchanger commonly used for small-scale or specialized heat exchange applications. They consist of two concentric pipes, one carrying the hot fluid and the other carrying the cold fluid. Heat is transferred between the two fluids through the walls of the inner pipe.",
+
+      "This course focuses on the design, operation, and application of hairpin and double-pipe heat exchangers, which are widely used in situations where compact heat transfer solutions are required, especially for smaller flow rates or where space constraints are critical. Hairpin and double-pipe heat exchangers are simple yet versatile designs, and this course provides an in-depth exploration of their construction principles, types, and applications in various industries. Students will learn how to optimize the design of these exchangers to meet specific thermal and mechanical requirements while addressing challenges such as heat transfer efficiency, pressure drop, and cost-effectiveness. Real-world case studies will also be examined to provide practical insights into the use of these heat exchangers in industry."
+
+    
+    ],
+      image:
+      require("./coursesImg/Hairpin.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "Basic understanding of thermodynamics, heat transfer (conduction, convection, and radiation), and fluid dynamics.",
+      "Familiarity with general heat exchanger types and their applications.",
+      "Basic knowledge of mechanical engineering principles, especially related to fluid flow and thermal systems.",
+      "Experience with design calculations and understanding of the importance of heat transfer coefficients and pressure drop in heat exchanger design."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Grasp the fundamental construction principles of hairpin and double-pipe heat exchangers, including their configuration and operational principles.",
+          "Identify the key design elements of these heat exchangers that influence their heat transfer capabilities and overall performance.",
+          "Learn how to incorporate finned double pipes to increase heat transfer efficiency, particularly in applications where space or flow rates are limited.",
+          "Analyze the effect of fin geometry and material selection on heat transfer performance in double-pipe heat exchangers.",
+          "Explore the design and construction of multitube hairpin heat exchangers, which use multiple parallel tubes in a coiled configuration to enhance heat transfer.",
+          "Analyze the advantages and challenges of multitube hairpin exchangers, including flow arrangements and the impact on pressure drop and heat transfer. ",
+          "Apply the knowledge gained to design hairpin and double-pipe heat exchangers for various industrial applications, considering factors such as thermal performance, space limitations, and fluid properties.",
+          "Evaluate how these exchangers can be optimized for specific operational conditions, such as high temperatures, corrosive fluids, or viscous liquids.",
+          "Use case studies to apply design principles to real-world challenges in heat exchanger applications.",
+          "Develop practical solutions to improve the performance, efficiency, and reliability of hairpin and double-pipe heat exchangers in diverse industry settings, such as oil and gas, HVAC, and food processing."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:      Principles of Construction",
+        "Module 2:      Finned Double Pipes", 
+        "Module 3:      Multitube Hairpins",
+        "Module 4:      Design Applications",
+        "Module 5:      Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦70,000 / $60 "
+  },
+
+  {
+    id: 10,
+    title: "HEAT EXCHANGERS FOR SOLIDS",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Heat Exchangers for Solids are specialized devices used to transfer heat between solids and fluids (liquids or gases), or between solids of different temperatures. These heat exchangers play a crucial role in processes where solid materials need to be either heated or cooled, and they are common in industries like chemical processing, food production, metals processing, and materials handling.",
+ 
+      "This course provides a comprehensive study of heat exchange systems tailored specifically for solid materials during processes like solidification, fusion, and thermal management for sheeted and divided solids. Unlike traditional heat exchangers for fluids, heat exchangers for solids must account for unique material properties and complex heat transfer mechanisms. The course covers the design, operation, and optimization of heat exchangers suited for solid processes in industries such as metallurgy, chemical processing, and food manufacturing. By the end of the course, participants will be equipped with the knowledge to select, design, and troubleshoot heat exchangers optimized for solid materials in various industrial applications."
+
+    
+    ],
+      image:
+      require("./coursesImg/Heat Exchangers for Solids.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "1 Day",
+    prerequisite: [
+      "A foundational understanding of thermodynamics and heat transfer principles (conduction, convection, and radiation).",
+      "Basic knowledge of mechanical engineering concepts and industrial processing).",
+      "Familiarity with material science, particularly in relation to the behavior of solids during thermal processes."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Recognize the unique challenges of heat transfer in solid materials.",
+          "Apply heat transfer mechanisms (e.g., conduction, radiation) to different types of solids (e.g., metals, powders, polymers).",
+          "Identify the equipment and systems used in the solidification of molten materials.",
+          "Evaluate different heat exchangers used in solidification, such as chillers and cooling towers, for efficiency and performance.",
+          "Understand the heat exchange requirements for melting and fusion of solid materials.",
+          "Design and optimize systems to maintain effective heat transfer in fusion processes, focusing on temperature control.",
+          "Investigate equipment for handling heat transfer in large, flat solids (e.g., metal sheets, polymer films).",
+          "Learn how to maximize heat transfer efficiency and overcome challenges related to large surface areas.",
+          "Learn how to design heat exchangers for particulate materials (e.g., powders, granules).",
+          "Explore the use of rotary kilns and fluidized bed reactors for heat transfer in granular solids.",
+          "Analyze real-world case studies to identify heat exchanger design challenges and solutions.",
+          "Apply theoretical knowledge to practical scenarios in various industries, including metallurgy, pharmaceuticals, and food processing.",
+          "Understand materials, design approaches, and their impact on energy"
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Equipment for Solidification",
+        "Module 2:   Equipment for Fusion of Solids.",
+        "Module 3:   Heat-Transfer Equipment for Sheeted Solids",
+        "Module 4:   Heat-Transfer Equipment for Divided Solids",
+        "Module 5:   Case Studies "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦70,000 / $60 "
+  },
+
+  {
+    id: 10,
+    title: "Heat Transfer Equipment",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Heat transfer equipment refers to devices used to transfer heat from one medium (such as a fluid or gas) to another in various industrial and engineering applications. These systems are essential in processes where heating or cooling is required, such as in HVAC systems, chemical processing, power generation, and refrigeration. ",
+
+      "The Heat Transfer Equipment course provides an in-depth understanding of the design, operation, and application of various heat transfer devices used in industrial processes. This course covers essential equipment and technologies designed to efficiently transfer heat in diverse systems. The curriculum addresses both conventional and advanced heat exchangers, thermal insulation, air conditioning, refrigeration, and cryogenic processes, among other topics. It emphasizes both theoretical principles and practical applications, making it ideal for engineers, designers, and technicians working with heat transfer systems in chemical, mechanical, and energy sectors."
+
+    
+    ],
+      image:
+      require("./coursesImg/Heat Transfer Equipment Course.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "4 Days",
+    prerequisite: [
+      "A basic understanding of thermodynamics and fluid mechanics.",
+      "Familiarity with heat transfer principles (conduction, convection, radiation).",
+      "Background knowledge in mechanical or chemical engineering principles."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Understand the principles and methods used to design heat transfer equipment.",
+          "Analyze and design shell-and-tube heat exchangers based on the TEMA (Tubular Exchanger Manufacturers Association) standards.",
+          "Calculate heat transfer rates and pressure drops in shell-and-tube exchangers.",
+          "Understand the design and working principles of hairpin and double-pipe heat exchangers.",
+          "Evaluate performance characteristics such as heat transfer efficiency and pressure loss.",
+          "Learn about the design and application of air-cooled heat exchangers.",
+          "Assess the advantages and limitations compared to water-cooled heat exchangers.",
+          "Study the design principles of compact and non-tubular heat exchangers (e.g., plate, spiral, and finned tube exchangers).",
+          "Understand the applications and advantages of these designs in space-constrained environments.",
+          "Explore the use of heat exchangers in processes involving solids (e.g., solid-liquid and solid-gas heat transfer).",
+          "Study practical applications like food processing and materials handling.",
+          "Investigate the importance and methods of thermal insulation in preventing heat loss or gain.",
+          "Understand materials, design approaches, and their impact on energy efficiency.",
+          "Learn the fundamentals of air conditioning systems, including heat transfer mechanisms and system components.",
+          "Understand the design and energy efficiency considerations for various air conditioning applications.",
+          "Study refrigeration cycles, equipment, and their applications in industrial and domestic settings.",
+          "Understand the role of heat exchangers in refrigeration systems.",
+          "Gain knowledge about heat transfer in cryogenic processes, including low-temperature heat exchangers.",
+          "Understand the challenges and technologies involved in handling materials at cryogenic temperatures.",
+          "Learn the design and operation of evaporators used in various industries (e.g., food, chemical, and pharmaceutical).",
+          "Understand heat transfer dynamics in evaporator systems and how to optimize their performance.",
+          "Apply theoretical concepts to real-world situations through case studies.",
+          "Analyze and propose solutions for practical challenges faced in heat transfer equipment design and operation."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:   Thermal Design Of Heat-Transfer Equipment",
+        "Module 2:   Tema-Style Shell-And-Tube Heat Exchangers.",
+        "Module 3:   Hairpin/Double-Pipe Heat Exchangers",
+        "Module 4:   Air-Cooled Heat Exchangers",
+        "Module 5:   Compact And Nontubular Heat Exchangers",
+        "Module 6:   Heat Exchangers For Solids",
+        "Module 7:   Thermal Insulation",
+        "Module 8:   Air Conditioning",
+        "Module 9:   Refrigeration",
+        "Module 10:  Cryogenic Processes",
+        "Module 11:  Evaporators",
+        "Module 12:  Case Studies" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦150,000 / $120 "
+  },
+
+  
+  {
+    id: 10,
+    title: "REFRIGERATION",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Refrigeration is essentially a process that uses heat transfer to cool a space or substance, and it works similarly to air conditioning in that it moves heat from one location to another. However, the purpose of refrigeration is typically to preserve food, cool liquids, or regulate the temperature of industrial processes rather than just to cool the air in a building. ",
+
+      "The Refrigeration under Heat Transfer Equipment course is designed to provide a comprehensive understanding of refrigeration systems, focusing on their fundamental principles, design, operation, and industrial applications. It explores various refrigeration technologies, including vapor-compression systems and alternative refrigerant methods, with an emphasis on practical case studies to enhance learning. The course is suitable for professionals, engineers, and students aiming to deepen their knowledge in thermal management and heat transfer equipment used in modern industries."
+
+    
+    ],
+      image:
+      require("./coursesImg/refrigeration.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "A basic understanding of thermodynamics and heat transfer principles.",
+      "Familiarity with engineering fundamentals and processes, especially related to fluid dynamics and energy systems ",
+      "Background knowledge in mechanical or chemical engineering principles."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Explain the principles of refrigeration and its importance in industrial applications.",
+          "Define key concepts such as heat transfer, energy efficiency, and thermodynamic cycles.",
+          "Describe the components and working principles of vapor-compression refrigeration systems.",
+          "Evaluate the performance of mechanical refrigeration systems using thermodynamic analysis.",
+          "Identify and understand the roles of various refrigeration equipment, including compressors, condensers, evaporators, and expansion valves.",
+          "Assess equipment selection criteria based on system requirements and operational conditions.",
+          "Explore non-mechanical refrigeration methods such as absorption systems and cryogenics.",
+          "Analyze the environmental and economic impacts of alternative refrigerants and systems.",
+          "Review and analyze real-world applications of refrigeration systems in industries such as food processing, and HVAC.",
+          "Solve practical engineering challenges and optimize system designs based on case study insights."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Introduction",
+        "Module 2:    Mechanical Refrigeration (Vapor-Compression Systems).",
+        "Module 3:    Equipments",
+        "Module 4:    Other Refrigerant Systems Applied in the Industry",
+        "Module 5:    Case Studies "
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦100,000 / $80"
+  },
+
+  {
+    id: 10,
+    title: "THERMAL INSULATION",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Thermal insulation refers to the process or materials used to reduce the rate of heat transfer between objects or spaces that are at different temperatures. Its primary purpose is to prevent unwanted heat loss or gain, thereby enhancing energy efficiency and maintaining comfort within buildings, vehicles, or equipment. ",
+
+      "This course provides a comprehensive study of thermal insulation materials, systems, and practices used to optimize energy efficiency in a variety of industrial applications. Focusing on the science behind thermal resistance, insulation materials, and their practical implementation, this course covers the principles of insulation, selection criteria for different systems, and the economic considerations in choosing insulation thickness. The course also delves into best practices for the installation of insulation and highlights real-world case studies to understand challenges and solutions. By the end of the course, participants will be well-equipped to design, select, install, and optimize thermal insulation systems to improve energy conservation, safety, and cost-effectiveness."
+
+    
+    ],
+      image:
+      require("./coursesImg/Thermal Insulation.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "A basic understanding of thermodynamics and heat transfer principles (conduction, convection, and radiation).",
+      "Familiarity with mechanical or civil engineering concepts, particularly in relation to energy systems and industrial applications.",
+      "Background knowledge in mechanical or chemical engineering principles Knowledge of basic material science, especially regarding thermal properties of materials.",
+      "Experience in energy efficiency or sustainability practices in industrial settings."
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Identify the key types of insulation materials used in various industries (e.g., fiberglass, mineral wool, foam, reflective coatings).",
+          "Understand the thermal properties of these materials and their suitability for different applications.",
+          "Evaluate and select the most effective insulation systems based on factors such as temperature range, environmental conditions, and application requirements.",
+          "Understand how to integrate insulation into various systems (e.g., pipes, tanks, ducts, equipment).",
+          "Calculate the optimal insulation thickness based on thermal resistance, energy savings, and cost.",
+          "Understand the concept of economic thickness, balancing insulation cost with long-term energy savings and payback periods.",
+          "Understand proper installation techniques to maximize insulation effectiveness and longevity.",
+          "Learn about challenges in insulation installation, including thermal bridging, moisture control, and handling specific applications like high-temperature or hazardous environments.",
+          "Analyze real-world examples of insulation system designs and installations.",
+          "Identify common issues in insulation selection and installation, and explore effective solutions."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Insulation Materials",
+        "Module 2:    System Selection",
+        "Module 3:    Economic Thickness of Insulation",
+        "Module 4:    Installation Practice",
+        "Module 5:    Case Studies "
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦80,000 / $60  "
+  },
+
+  {
+    id: 10,
+    title: "HAZOP Guidelines for ARAMCO standards",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "HAZOP (Hazard and Operability Study) is a structured and systematic technique used to identify hazards and operational issues in processes, particularly in industries like oil and gas. The method is essential for assessing potential risks and ensuring safety, compliance, and reliability in operations. In the context of ARAMCO (Saudi Aramco), the largest oil company in the world, adhering to their specific guidelines and standards for HAZOP is critical for operational safety.",
+
+      "This course provides a structured approach to Hazard and Operability (HAZOP) studies, focusing on ARAMCO standards and best practices. Participants will gain a deep understanding of risk assessment methodologies, process safety management, and compliance requirements within ARAMCO guidelines. The course covers HAZOP study execution, risk identification, hazard mitigation, and documentation requirements, ensuring participants are equipped to conduct effective safety assessments in industrial environments."
+
+    
+    ],
+      image:
+      require("./coursesImg/HAZOP Guidelines for ARAMCO standards.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "hazop hazid",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of process safety and risk management ",
+      "Familiarity with industrial operations and process flow diagrams (PFDs) / piping & instrumentation diagrams (P&IDs). ",
+      "Knowledge of ARAMCO safety standards and HAZOP methodology (preferred but not mandatory). "
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Learn the fundamental principles of HAZOP studies and their significance in risk management.",
+          "Identify key ARAMCO standards and compliance requirements for conducting HAZOP assessments. ",
+          "Apply systematic risk identification techniques to assess hazards in industrial processes.", 
+          "Utilize HAZOP guidewords to analyze process deviations and their consequences.",
+          "Identify potential failure modes, operability issues, and hazard scenarios. ",
+          "Develop risk mitigation strategies and safety recommendations.",
+          "Learn best practices for HAZOP documentation and reporting as per ARAMCO guidelines.",
+          "Improve communication skills for presenting HAZOP findings to stakeholders. ",
+          "Analyze case studies to understand common industry challenges and solutions. ",
+          "Gain practical experience in conducting HAZOP workshops and risk assessments."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Review of HAZOP Technique",
+        "Module 2:     Procedure for Conducting a HAZOP Study",
+        "Module 3      Programming HAZOP Studies",
+        "Module 4:     HAZOP Studies in Saudi ARAMCO",
+        "Module 5:     Examples of HAZOP Studies",
+        "Module 6:     Case Studies"
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100  "
+  },
+
+
+  {
+    id: 10,
+    title: "Guidance on Valves Type Selection",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Selecting the right valve for a specific application is a critical task in process engineering, as valves control the flow of fluids (liquids, gases, and slurries) and ensure the safe, efficient, and reliable operation of systems. The wrong valve can lead to process inefficiencies, safety hazards, or even equipment failure.",
+      "This course provides a structured approach to selecting the appropriate valves for various industrial applications, ensuring reliability, efficiency, and compliance with operational requirements. Participants will learn the key factors that influence valve selection, including required function, service conditions, fluid properties, operational frequency, isolation needs, maintenance considerations, environmental impact, cost, and past operational experience. The course will cover decision-making strategies and real-world case studies to enhance practical understanding and application."
+
+    
+    ],
+      image:
+      require("./coursesImg/Guidance on Valves Selection.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic knowledge of fluid mechanics and flow control principles",
+      "Familiarity with different types of valves and their applications",
+      "Understanding of piping and process system requirements"
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Identify different types of valves and their roles in controlling, regulating, and isolating fluid flow.",
+          "Evaluate valve performance based on operational needs.",
+          "Consider factors such as pressure, temperature, and operating environment.",
+          "Understand how external conditions impact valve performance and longevity.",
+          "Assess how the physical and chemical properties of fluids influence valve selection.",
+          "Determine compatibility with different materials and sealing mechanisms.",
+          "Understand viscosity, density, and flow properties related to valve operation.",
+          "Learn how abrasive, corrosive, and high-temperature fluids affect valve reliability.",
+          "Determine the importance of actuation methods and response time.",
+          "Learn about manual, automated, and control valve options.",
+          "Identify applications where tight shutoff, leakage prevention, and emergency isolation are critical.",
+          "Compare different valve types for effective flow isolation.",
+          "Learn about maintenance-friendly valve designs and accessibility considerations.",
+          "Understand the impact of valve material selection on maintenance cycles.",
+          "Assess the impact of emissions, noise levels, and regulatory requirements",
+          "Understand the role of valves in sustainable and eco-friendly designs.",
+          "Apply lessons learned from previous applications to improve valve selection",
+          "Analyze failure modes and reliability data for better decision-making",
+          "Understand space limitations and structural support requirements",
+          "Optimize valve selection based on design constraints and installation requirements.",
+          "Compare initial investment, operational costs, and long-term value.",
+          "Evaluate trade-offs between budget constraints and performance reliability.",
+          "Review industry-specific examples of valve selection challenges and solutions.",
+          "Identify best practices for selecting, installing, and maintaining valves in different applications."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:       Required function. ",
+        "Module 2:       Service conditions.",
+        "Module 3:       Fluid type and condition",
+        "Module 4        Fluid characteristics",
+        "Module 5:       Frequency of operation",
+        "Module 6:       Isolation requirements",
+        "Module 7:       Maintenance requirements",
+        "Module 8:       Environmental considerations",
+        "Module 9:       Past experience in comparable conditions",
+        "Module 10:      Weight and size",
+        "Module 11:      Cost",
+        "Module 12:      Case Studies "
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100  "
+  },
+
+  {
+    id: 10,
+    title: "THERMAL DESIGN OF HEAT-TRANSFER EQUIPMENT",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "The thermal design of heat-transfer equipment is critical for the efficient transfer of heat between two or more fluids, typically involving either the removal or absorption of heat. This design process encompasses a variety of principles and considerations to ensure that the equipment operates at optimal performance, efficiency, and safety.",
+
+      "This course provides an in-depth study of thermal design principles and practices for various types of heat-transfer equipment, focusing on the effective and efficient thermal management of industrial processes. The course covers a wide range of topics, from fundamental heat-transfer concepts to detailed design methods for various heat exchangers, condensers, reboilers, evaporators, and batch operations. Emphasizing practical applications, the course also addresses issues such as fouling, corrosion, and the cost considerations of heat exchangers, preparing students to approach real-world thermal design challenges in chemical and mechanical engineering settings."
+
+    
+    ],
+      image:
+      require("./coursesImg/Thermal Design of Heat-Transfer Equipment.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of thermodynamics and heat transfer principles (conduction, convection, radiation).",
+      "Familiarity with fluid mechanics and heat exchanger operations.",
+      "Knowledge of material science, especially related to thermal conductivity and corrosion.",
+      "Introductory understanding of chemical process operations and equipment design"
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Grasp the fundamental principles of heat transfer and their application to industrial equipment.",
+          "Analyze and solve thermal design problems related to different heat transfer processes.",
+          "Develop thermal designs for single-phase heat transfer systems.",
+          "Apply design principles to specific equipment such as condensers, reboilers, and evaporators.",
+          "Design systems for heating and cooling vessels, including batch operations and tank coils.",
+          "Analyze the effects of fouling and scaling on heat exchanger performance and propose solutions.",
+          "Design and evaluate the performance of shell-and-tube exchangers, incorporating baffles and tube bundles to improve efficiency. ",
+          "Apply design methods to specialized systems such as scraped-surface exchangers and solids processing.",
+          "Investigate and mitigate the impacts of corrosion in heat exchangers.",
+          "Evaluate design solutions from both a technical and economic perspective.",
+          "Analyze case studies to assess the challenges and solutions in thermal design of heat-transfer equipment."
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Introduction to Thermal Design",
+        "Module 2:    Thermal Design for Single-Phase Heat Transfer",
+        "Module 3:    Thermal Design of Condensers",
+        "Module 4:    Thermal Design of Reboilers",
+        "Module 5:    Thermal Design of Evaporators",
+        "Module 6:    Batch Operations: Heating and Cooling of Vessels",
+        "Module 7:    Thermal Design of Tank Coils ",
+        "Module 8:    Heating and Cooling of Tanks",
+        "Module 9:    Extended or Finned Surfaces",
+        "Module 10:   Fouling and Scaling",
+        "Module 11:   Thermal Design for Solids Processing and Typical Heat-Transfer Coefficients",
+        "Module 12:   Scraped-Surface Exchangers",
+        "Module 13:   Case Studies "
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100 "
+  },
+
+  {
+    id: 10,
+    title: "Guidelines for Auditing Process Safety Management Systems ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "Auditing Process Safety Management (PSM) Systems is a critical task to ensure that a company is maintaining a safe working environment, particularly in high-risk industries such as chemicals, oil and gas, and manufacturing. The guidelines for auditing PSM systems aim to evaluate whether processes are managed and controlled in a way that minimizes the risk of accidents, injuries, and environmental harm.",
+      "This course provides a structured approach to auditing Process Safety Management (PSM) systems, focusing on compliance, risk management, and operational integrity. Participants will gain in-depth knowledge of audit techniques, accountability, process safety knowledge, project safety reviews, and management of change (MOC). The course follows industry best practices and regulatory guidelines to ensure that PSM audits effectively identify gaps, mitigate risks, and enhance overall safety performance. Real-world case studies will reinforce the practical application of audit strategies and methodologies."
+
+    
+    ],
+      image:
+      require("./coursesImg/guidelines for auditing.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "hazop hazid",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "3 Days",
+    prerequisite: [
+      "Basic understanding of Process Safety Management (PSM) principles.",
+      "Familiarity with regulatory requirements (OSHA PSM, CCPS, API RP 750, or equivalent). ",
+      "Experience in industrial risk assessment, compliance auditing, or safety reviews"
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Define the purpose and objectives of PSM system audits. ",
+          "Recognize the role of audits in ensuring regulatory compliance and risk mitigation. ",
+          "Learn systematic audit methodologies, planning, and execution strategies. ",
+          "Apply data collection techniques, interview methods, and documentation reviews in process safety audits.", 
+          "Define roles and responsibilities in the audit process.", 
+          "Ensure alignment between corporate policies and safety regulations. ",
+          "Evaluate hazard identification, risk assessment, and process safety documentation. ",
+          "Understand the role of safety culture and human factors in PSM effectiveness.",
+          "Assess safety review processes during project development and execution.", 
+          "Identify process hazards and mitigation strategies at various project stages. ",
+          "Understand Management of Change (MOC) requirements in process safety.",
+          "Identify common MOC failures and audit best practices.",
+          "Analyze real-world PSM audit findings and lessons learned. "
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:     Management of Process Safety Management Systems Audits",
+        "Module 2:     Audit Techniques ",
+        "Module 3:     Accountability and Responsibility",
+        "Module 4       Process Safety Knowledge",
+        "Module 5:      Project Safety Reviews",
+        "Module 6:      Management of Change",
+        "Module 7:      Process Equipment Integrity",
+        "Module 8:      Process Risk Management",
+        "Module 9:      Incident Investigation",
+        "Module 10:    Human Factors",
+        "Module 11:    Training and Performance",
+        "Module 12:    Emergency Response Planning",
+        "Module 13:    Case Studies "
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦130,000 / $110 "
   },
 
 ];

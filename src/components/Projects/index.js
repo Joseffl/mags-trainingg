@@ -63,12 +63,12 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="Petroleum" onClick={() => setToggle('Petroleum')}>Petroleum & Gas Engineering</ToggleButton>
           }
-          {/* <Divider />
-          {toggle === 'Lifting' ?
-            <ToggleButton active value="Lifting" onClick={() => setToggle('Lifting')}>Lifting Engineering</ToggleButton>
+          <Divider />
+          {toggle === 'PAI' ?
+            <ToggleButton active value="PAI" onClick={() => setToggle('PAI')}>Process Control/Automation/Instrumentaion</ToggleButton>
             :
-            <ToggleButton value="Lifting" onClick={() => setToggle('Lifting')}>Lifting Engineering</ToggleButton>
-          } */}
+            <ToggleButton value="PAI" onClick={() => setToggle('PAI')}>Process Control/Automation/Instrumentaion</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects

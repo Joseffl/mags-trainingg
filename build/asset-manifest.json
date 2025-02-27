@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c1add93.css",
-    "main.js": "/static/js/main.96968e00.js",
+    "main.js": "/static/js/main.d35cea99.js",
     "static/media/HeroImage.png": "/static/media/HeroImage.e86fb11f846993d2b0aa.png",
     "static/media/eng safety checklist.png": "/static/media/eng safety checklist.7ee72e015a7d9deb6c00.png",
     "static/media/AUXILLARY SYSTEM OF THE GAS TURBINE.png": "/static/media/AUXILLARY SYSTEM OF THE GAS TURBINE.66cd4fd713262cee18aa.png",
@@ -87,14 +87,30 @@
     "static/media/hazid.png": "/static/media/hazid.07dad38530b00db64cf5.png",
     "static/media/liquid line sizing.png": "/static/media/liquid line sizing.fb62316d64307857e0e8.png",
     "static/media/vert.png": "/static/media/vert.c330cfa7afa18ed4b1f1.png",
+    "static/media/Fabrication installation.jpg": "/static/media/Fabrication installation.c91b13b990b40e8f3554.jpg",
+    "static/media/Axial.jpg": "/static/media/Axial.7e96ac8423111d975ba0.jpg",
+    "static/media/Hairpin.jpg": "/static/media/Hairpin.664b51ce2d0ce5f9a213.jpg",
+    "static/media/Thermal Design of Heat-Transfer Equipment.jpg": "/static/media/Thermal Design of Heat-Transfer Equipment.cf1a247418fd1349560f.jpg",
+    "static/media/Heat Transfer Equipment Course.jpg": "/static/media/Heat Transfer Equipment Course.757d48e605775cbea231.jpg",
+    "static/media/Heat Exchangers for Solids.jpg": "/static/media/Heat Exchangers for Solids.0aebf45fdb7965e13901.jpg",
+    "static/media/Compact.jpg": "/static/media/Compact.735a8d90115d7fd1f386.jpg",
+    "static/media/Thermal Insulation.jpg": "/static/media/Thermal Insulation.3bfd675fbf9b823fcaaf.jpg",
+    "static/media/EPC contract.jpg": "/static/media/EPC contract.7458e17669f848bce020.jpg",
+    "static/media/refrigeration.jpg": "/static/media/refrigeration.89780bd4e7265199c239.jpg",
+    "static/media/guidelines for auditing.jpg": "/static/media/guidelines for auditing.a842ec00054a4b770255.jpg",
+    "static/media/HAZOP Guidelines for ARAMCO standards.jpg": "/static/media/HAZOP Guidelines for ARAMCO standards.3931d90287c5d49a7194.jpg",
+    "static/media/Air conditioning.jpg": "/static/media/Air conditioning.67cfdf062a9e556b03f3.jpg",
+    "static/media/Guidance on Valves Selection.jpg": "/static/media/Guidance on Valves Selection.6cd0ef17db8a2f501ff1.jpg",
+    "static/media/Cryogenic processes.jpg": "/static/media/Cryogenic processes.dde6b5f66e83d2a03675.jpg",
+    "static/media/Air-cooled.jpg": "/static/media/Air-cooled.560db2c1758e12c47f07.jpg",
     "static/media/LogoImg.png": "/static/media/LogoImg.647b1addcd92034e1ce9.png",
     "static/media/HeroBanner.jpg": "/static/media/HeroBanner.31154bfc10cd2e406099.jpg",
     "index.html": "/index.html",
     "main.8c1add93.css.map": "/static/css/main.8c1add93.css.map",
-    "main.96968e00.js.map": "/static/js/main.96968e00.js.map"
+    "main.d35cea99.js.map": "/static/js/main.d35cea99.js.map"
   },
   "entrypoints": [
     "static/css/main.8c1add93.css",
-    "static/js/main.96968e00.js"
+    "static/js/main.d35cea99.js"
   ]
 }
