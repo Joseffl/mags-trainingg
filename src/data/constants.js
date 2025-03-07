@@ -10292,6 +10292,1521 @@ export const projects = [
     cost: "₦130,000 / $110 "
   },
 
+
+  {
+    id: 10,
+    title: "GTEMA-STYLE SHELL-AND-TUBE HEAT EXCHANGERS ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "TEMA (Tubular Exchanger Manufacturers Association) is an organization that provides standardized designs and guidelines for shell-and-tube heat exchangers, which are widely used in industries such as chemical processing, oil refining, power generation, and HVAC. The TEMA standards ensure consistent, reliable, and efficient designs of shell-and-tube heat exchangers. These standards help optimize heat transfer performance, ensure safety, and reduce operational issues.",
+
+      "This course focuses on the design, construction, and application of TEMA-style shell-and-tube heat exchangers, which are among the most widely used heat transfer devices in industrial applications. Shell-and-tube exchangers are integral to processes in the chemical, petrochemical, and energy sectors, and this course provides a thorough understanding of their design, from the selection of materials to the arrangement of tubes and baffles. Students will learn the key principles governing the construction and operation of these systems, as well as practical considerations related to corrosion, cost, and case-specific challenges. By the end of the course, participants will be equipped with the knowledge to effectively design, troubleshoot, and optimize shell-and-tube heat exchangers for a variety of industrial application."
+
+    
+    ],
+      image:
+      require("./coursesImg/guidelines for auditing.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "mechanical",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "A foundational understanding of thermodynamics, heat transfer, and fluid mechanics Familiarity with fluid mechanics and heat exchanger operations.",
+      "Basic knowledge of process equipment, especially heat exchangers.",
+      "Familiarity with material properties relevant to thermal and mechanical design such as thermal conductivity, strength, and corrosion resistance."
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Learn about the different types of TEMA-style shell-and-tube heat exchangers, including their key definitions and distinctions.",
+          "Understand the application of various TEMA configurations (e.g., fixed tube sheet, U-tube, floating head) in different industrial contexts.",
+          "Gain an understanding of the general design factors that influence the selection and configuration of shell-and-tube exchangers, including flow arrangements, heat transfer efficiency, and pressure drop.",
+          "Analyze the thermal, mechanical, and fluid dynamic considerations that must be addressed during the design phase.",
+          "Learn about the various construction methods used in shell-and-tube heat exchangers and their impact on performance, reliability, and maintenance.",
+          "Explore the design features of the shell-side, including the selection of shell diameter, shell length, and the arrangement of inlet and outlet nozzles.",
+          "Address considerations related to flow distribution, pressure drop, and heat transfer performance.", 
+          "Learn the role of baffles in shell-and-tube heat exchangers, focusing on their design to enhance heat transfer and reduce fluid bypass.",
+          "Understand the function of tube bundles in maximizing surface area and improving flow conditions.",
+          "Analyze the causes and impacts of corrosion in shell-and-tube exchangers, particularly on materials in contact with corrosive fluids.",
+          "Discuss methods of mitigating corrosion, including material selection and protective coating.",
+          "Understand the various cost components involved in the design, fabrication, and maintenance of shell-and-tube heat exchangers",
+          "Evaluate cost-performance trade-offs when selecting materials and construction method."
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:    Types and Definitions",
+        "Module 2:    General Design Considerations",
+        "Module 3:    Principal Types of Construction",
+        "Module 4:    Tube-Side Construction",
+        "Module 5:    Shell-Side Construction",
+        "Module 6:    Baffles and Tube Bundles",
+        "Module 7:    Corrosion in Heat Exchangers",
+        "Module 8:    Shell-and-Tube Exchanger Costs",
+        "Module 9:    Case Studies "
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦100,000 / $80 "
+  },
+
+
+  {
+    id: 10,
+    title: "Project Schedule ",
+    date: "Oct 2022 - Present",
+    description:
+    [
+          
+      "A project schedule is a detailed plan that outlines the timeline for completing a project. It includes the list of tasks and activities, the order in which they need to be completed, their duration, and the resources required. A project schedule is an essential tool for managing time effectively, ensuring that the project is completed on time, within scope, and within budget.",
+      "This course provides a structured approach to developing, managing, and optimizing project schedules. Participants will gain an in-depth understanding of scheduling principles, including activity sequencing, resource allocation, duration estimation, critical path analysis, and schedule risk assessment. The course will also cover techniques for updating and maintaining schedules to ensure project success. Real-world case studies will be used to reinforce key concepts and best practices."
+
+    
+    ],
+      image:
+      require("./coursesImg/guidelines for auditing.jpg"),
+    tags: [
+      'Trainer: Engr. Majid',
+    ],
+    category: "project management",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+
+    duration: "2 Days",
+    prerequisite: [
+      "Basic understanding of project management principles ",
+      "Familiarity with scheduling tools such as Primavera P6 or Microsoft Project ",
+      "Knowledge of work breakdown structure (WBS) and resource planning"
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    methodology: "Theoretical",
+    objectives: [
+          "Capture all activities required for project execution",
+          "Define task dependencies and logical sequencing ",
+          "Allocate labor, materials, and equipment to activities", 
+          "Balance resource availability with project constraints ",
+          "Establish realistic timeframes based on scope and resource availability ",
+          "Use historical data and industry benchmarks for estimation", 
+          "Ensure horizontal and vertical traceability in the schedule",
+          "Confirm that the critical path accurately reflects project constraints ",
+          "Conduct a schedule risk analysis to identify potential delays ",
+          "Develop mitigation strategies for high-risk activities", 
+          "Track progress against planned activities ",
+          "Adjust schedules based on actual performance and project changes", 
+          "Establish a reference schedule for tracking deviations ",
+          "Use baseline comparisons to assess project efficiency ",
+          "Analyze past scheduling successes and failures ",
+          "Develop strategies for continuous improvement in project scheduling "
+
+
+
+                                          
+
+
+        ],
+    outline: [
+        "Module 1:        Capturing All Activities",
+        "Module 2:        Sequencing All Activities",
+        "Module 3:        Assigning Resources to All Activities ",
+        "Module 4         Establishing the Duration of All Activities",
+        "Module 5:        Verifying That the Schedule Can Be Traced Horizontally and Vertically ",
+        "Module 6:        Confirming That the Critical Path Is Valid",
+        "Module 7;        Ensuring Reasonable Total Float",
+        "Module 8:        Conducting a Schedule Risk Analysis",
+        "Module 9:        Updating the Schedule Using Actual Progress and Logic",
+        "Module 10:       Maintaining a Baseline Schedule",
+        "Module 11:       Case Studies "
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ],
+    assessment: "	Online Written  Exam",
+    cdf: [
+      "Classroom-based training",
+      "Online courses ",
+      "In-house workshops",
+      "On-the-job training"
+
+    ],
+    cost: "₦120,000 / $100 "
+  },
+
+  
+  {
+    id: 11,
+    title: "Quality Assurance / Quality Control Plan",
+    date: "Present",
+    description:
+    [
+        "A Quality Assurance (QA) / Quality Control (QC) Plan is a comprehensive framework used to ensure that products or services meet defined quality standards and requirements throughout the production or service delivery process. QA focuses on preventing defects by improving processes, systematizing operations, and ensuring consistency in performance. QC involves detecting defects and inconsistencies by inspecting and testing the final product or service to ensure it meets the specified requirements.",
+        "This course provides a comprehensive understanding of QA and QC principles, focusing on the development, implementation, and maintenance of a QA/QC plan. Participants will learn about quality management systems, documentation processes, inspection protocols, and reporting procedures. Real-world case studies will be used to illustrate best practices and common challenges in quality management across various industries."
+    ],
+    image: require("./coursesImg/guidelines for auditing.jpg"),
+    tags: [
+        'Trainer: Engr. Majid',
+    ],
+    category: "project management",
+    github: "https://github.com/Joseffl/react-todo-app",
+    webapp: "https://bit.ly/47GF1It",
+    duration: "2 Days",
+    prerequisite: [
+        "Basic understanding of quality assurance and quality control concepts",
+        "Familiarity with industry standards and regulatory requirements for quality management",
+        "Experience in project execution and documentation processes"
+    ],
+    methodology: "Theoretical",
+    objectives: [
+        "Learn about the key principles of quality management",
+        "Understand the role of QMS in ensuring product and service consistency",
+        "Learn how to structure and document a QAP",
+        "Understand the responsibilities of QA teams in project execution",
+        "Identify key roles and responsibilities within a QA/QC team",
+        "Understand how organizational structure impacts quality assurance",
+        "Understand the importance of NCRs in identifying quality issues",
+        "Develop effective corrective and preventive action plans",
+        "Learn how to document and approve materials for project use",
+        "Learn how to prepare and submit material inspection requests",
+        "Ensure compliance with project specifications and standards",
+        "Understand inspection protocols and approval procedures",
+        "Understand how to document and request installation inspections",
+        "Develop skills for conducting quality checks on installed components",
+        "Learn how to request and document quality control inspections",
+        "Ensure adherence to QA/QC procedures in project execution",
+        "Understand the role of checklists in standardizing quality control",
+        "Develop checklists for different stages of quality management",
+        "Analyze past QA/QC successes and failures",
+        "Develop strategies for continuous quality improvement"
+    ],
+    outline: [
+        "Module 1: Quality Management System",
+        "Module 2: Quality Assurance Plan",
+        "Module 3: Organizational Chart",
+        "Module 4: Non-Conformance Report Form",
+        "Module 5: Material Submittal Form",
+        "Module 6: Request for Material Inspection Form",
+        "Module 7: Request for Installation Inspection Form",
+        "Module 8: Quality Control Inspection Request Form",
+        "Module 9: Check List",
+        "Module 10: Case Studies"
+    ],
+    assessment: "Online Written Exam",
+    cdf: [
+        "Classroom-based training",
+        "Online courses",
+        "In-house workshops",
+        "On-the-job training"
+    ],
+    cost: "₦120,000 / $100",
+    certification: "Certificate of Completion"
+},
+
+
+{
+  id: 12,
+  title: "Lean Project Management",
+  date: "Present",
+  description:
+  [
+      "Lean Project Management is a project management methodology derived from Lean Manufacturing principles, focusing on maximizing value while minimizing waste. The goal is to deliver projects more efficiently by optimizing processes, reducing non-value-adding activities, and ensuring that resources are used effectively. Lean principles are often associated with continuous improvement and creating value for the customer.",
+      "This course provides a comprehensive understanding of Lean Project Management principles, tools, and techniques that enhance efficiency and streamline processes. Participants will explore how Lean practices are applied across industries, from manufacturing to IT and construction, and gain insights into measuring project success. Real-world case studies will be examined to demonstrate successful Lean implementations."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "project management",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic understanding of project management concepts",
+      "Familiarity with process improvement methodologies",
+      "Interest in optimizing workflows and increasing efficiency"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define Lean principles and their application to project management",
+      "Recognize the benefits of Lean methodologies in project execution",
+      "Identify and eliminate sources of waste in project workflows",
+      "Utilize Lean tools such as Kanban, Value Stream Mapping, and 5S",
+      "Adapt Lean Project Management techniques to different sectors",
+      "Understand industry-specific challenges and best practices",
+      "Establish key performance indicators (KPIs) for Lean projects",
+      "Assess project outcomes through data-driven decision-making",
+      "Analyze successful Lean Project Management implementations",
+      "Apply lessons learned to improve efficiency in future projects"
+  ],
+  outline: [
+      "Module 1: Introduction to Lean Project Management",
+      "Module 2: Core Principles of Lean Project Management",
+      "Module 3: Planning Your Lean Project",
+      "Module 4: Tools and Techniques in Lean Project Management",
+      "Module 5: Implementing Lean Project Management",
+      "Module 6: Lean Project Management in Various Industries",
+      "Module 7: Measuring Success in Lean Projects",
+      "Module 8: Advanced Topics in Lean Project Management",
+      "Module 9: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 13,
+  title: "Liquid–Gas and Solid–Gas Separators",
+  date: "Present",
+  description:
+  [
+      "Liquid–Gas and Solid–Gas Separators are devices used in various industrial processes to separate different phases of matter (liquids or solids) from a gas stream. These separators are essential in a wide range of applications, including air pollution control, chemical processing, oil and gas production, and HVAC systems.",
+      "This course provides a comprehensive understanding of various techniques and equipment used in separating liquid, gas, and solid phases from one another in industrial applications. Participants will explore different separation methods, including magnetic field separation, electrofilters, gas separators, flash drums, venturis, cyclones, and decanters. By examining the operational principles, applications, and performance characteristics of these separators, learners will gain the expertise needed to select, design, and optimize separation processes in different industries such as chemical engineering, environmental engineering, and manufacturing."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Fundamentals of Fluid Mechanics",
+      "Thermodynamics and Heat Transfer",
+      "Mathematical and Computational Skills",
+      "Introduction to Process Engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Gain insight into how separation is achieved through different physical principles such as magnetic fields, electrostatic forces, and mechanical movement",
+      "Develop the skills to choose the most effective separator for a specific liquid-gas or solid-gas separation challenge based on factors like efficiency, cost, and application",
+      "Assess the performance characteristics of separators (such as efficiency, pressure drop, and maintenance requirements) through practical calculations and simulations",
+      "Use knowledge gained in the course to design and optimize liquid-gas and solid-gas separation systems in industrial settings",
+      "Solve complex separator-related problems, including pressure, flow rates, and operational efficiencies, with a focus on practical applications",
+      "Use computational tools to simulate separator behavior in real-world conditions, optimizing for variables like velocity, pressure, and phase distribution",
+      "Develop the ability to select the most suitable separator (e.g., venturi, cyclone, or scrubber) for specific applications based on operational requirements"
+  ],
+  outline: [
+      "Module 1: Separation in a magnetic field",
+      "Module 2: Electrofilters",
+      "Module 3: Gas separators and flash drums",
+      "Module 4: Separator vats",
+      "Module 5: The venturi",
+      "Module 6: Simulation of a venturi",
+      "Module 7: Pulverization columns",
+      "Module 8: Various points",
+      "Module 9: Choice of an air scrubber",
+      "Module 10: Varied calculations",
+      "Module 11: The cyclone",
+      "Module 12: The disk decanter",
+      "Module 13: Tubular decanter",
+      "Module 14: Screw mud separator"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 14,
+  title: "Effluent Treatment Plant",
+  date: "Present",
+  description:
+  [
+      "An Effluent Treatment Plant (ETP) involves a series of physical, chemical, and biological processes to treat wastewater generated from industrial activities, including manufacturing, chemical processing, food production, and more. The effluent may contain a wide variety of pollutants such as organic compounds, suspended solids, oils, heavy metals, and other harmful substances. The treatment process helps to purify the effluent and make it safe for discharge or reuse.",
+      "This course provides a comprehensive understanding of Effluent Treatment Plants (ETPs), essential for professionals working in industries that deal with wastewater treatment. It covers the fundamental concepts, necessity, design, operational aspects, and mechanisms involved in ETPs. By exploring real-world case studies, participants will gain insights into practical challenges and solutions in wastewater management. The course emphasizes the importance of sustainable practices, compliance with environmental regulations, and advanced treatment technologies to ensure the effective handling of industrial effluents."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "A basic understanding of environmental science and chemistry",
+      "Familiarity with industrial processes that generate wastewater",
+      "Knowledge of water quality parameters and their significance",
+      "Experience in engineering or process operations"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define what an Effluent Treatment Plant is and its role in industrial wastewater management",
+      "Identify industries where ETPs are critical",
+      "Explain the environmental, legal, and operational reasons for setting up ETPs",
+      "Understand the impact of untreated effluents on ecosystems and communities",
+      "Outline the key considerations in designing an ETP",
+      "Understand the importance of site-specific design tailored to the nature of effluents",
+      "Learn about primary, secondary, and tertiary treatment processes",
+      "Understand the working principles of key mechanisms such as aeration and sedimentation",
+      "Gain practical knowledge of operating ETPs efficiently and safely",
+      "Address challenges such as equipment maintenance and unexpected effluent variations",
+      "Understand the functions of key ETP units, including screening, aeration, sedimentation tanks, and sludge thickening units",
+      "Evaluate the benefits of sludge recycling to aeration tanks in enhancing treatment efficiency",
+      "Apply theoretical knowledge to real-world problems through case studies",
+      "Learn from successful ETP implementations and identify common pitfalls to avoid",
+      "Highlight the importance of recycling treated effluents and resource recovery",
+      "Encourage environmentally sustainable practices in industrial operations"
+  ],
+  outline: [
+      "Module 1: ETP (Effluent Treatment Plant)",
+      "Module 2: Need of ETP",
+      "Module 3: Design of ETP",
+      "Module 4: Treatment Levels & Mechanisms of ETP",
+      "Module 5: Case Study 1",
+      "Module 6: ETP Plant Operation",
+      "Module 7: Screening",
+      "Module 8: Aeration",
+      "Module 9: Sedimentation Tank",
+      "Module 10: Sludge Thickening Unit",
+      "Module 11: Advantage of Recycle Sludge to Aeration Tank",
+      "Module 12: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦70,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 15,
+  title: "Pressure Control During Oil Well Drilling",
+  date: "Present",
+  description:
+  [
+      "Pressure control during oil well drilling is crucial to maintaining safety, efficiency, and the integrity of the well. During the drilling process, pressure from the underground formations can sometimes exceed the pressure exerted by the drilling fluid (mud), which can lead to dangerous situations like blowouts, uncontrolled releases of oil or gas, or equipment failure. Proper pressure control is essential to prevent such hazards.",
+      "This course provides an in-depth understanding of pressure control techniques during oil well drilling, focusing on maintaining wellbore stability, preventing blowouts, and ensuring safe drilling operations. Participants will explore sediment pressure, well control equipment, standard and modified well-killing methods, realistic gas behavior, offshore safety considerations, and gas migration through cement. Real-world case studies will reinforce the application of these concepts in oilfield operations."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of drilling operations and well construction",
+      "Understanding of pressure fundamentals and fluid dynamics in oil and gas wells",
+      "Familiarity with well control principles and safety regulations"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Learn about formation pressure, overburden pressure, and hydrostatic pressure",
+      "Recognize the importance of maintaining wellbore stability",
+      "Identify pressure zones and their impact on drilling operations",
+      "Assess risks associated with abnormal pressure formations",
+      "Understand the components of a well control system, including blowout preventers (BOPs)",
+      "Explore how pressure control devices help prevent kicks and blowouts",
+      "Learn about methods such as the driller’s method and the wait-and-weight method",
+      "Understand how to manage kicks safely and restore well control",
+      "Identify situations where adaptations to traditional methods are necessary",
+      "Assess alternative approaches for improving well control efficiency",
+      "Analyze how gas expands and migrates under different pressure and temperature conditions",
+      "Learn to predict and mitigate the risks associated with gas influx",
+      "Identify unique challenges related to offshore well control operations",
+      "Learn about offshore regulations, emergency response, and safety measures",
+      "Understand how gas migration affects casing integrity and well stability",
+      "Explore methods to mitigate gas flow through cemented sections",
+      "Analyze past well control incidents and their causes",
+      "Develop strategies for improving pressure management based on industry experience"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Pressure in the sediments",
+      "Module 3: Well Control Equipment",
+      "Module 4: Standard killing methods",
+      "Module 5: Modification of the standard killing method",
+      "Module 6: More realistic gas behavior",
+      "Module 7: Special offshore safety issues",
+      "Module 8: Gas migration through cement",
+      "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 16,
+  title: "Natural Gas Processing Technology",
+  date: "Present",
+  description:
+  [
+      "Natural Gas Processing refers to the treatment and purification of raw natural gas extracted from underground reserves to remove impurities, separate different hydrocarbons, and produce natural gas that is safe and ready for commercial use. The technology involved in natural gas processing is essential to ensure that the gas meets the quality standards for transportation and end-user consumption.",
+      "This course provides an in-depth understanding of natural gas processing, from its origin and production to advanced treatment and recovery processes. Participants will learn about oil and gas separation, condensate stabilization, gas dehydration, sweetening, sulfur recovery, refrigeration, and LNG/LPG processing. The course integrates real-world case studies to reinforce theoretical knowledge and practical applications."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of petroleum geology and reservoir engineering",
+      "Understanding of fluid mechanics and thermodynamics",
+      "Familiarity with oil and gas production processes"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Explain the origin, accumulation, and extraction of natural gas",
+      "Identify key production methods and industry standards",
+      "Describe phase separation techniques",
+      "Understand the role of separators in gas processing",
+      "Explain the need for stabilizing condensates",
+      "Explore different stabilization techniques",
+      "Discuss the effects of moisture in gas streams",
+      "Compare different dehydration technologies",
+      "Identify common contaminants in natural gas",
+      "Explain sweetening methods such as amine treatment and Claus process for sulfur recovery",
+      "Explain the role of refrigeration in natural gas processing",
+      "Compare different refrigeration technologies",
+      "Understand the processes involved in liquefied petroleum and natural gas production",
+      "Identify key considerations in storage, transportation, and safety",
+      "Analyze real-world gas processing scenarios",
+      "Evaluate solutions for optimizing gas processing operations"
+  ],
+  outline: [
+      "Module 1: Natural gas Origin, Accumulation and production",
+      "Module 2: Oil and Gas Separation",
+      "Module 3: Condensate Stabilization",
+      "Module 4: Gas Dehydration",
+      "Module 5: Sweetening processes and sulfur recovery",
+      "Module 6: Refrigeration",
+      "Module 7: LPG/LNG",
+      "Module 8: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 17,
+  title: "CATALYST",
+  date: "Present",
+  description:
+  [
+      "A catalyst is a substance that increases the rate of a chemical reaction without being consumed or altered in the process. Catalysts provide an alternative reaction pathway with a lower activation energy, making it easier for reactions to occur at a given temperature.",
+      "This course provides an in-depth exploration of catalysts used in various industrial processes, including hydrotreating, desulfurization, reforming, shift conversion, and methanation. Participants will gain an understanding of catalyst properties, thermodynamics, design principles, and operational best practices. The course also covers troubleshooting strategies and case studies, enabling learners to apply theoretical knowledge to real-world challenges in catalytic processes."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of chemical engineering principles, including thermodynamics and reaction kinetics",
+      "Familiarity with industrial processes such as ammonia synthesis and steam reforming",
+      "Understanding of process diagrams and calculations related to heat and material balances"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Learn the basic principles and role of catalysts in refining and petrochemical industries",
+      "Analyze the thermodynamics of inorganic substances in relation to reduction processes",
+      "Identify and understand the functions of hydrotreating, desulfurization, reforming, shift conversion, and methanation catalysts",
+      "Compare different catalyst types and their industrial applications",
+      "Study the properties, chemical compositions, and activity of catalysts such as C20-6, C20-7, C49-1, C7-2, C8-6, C125, C11-2, and others",
+      "Examine the effects of process conditions on catalyst performance",
+      "Understand the design and operational factors affecting catalyst efficiency",
+      "Implement best practices to extend catalyst life and maximize yield",
+      "Identify common catalyst deactivation mechanisms",
+      "Develop troubleshooting strategies for shift conversion, reforming, and methanation processes",
+      "Use case studies to analyze industry challenges and solutions",
+      "Gain practical insights into improving process efficiency and catalyst longevity"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Thermodynamics of Inorganic Substances relating to Reduction",
+      "Module 3: Hydrotreating Catalysts",
+      "Module 4: Desulfurization Catalysts",
+      "Module 5: Primary Reforming Catalysts",
+      "Module 6: Secondary Reforming Catalysts",
+      "Module 7: C12 High Temperature Shift Conversion Catalysts",
+      "Module 8: C18 Low Temperature Shift Conversion Catalysts",
+      "Module 9: Methanation Catalysts",
+      "Module 10: Ammonia Synthesis Catalysts",
+      "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 18,
+  title: "DWSIM - Process Simulation, Modeling and Optimization",
+  date: "Present",
+  description:
+  [
+      "DWSIM is an open-source process simulator designed for the modeling, simulation, and optimization of chemical processes. It is a powerful tool that allows engineers to create flow sheets, simulate chemical processes, perform calculations, and optimize the design of systems.",
+      "This course provides a hands-on introduction to DWSIM, a powerful open-source process simulation software used for modeling, simulation, and optimization in chemical and process engineering. Participants will learn to build and configure process simulations, perform sensitivity analyses, optimize process flowsheets, and model chemical reactions. The course also covers advanced features, including handling hypothetical components, characterizing petroleum fractions, and utilizing component databases. Through interactive case studies, participants will gain practical experience in applying DWSIM to solve real-world engineering challenges."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "8 Days",
+  prerequisite: [
+      "A basic understanding of chemical engineering principles",
+      "Familiarity with process design and flowsheeting concepts",
+      "Knowledge of thermodynamics, heat and mass balance, and chemical reaction engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Understand the DWSIM interface, welcome screen, and configuration options",
+      "Understand the fundamental processes involved in hydrocarbon production",
+      "Set up and customize the user environment for effective process simulation",
+      "Create and execute process simulations using DWSIM",
+      "Model basic and complex process flowsheets with real-world applications",
+      "Perform sensitivity analyses to evaluate the impact of variable changes on system performance",
+      "Apply optimization techniques to improve process efficiency and reduce costs",
+      "Define and simulate chemical reactions within DWSIM",
+      "Evaluate reaction kinetics, equilibrium, and their influence on overall processes",
+      "Characterize petroleum fractions and create hypothetical components for simulations",
+      "Use built-in tools to calculate physical and thermodynamic properties",
+      "Leverage DWSIM's extensive component databases for accurate simulation inputs",
+      "Integrate user-defined components for specialized processes",
+      "Utilize utilities within DWSIM to perform additional calculations such as energy integration",
+      "Apply advanced functionalities for specific industry scenarios",
+      "Analyze real-world scenarios using DWSIM to build, simulate, and optimize process flowsheets"
+  ],
+  outline: [
+      "Module 1: Introduction and Welcome Screen",
+      "Module 2: Simulation",
+      "Module 3: User Interface and Configuration",
+      "Module 4: Process modeling (Flowsheeting)",
+      "Module 5: Sensitivity Analysis",
+      "Module 6: Flowsheet Optimization",
+      "Module 7: Utilities",
+      "Module 8: Chemical Reactions",
+      "Module 9: Hypothetical Components and Characterization of Petroleum Fractions",
+      "Module 10: Component Databases",
+      "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $130",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 19,
+  title: "Firefighting Design",
+  date: "Present",
+  description:
+  [
+      "Firefighting Design refers to the systematic approach and engineering design principles used to implement fire safety systems in various facilities or industrial plants. Proper firefighting design ensures that potential fire hazards are controlled, and in case of a fire emergency, effective systems are in place to suppress or contain the fire, minimize damage, and protect lives and property.",
+      "This course provides a comprehensive understanding of firefighting system design, focusing on NFPA standards applicable to sprinkler systems, fire hydrants, fire pumps, standpipes, foam systems, and smoke control. Participants will gain insights into the principles of fire protection engineering, system layout, flow requirements, and performance criteria essential for designing effective fire suppression and smoke control systems. The course also includes real-world case studies to help learners apply NFPA standards to practical fire safety scenarios."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "5 Days",
+  prerequisite: [
+      "Basic knowledge of fire dynamics and fire suppression principles",
+      "Familiarity with firefighting systems and NFPA codes (preferred but not mandatory)",
+      "Understanding of hydraulics and fluid flow calculations for firefighting applications"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Interpret key NFPA standards related to fire protection system design",
+      "Apply NFPA 13, 14, 20, 11, and 92 to firefighting system layouts and requirements",
+      "Learn layout principles, water demand calculations, and coverage areas for sprinkler systems",
+      "Understand the selection of sprinkler heads, pipe networks, and water supply requirements",
+      "Analyze fire hydrant spacing, flow rates, and pressure requirements for effective firefighting",
+      "Design hydrant networks to ensure compliance with NFPA guidelines",
+      "Understand fire pump selection, pressure requirements, and performance calculations",
+      "Ensure fire pump reliability and compliance with NFPA regulations",
+      "Define types of standpipe systems, pipe sizing, and pressure requirements",
+      "Determine the integration of standpipes with other fire protection systems",
+      "Explore foam system applications, foam concentrate types, and expansion ratios",
+      "Design fire suppression solutions for hazardous and high-risk facilities",
+      "Learn principles of smoke movement, exhaust ventilation, and pressurization techniques",
+      "Ensure compliance with life safety requirements in buildings",
+      "Analyze fire protection system failures and successes through case studies",
+      "Improve decision-making and troubleshooting skills for fire safety engineering"
+  ],
+  outline: [
+      "Module 1: Sprinkler System Design (NFPA 13)",
+      "Module 2: Fire Hydrant Flow Requirements (NFPA 14)",
+      "Module 3: Fire Pump Sizing (NFPA 20)",
+      "Module 4: Standpipe System Design (NFPA 14)",
+      "Module 5: Foam System Design (NFPA 11)",
+      "Module 6: Smoke Control Systems (NFPA 92)",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦250,000 / $200",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 20,
+  title: "Flowmeters",
+  date: "Present",
+  description:
+  [
+      "Flowmeters are devices used to measure the flow rate or quantity of a gas or liquid moving through a pipe or duct. Accurate flow measurement is critical in many industries, such as oil and gas, water treatment, chemical processing, and HVAC systems, as it helps ensure proper system functioning, efficiency, and safety.",
+      "This course provides a comprehensive understanding of flow measurement technologies, focusing on different types of flowmeters and their applications in industrial processes. Participants will learn about volumetric flowmeters, direct force measurement techniques, frequency-based and mass flowmeters, as well as other specialized types. The course will cover selection criteria, industry-specific applications, and troubleshooting common flow measurement challenges. Real-world case studies will offer practical insights into choosing and optimizing flowmeters for various operating conditions."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic knowledge of fluid mechanics and flow measurement principles",
+      "Familiarity with process control and instrumentation systems",
+      "Understanding of units and conversion factors related to flow measurement"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Learn the basic working mechanisms of different types of flowmeters",
+      "Identify the advantages and limitations of each measurement technique",
+      "Study the design and functionality of flowmeters that measure volumetric flow rates",
+      "Understand their use in various industrial and commercial processes",
+      "Learn how force-based flowmeters operate and their role in flow measurement",
+      "Evaluate their accuracy, sensitivity, and industrial relevance",
+      "Understand how frequency-based flowmeters determine flow rates",
+      "Study mass flowmeters, their working principles, and their application",
+      "Review specialized flowmeter designs and their niche applications",
+      "Compare performance characteristics for various industrial settings",
+      "Understand key selection criteria such as fluid properties, accuracy, pressure drop, and installation constraints",
+      "Evaluate common challenges and troubleshooting techniques for flow measurement systems",
+      "Review industry examples of flowmeter selection and implementation",
+      "Identify best practices for optimizing flow measurement accuracy and efficiency"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Volumetric flowmeters",
+      "Module 3: Direct Force",
+      "Module 4: Frequency, Mass flowmeters",
+      "Module 5: Other types",
+      "Module 6: Selection Criteria and Common flow application",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦50,000 / $40",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 21,
+  title: "Drawings and Symbols Principles of Presentation at Project Definition Phase",
+  date: "Present",
+  description:
+  [
+      "The Project Definition Phase in engineering and design projects is the stage where the groundwork for the project is laid out. During this phase, a significant portion of the project's planning, scope, and design is defined, and drawings and symbols play an essential role in communicating technical information. They are used to represent concepts, systems, equipment, and infrastructure in a standardized, clear, and accurate manner.",
+      "This course provides a structured understanding of drawings, symbols, and presentation principles used in the project definition phase of engineering and industrial projects. Participants will gain insights into standards, graphical representations, CAD software applications, and system settings to ensure consistency and clarity in technical documentation. The course also covers equipment visualization, deliverables, and case studies to provide real-world examples of best practices in technical drawing and symbol usage."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic understanding of engineering drawings and drafting techniques",
+      "Familiarity with industry standards for graphical symbols and notations",
+      "Experience with CAD software for technical drawings"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify key standards and guidelines used in the project definition phase",
+      "Apply best practices for maintaining consistency in engineering documentation",
+      "Recognize commonly used symbols across different engineering disciplines",
+      "Ensure compliance with industry and regulatory symbol standards",
+      "Learn how to enhance clarity through effective use of line types, annotations, and scaling",
+      "Apply visualization techniques for better communication of design intent",
+      "Gain an understanding of CAD tools used for project documentation",
+      "Learn essential commands and functions to create professional drawings",
+      "Set up templates, layers, and line styles for standardization",
+      "Understand the importance of file management and version control in CAD systems",
+      "Learn the key components of a complete project drawing package",
+      "Understand the documentation workflow from project initiation to completion",
+      "Learn best practices for depicting mechanical, electrical, and piping equipment in drawings",
+      "Use standard conventions for layout and dimensioning",
+      "Analyze examples of well-executed and poorly executed project drawing",
+      "Learn from past projects to improve accuracy and effectiveness in drawing presentations"
+  ],
+  outline: [
+      "Module 1: Scope and Reference Documents",
+      "Module 2: Definitions",
+      "Module 3: Symbols",
+      "Module 4: Graphics and Visuals",
+      "Module 5: CAD Software",
+      "Module 6: CAD System Settings",
+      "Module 7: Deliverables",
+      "Module 8: Equipment and Other Things",
+      "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦70,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 22,
+  title: "Guidelines for Design Solutions for Process Equipment Failures (Part 1)",
+  date: "Present",
+  description:
+  [
+      "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
+      "This course provides a detailed understanding of the design solutions required to prevent and mitigate process equipment failures. Participants will learn techniques for selecting design bases for process safety systems, along with design considerations for vessels, reactors, mass transfer equipment, and heat transfer equipment. The course also includes real-world case studies to illustrate common failure mechanisms and effective engineering solutions for ensuring safe and reliable operations in industrial settings."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic understanding of process equipment and safety systems",
+      "Familiarity with failure mechanisms in industrial equipment",
+      "Knowledge of thermodynamics, heat transfer, and mass transfer principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify common failure mechanisms such as material fatigue, corrosion, overpressure, and thermal stress",
+      "Assess the impact of failures on process safety and operational efficiency",
+      "Develop appropriate design criteria to prevent equipment failures",
+      "Ensure compliance with industry safety standards and best practices",
+      "Understand the structural and material requirements for pressure vessels",
+      "Evaluate failure risks related to mechanical integrity, overpressure, and thermal expansion",
+      "Assess design improvements to enhance reactor safety and reliability",
+      "Identify potential failure points in reaction systems and develop mitigation strategies",
+      "Analyze common failures in distillation columns, absorbers, and scrubbers",
+      "Implement design modifications to improve efficiency and longevity of mass transfer equipment",
+      "Identify failure causes in heat exchangers, boilers, and condensers",
+      "Apply corrective design measures to enhance heat transfer efficiency and safety",
+      "Review industry case studies to understand failure root causes and corrective actions",
+      "Develop strategies for improving equipment reliability and reducing downtime"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Technique for Selecting the Design Bases for Process Safety Systems",
+      "Module 3: Vessels",
+      "Module 4: Reactors",
+      "Module 5: Mass Transfer Equipment",
+      "Module 6: Heat Transfer Equipment",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦110,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 23,
+  title: "Guidelines for Design Solutions for Process Equipment Failures (Part 2)",
+  date: "Present",
+  description:
+  [
+      "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
+      "This course provides a structured approach to understanding design solutions for process equipment failures, focusing on preventing operational disruptions, ensuring process safety, and optimizing equipment reliability. Participants will explore failure mechanisms, root causes, and design improvements for various types of process equipment, including dryers, fluid transfer equipment, solid-fluid separators, solids handling equipment, fired equipment, and piping systems. Real-world case studies will be analyzed to demonstrate best practices for mitigating failures and improving equipment performance."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic understanding of process equipment and safety systems",
+      "Familiarity with failure mechanisms in industrial equipment",
+      "Knowledge of thermodynamics, heat transfer, and mass transfer principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify causes of failures such as fatigue, corrosion, thermal stress, and material degradation",
+      "Assess the impact of failures on process safety and plant operations",
+      "Apply engineering principles to enhance equipment reliability and performance",
+      "Ensure compliance with industry safety standards and best practices",
+      "Select appropriate materials and design modifications to extend equipment lifespan",
+      "Identify common issues in industrial dryers, including overheating, material buildup, and mechanical wear",
+      "Develop design solutions to improve drying efficiency and reliability",
+      "Understand potential failures in pumps, compressors, and pipelines",
+      "Apply corrective design measures to reduce downtime and enhance operational efficiency",
+      "Identify failure points in filters, centrifuges, and separators",
+      "Improve separation efficiency and prevent operational disruptions",
+      "Address issues related to material flow, mechanical wear, and equipment clogging",
+      "Optimize design for improved material handling and process efficiency",
+      "Identify causes of burner malfunction, heat exchanger tube failures, and thermal stress",
+      "Implement design improvements for safe and efficient fired equipment operation",
+      "Understand common piping failures such as corrosion, vibration, and pressure surges",
+      "Apply best practices for material selection, support design, and stress analysis"
+  ],
+  outline: [
+      "Module 1: Dryers",
+      "Module 2: Fluid Transfer Equipment",
+      "Module 3: Solid-Fluid Separators",
+      "Module 4: Solids Handling and Processing Equipment",
+      "Module 5: Fired Equipment",
+      "Module 6: Piping and Piping Components",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 24,
+  title: "INSTRUMENTATION EQUIPMENT",
+  date: "Present",
+  description:
+  [
+      "Instrumentation equipment refers to tools, devices, and systems used to measure, control, and monitor various variables in industrial, laboratory, or commercial processes. These instruments are essential for ensuring that processes run smoothly, efficiently, and safely. Instrumentation equipment is critical in a wide range of applications, from manufacturing to research, to ensure that systems are functioning within their required parameters.",
+      "This course provides a comprehensive introduction to industrial instrumentation equipment, covering essential measurement devices and control components used in process industries. Participants will learn about key instrumentation principles, the role of ISA symbols in process diagrams, and the operation of pressure, level, flow, and temperature instruments. The course also explores control valves and accessories, with practical case studies to enhance understanding."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of physics and engineering principles",
+      "Familiarity with industrial processes and control systems",
+      "Understanding of measurement concepts"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Explain the role of instrumentation in process control and automation",
+      "Identify different types of instrumentation equipment and their applications",
+      "Understand the significance of ISA symbols in piping and instrumentation diagrams (P&IDs)",
+      "Use symbols to interpret instrumentation schematics",
+      "Pressure instrumentation: working principles, types, and applications",
+      "Level instrumentation: measurement techniques and selection criteria",
+      "Flow instrumentation: types of flowmeters and selection guidelines",
+      "Temperature instrumentation: thermocouples, RTDs, and other devices",
+      "Describe different types of control valves and their applications",
+      "Explain the function of valve actuators, positioners, and accessories in process control",
+      "Analyze practical instrumentation challenges and solutions",
+      "Evaluate instrumentation failures and improvement strategies"
+  ],
+  outline: [
+      "Module 1: Introduction to Instrumentation Equipment",
+      "Module 2: ISA Symbols",
+      "Module 3: Pressure Instrumentation",
+      "Module 4: Level Instrumentation",
+      "Module 5: Flow Instrumentation",
+      "Module 6: Temperature Instrumentation",
+      "Module 7: Control Valves and Accessories",
+      "Module 8: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 25,
+  title: "LIQUID PIPELINE HYDRAULICS",
+  date: "Present",
+  description:
+  [
+      "Liquid Pipeline Hydraulics refers to the study of the flow and pressure dynamics of liquids within pipelines. It involves understanding how liquids behave under different conditions, and applying principles from fluid mechanics to design, operate, and maintain pipelines effectively. Liquid pipeline hydraulics is crucial in industries such as oil and gas, water supply, chemical transport, and any system that relies on the transportation of liquids through pipes.",
+      "Liquid Pipeline Hydraulics is a fundamental course designed to provide an in-depth understanding of the principles governing the flow of liquids through pipelines. This course covers key hydraulic concepts, including liquid properties, pressure loss due to friction, pump station design, and thermal hydraulics. Participants will learn to analyze pipeline performance, optimize flow efficiency, and evaluate economic considerations for pipeline operations. Real-world case studies will illustrate the practical applications of hydraulic principles in liquid transportation systems."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of fluid mechanics and hydraulics",
+      "Familiarity with pipeline systems and equipment",
+      "Understanding of pressure and flow measurement principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define key properties of liquids and their impact on pipeline performance",
+      "Explain pressure drop due to friction and other hydraulic losses",
+      "Perform pipe flow analysis and evaluate pressure and horsepower needs",
+      "Assess multi-pump station operations for optimal performance",
+      "Conduct pump analysis and understand selection criteria",
+      "Design efficient pump stations for liquid transportation systems",
+      "Understand the effects of temperature on pipeline flow",
+      "Utilize appropriate flow measurement methods for pipeline monitoring",
+      "Analyze transient flow conditions and their impact on pipeline integrity",
+      "Evaluate cost considerations in pipeline design and operation",
+      "Study successful applications of liquid pipeline hydraulics",
+      "Apply best practices to improve pipeline efficiency and reliability"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Properties of Liquids",
+      "Module 3: Pressure Drop due to Friction",
+      "Module 4: Pipe Analysis",
+      "Module 5: Pressure and Horsepower Required",
+      "Module 6: Multi-Pump Station Pipelines",
+      "Module 7: Pump Analysis",
+      "Module 8: Pump Station Design",
+      "Module 9: Thermal Hydraulics",
+      "Module 10: Flow Measurement",
+      "Module 11: Unsteady Flow in Pipeline",
+      "Module 12: Pipeline Economics",
+      "Module 13: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 26,
+  title: "TEMPERATURE INSTRUMENT",
+  date: "Present",
+  description:
+  [
+      "A temperature instrument is a device used to measure the temperature of a substance or environment. There are several types of temperature instruments, each suited to different applications.",
+      "This course provides a structured understanding of temperature instruments, their design considerations, and applications in industrial projects during the project definition phase. Participants will explore various types of temperature measurement instruments, thermowell design, wake frequency effects, thermistors, and bimetallic thermometers. The course also covers temperature measurement units and real-world case studies to reinforce learning and practical applications."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "process",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "1 Day",
+  prerequisite: [
+      "Basic understanding of temperature measurement principles",
+      "Familiarity with industrial instrumentation and process control",
+      "Knowledge of material selection and sensor applications"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Learn about thermocouples, resistance temperature detectors (RTDs), thermistors, and bimetallic thermometers",
+      "Identify suitable temperature instruments for specific applications",
+      "Understand temperature scales such as Celsius, Fahrenheit, Kelvin, and Rankine",
+      "Convert between different temperature units for industrial applications",
+      "Explore the role of thermowells in protecting temperature sensors",
+      "Analyze factors affecting thermowell material selection and mechanical strength",
+      "Learn about fluid-induced vibration and its impact on thermowell integrity",
+      "Apply best practices to avoid thermowell failures due to resonance",
+      "Understand the temperature-dependent resistance characteristics of thermistors",
+      "Explore applications in precision temperature measurement and control systems",
+      "Learn how bimetallic strips respond to temperature variations",
+      "Evaluate advantages and limitations of bimetallic thermometers in different environments",
+      "Review industry applications of temperature instruments and thermowell failures",
+      "Identify common challenges and solutions in temperature measurement projects"
+  ],
+  outline: [
+      "Module 1: Types of Temperature Instrument",
+      "Module 2: Various Units of Temperature Measurement",
+      "Module 3: Thermowell Design & Material",
+      "Module 4: Wake Frequency",
+      "Module 5: Thermistors",
+      "Module 6: Bimetallic Thermometers",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 27,
+  title: "LPG SAFETY",
+  date: "Present",
+  description:
+  [
+      "LPG (Liquefied Petroleum Gas) Safety is a crucial consideration in the use, storage, transportation, and handling of LPG due to its flammable and potentially hazardous nature. LPG is commonly used for heating, cooking, and as fuel in both residential and industrial applications. Given its flammable properties, any leakage or mishandling can pose serious risks, including fires, explosions, and health hazards.",
+      "LPG is widely used in various industries and households, making safety a critical aspect of its handling, transportation, and usage. This course provides a comprehensive understanding of LPG safety measures, regulatory requirements, and risk management strategies. Participants will explore best practices in bulk storage, transportation, cylinder handling, and consumer installations. The course also covers emergency response planning and real-world case studies to enhance practical knowledge."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "hazop hazid",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic knowledge of LPG properties and uses",
+      "Familiarity with industrial safety protocols",
+      "Understanding of regulatory compliance requirements"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify key responsibilities in LPG safety management",
+      "Apply national and international LPG safety regulations",
+      "Analyze safety hazards in trans-shipment terminals and inland transportation",
+      "Implement best practices in bulk storage and handling",
+      "Establish proper handling techniques for LPG cylinders",
+      "Understand safety measures for bulk distribution and consumer installations",
+      "Identify safety management techniques for LPG operations",
+      "Implement safety monitoring and control measures",
+      "Develop effective emergency response plans",
+      "Apply real-world case study insights to improve safety practices"
+  ],
+  outline: [
+      "Module 1: Key Responsibilities",
+      "Module 2: Regulatory Framework",
+      "Module 3: LPG Safety",
+      "Module 4: LPG Distribution Chain",
+      "Module 5: Trans-Shipment Terminal",
+      "Module 6: Inland Transportation",
+      "Module 7: Bulk Storage and Handling",
+      "Module 8: Cylinder Filling and Handling",
+      "Module 9: Distribution in Bulk",
+      "Module 10: Consumer Installation and Usage",
+      "Module 11: Managing Safety",
+      "Module 12: Emergency Planning and Response",
+      "Module 13: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 28,
+  title: "MECHANICAL ENGINEERING",
+  date: "Present",
+  description:
+  [
+      "Mechanical Engineering is one of the broadest and oldest branches of engineering that involves the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles of physics, mathematics, material science, thermodynamics, fluid mechanics, and control theory to create or improve machines, devices, and systems.",
+      "Mechanical engineering is a broad discipline that applies principles of physics, material science, and mathematics to design, analyze, manufacture, and maintain mechanical systems. This course provides an in-depth understanding of core mechanical engineering concepts, including thermodynamics, fluid mechanics, heat transfer, and machine design. Participants will also explore material science, manufacturing processes, and electromechanical devices, with practical applications in real-world case studies."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "4 Days",
+  prerequisite: [
+      "Basic knowledge of physics and mathematics",
+      "Understanding of fundamental engineering principles",
+      "Familiarity with mechanical systems and components"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Explain key concepts in thermodynamics, fluid mechanics, and heat transfer",
+      "Apply mechanical engineering principles in system design and analysis",
+      "Evaluate material properties and their impact on mechanical design",
+      "Understand the role of heat exchangers, pumps, and electromechanical devices in various applications",
+      "Explore different manufacturing processes and material selection techniques",
+      "Assess mechanical failures and improve design for durability and efficiency",
+      "Implement mechanical engineering concepts in practical applications",
+      "Analyze case studies to understand challenges and solutions in mechanical engineering"
+  ],
+  outline: [
+      "Module 1: Thermodynamics",
+      "Module 2: Fluid Mechanics",
+      "Module 3: Pumping Machinery",
+      "Module 4: Heat Transfer",
+      "Module 5: Heat Exchangers",
+      "Module 6: Material Science",
+      "Module 7: Manufacturing Processes",
+      "Module 8: Machine Design",
+      "Module 9: Electromechanical Devices",
+      "Module 10: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 29,
+  title: "Dye Penetrant Testing (DPT) Acceptance Criteria",
+  date: "Present",
+  description:
+  [
+      "Dye Penetrant Testing (DPT), also known as Liquid Penetrant Testing (LPT), is a widely used non-destructive testing (NDT) method to detect surface-breaking flaws in non-porous materials. Acceptance criteria for DPT are based on the evaluation of defects and their compliance with applicable standards or codes, depending on the type of material, application, and industry requirements.",
+      "This course provides an in-depth understanding of Dye Penetrant Testing (DPT) Acceptance Criteria and its application across various industry standards. Participants will learn to interpret and apply acceptance criteria for surface-breaking defects in metallic materials, welds, castings, and critical components. The course covers prominent industry standards and codes, focusing on their role in ensuring safety, compliance, and quality in diverse engineering sectors, including pressure vessels, storage tanks, piping systems, structural welding, and shipbuilding. Practical case studies will enhance the participants' ability to apply theoretical knowledge to real-world scenarios."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of non-destructive testing (NDT) methods, especially Dye Penetrant Testing",
+      "Familiarity with material properties, welding processes, and manufacturing techniques",
+      "An understanding of common industrial applications (e.g., pressure vessels, piping, tanks)",
+      "Knowledge of engineering drawings and technical documentation"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Understand the principles and processes of Dye Penetrant Testing (DPT)",
+      "Explain the role of DPT in quality control, defect detection, and safety assurance",
+      "Interpret and apply DPT acceptance criteria as per global standards such as: ASME, API, AWS, ISO, EN, and IACS standards",
+      "Differentiate between various codes and standards for specific applications (e.g., pressure vessels, storage tanks, piping systems)",
+      "Evaluate defects in components such as welds, castings, pipelines, and structures based on their intended application and standard requirements",
+      "Recognize industry-specific challenges, including those in shipbuilding, power generation, and bridge construction",
+      "Prepare accurate inspection reports detailing DPT findings and ensuring compliance with acceptance criteria",
+      "Understand the importance of traceability and quality assurance in engineering projects",
+      "Analyze real-world case studies to learn best practices, avoid common pitfalls, and implement effective inspection processes",
+      "Enhance decision-making skills for defect evaluation and disposition, including repair and re-inspection"
+  ],
+  outline: [
+      "Module 1: ASME BPVC for Pressure Vessel",
+      "Module 2: API 650 for Oil Storage Tanks",
+      "Module 3: API 620 for Low Pressure Storage Tanks",
+      "Module 4: ASME B 31.3 for Process Piping",
+      "Module 5: ASME B 31.1 for Power Piping",
+      "Module 6: AWS D 1.1 for Steel Structural Welding Inspection",
+      "Module 7: API 1104 for Welding of Pipelines and Related Facilities",
+      "Module 8: American Bureau of Shipping (ABS) for Hull Inspection",
+      "Module 9: ISO 23277 Metallic Materials Weld Inspection",
+      "Module 10: ISO 17635",
+      "Module 11: IACS for Shipbuilding Inspection",
+      "Module 12: AWS D1.5 for Bridge Welding Inspection",
+      "Module 13: BS EN ISO 10228-2 for Steel Casting Inspection",
+      "Module 14: EN 10228-2 for Steel Casting Inspection",
+      "Module 15: ISO 4987 for Steel Casting Inspection",
+      "Module 16: GE Standard for GE Turbine and GE Accessories Inspection",
+      "Module 17: Acceptance Criteria at Fluorescent Dye Penetrant Testing",
+      "Module 18: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 30,
+  title: "Motors and Generators",
+  date: "Present",
+  description:
+  [
+      "Motors and generators are both machines used to convert energy, but they work on opposite principles. Motors convert electrical energy into mechanical energy, while generators convert mechanical energy into electrical energy.",
+      "Motors work based on electromagnetic induction. When current flows through a conductor (usually a coil), it creates a magnetic field. This magnetic field interacts with the magnetic field of a permanent magnet (or another electromagnet) to produce a mechanical force that turns the motor's shaft. A generator is a device that converts mechanical energy into electrical energy. It works on the principle of electromagnetic induction, where mechanical motion induces a current in a conductor moving through a magnetic field.",
+      "This course provides a comprehensive understanding of electric machines, focusing on the principles, operation, and maintenance of motors and generators. Participants will learn about the generation of electric current, synchronous and asynchronous machines, alternator connections, protection mechanisms, and motor operations. The course will also cover generator synchronization, motor applications, and troubleshooting techniques, reinforced through real-world case studies."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic understanding of electricity and magnetism",
+      "Familiarity with electrical circuits and components",
+      "Knowledge of power systems"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define key concepts related to motors and generators",
+      "Explain the generation and transformation of electrical energy",
+      "Understand alternator construction, connections, and protections",
+      "Analyze alternator operation, control mechanisms, and maintenance practices",
+      "Understand the importance of synchronizing generators in a power system",
+      "Learn techniques for safe and effective generator paralleling",
+      "Compare synchronous and asynchronous motors",
+      "Examine the characteristics and uses of three-phase and other motor types",
+      "Explore the working principles of asynchronous motors",
+      "Learn about motor performance, efficiency, and load handling",
+      "Recognize common faults in motors and generators",
+      "Develop preventive maintenance strategies for reliable operation",
+      "Analyze real-world scenarios of motor and generator applications",
+      "Evaluate best practices for troubleshooting and optimization"
+  ],
+  outline: [
+      "Module 1: Objectives",
+      "Module 2: Introduction to Electric Machines",
+      "Module 3: Generation of Electric Current",
+      "Module 4: Synchronous Machines – Alternators",
+      "Module 5: Alternator Connections and Protections",
+      "Module 6: Alternator Operation and Control",
+      "Module 7: Generator Paralleling and Synchronizing",
+      "Module 8: Alternator Maintenance",
+      "Module 9: Synchronous Motors",
+      "Module 10: Three-phase Asynchronous Motor",
+      "Module 11: Other Types of Motors",
+      "Module 12: Operation of Asynchronous Motors",
+      "Module 13: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 31,
+  title: "Steam Boilers",
+  date: "Present",
+  description:
+  [
+      "A steam boiler is a device used to generate steam by applying heat energy to water. Boilers are essential components in many industrial processes, power plants, and heating systems. The basic principle behind a steam boiler is converting water into steam through the application of heat from a fuel source, which then can be used for various purposes, such as power generation, heating, or driving engines.",
+      "This course provides an in-depth understanding of steam boiler systems, their applications, types, common operational challenges, and best practices for boiler water treatment. Participants will gain insights into optimizing boiler performance, preventing failures, and ensuring safe and efficient operations. Case studies will provide real-world examples to reinforce learning."
+  ],
+  image: require("./coursesImg/guidelines for auditing.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "1 Day",
+  prerequisite: [
+      "Basic knowledge of thermodynamics and heat transfer",
+      "Understanding of industrial processes that require steam",
+      "Familiarity with fluid mechanics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify key applications of steam in industries such as power generation, refining, and manufacturing",
+      "Explain the role of steam in heating, sterilization, and mechanical work",
+      "Describe the working principles of fire-tube and water-tube boilers",
+      "Understand the advantages and limitations of different boiler types",
+      "Recognize common operational issues such as scaling, corrosion, and carryover",
+      "Analyze the impact of poor water quality on boiler efficiency and lifespan",
+      "Explain the importance of water treatment in preventing scaling and corrosion",
+      "Explore chemical and mechanical treatment methods for maintaining boiler efficiency",
+      "Review real-world boiler system failures and their causes",
+      "Evaluate best practices for boiler maintenance and optimization"
+  ],
+  outline: [
+      "Module 1: Uses for Steam",
+      "Module 2: Types of Steam Boilers",
+      "Module 3: Problem Areas",
+      "Module 4: Principles of Boiler Water Treatment",
+      "Module 5: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦90,000 / $70",
+  certification: "Certificate of Completion"
+}
+
 ];
 
 
