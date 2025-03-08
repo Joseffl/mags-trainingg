@@ -10295,7 +10295,7 @@ export const projects = [
 
   {
     id: 10,
-    title: "GTEMA-STYLE SHELL-AND-TUBE HEAT EXCHANGERS ",
+    title: "TEMA-STYLE SHELL-AND-TUBE HEAT EXCHANGERS ",
     date: "Oct 2022 - Present",
     description:
     [
@@ -10307,7 +10307,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/guidelines for auditing.jpg"),
+      require("./coursesImg/tema.jpg"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -10414,7 +10414,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/guidelines for auditing.jpg"),
+      require("./coursesImg/Project Schedule.jpg"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -10523,7 +10523,7 @@ export const projects = [
         "A Quality Assurance (QA) / Quality Control (QC) Plan is a comprehensive framework used to ensure that products or services meet defined quality standards and requirements throughout the production or service delivery process. QA focuses on preventing defects by improving processes, systematizing operations, and ensuring consistency in performance. QC involves detecting defects and inconsistencies by inspecting and testing the final product or service to ensure it meets the specified requirements.",
         "This course provides a comprehensive understanding of QA and QC principles, focusing on the development, implementation, and maintenance of a QA/QC plan. Participants will learn about quality management systems, documentation processes, inspection protocols, and reporting procedures. Real-world case studies will be used to illustrate best practices and common challenges in quality management across various industries."
     ],
-    image: require("./coursesImg/guidelines for auditing.jpg"),
+    image: require("./coursesImg/Quality assurance.jpg"),
     tags: [
         'Trainer: Engr. Majid',
     ],
@@ -10592,7 +10592,7 @@ export const projects = [
       "Lean Project Management is a project management methodology derived from Lean Manufacturing principles, focusing on maximizing value while minimizing waste. The goal is to deliver projects more efficiently by optimizing processes, reducing non-value-adding activities, and ensuring that resources are used effectively. Lean principles are often associated with continuous improvement and creating value for the customer.",
       "This course provides a comprehensive understanding of Lean Project Management principles, tools, and techniques that enhance efficiency and streamline processes. Participants will explore how Lean practices are applied across industries, from manufacturing to IT and construction, and gain insights into measuring project success. Real-world case studies will be examined to demonstrate successful Lean implementations."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/lean.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -10649,9 +10649,9 @@ export const projects = [
       "Liquid–Gas and Solid–Gas Separators are devices used in various industrial processes to separate different phases of matter (liquids or solids) from a gas stream. These separators are essential in a wide range of applications, including air pollution control, chemical processing, oil and gas production, and HVAC systems.",
       "This course provides a comprehensive understanding of various techniques and equipment used in separating liquid, gas, and solid phases from one another in industrial applications. Participants will explore different separation methods, including magnetic field separation, electrofilters, gas separators, flash drums, venturis, cyclones, and decanters. By examining the operational principles, applications, and performance characteristics of these separators, learners will gain the expertise needed to select, design, and optimize separation processes in different industries such as chemical engineering, environmental engineering, and manufacturing."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/liquid gas.jpg"),
   tags: [
-      'Trainer: Engr. Majid',
+      'Trainer: Engr. Adeyemi',
   ],
   category: "Petroleum",
   github: "https://github.com/Joseffl/react-todo-app",
@@ -10709,9 +10709,9 @@ export const projects = [
       "An Effluent Treatment Plant (ETP) involves a series of physical, chemical, and biological processes to treat wastewater generated from industrial activities, including manufacturing, chemical processing, food production, and more. The effluent may contain a wide variety of pollutants such as organic compounds, suspended solids, oils, heavy metals, and other harmful substances. The treatment process helps to purify the effluent and make it safe for discharge or reuse.",
       "This course provides a comprehensive understanding of Effluent Treatment Plants (ETPs), essential for professionals working in industries that deal with wastewater treatment. It covers the fundamental concepts, necessity, design, operational aspects, and mechanisms involved in ETPs. By exploring real-world case studies, participants will gain insights into practical challenges and solutions in wastewater management. The course emphasizes the importance of sustainable practices, compliance with environmental regulations, and advanced treatment technologies to ensure the effective handling of industrial effluents."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/effluent treatment.jpg"),
   tags: [
-      'Trainer: Engr. Majid',
+      'Trainer: Engr. Adeyemi',
   ],
   category: "Petroleum",
   github: "https://github.com/Joseffl/react-todo-app",
@@ -10763,7 +10763,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦70,000 / $50",
+  cost: "₦80,000 / $70",
   certification: "Certificate of Completion"
 },
 
@@ -10776,7 +10776,7 @@ export const projects = [
       "Pressure control during oil well drilling is crucial to maintaining safety, efficiency, and the integrity of the well. During the drilling process, pressure from the underground formations can sometimes exceed the pressure exerted by the drilling fluid (mud), which can lead to dangerous situations like blowouts, uncontrolled releases of oil or gas, or equipment failure. Proper pressure control is essential to prevent such hazards.",
       "This course provides an in-depth understanding of pressure control techniques during oil well drilling, focusing on maintaining wellbore stability, preventing blowouts, and ensuring safe drilling operations. Participants will explore sediment pressure, well control equipment, standard and modified well-killing methods, realistic gas behavior, offshore safety considerations, and gas migration through cement. Real-world case studies will reinforce the application of these concepts in oilfield operations."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/pressure control oil.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -10841,7 +10841,7 @@ export const projects = [
       "Natural Gas Processing refers to the treatment and purification of raw natural gas extracted from underground reserves to remove impurities, separate different hydrocarbons, and produce natural gas that is safe and ready for commercial use. The technology involved in natural gas processing is essential to ensure that the gas meets the quality standards for transportation and end-user consumption.",
       "This course provides an in-depth understanding of natural gas processing, from its origin and production to advanced treatment and recovery processes. Participants will learn about oil and gas separation, condensate stabilization, gas dehydration, sweetening, sulfur recovery, refrigeration, and LNG/LPG processing. The course integrates real-world case studies to reinforce theoretical knowledge and practical applications."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Natural Gas.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -10896,14 +10896,14 @@ export const projects = [
 
 {
   id: 17,
-  title: "CATALYST",
+  title: "CATALYST AND CHEMICALS",
   date: "Present",
   description:
   [
       "A catalyst is a substance that increases the rate of a chemical reaction without being consumed or altered in the process. Catalysts provide an alternative reaction pathway with a lower activation energy, making it easier for reactions to occur at a given temperature.",
       "This course provides an in-depth exploration of catalysts used in various industrial processes, including hydrotreating, desulfurization, reforming, shift conversion, and methanation. Participants will gain an understanding of catalyst properties, thermodynamics, design principles, and operational best practices. The course also covers troubleshooting strategies and case studies, enabling learners to apply theoretical knowledge to real-world challenges in catalytic processes."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/CATALYST.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -10964,9 +10964,9 @@ export const projects = [
       "DWSIM is an open-source process simulator designed for the modeling, simulation, and optimization of chemical processes. It is a powerful tool that allows engineers to create flow sheets, simulate chemical processes, perform calculations, and optimize the design of systems.",
       "This course provides a hands-on introduction to DWSIM, a powerful open-source process simulation software used for modeling, simulation, and optimization in chemical and process engineering. Participants will learn to build and configure process simulations, perform sensitivity analyses, optimize process flowsheets, and model chemical reactions. The course also covers advanced features, including handling hypothetical components, characterizing petroleum fractions, and utilizing component databases. Through interactive case studies, participants will gain practical experience in applying DWSIM to solve real-world engineering challenges."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/DWSIM.jpg"),
   tags: [
-      'Trainer: Engr. Majid',
+      'Trainer: Engr. Adeyemi',
   ],
   category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
@@ -11016,7 +11016,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦150,000 / $130",
+  cost: "₦180,000 / $150",
   certification: "Certificate of Completion"
 },
 
@@ -11029,7 +11029,7 @@ export const projects = [
       "Firefighting Design refers to the systematic approach and engineering design principles used to implement fire safety systems in various facilities or industrial plants. Proper firefighting design ensures that potential fire hazards are controlled, and in case of a fire emergency, effective systems are in place to suppress or contain the fire, minimize damage, and protect lives and property.",
       "This course provides a comprehensive understanding of firefighting system design, focusing on NFPA standards applicable to sprinkler systems, fire hydrants, fire pumps, standpipes, foam systems, and smoke control. Participants will gain insights into the principles of fire protection engineering, system layout, flow requirements, and performance criteria essential for designing effective fire suppression and smoke control systems. The course also includes real-world case studies to help learners apply NFPA standards to practical fire safety scenarios."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Firefighting.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11090,7 +11090,7 @@ export const projects = [
       "Flowmeters are devices used to measure the flow rate or quantity of a gas or liquid moving through a pipe or duct. Accurate flow measurement is critical in many industries, such as oil and gas, water treatment, chemical processing, and HVAC systems, as it helps ensure proper system functioning, efficiency, and safety.",
       "This course provides a comprehensive understanding of flow measurement technologies, focusing on different types of flowmeters and their applications in industrial processes. Participants will learn about volumetric flowmeters, direct force measurement techniques, frequency-based and mass flowmeters, as well as other specialized types. The course will cover selection criteria, industry-specific applications, and troubleshooting common flow measurement challenges. Real-world case studies will offer practical insights into choosing and optimizing flowmeters for various operating conditions."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Flowmeters.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11136,7 +11136,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦50,000 / $40",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 },
 
@@ -11149,7 +11149,7 @@ export const projects = [
       "The Project Definition Phase in engineering and design projects is the stage where the groundwork for the project is laid out. During this phase, a significant portion of the project's planning, scope, and design is defined, and drawings and symbols play an essential role in communicating technical information. They are used to represent concepts, systems, equipment, and infrastructure in a standardized, clear, and accurate manner.",
       "This course provides a structured understanding of drawings, symbols, and presentation principles used in the project definition phase of engineering and industrial projects. Participants will gain insights into standards, graphical representations, CAD software applications, and system settings to ensure consistency and clarity in technical documentation. The course also covers equipment visualization, deliverables, and case studies to provide real-world examples of best practices in technical drawing and symbol usage."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Drawings and symbols.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11212,7 +11212,7 @@ export const projects = [
       "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
       "This course provides a detailed understanding of the design solutions required to prevent and mitigate process equipment failures. Participants will learn techniques for selecting design bases for process safety systems, along with design considerations for vessels, reactors, mass transfer equipment, and heat transfer equipment. The course also includes real-world case studies to illustrate common failure mechanisms and effective engineering solutions for ensuring safe and reliable operations in industrial settings."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/guidelines 1.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11271,7 +11271,7 @@ export const projects = [
       "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
       "This course provides a structured approach to understanding design solutions for process equipment failures, focusing on preventing operational disruptions, ensuring process safety, and optimizing equipment reliability. Participants will explore failure mechanisms, root causes, and design improvements for various types of process equipment, including dryers, fluid transfer equipment, solid-fluid separators, solids handling equipment, fired equipment, and piping systems. Real-world case studies will be analyzed to demonstrate best practices for mitigating failures and improving equipment performance."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/guidelines 2.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11333,7 +11333,7 @@ export const projects = [
       "Instrumentation equipment refers to tools, devices, and systems used to measure, control, and monitor various variables in industrial, laboratory, or commercial processes. These instruments are essential for ensuring that processes run smoothly, efficiently, and safely. Instrumentation equipment is critical in a wide range of applications, from manufacturing to research, to ensure that systems are functioning within their required parameters.",
       "This course provides a comprehensive introduction to industrial instrumentation equipment, covering essential measurement devices and control components used in process industries. Participants will learn about key instrumentation principles, the role of ISA symbols in process diagrams, and the operation of pressure, level, flow, and temperature instruments. The course also explores control valves and accessories, with practical case studies to enhance understanding."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Instrumentation Equipment.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11391,7 +11391,7 @@ export const projects = [
       "Liquid Pipeline Hydraulics refers to the study of the flow and pressure dynamics of liquids within pipelines. It involves understanding how liquids behave under different conditions, and applying principles from fluid mechanics to design, operate, and maintain pipelines effectively. Liquid pipeline hydraulics is crucial in industries such as oil and gas, water supply, chemical transport, and any system that relies on the transportation of liquids through pipes.",
       "Liquid Pipeline Hydraulics is a fundamental course designed to provide an in-depth understanding of the principles governing the flow of liquids through pipelines. This course covers key hydraulic concepts, including liquid properties, pressure loss due to friction, pump station design, and thermal hydraulics. Participants will learn to analyze pipeline performance, optimize flow efficiency, and evaluate economic considerations for pipeline operations. Real-world case studies will illustrate the practical applications of hydraulic principles in liquid transportation systems."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Liquid Pipeline Hydraulics.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11441,7 +11441,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦120,000 / $100",
+  cost: "₦200,000 / $170",
   certification: "Certificate of Completion"
 },
 
@@ -11454,7 +11454,7 @@ export const projects = [
       "A temperature instrument is a device used to measure the temperature of a substance or environment. There are several types of temperature instruments, each suited to different applications.",
       "This course provides a structured understanding of temperature instruments, their design considerations, and applications in industrial projects during the project definition phase. Participants will explore various types of temperature measurement instruments, thermowell design, wake frequency effects, thermistors, and bimetallic thermometers. The course also covers temperature measurement units and real-world case studies to reinforce learning and practical applications."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Temperature Measurement.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11500,7 +11500,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦100,000 / $90",
+  cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
 },
 
@@ -11513,9 +11513,9 @@ export const projects = [
       "LPG (Liquefied Petroleum Gas) Safety is a crucial consideration in the use, storage, transportation, and handling of LPG due to its flammable and potentially hazardous nature. LPG is commonly used for heating, cooking, and as fuel in both residential and industrial applications. Given its flammable properties, any leakage or mishandling can pose serious risks, including fires, explosions, and health hazards.",
       "LPG is widely used in various industries and households, making safety a critical aspect of its handling, transportation, and usage. This course provides a comprehensive understanding of LPG safety measures, regulatory requirements, and risk management strategies. Participants will explore best practices in bulk storage, transportation, cylinder handling, and consumer installations. The course also covers emergency response planning and real-world case studies to enhance practical knowledge."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/LPG Safety.jpg"),
   tags: [
-      'Trainer: Engr. Majid',
+      'Trainer: Engr. Adeyemi',
   ],
   category: "hazop hazid",
   github: "https://github.com/Joseffl/react-todo-app",
@@ -11561,7 +11561,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦100,000 / $90",
+  cost: "₦250,000 / $220",
   certification: "Certificate of Completion"
 },
 
@@ -11574,7 +11574,7 @@ export const projects = [
       "Mechanical Engineering is one of the broadest and oldest branches of engineering that involves the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles of physics, mathematics, material science, thermodynamics, fluid mechanics, and control theory to create or improve machines, devices, and systems.",
       "Mechanical engineering is a broad discipline that applies principles of physics, material science, and mathematics to design, analyze, manufacture, and maintain mechanical systems. This course provides an in-depth understanding of core mechanical engineering concepts, including thermodynamics, fluid mechanics, heat transfer, and machine design. Participants will also explore material science, manufacturing processes, and electromechanical devices, with practical applications in real-world case studies."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Mechanical Engineering.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11617,7 +11617,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦150,000 / $120",
+  cost: "₦250,000 / $220",
   certification: "Certificate of Completion"
 },
 
@@ -11630,7 +11630,7 @@ export const projects = [
       "Dye Penetrant Testing (DPT), also known as Liquid Penetrant Testing (LPT), is a widely used non-destructive testing (NDT) method to detect surface-breaking flaws in non-porous materials. Acceptance criteria for DPT are based on the evaluation of defects and their compliance with applicable standards or codes, depending on the type of material, application, and industry requirements.",
       "This course provides an in-depth understanding of Dye Penetrant Testing (DPT) Acceptance Criteria and its application across various industry standards. Participants will learn to interpret and apply acceptance criteria for surface-breaking defects in metallic materials, welds, castings, and critical components. The course covers prominent industry standards and codes, focusing on their role in ensuring safety, compliance, and quality in diverse engineering sectors, including pressure vessels, storage tanks, piping systems, structural welding, and shipbuilding. Practical case studies will enhance the participants' ability to apply theoretical knowledge to real-world scenarios."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Dye Penetrant.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11684,7 +11684,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦150,000 / $120",
+  cost: "₦250,000 / $220",
   certification: "Certificate of Completion"
 },
 
@@ -11698,7 +11698,7 @@ export const projects = [
       "Motors work based on electromagnetic induction. When current flows through a conductor (usually a coil), it creates a magnetic field. This magnetic field interacts with the magnetic field of a permanent magnet (or another electromagnet) to produce a mechanical force that turns the motor's shaft. A generator is a device that converts mechanical energy into electrical energy. It works on the principle of electromagnetic induction, where mechanical motion induces a current in a conductor moving through a magnetic field.",
       "This course provides a comprehensive understanding of electric machines, focusing on the principles, operation, and maintenance of motors and generators. Participants will learn about the generation of electric current, synchronous and asynchronous machines, alternator connections, protection mechanisms, and motor operations. The course will also cover generator synchronization, motor applications, and troubleshooting techniques, reinforced through real-world case studies."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Motors and Generators.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -11750,7 +11750,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
   ],
-  cost: "₦120,000 / $100",
+  cost: "₦300,000 / $250",
   certification: "Certificate of Completion"
 },
 
@@ -11763,7 +11763,7 @@ export const projects = [
       "A steam boiler is a device used to generate steam by applying heat energy to water. Boilers are essential components in many industrial processes, power plants, and heating systems. The basic principle behind a steam boiler is converting water into steam through the application of heat from a fuel source, which then can be used for various purposes, such as power generation, heating, or driving engines.",
       "This course provides an in-depth understanding of steam boiler systems, their applications, types, common operational challenges, and best practices for boiler water treatment. Participants will gain insights into optimizing boiler performance, preventing failures, and ensuring safe and efficient operations. Case studies will provide real-world examples to reinforce learning."
   ],
-  image: require("./coursesImg/guidelines for auditing.jpg"),
+  image: require("./coursesImg/Steam Boilers.jpg"),
   tags: [
       'Trainer: Engr. Majid',
   ],
