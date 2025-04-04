@@ -113,3 +113,22 @@ export const CardContainer = styled.div`
         grid-template-columns: repeat(1, 1fr);
     }
 `;
+
+
+export const SearchInput = styled.input`
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 20px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+
+  &:focus {
+    outline: none;
+    border-color: #854CE6;
+    box-shadow: 0 0 5px rgba(133, 76, 230, 0.5);
+  }
+`;

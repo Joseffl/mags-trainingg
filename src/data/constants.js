@@ -11768,8 +11768,6 @@ export const projects = [
       'Trainer: Engr. Majid',
   ],
   category: "mechanical",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
   duration: "1 Day",
   prerequisite: [
       "Basic knowledge of thermodynamics and heat transfer",
@@ -11805,7 +11803,281 @@ export const projects = [
   ],
   cost: "₦90,000 / $70",
   certification: "Certificate of Completion"
+},
+
+{
+  id: 32,
+  title: "Oil & Gas Production",
+  date: "Present",
+  description:
+  [
+    "Oil and gas production involves the extraction of hydrocarbons from underground reservoirs and processing them into usable fuels.",
+    "The Oil & Gas Production course provides a detailed understanding of the key processes involved in extracting, processing, and handling hydrocarbons. This course covers fundamental principles, from reservoir dynamics and wellhead operations to processing systems and utility requirements. Participants will gain insights into industry best practices, operational challenges, and case studies from real-world applications.",
+    "Designed for engineers, technicians, and industry professionals, this course aims to bridge the gap between theoretical knowledge and practical field applications, equipping learners with the necessary skills to work effectively in oil and gas production operations."
+  ],
+  image: require("./coursesImg/Oil & Gas Production.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "A basic understanding of engineering principles",
+    "Familiarity with oil & gas industry operations",
+    "Knowledge of fluid mechanics and thermodynamics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the basic concepts, industry landscape, and key terminologies",
+    "Describe the stages of oil and gas processing from extraction to final product handling",
+    "Understand reservoir behavior, wellhead components, and their role in production efficiency",
+    "Identify the separation, treatment, and processing methods used in production facilities",
+    "Understand the role of power generation, water treatment, and gas compression in production operations",
+    "Learn from real-world examples, challenges, and problem-solving strategies in oil and gas production"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Process Overview",
+    "Module 3: Reservoir and Wellheads",
+    "Module 4: The Oil and Gas Process",
+    "Module 5: Utility Systems",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 33,
+  title: "Commissioning",
+  date: "Present",
+  description:
+  [
+    "Commissioning is the structured process of planning, inspecting, testing, and validating systems and equipment to ensure they are installed correctly and operate according to design and safety standards before turning over to operations. It bridges the gap between construction completion and the start of commercial operations.",
+    "The Commissioning Course provides a complete understanding of the commissioning phase in project execution, with an emphasis on systematic planning, documentation, team coordination, and safe execution. This course walks participants through the commissioning process from engineering preparation to final handover, including systemization, progress tracking, data management, HSE compliance, and startup operations.",
+    "The course emphasizes practical tools and methodologies used across various industries (e.g., oil & gas, energy, infrastructure) to ensure systems are tested, verified, and transferred safely and efficiently from construction to operation."
+  ],
+  image: require("./coursesImg/Commissioning.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering, project management, or construction",
+    "Basic understanding of industrial project execution phases",
+    "Familiarity with technical documentation and system-based thinking"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand what commissioning is, its objectives, phases, and integration into the project lifecycle",
+    "Analyze how commissioning fits within overall project frameworks and communicate its scope effectively",
+    "Break down complex projects into manageable systems and subsystems for structured commissioning",
+    "Develop and implement engineering procedures and readiness checklists for safe start-up",
+    "Utilize commissioning databases and tools for punch list management, tagging, and record-keeping",
+    "Monitor commissioning progress, understand KPIs, and apply status-reporting principles for control",
+    "Structure commissioning teams and clarify roles within a robust organizational setup",
+    "Manage handovers between construction, commissioning, and operations teams with clarity and documentation",
+    "Interpret contract structures, milestones, and responsibilities related to commissioning deliverables",
+    "Implement HSE Best Practices – Apply health, safety, and environmental measures throughout commissioning to ensure risk-free operations",
+    "Coordinate final start-up procedures and ensure seamless transition into operational phase"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Project Presentation",
+    "Module 3: System/Subsystem Methodology",
+    "Module 4: Pre‐commissioning/Commissioning Engineering",
+    "Module 5: Database",
+    "Module 6: Progress and Status Principles",
+    "Module 7: Organization",
+    "Module 8: Technical Transfer of Responsibilities",
+    "Module 9: Contract Structure",
+    "Module 10: HSE During Commissioning Operations",
+    "Module 11: Startup Operations"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 34,
+  title: "Commissioning Standards Documents",
+  date: "Present",
+  description:
+  [
+    "The Commissioning Standards Documents Course is designed to provide professionals with a comprehensive understanding of the standardized documentation, frameworks, and best practices that guide the commissioning process across industries. The course emphasizes the importance of clear planning, consistent terminology, defined responsibilities, risk management, and continuous improvement through lessons learned.",
+    "Participants will gain insights into the structured use of commissioning standards and documentation throughout all project phases—from engineering and manufacturing to construction completions, on-site testing, and system handover.",
+    "This course prepares participants to implement documentation frameworks that support efficiency, traceability, and safety in commissioning projects."
+  ],
+  image: require("./coursesImg/Commissioning Standards Documents.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering, project management, or commissioning",
+    "Familiarity with basic commissioning and project execution principles",
+    "Understanding of industrial systems or facilities"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the role of standardized documentation in ensuring quality, consistency, and safety",
+    "Distinguish between engineering, pre-commissioning, commissioning, and closeout phases",
+    "Apply industry-approved commissioning terms to promote clear communication and reduce ambiguity",
+    "Interpret documentation that outlines accountability and scope for all stakeholders in the commissioning team",
+    "Design structured commissioning plans using standardized formats and planning tools",
+    "Ensure alignment between design, fabrication, installation, and commissioning documentation",
+    "Follow standardized protocols for field tests, function checks, and performance verification",
+    "Complete and document the formal transfer of systems into operation, including punch list closure",
+    "Incorporate HSE documentation into commissioning workflows to mitigate operational risks",
+    "Document feedback, performance gaps, and improvements for ongoing standardization enhancement"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Phases of the Commissioning Process",
+    "Module 3: Terminology",
+    "Module 4: Roles & Responsibilities",
+    "Module 5: Commissioning Strategy & Planning",
+    "Module 6: Commissioning Engineering, Manufacturing, Construction Completions",
+    "Module 7: On-Site Testing",
+    "Module 8: Handover, In-Service, Closeout",
+    "Module 9: Safety & Risk Management",
+    "Module 10: Lessons Learned & Continuous Improvement"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 35,
+  title: "Pipeline Engineering",
+  date: "Present",
+  description:
+  [
+    "Pipeline engineering involves the design, construction, operation, and maintenance of pipelines used to transport fluids such as oil, gas, water, and chemicals.",
+    "The Pipeline Engineering course provides a comprehensive understanding of the principles, design, construction, operation, and maintenance of pipelines used in various industries such as oil & gas, water supply, and chemical transportation.",
+    "The course covers essential engineering concepts, safety standards, and industry best practices to equip professionals with the skills needed to design, construct, and manage pipeline infrastructure efficiently.",
+    "Participants will gain insights into risk assessment techniques, condition monitoring, and repair methods, ensuring pipelines operate safely and effectively throughout their lifecycle. The course also explores the latest industry developments and decommissioning strategies for aging pipelines."
+  ],
+  image: require("./coursesImg/Pipeline Engineering.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering",
+    "Basic knowledge of fluid mechanics and material science",
+    "Familiarity with industry standards and regulations"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the principles of pipeline design, material selection, and fluid dynamics considerations",
+    "Implement industry-standard pipeline design approaches, including stress analysis and route selection",
+    "Assess construction methods, risk mitigation techniques, and safety protocols",
+    "Perform hydrostatic testing, leak detection, and commissioning procedures",
+    "Understand operational challenges, flow assurance, and performance optimization",
+    "Develop preventive and corrective maintenance plans to enhance pipeline longevity",
+    "Apply condition monitoring tools and effective repair techniques",
+    "Learn decommissioning processes and explore emerging industry innovations",
+    "Gain insights from past pipeline projects, failures, and success stories to enhance decision-making"
+  ],
+  outline: [
+    "Module 1: Principles of Pipeline Design",
+    "Module 2: Design Approach",
+    "Module 3: Pipeline Construction and Risk Assessment Techniques",
+    "Module 4: Pressure Testing and Commissioning",
+    "Module 5: Pipeline Operation",
+    "Module 6: Pipeline Maintenance",
+    "Module 7: Pipeline Condition Monitoring and Repair Methods",
+    "Module 8: Pipeline Decommissioning and Industry Developments",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 36,
+  title: "Power Plant Commissioning",
+  date: "Present",
+  description:
+  [
+    "Power plant commissioning is the systematic process of ensuring that all systems and components of a power plant are designed, installed, tested, operated, and maintained according to the operational requirements. It marks the final phase before a plant becomes fully operational.",
+    "The Power Plant Commissioning course is designed to provide a thorough understanding of the commissioning process for power generation facilities, with a strong focus on system readiness, performance validation, and safe integration of plant components.",
+    "This course covers the commissioning of major systems such as boilers, turbines, generators, and electrical equipment, as well as the management systems required to ensure a successful, safe, and efficient start-up.",
+    "Through this course, participants will gain practical and theoretical knowledge needed to manage, supervise, and execute the commissioning phases in thermal and combined-cycle power plants."
+  ],
+  image: require("./coursesImg/Power Plant Commissioning.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in electrical, mechanical, or power engineering",
+    "Basic knowledge of power plant operations and system components",
+    "Familiarity with project execution phases"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Define commissioning, its objectives, and its role in the power plant lifecycle",
+    "Apply structured procedures, checklists, and documentation tools for effective commissioning control",
+    "Understand start-up and operational readiness testing for boilers, burners, feedwater systems, and related components",
+    "Oversee functional checks and performance testing for steam or gas turbines, lube oil systems, and vibration monitoring",
+    "Conduct commissioning activities for generators including insulation tests, synchronization, and excitation systems",
+    "Ensure proper operation of switchgear, transformers, protection systems, cabling, and grounding systems"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Commissioning Management System",
+    "Module 3: Boiler & Auxiliaries",
+    "Module 4: Turbine & Auxiliaries",
+    "Module 5: Generators & Auxiliaries",
+    "Module 6: Electrical Equipment’s"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
 }
+
+
+
 
 ];
 
