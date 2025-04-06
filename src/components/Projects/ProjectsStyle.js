@@ -115,20 +115,18 @@ export const CardContainer = styled.div`
 `;
 
 
+
 export const SearchInput = styled.input`
-  width: 100%;
-  max-width: 500px;
-  padding: 12px 20px;
-  margin: 20px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  padding: 10px 15px;
   font-size: 16px;
-  box-sizing: border-box;
-  transition: all 0.3s ease;
+  border-radius: 8px;
+  border: 1px solid #28ac30;
+  margin: 20px 0;
+  width: 100%;
+  max-width: 400px;
 
   &:focus {
+    border: 1px solid #28ac30;
     outline: none;
-    border-color: #854CE6;
-    box-shadow: 0 0 5px rgba(133, 76, 230, 0.5);
   }
 `;

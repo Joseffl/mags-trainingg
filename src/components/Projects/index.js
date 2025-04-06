@@ -1,12 +1,14 @@
 import React from 'react'
 import { useState } from 'react'
-import { Container, Wrapper, Title, Desc, CardContainer, ToggleButtonGroup, ToggleButton, Divider } from './ProjectsStyle'
+import { Container, Wrapper, Title, Desc, CardContainer, ToggleButtonGroup, ToggleButton, Divider, SearchInput } from './ProjectsStyle'
 import ProjectCard from '../Cards/ProjectCards'
 import { projects } from '../../data/constants'
 
 
 const Projects = ({openModal,setOpenModal}) => {
   const [toggle, setToggle] = useState('all');
+  const [searchTerm, setSearchTerm] = useState('');
+
   return (
     <Container id="training">
       <Wrapper>
@@ -70,16 +72,29 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="PAI" onClick={() => setToggle('PAI')}>Process Control/Automation/Instrumentaion</ToggleButton>
           }
         </ToggleButtonGroup>
+
+        <SearchInput
+          type="text"
+          placeholder="Search courses..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+        />
+
         <CardContainer>
-          {toggle === 'all' && projects
-            .map((project) => (
-              <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
-            ))}
-          {projects
-            .filter((item) => item.category == toggle)
-            .map((project) => (
-              <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
-            ))}
+        {projects
+          .filter((item) => toggle === 'all' || item.category === toggle)
+          .filter((item) =>
+            item.title.toLowerCase().includes(searchTerm.toLowerCase())
+          )
+          .map((project) => (
+            <ProjectCard
+              key={project.title}
+              project={project}
+              openModal={openModal}
+              setOpenModal={setOpenModal}
+            />
+        ))}
+
         </CardContainer>
       </Wrapper>
     </Container>
