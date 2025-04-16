@@ -341,12 +341,12 @@ export const experiences = [
 export const projects = [
    {
     id: 9,
-    title: "Commissioning and StartUp",
+    title: "Plant Commissioning and StartUp Procedures",
     date: "Sep 2023 - Oct 2023",
     description:
       "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      require("./coursesImg/COMMISIONING.png"),
+      require("./coursesImg/COMMISIONING .png"),
     tags: ["Trainer: Engr. Lateef"
   ],
     duration: "2 Days",
@@ -382,7 +382,7 @@ export const projects = [
         "Module 8:  Case Study"
         
     ],
-    assessment: "	Online Written  Exam / AutoCAD Design Exam ",
+    assessment: "	Online Written Exam ",
     cdf: [
       "Classroom-based training",
       "Online courses", 
@@ -403,14 +403,11 @@ export const projects = [
     require("./coursesImg/Basic line.png"),
     tags: ['Trainer: Engr. Okechukwu'],
     category: "process",
-    github: "https://github.com/Joseffl/creative-company-website",
-    webapp: "https://ccdesignwebs.netlify.app",
 
     duration: "1 Day",
     prerequisite: [
-      "A bachelor's degree in engineering, technology, or a related field.",
-      "Several years of experience in the field of engineering, construction, or operations.",
-      "A basic understanding of commissioning and start-up principles and procedures."
+      "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
+      "Knowledge of Pipe schedules and dimensions, Fluid properties, Design parameters, Calculation tools (Excel)"
 
 
     ],
@@ -448,9 +445,7 @@ export const projects = [
       require("./coursesImg/liquid line sizing.png"),
     tags: ['Trainer: Engr. Okechukwu'],
     category: "process",
-    github: "https://github.com/Joseffl/creative-company-website",
-    webapp: "https://ccdesignwebs.netlify.app",
-
+    
     duration: "3 Days",
     prerequisite: [
       "Fundamental Concepts of Fluid mechanics, Pipe friction, Reynolds number and Pressure drop.",
@@ -487,7 +482,7 @@ export const projects = [
     cdf: [
       "Classroom, Face to Face or Virtual",
     ],
-    cost: "₦100,000 or $80"
+    cost: "₦70,000 or $60"
   },
   
   {
@@ -594,7 +589,7 @@ export const projects = [
     cdf: [
       "Classroom, Face to Face or Virtual",
     ],
-    cost: "₦130,000 / $100"
+    cost: "₦80,000 / $70"
   },
   
 
@@ -721,134 +716,7 @@ export const projects = [
     cost: "₦120,000 / $100"
   },
 
-  {
-    id: 10,
-    title: "Instrumentation & Control Design 1",
-    date: "Oct 2022 - Present",
-    description:
-      "An Instrumentation and Control Design course focuses on the principles and practices of designing systems that monitor and control industrial processes. Participants learn to integrate instrumentation and control strategies to optimize performance and ensure safety in various applications. Participants will acquire a robust understanding of instrumentation and control design, enabling them to create effective control systems that enhance efficiency, safety, and reliability in industrial applications.",
-      image:
-      require("./coursesImg/instrumentation.png"),
-    tags: [
-      'Trainer: Engr. Magnus',
-    ],
-    category: "PAI",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
 
-    duration: "2 Days",
-    prerequisite: [
-      "Core Engineering Concepts Electrical Engineering: Understanding of electrical circuits, components, and principles.",
-      "Control Systems: Knowledge of feedback control systems, transfer functions, and stability analysis.",
-      "Process Control: Familiarity with process control concepts, instrumentation, and loop tuning.",
-      "Signal Processing",
-      "Technical Skills: Computer-Aided Design (CAD): Proficiency in CAD software (e.g., AutoCAD) for creating process diagrams."
-
-
-    ],
-    methodology: "Theoretical/Practical",
-    objectives: [
-          "Understand the fundamentals of instrumentation and control systems.",
-          "Understanding of electrical circuits, components, and principles.",
-          "Knowledge of feedback control systems, transfer functions, and stability analysis.",
-          "Familiarity with process control concepts, instrumentation, and loop tuning.",
-          "Basic understanding of signal processing techniques.",
-          "Knowledge of safety standards and hazard identification in process industries.",
-          "Learn to design and implement control systems for various processes.",
-          "Gain practical skills in selecting and applying different types of sensors and actuators.",
-          "Develop proficiency in using control strategies and software tools."
-
-
-                  
-    ],
-    outline: [
-        "Module 1: Introduction to measurements and control concepts Pressure measurement",
-        "Module 2: Types of Sensors and Transducers Understanding various sensors (temperature, pressure, flow, level)",
-        "Module 3: Control Theory Fundamentals",
-        "Module 4: Control System Design",
-        "Module 5: Actuators and Control Elements",
-        "Module 6: System Integration and Communication",
-        "Module 7: Safety and Reliability in Control Systems",
-        "Module 8: Practical Applications and Case Studies",
-        "Module 9: Final Project"
-
-
-
-
-    ],
-    assessment: "	Online Written  Exam / AutoCAD Design Exam   ",
-    cdf: [
-      "Classroom-based training",
-      "Online courses ",
-      "In-house workshops",
-      "On-the-job training"
-,
-    ],
-    cost: "₦60,000 / $50"
-  },
-
-  {
-    id: 10,
-    title: "Instrumentation & Control Design 2",
-    date: "Oct 2022 - Present",
-    description:
-      "An Instrumentation and Control Design 2 course focuses on the principles and practices of designing of Piping and Instrumentation Diagram [P&ID] Study, Tubing and Fittings Sizes,  RELAY & Gate Logic and PLC Base Logic.",
-    image:
-    require("./coursesImg/instrumentation 2.png"),
-    tags: [
-      'Trainer: Engr. Magnus',
-    ],
-    category: "PAI",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
-
-    duration: "2 Days",
-    prerequisite: [
-      "Core Engineering Concepts Electrical Engineering: Understanding of electrical circuits, components, and principles.",
-      "Control Systems: Knowledge of feedback control systems, transfer functions, and stability analysis.",
-      "Process Control: Familiarity with process control concepts, instrumentation, and loop tuning.",
-      "Signal Processing"
-
-
-    ],
-    methodology: "Theoretical/Practical",
-    objectives: [
-          "Understand the line and  instrument symbols used in P&ID",
-          "Understand the study single loop DWG and discuss each symbols",
-          "Understand which components are in circuit and how instruments are connected, located  and their functions",
-          "Understand the characteristics Of Pipe And Tubing, tube; Run Installation, Measuring And Cutting, Bending Offsets, Bending Techniques",
-          "Understand the compression Fittings and Installation",
-          "Understand how to test For Leaks and general Guide Lines for Installing Tubing.",
-          "Understand the Following points related to Relay & Digital Logic Gates: Working Principle, Types, Technical Terms, Logic Diagram (Reading), Function In Interlock.",
-          "Understand the PLC Base Logic"
-
-
-
-                  
-    ],
-    outline: [
-        "Module 1: Piping and Instrumentation Diagram [P&ID] Study",
-        "Module 2: Tubing and Fittings Sizes",
-        "Module 3: RELAY & Gate Logic",
-        "Module 4: PLC Base Logic ", 
-        "Module 5: Case Studies",
-        "Module 6: Final Project"
-
-
-
-
-
-    ],
-    assessment: "	Online Written  Exam / AutoCAD Design Exam   ",
-    cdf: [
-      "Classroom-based training",
-      "Online courses ",
-      "In-house workshops",
-      "On-the-job training"
-,
-    ],
-    cost: "₦80,000 / $60"
-  },
   {
     id: 10,
     title: "Change Management Procedure",
@@ -1205,9 +1073,6 @@ export const projects = [
       'Trainer: Engr. Adeyemi',
     ],
     category: "mechanical",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
-
     duration: "1 Day",
     prerequisite: [
       "Several years of experience in the field of engineering, construction, or operations.",
@@ -1274,8 +1139,9 @@ export const projects = [
       "On-the-job training"
 ,
     ],
-    cost: "₦50,000 / $40"
+    cost: "₦80,000 / $50"
   },
+
   {
     id: 10,
     title: "Material Selection for Heat Exchanger ",
@@ -1509,7 +1375,7 @@ export const projects = [
       "Classroom, Face to Face or Virtual"
 ,
     ],
-    cost: "₦130,000 / $100"
+    cost: "₦90,000 / $80"
   },
   {
     id: 10,
@@ -1596,7 +1462,7 @@ export const projects = [
       "Classroom, Face to Face or Virtual"
 ,
     ],
-    cost: "₦150,000 / $120"
+    cost: "₦120,000 / $100"
   },
   {
     id: 10,
@@ -2073,12 +1939,7 @@ export const projects = [
       "Basic Knowledge of Hydraulics and Fluid Mechanics",
       "Familiarity with Plumbing and Piping Systems",
       "Basic Knowledge of Pumping Equipment",
-      "Course Recommendations:  ",
-      "If participants lack some of the prerequisite knowledge, they may benefit from taking introductory courses in the following areas: ",
-      "Basic Fire Protection Systems (e.g., Sprinklers, Hydrants)",
-      "Pump Technology and Operations (Introduction to pumps and fluid mechanics)",
-      "NFPA Standards Overview"
-
+      
 
     ],
     methodology: "Theoretical",
@@ -2775,7 +2636,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/Centrifugal.png"),
+      require("./coursesImg/api centrifugal pump.png"),
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -3676,7 +3537,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Lateef',
     ],
-    category: "Petroleum",
+    category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -4642,11 +4503,8 @@ export const projects = [
     outline: [
         "Module 1:  Introduction",
         "Module 2:   Estimation of Refinery Stream Properties.",
-        "Estimation of (average temperatures, average oAPI and sulfur content, Psuedo‐component concept, average oAPI and % sulfur content,  Product TBP from crude TBP, product specific gravity and sulfur content, blend viscosity,), Characterization factor, Molecular weight, Viscosity, Enthalpy, Vapor pressure, Flash point estimation and flash point index for blends, Pour point estimation and pour point index for blends, Equilibrium flash vaporization curve",
-        "Module 3:   Refinery Mass Balances",
-        "Refinery Block diagram, Refinery modeling using conceptual black box approach, Mass balances across the (CDU, VDU, Thermal Cracker, HVGO hydrotreater, LVGO hydrotreater, FCC, Diesel hydrotreater, kerosene hydrotreater,  reformer,  naphtha hydrotreater,  alkylator and isomerizer,  gasoline pool,  LPG, Gasoil and fuel oil pools). Naphtha consolidation.",
+        "Module 3:   Refinery Mass Balances, Refinery Block diagram and Refinery modeling",
         "Module 4:   Design of Crude Distillation Column",
-        "Architecture of Main and Secondary Columns, Design aspects of the CDU, Mass balances across the CDU and flash zone, CDU mass balance table, Flash zone mass balance table, Estimation of (flash zone temperature, draw off stream temperatures, tower top temperature, residue product stream temperature, side stripper products temperature, condenser duty, Overflow from Top tray, Top and Bottom Pump Around Duty, flash zone liquid reflux rate, column diameters), Total Tower energy balance and total condenser duty, Verification of fractionation criteria."
 
 
 
@@ -5296,268 +5154,197 @@ export const projects = [
     cost: "₦50,000 / $40"
   },
 
-
   {
-    id: 10,
-    title: "Introduction to Process Modeling/Simulation using Aspen HYSYS ",
-    date: "Oct 2022 - Present",
-    description:
-    [
-          
-      "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
-      "The Aspen HYSYS course provides a comprehensive understanding of the Aspen HYSYS software, a leading process simulation tool widely used in the oil and gas, chemical, and petrochemical industries. This course covers the fundamentals of HYSYS, its applications, and key functionalities for process design, optimization, and troubleshooting. Participants will learn to navigate the simulation environment, define physical properties, set up unit operations, perform stream analysis, design equipment, and generate reports. By the end of the course, participants will be able to apply Aspen HYSYS effectively in designing, simulating, and analyzing complex chemical and petrochemical processes, with a focus on real-world case studies."
-
-    
-    
+    id: 53,
+    title: "Introduction to Process Modeling/Simulation using Aspen HYSYS",
+    date: "Present",
+    description: [
+      "This course offers a comprehensive and hands-on introduction to Aspen HYSYS, the industry-standard tool for steady-state process simulation in oil and gas, chemical, and refining industries.",
+      "Participants will learn to build and analyze simulations involving pumps, compressors, heat exchangers, reactors, distillation columns, and full plant models.",
+      "The training includes real-world case studies, such as crude oil plant simulation and gas/chemical project design, to bridge theory with practical industry scenarios.",
+      "Designed for professionals and students, the course also prepares participants for the Aspen HYSYS User Certification, ensuring readiness for simulation roles."
     ],
-      image:
-      require("./coursesImg/intro to process model using aspen.png"),
+    image: require("./coursesImg/intro to process model using aspen.png"),
     tags: [
-      'Trainer: Engr. Magnus',
+      "Trainer: Engr. Okechukwu"
     ],
     category: "process",
-    
-
     duration: "8 Days",
     prerequisite: [
-      "Before enrolling in this course, participants should have:",
-      "A basic understanding of process engineering principles.",
-      "Knowledge of fluid mechanics, thermodynamics, and chemical engineering concepts.",
-      "Familiarity with the basic operations in the oil and gas or chemical industry (e.g., reactors, heat exchangers, distillation columns, pumps, etc.).",
-      "Knowledge of basic computer skills or software tools."
-
-
+      "Basic understanding of chemical/process engineering concepts",
+      "Familiarity with unit operations (e.g., pumps, compressors, heat exchangers, reactors)",
+      "Introductory knowledge of thermodynamics and material/energy balances",
+      "Experience or interest in the oil & gas or chemical process industries"
     ],
     methodology: "Theoretical",
     objectives: [
-          "Navigate the Aspen HYSYS Environment",
-          "Understand HYSYS Applications",
-          "Utilize the Component List",
-          "Implement Physical Property Packages",
-          "Work with Petroleum Assays",
-          "Setup and Configure Unit Sets",
-          "Leverage Model Pallets",
-          "Perform Stream Analysis",
-          "Design Process Equipment",
-          "Work with Case Studies",
-          "Generate Reports",
-          "Simulate Propane Refrigeration Loop",
-          "Simulate Oil Characterization and Refining",
-          "Prepare for Aspen HYSYS User Certification",
-          "Review key concepts and techniques to prepare for Aspen HYSYS certification.",
-          "Understand the format and requirements of the certification exam."
-                      
-
-
-        ],
+      "Describe key stages in oil and gas projects and explain how process simulation supports decision-making throughout project lifecycles.",
+      "Identify real-world applications of Aspen HYSYS in engineering design, operational troubleshooting, and optimization.",
+      "Navigate the Aspen HYSYS interface, simulation environment, and model pallets with confidence.",
+      "Define and manage component lists and apply appropriate thermodynamic property packages based on process requirements.",
+      "Characterize petroleum assays for crude oil simulation and integrate assay data into models.",
+      "Configure and apply unit sets, and effectively use model palettes to build simulation cases.",
+      "Design and simulate process equipment, including pumps, compressors, expanders, heat exchangers, and flash separators.",
+      "Model pipe segments and evaluate pressure drop and heat loss.",
+      "Utilize logical operators and manipulators (e.g., adjusters, recyclers, spreadsheets) for process control and convergence.",
+      "Simulate distillation/separation columns, such as De-Methanizer, De-Ethanizer, and De-Propanizer.",
+      "Develop and analyze Heat and Material Balances (HMB), and generate clear simulation reports.",
+      "Model full-scale process systems, such as a crude oil plant, including assay characterization and atmospheric distillation.",
+      "Perform feasibility and conceptual design simulations for gas or chemical process plants.",
+      "Prepare for the Aspen HYSYS User Certification through review of advanced features and case-based assessments."
+    ],
     outline: [
-        "Module 1:  Introduction",
-        "Module 2:  Hysys Applications.",
-        "Module 3:  Component List",
-        "Module 4:  Physical Property Package",
-        "Module 5:  Petroleum Assays",
-        "Module 6:  Unit Sets ",
-        "Module 7:  Model Pallets",
-        "Module 8:  Simulation Environment",
-        "Module 9:  Stream Analysis",
-        "Module 10: Equipment Design",
-        "Module 11: Case Study",
-        "Module 12: Reporting",
-        "Module 13: Propane Refrigeration Loop ",
-        "Module 14: Oil Characterization and simulation",
-        "Module 15: Case Studies",
-        "Module 16: Aspen Hysys User Certification Preparation"
-
-
-
-
-
-
-        ],
-    assessment: "	Online Written  Exam",
+      "Module 1: Introduction",
+      "Module 2: Oil and Gas Project Stages",
+      "Module 3: HYSYS Applications",
+      "Module 4: Simulation Environment",
+      "Module 5: Component List",
+      "Module 6: Physical Property Package",
+      "Module 7: Petroleum Assays",
+      "Module 8: Unit Sets / Model Pallets",
+      "Module 9: Equipment Design",
+      "Module 10: Modeling/Simulation of Pump, Compressors, Expander, Heat Exchanger, Flash Separator",
+      "Module 11: Modeling/Simulation of Conversion or Equilibrium Reactor",
+      "Module 12: Pipe Segment",
+      "Module 13: Logical Operators/Manipulators (Recycler, Set, Adjust & Spreadsheet)",
+      "Module 14: Modeling/Simulation of Separation Columns (De-Methanizer, De-Ethanizer, & De-Propanizer)",
+      "Module 15: Heat & Material Balance (Reporting)",
+      "Module 16: Simulation of a Crude Oil Plant (Characterization, Pre-Heat Train, Atmospheric Towers, Side Operation and Pump Around Operation)",
+      "Module 17: Feasibility/Conceptual Design of a Gas/Chemical Project",
+      "Module 18: Aspen HYSYS User Certification Preparation"
+    ],
+    assessment: "Online Written Exam",
     cdf: [
       "Classroom-based training",
-      "Online courses ",
+      "Online courses",
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "₦180,000 / $150"
+    cost: "#180,000 / $150",
+    certification: "Certificate of Completion"
   },
-
+  
   {
-    id: 10,
-    title: "Process Modeling/Simulation using Aspen HYSYS  ",
-    date: "Oct 2022 - Present",
-    description:
-    [
-          
-      "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
-      "The Process Modelling/Simulation using Aspen HYSYS course is designed to provide participants with a comprehensive understanding of process simulation, focusing on key applications within the oil and gas, chemical, and petrochemical industries. Using Aspen HYSYS as the primary tool, this course covers process modeling techniques for critical processes such as acid gas removal, gas dehydration, sulfur recovery, sour water treatment, and column operations. Participants will learn to model, simulate, and analyze the performance of these processes and optimize system designs. By the end of the course, participants will be well-prepared to use Aspen HYSYS for a wide range of process simulations and understand the integration of hydraulics, pipe segments, and line sizing utilities in complex systems."
-
-    
-    
+    id: 54,
+    title: "Process Modeling/Simulation using Aspen HYSYS",
+    date: "Present",
+    description: [
+      "This advanced-level course builds on foundational Aspen HYSYS knowledge to equip participants with specialized modeling skills for gas processing and chemical industry applications.",
+      "Participants will master simulation techniques for acid gas removal, dehydration systems, sulfur recovery using SULSIM, sour water stripping, line sizing, and hydraulic modeling.",
+      "Real-world case studies and a capstone project support practical application in feasibility studies, debottlenecking, and conceptual process design.",
+      "The course prepares learners for the Aspen HYSYS Expert Certification, enabling them to validate and demonstrate professional-level simulation competence."
     ],
-      image:
-      require("./coursesImg/process model using aspen.png"),
+    image: require("./coursesImg/process model using aspen.png"),
     tags: [
-      'Trainer: Engr. Okechukwu',
+      "Trainer: Engr. Okechukwu"
     ],
     category: "process",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
-
     duration: "10 Days",
     prerequisite: [
-      "Before enrolling in this course, participants should have: ",
-      "A basic understanding of process engineering principles.",
-      "Knowledge of fluid mechanics, thermodynamics, and chemical engineering concepts.",
-      "Familiarity with the basic operations in the oil and gas or chemical industry (e.g., reactors, heat exchangers, distillation columns, pumps, etc.).",
-      "Knowledge of basic computer skills or software tools.",
-      "Good Knowledge of Aspen Hysys"
-
-
-
+      "Introduction to Process Modeling/Simulation using Aspen HYSYS"
     ],
     methodology: "Theoretical",
     objectives: [
-          "Apply Aspen HYSYS for modeling and simulating industrial processes in the oil and gas sector.",
-          "Recognize the key applications of process simulation in optimizing operations and enhancing system design.",
-          "Develop a comprehensive understanding of acid gas removal processes.",
-          "Model acid gas treatment workflows in Aspen HYSYS, analyzing the key components of the system and process flow.",
-          "Understand the theory and operations of gas dehydration processes.",
-          "Create and analyze gas dehydration simulations in Aspen HYSYS, focusing on dehydration units such as molecular sieves and glycol systems.",
-          "Learn the key steps involved in sulfur recovery, particularly the SULSIM process in HYSYS.",
-          "Develop process models for sulfur recovery units, optimizing the recovery efficiency and analyzing system performance.",
-          "Understand the sour water stripping process, including the necessary components and reactions.",
-          "Simulate the sour water treatment process in Aspen HYSYS to improve process efficiency and mitigate environmental concerns.",
-          "Use Aspen HYSYS to model and simulate pipeline networks.",
-          "Understand the flow dynamics within pipe segments and optimize their performance within process models.",
-          "Use Aspen HYSYS' Line Sizing Utility to optimize pipeline dimensions and ensure efficient flow of fluids.",
-          "Understand the importance of proper line sizing for ensuring energy efficiency and cost savings in industrial processes.",
-          "Incorporate hydraulic calculations within Aspen HYSYS models.",
-          "Understand the role of hydraulics in process simulation, including pump sizing, pressure drops, and flow distribution.",
-          "Learn how to model and simulate distillation columns and other separation processes within Aspen HYSYS.",
-          "Optimize column operations, such as tray and packing design, reflux ratios, and energy requirements.",
-          "Review key concepts covered in the course to prepare for the Aspen HYSYS Expert Certification exam.",
-          "Understand the certification process and learn the best practices for achieving certification."
-
-                      
-
-
-        ],
+      "Understand and model acid gas processes, including amine sweetening and CO₂/H₂S removal workflows.",
+      "Simulate gas dehydration systems using glycol contactors and regeneration units within Aspen HYSYS.",
+      "Use Aspen HYSYS with the SULSIM add-on to model sulfur recovery units (Claus process) accurately.",
+      "Model sour water stripping processes, understanding their integration within refining and gas processing facilities.",
+      "Perform line sizing and pressure drop analysis using Aspen HYSYS line sizing utilities.",
+      "Analyze hydraulic behavior of pipelines and process systems using Aspen HYSYS hydraulic models.",
+      "Configure and troubleshoot column operations, including convergence strategies and optimization.",
+      "Apply simulation tools to evaluate real-world gas/chemical projects, from feasibility through conceptual design.",
+      "Generate accurate heat and material balances, utility reports, and dynamic analysis where applicable.",
+      "Prepare for the Aspen HYSYS Expert Certification, focusing on best practices, case analysis, and simulation strategy."
+    ],
     outline: [
-        "Module 1:  Introduction",
-        "Module 2:  Process Modelling/Simulation Applications.",
-        "Module 3:  Acid Gas Process Overview & Workflow",
-        "Module 4:  Gas Dehydration Process Overview & Workflow Module 5:   Sulfur Recovery (SULSIM) Process Overview & Workflow",
-        "Module 6:  Sour Water Process Overview & Workflow",
-        "Module 7:  Aspen HYSYS Pipe Segments",
-        "Module 8:  Line Sizing utility",
-        "Module 9:  Hydraulics",
-        "Module 10: Column Operations in Aspen HYSYS",
-        "Module 11: Case Studies",
-        "Module 12:  Aspen Hysys Expert Certification Preparation"
-
-
-
-
-
-
-        ],
-    assessment: "	Online Written  Exam",
+      "Module 1: Introduction",
+      "Module 2: Acid Gas Process Overview & Workflow",
+      "Module 3: Gas Dehydration Process Overview & Workflow",
+      "Module 4: Sulfur Recovery (SULSIM) Process Overview & Workflow",
+      "Module 5: Sour Water Process Overview & Workflow",
+      "Module 6: Line Sizing Utility",
+      "Module 7: Hydraulics",
+      "Module 8: Column Operations in Aspen HYSYS",
+      "Module 9: Feasibility/Conceptual Design of a Gas/Chemical Project",
+      "Module 10: Aspen HYSYS Expert Certification Preparation"
+    ],
+    assessment: "Online Written Exam",
     cdf: [
       "Classroom-based training",
-      "Online courses ",
+      "Online courses",
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "₦250,000 / $200"
+    cost: "#250,000 / $200",
+    certification: "Certificate of Completion or Aspen HYSYS Expert Certificate"
   },
+  
 
   {
-    id: 10,
-    title: "Sizing of Strainers & Screen Openings For Strainers  ",
-    date: "Oct 2022 - Present",
-    description:
-    [
-          
-      "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector.",
-      "This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives."
-
-    
-    
+    id: 52,
+    title: "Sizing of Strainers & Screen Openings For Strainers",
+    date: "Present",
+    description: [
+      "This course equips participants with the knowledge and skills to effectively size and select strainers and screen openings in industrial applications, especially within the oil and gas sector.",
+      "It focuses on the principles behind strainer sizing, screen mesh specifications, pressure drops, and correction factors critical for proper strainer selection.",
+      "Participants will understand how different screen openings impact system performance and how to apply sizing calculations to match operational needs.",
+      "The course is ideal for professionals working on EPC projects, helping them align strainer selection with project specifications and industry standards."
     ],
-      image:
-      require("./coursesImg/sizing of strainers.png"),
+    image: require("./coursesImg/sizing of strainers.png"),
     tags: [
-      'Trainer: Engr. Lateef',
+      "Trainer: Engr. Okechukwu"
     ],
     category: "process",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
-
     duration: "3 Days",
     prerequisite: [
       "Background of EPC (Engineering, Procurement, and Construction) projects"
-
-
-
     ],
     methodology: "Theoretical",
     objectives: [
-          "Define the concept of change and change management.",
-          "Understand key roles in the change management process.",
-          "Determine the phases of change management.",
-          "Learn to formulate an effective plan for the change process.",
-          "Deeply understand the reasons for resistance to change.",
-          "Find out about effective methods of preventing and eliminating resistance to change.",
-          "Gain the ability to design fruitful communication related to the change process.",
-          "Learn techniques for effective implementation of change.",
-          "Develop skills associated with controlling the change process.",
-          "Build proficiency in shaping a change-oriented organizational culture."
-
-                      
-
-
-        ],
+      "Define the concept of change and change management.",
+      "Understand key roles in the change management process.",
+      "Determine the phases of change management.",
+      "Learn to formulate an effective plan for the change process.",
+      "Deeply understand the reasons for resistance to change.",
+      "Find out about effective methods of preventing and eliminating resistance to change.",
+      "Gain the ability to design fruitful communication related to the change process.",
+      "Learn techniques for effective implementation of change.",
+      "Develop skills associated with controlling the change process.",
+      "Build proficiency in shaping a change-oriented organizational culture."
+    ],
     outline: [
-        "Module 1:   Screen Openings for Strainers",
-        "Module 2:   Opening Size (Mesh Size).",
-        "Module 3:   Strainer Mesh and Opening Sizes",
-        "Module 4:   Factors Influencing the Selection of Screen Openings",
-        "Module 5:   Common Screen Opening Sizes",
-        "Module 6:   Materials Used for Strainer Screens",
-        "Module 7:   Applications of Different Screen Openings",
-        "Module 8:   Common Strainer Types",
-        "Module 9:   Strainers Sizing",
-        "Module 10:  Key Factors in Strainer Sizing",
-        "Module 11:  Sizing Calculations for Strainers",
-        "Module 12:  Screen Correction Factor Chart",
-        "Module 13:  Viscosity And Density Correction Factor Chart",
-        "Module 14:  Correction Factors For Clogged Screens",
-        "Module 15:  Y-Strainer Pressure Drop-Liquids",
-        "Module 16:  Y-Strainer Pressure Drop - Saturated Steam",
-        "Module 17:  Y-Strainer Pressure Drop - Saturated Steam",
-        "Module 18:  Basket Strainer Pressure Drop-Liquids",
-        "Module 19:  Temporary Strainer Pressure Drop - Liquids",
-        "Module 20:  Fabricated Y & Tee Strainer Pressure Drop - Liquids"
-
-
-
-
-
-
-
-        ],
-    assessment: "	Online Written  Exam",
+      "Module 1: Screen Openings for Strainers",
+      "Module 2: Opening Size (Mesh Size)",
+      "Module 3: Strainer Mesh and Opening Sizes",
+      "Module 4: Factors Influencing the Selection of Screen Openings",
+      "Module 5: Common Screen Opening Sizes",
+      "Module 6: Materials Used for Strainer Screens",
+      "Module 7: Applications of Different Screen Openings",
+      "Module 8: Common Strainer Types",
+      "Module 9: Strainers Sizing",
+      "Module 10: Key Factors in Strainer Sizing",
+      "Module 11: Sizing Calculations for Strainers",
+      "Module 12: Screen Correction Factor Chart",
+      "Module 13: Viscosity And Density Correction Factor Chart",
+      "Module 14: Correction Factors For Clogged Screens",
+      "Module 15: Y-Strainer Pressure Drop - Liquids",
+      "Module 16: Y-Strainer Pressure Drop - Saturated Steam",
+      "Module 17: Y-Strainer Pressure Drop - Saturated Steam",
+      "Module 18: Basket Strainer Pressure Drop - Liquids",
+      "Module 19: Temporary Strainer Pressure Drop - Liquids",
+      "Module 20: Fabricated Y & Tee Strainer Pressure Drop - Liquids"
+    ],
+    assessment: "Online Written Exam",
     cdf: [
       "Classroom-based training",
-      "Online courses ",
+      "Online courses",
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "₦100,000 / $80"
+    cost: "#100,000 / $80",
+    certification: "Certificate of Completion"
   },
+  
 
   {
     id: 10,
@@ -5587,7 +5374,7 @@ export const projects = [
     duration: "3 Days",
     prerequisite: [
       "Basic understanding of industrial processes, piping systems, and instrumentation.",
-      "Familiarity with technical drawing concepts or engineering symbols can be helpful but is not required."
+      "Familiarity with technical drawing concepts or engineering symbols."
 
 
 
@@ -6042,13 +5829,13 @@ export const projects = [
       'Trainer: Engr. Okechukwu',
     ],
     category: "process",
-    github: "https://github.com/Joseffl/react-todo-app",
-    webapp: "https://bit.ly/47GF1It",
 
     duration: "3 Days",
     prerequisite: [
-      "The Conceptual Stage of Design in Process Engineering course provides participants with the knowledge and tools required to generate innovative, practical, and feasible process designs. The course emphasizes the importance of creativity, cross-disciplinary collaboration, and problem-solving during the conceptual phase. Participants will learn how to assess requirements, explore multiple design alternatives, use simulation tools, evaluate economic and environmental impacts, and transition the design into the FEED & detailed engineering phase.",
-      "This course is designed for process engineers, project managers, and technical professionals who are involved in the early stages of process design for manufacturing, chemical plants, energy systems, and other industrial sectors."
+      "Fundamental Knowledge in Process Engineering.",
+      "Research Skills",
+      "Basic Project Management Skills.",
+      "Familiarity with Problem-Solving and Analytical Skills."
 
 
 
@@ -6729,7 +6516,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Majid',
     ],
-    category: "mechanical",
+    category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -7019,7 +6806,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Majid',
     ],
-    category: "process",
+    category: "mechanical",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -7221,7 +7008,7 @@ export const projects = [
 
   {
     id: 10,
-    title: "Piping Material Specification 1 (PMS) ",
+    title: "Piping Material Specification (PMS) ",
     date: "Oct 2022 - Present",
     description:
     [
@@ -10896,7 +10683,7 @@ export const projects = [
 
 {
   id: 17,
-  title: "CATALYST AND CHEMICALS",
+  title: "CATALYST",
   date: "Present",
   description:
   [
@@ -11337,7 +11124,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "process",
+  category: "PAI",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -11458,7 +11245,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "process",
+  category: "PAI",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "1 Day",
@@ -12074,7 +11861,854 @@ export const projects = [
   ],
   cost: "₦200,000 / $180",
   certification: "Certificate of Completion"
+},
+
+{
+  id: 37,
+  title: "Process Measurement",
+  date: "Present",
+  description:
+  [
+    "Process measurement is the method of quantifying physical parameters in industrial processes—such as pressure, temperature, flow, and level—using sensors and instruments. Accurate measurement is essential for effective monitoring, control, and optimization of industrial operations.",
+    "The Process Measurement course provides an in-depth exploration of the fundamental techniques and instruments used to measure key process variables in industrial operations. Accurate measurement of temperature, pressure, flow, and level is essential for effective process control, safety, efficiency, and product quality.",
+    "This course introduces participants to the core concepts of process measurement and progresses through the practical selection, installation, and protection of measurement instruments.",
+    "It also addresses critical environmental and operational considerations, including instrument heating and climate protection. Emphasis is placed on real-world application and industry standards to prepare participants for field or control room roles in various industries such as oil and gas, petrochemicals, power generation, and manufacturing."
+  ],
+  image: require("./coursesImg/process measurement.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "process",
+  duration: "4 Days",
+  prerequisite: [
+    "Basic understanding of industrial processes and control systems",
+    "Familiarity with measurement principles (e.g., units, calibration, accuracy)",
+    "A background in instrumentation, electrical, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the significance of process measurement in achieving control, safety, and operational objectives",
+    "Identify the basic principles and instruments used to measure temperature, pressure, flow, and level",
+    "Select appropriate measurement devices based on process characteristics and application requirements",
+    "Interpret specifications, datasheets, and installation guidelines for different measurement instruments",
+    "Understand best practices for the installation of process instruments to ensure accuracy and reliability",
+    "Apply methods to protect instruments from mechanical damage, corrosion, and environmental exposure",
+    "Implement heating and climate protection techniques to maintain instrument performance in harsh conditions",
+    "Troubleshoot common issues in process measurement and propose practical solutions",
+    "Ensure compliance with industry regulations and safety standards during instrument selection and deployment",
+    "Integrate measurement systems with control architectures and data acquisition systems for optimal plant performance"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Temperature",
+    "Module 4: Pressure",
+    "Module 5: Flow",
+    "Module 6: Level",
+    "Module 7: Instrument Installation",
+    "Module 8: Instrument Protection",
+    "Module 9: Instrument Heating & Climate Protection"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 38,
+  title: "Process P&ID",
+  date: "Present",
+  description:
+  [
+    "Process P&ID (Piping and Instrumentation Diagram) is a detailed engineering drawing that shows the piping and related components of a physical process flow. It’s used in the chemical, oil and gas, power, water treatment, and other process industries.",
+    "The Process P&ID course is designed to provide a comprehensive understanding of how to develop, interpret, manage, and review piping and instrumentation diagrams, which are critical for the design, operation, and maintenance of process facilities.",
+    "This course takes participants through the complete lifecycle of a P&ID — from its initial preparation to issue, review, and eventual change management.",
+    "Each module is structured to build a strong foundation and gradually develop practical skills, reinforced by real-world examples and case studies. By the end of this course, learners will be equipped to effectively participate in P&ID-related activities, ensuring compliance with engineering standards, operational safety, and project requirements."
+  ],
+  image: require("./coursesImg/Process P&ID Course.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "A basic understanding of process engineering principles",
+    "Familiarity with process equipment and systems (e.g., pumps, vessels, valves)",
+    "Some exposure to industrial or plant operations is beneficial but not mandatory",
+    "Engineering background"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the purpose, scope, and importance of P&IDs in process industries",
+    "Identify the responsibilities associated with P&ID creation and management",
+    "Interpret standard symbols, formats, and content used in P&IDs",
+    "Accurately represent process equipment, piping systems, and instrumentation on a P&ID",
+    "Apply industry-standard references and guidelines in P&ID development",
+    "Follow structured procedures for the preparation, review, issuance, and change management of P&IDs",
+    "Analyze and critique P&IDs using a checklist-based review approach",
+    "Apply lessons learned from case studies to improve P&ID quality and project outcomes"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: References",
+    "Module 3: Process P&ID Responsibilities",
+    "Module 4: Format & Contents",
+    "Module 5: Equipment",
+    "Module 6: Piping",
+    "Module 7: Instrumentation & Controls",
+    "Module 8: P&ID Examples",
+    "Module 9: P&ID Development Procedures",
+    "Module 10: P&ID Issue",
+    "Module 11: Preparation of P&ID",
+    "Module 12: P&ID Review",
+    "Module 13: Management of Change",
+    "Module 14: Process P&ID Review Checklist",
+    "Module 15: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 39,
+  title: "Refinery Valves and Accessories for Control and Safety Instrumented Systems Course",
+  date: "Present",
+  description:
+  [
+    "In a refinery, valves and their accessories play a critical role in both process control and safety. While control valves regulate process variables (flow, pressure, temperature), safety valves are part of Safety Instrumented Systems (SIS) designed to prevent hazards and ensure safe shutdown.",
+    "This course provides a comprehensive insight into the selection, application, and maintenance of valves and related accessories used in control and safety instrumented systems (SIS) within refinery environments.",
+    "With safety, reliability, and precision being paramount in refinery operations, this course focuses on the critical role valves play in both process control and emergency scenarios.",
+    "Participants will explore various types of control and safety valves, including emergency block valves, SIS valves, vapor depressurizing valves, and hydraulic slide valve actuators. The course also covers specific selection criteria, installation best practices, and testing procedures to ensure compliance with industry standards and operational integrity."
+  ],
+  image: require("./coursesImg/Refinery Valves and Accessories.png"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  duration: "4 Days",
+  prerequisite: [
+    "Basic foundational understanding of process instrumentation and control systems",
+    "Familiarity with refinery operations and industrial process equipment",
+    "Basic knowledge of valve types, functions, and instrumentation terminology"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of valves and accessories in refinery control and safety instrumented systems",
+    "Identify different types of control valves and their functions in process regulation",
+    "Apply specific criteria for valve selection based on pressure, temperature, fluid characteristics, and process requirements",
+    "Perform and oversee proper installation, inspection, and testing procedures to ensure safe and effective valve operation",
+    "Analyze typical refinery applications of valves and understand their integration into process systems",
+    "Describe the role of emergency block valves in isolating systems during abnormal or hazardous conditions",
+    "Understand the function and criticality of SIS valves in maintaining process safety and meeting regulatory compliance",
+    "Explain vapor depressurizing valve operations and their importance in overpressure protection and process safety",
+    "Understand the function, configuration, and control of hydraulic slide valve actuators in refining applications",
+    "Integrate valve systems effectively into safety and control architectures for reliable refinery operation"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Control Valves",
+    "Module 3: Specific Criteria",
+    "Module 4: Installation/Inspecting/Testing",
+    "Module 5: Refinery Applications",
+    "Module 6: Emergency Block Valves",
+    "Module 7: Safety Instrumented Systems (SIS) Valves",
+    "Module 8: Vapor Depressurizing Valves",
+    "Module 9: Hydraulic Slide Valves Actuators"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 40,
+  title: "Refinery Instrumentation and Control Systems",
+  date: "Present",
+  description:
+  [
+    "Installing refinery instruments and control systems is a crucial part of setting up and commissioning a refinery. It ensures that the process can be monitored, controlled, and optimized safely and efficiently.",
+    "Process Instrumentation and Control (PIC) is the backbone of any industrial process, especially in refineries, chemical plants, power generation, and water treatment. It involves measuring, monitoring, and controlling process variables to ensure efficiency, safety, and product quality.",
+    "The Process Instrumentation and Control course provides in-depth knowledge and practical insights into the measurement and control of process variables essential for safe, efficient, and automated plant operations.",
+    "Participants will explore core instrumentation topics such as flow, level, temperature, and pressure measurements, as well as advanced topics including automatic control systems, control valves, transmission methods, and protective devices.",
+    "The course integrates basic knowledge of industrial instrumentation systems, power supply arrangements, and control center configurations."
+  ],
+  image: require("./coursesImg/Installation of Refinery Instruments and Control Systems.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "PAI",
+  duration: "1 Day",
+  prerequisite: [
+    "Engineering Background",
+    "Understanding of process operations",
+    "Knowledge of process systems and control theory",
+    "Understanding of industrial automation and instrumentation"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the principles and methods of measuring key process variables — flow, level, temperature, and pressure",
+    "Gain knowledge of automatic controls, control valves & accessories, transmission systems, seals, purges & winterizing, air supply system, hydraulic system, electrical power supply, and instrument panels"
+  ],
+  outline: [
+    "Module 1: Flow",
+    "Module 2: Level",
+    "Module 3: Temperature",
+    "Module 4: Pressure",
+    "Module 5: Automatic Controls",
+    "Module 6: Control Valves & Accessories",
+    "Module 7: Transmission Systems",
+    "Module 8: Seals, Purges & Winterizing",
+    "Module 9: Air Supply System",
+    "Module 10: Hydraulic System",
+    "Module 11: Electrical Power Supply",
+    "Module 12: Instruments Panels"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "FREE",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 41,
+  title: "Process Instrumentation and Control (Air Supply System)",
+  date: "Present",
+  description: [
+    "An air supply system in process instrumentation provides compressed air for operating pneumatic instruments, actuators, control valves, and tools. It is a backbone utility in industries for reliable and clean power where electrical systems are not ideal.",
+    "This course offers a comprehensive introduction to the design, operation, and maintenance of instrument air supply systems, which are critical to the reliability of process instrumentation and automation.",
+    "Instrument air systems ensure the delivery of clean, dry, and pressurized air to pneumatic instruments and control valves used in a wide variety of industrial processes.",
+    "Participants will explore the fundamental components and considerations of air supply systems, including air compressors, drying and cleaning methods, distribution networks, and standby systems.",
+    "The course is structured to provide both theoretical understanding and practical insight, enabling learners to support safe and efficient process operations."
+  ],
+  image: require("./coursesImg/Process I & C(Air Supply System).png"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of industrial instrumentation and control systems",
+    "General knowledge of fluid mechanics and compressed air principles",
+    "Technical or engineering background in instrumentation, mechanical, or process engineering (preferred)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance and function of instrument air systems in process control and automation",
+    "Describe the general structure and components of air supply systems used in industrial environments",
+    "Evaluate the capacity requirements for instrument air based on system demands and process needs",
+    "Explain various methods of air drying and cleaning to maintain air quality standards suitable for instrumentation",
+    "Understand the design and layout principles of instrument air distribution systems",
+    "Identify the role and configuration of instrument air standby systems in ensuring system reliability and availability",
+    "Apply best practices in monitoring, maintaining, and troubleshooting air supply systems to prevent downtime and instrument failure"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Capacity",
+    "Module 4: Drying & Cleaning",
+    "Module 5: Distribution Systems",
+    "Module 6: Instrument Air Standby Systems"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 42,
+  title: "Process Instrumentation and Control (Control Valves & Accessories)",
+  date: "Present",
+  description: [
+    "Control valves regulate the flow, pressure, temperature, or level of fluids by varying the size of the flow passage. They are final control elements in a process loop and receive signals from controllers to maintain the desired set-point.",
+    "This course offers a comprehensive study of control valves and their associated accessories, which are vital components in regulating process variables such as flow, pressure, temperature, and level.",
+    "Control valves serve as the final control elements in an automation system, and their proper selection, installation, and maintenance directly impact process performance and efficiency.",
+    "The course covers various types of control valves, their actuators, manifolds, and the associated piping and wiring practices.",
+    "Participants will gain both theoretical knowledge and practical insights through case studies that reflect real-world industrial challenges and solutions.",
+    "The course is ideal for professionals seeking to deepen their understanding of how control valves function within a broader control system."
+  ],
+  image: require("./coursesImg/Process I & C(Control Valves & Accessories).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process control principles and instrumentation systems",
+    "Familiarity with fluid dynamics and process operations",
+    "Technical or Engineering background in instrumentation, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of control valves in process automation and their impact on system performance",
+    "Identify and compare different types of control valves, including their construction, functionality, and typical applications",
+    "Understand the function, types, and selection criteria of control valve actuators (pneumatic, electric, and hydraulic)",
+    "Explain the role and configuration of control valve manifolds in maintaining and isolating valve assemblies",
+    "Describe best practices for the piping and wiring of control valve actuators to ensure reliable and safe operation",
+    "Analyze real-life case studies to apply theoretical knowledge in troubleshooting, optimizing, and maintaining control valve systems",
+    "Select appropriate control valve and accessory configurations based on process requirements and environmental conditions"
+  ],
+  outline: [
+    "Module 1: General",
+    "Module 2: Control Valves Types",
+    "Module 3: Control Valves Actuators",
+    "Module 4: Control Valves Manifolds",
+    "Module 5: Piping & Wiring to Control Valves Actuators",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 43,
+  title: "Process Instrumentation and Control (Flow)",
+  date: "Present",
+  description: [
+    "Flow is the movement of a fluid (liquid, gas, or steam) through a pipe or channel. In industrial process control, accurate flow measurement ensures proper material balance, energy efficiency, product quality, and system safety.",
+    "This course provides an in-depth exploration of flow measurement techniques and their application in industrial process control systems.",
+    "Flow measurement is critical to monitoring and managing fluids in industries such as oil and gas, chemical processing, water treatment, and power generation.",
+    "Participants will gain a solid understanding of the various types of flow meters, from traditional differential pressure devices to advanced technologies such as magnetic, turbine, and target flow transmitters.",
+    "The course also addresses proper installation practices, including connecting piping and instrument layout, to ensure accurate and reliable flow measurement.",
+    "Practical applications and case-based examples help reinforce theoretical concepts and industry best practices."
+  ],
+  image: require("./coursesImg/Process I & C(Flow).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control systems",
+    "Foundational knowledge of fluid mechanics and flow behavior",
+    "Engineering, technical, or operations background in instrumentation, chemical, mechanical, or process industries"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of flow measurement in industrial process control and automation",
+    "Identify suitable flow measurement technologies based on application needs and process conditions",
+    "Describe the working principles and use of differential primary elements (e.g., orifice plates, venturis, flow nozzles)",
+    "Understand the function and configuration of differential pressure measuring devices used with primary elements",
+    "Recognize best practices for piping and installation to minimize flow disturbances and ensure accurate readings",
+    "Explain the operation and application of area meters (e.g., rotameters) for variable-area flow measurement",
+    "Understand the construction, principle, and uses of target flow transmitters in specific process environments",
+    "Describe the characteristics and performance of turbine and propeller flow meters in measuring flow rates",
+    "Understand the advantages, limitations, and application criteria for magnetic flowmeters in conductive fluid systems",
+    "Apply theoretical knowledge to evaluate, select, and troubleshoot flow measurement systems in real-world scenarios"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Application",
+    "Module 3: Differential Primary Elements",
+    "Module 4: Differential Measuring Devices",
+    "Module 5: Connecting Piping",
+    "Module 6: Area Meters",
+    "Module 7: Target Flow Transmitters",
+    "Module 8: Turbine & Propeller Meters",
+    "Module 9: Magnetic Flowmeters"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 44,
+  title: "Process Instrumentation and Control (Electrical Power Supply)",
+  date: "Present",
+  description: [
+    "The electrical power supply in process instrumentation and control systems is responsible for providing the necessary power to operate the field instruments, sensors, controllers, actuators, and other electronic devices involved in process control.",
+    "A reliable and stable electrical power supply is essential for accurate measurements, control, and safety.",
+    "This course provides a detailed understanding of electrical power supply systems used in industrial process instrumentation and control.",
+    "The reliable supply of electrical power is crucial to the functioning of instrumentation systems, as it ensures the continuous operation of control devices, monitoring equipment, and other electrical loads.",
+    "The course covers essential principles, configurations, and strategies involved in supplying electrical power to process systems, with a focus on handling power dips, interruptions, and ensuring emergency power availability.",
+    "Participants will explore various aspects of electrical power supply, including circuit arrangements, load management, and solutions for maintaining power during interruptions.",
+    "The course will also delve into emergency power systems, backup solutions, and combination drives designed to mitigate power dips, ensuring uninterrupted operation of instrumentation systems."
+  ],
+  image: require("./coursesImg/Process I & C(Electrical Power Supply.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of electrical systems and their role in industrial process control",
+    "Familiarity with electrical circuits, load calculations, and power distribution",
+    "Technical background in electrical engineering, instrumentation, or process control"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of a reliable electrical power supply in industrial process control and instrumentation",
+    "Identify the key components of an electrical power supply system and how they interact with process instrumentation",
+    "Describe general electrical power supply principles, including voltage, current, and frequency management",
+    "Explain various power supply circuit arrangements and how to design them for optimal performance and safety",
+    "Learn how to manage power supply to loads in process systems, ensuring stability and reliability",
+    "Understand how to provide power to critical loads from two different sources to ensure system redundancy and reliability",
+    "Implement strategies to supply electricity during power dips and ensure continuous operation of instruments and equipment",
+    "Design and implement emergency power systems to provide backup power to instrumentation and associated loads during power outages",
+    "Explore combination drives that address both power dips and interruptions, ensuring minimal disruption in process control"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Power Supply Circuit Arrangement",
+    "Module 4: Power Supply to Loads",
+    "Module 5: Load Supply From Two Sources",
+    "Module 6: Supplying Electricity During Power Dips",
+    "Module 7: Supplying Emergency Power to Instruments & Associated Load",
+    "Module 8: Combination Drives for Power Dips & Interruption"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 45,
+  title: "Process Instrumentation and Control (Hydraulic System)",
+  date: "Present",
+  description: [
+    "A hydraulic system uses pressurized fluid to perform work. In industrial applications, hydraulic systems are commonly used to control heavy machinery, automate processes, and move mechanical components with high force.",
+    "Hydraulic systems in process instrumentation and control ensure that machines operate smoothly and efficiently, with precision in controlling force, speed, and movement.",
+    "This course offers a comprehensive introduction to hydraulic systems used in industrial process instrumentation and control.",
+    "Hydraulic systems play a vital role in controlling and transmitting power in various sectors, including manufacturing, oil & gas, and chemical processing.",
+    "The course covers the essential components of hydraulic systems, their design principles, and how to integrate them with control systems to ensure efficient operation.",
+    "Participants will explore key topics such as pumps, pressure regulation, safety mechanisms, alarms, fluid handling, and the importance of proper piping and strainers.",
+    "Additionally, the course addresses how to design hydraulic systems that meet operational requirements and adhere to safety standards, as well as how to maintain and troubleshoot hydraulic systems effectively."
+  ],
+  image: require("./coursesImg/Process I & C(Hydraulic System).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control principles",
+    "General knowledge of fluid mechanics, pressure, and fluid dynamics",
+    "A technical background in instrumentation, mechanical engineering, or process control"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and function of hydraulic systems in process control and instrumentation",
+    "Identify the fundamental design principles of hydraulic systems and the factors that influence system performance",
+    "Describe the different types of hydraulic pumps, their operation, and how to select them based on system requirements",
+    "Explain the purpose and functionality of hydraulic drums in the storage and management of hydraulic fluids",
+    "Understand the principles of pressure control and how hydraulic pressure is managed within a system",
+    "Recognize the function and importance of safety and relief valves in protecting hydraulic systems from overpressure",
+    "Learn about level alarms used to monitor hydraulic fluid levels and ensure optimal system performance",
+    "Understand pressure alarms and their role in monitoring system pressure to prevent damage and ensure safety",
+    "Describe the types and functions of pressure gauges and gauge glasses for accurate pressure measurement in hydraulic systems",
+    "Identify the role of pressure regulators in maintaining consistent system pressure and preventing pressure fluctuations",
+    "Explain the operation and importance of strainers in filtering hydraulic fluid to protect components from contaminants",
+    "Understand the role of piping in hydraulic systems and the best practices for ensuring leak-free, efficient fluid transmission",
+    "Gain insights into hydraulic fluid types, characteristics, and maintenance practices to ensure long-term system reliability"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Basis of Design",
+    "Module 3: Pumps",
+    "Module 4: Drums",
+    "Module 5: Pressure",
+    "Module 6: Safety and Relief Valves",
+    "Module 7: Level Alarms",
+    "Module 8: Pressure Alarms",
+    "Module 9: Pressure Gauges & Gauge Glasses",
+    "Module 10: Pressure Regulators",
+    "Module 11: Strainers",
+    "Module 12: Piping",
+    "Module 13: Fluid"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 46,
+  title: "Process Instrumentation and Control (Instruments Panels)",
+  date: "Present",
+  description: [
+    "Instrument panel is a central assembly housing instruments and control components that monitor and control industrial processes. It acts as the interface between operators and the process, enabling efficient monitoring, diagnostics, and control.",
+    "Instrument panels may include various instruments, controllers, relays, switches, and indicators in a neatly organized and accessible format.",
+    "This course is designed to provide a comprehensive understanding of the design, construction, and application of instrument panels in process control systems.",
+    "Instrument panels serve as the interface between operators and the process, housing instruments, controllers, indicators, and other control devices in a structured and user-friendly layout.",
+    "The course covers different types of panels including conventional, console-type control centers, and graphic panels.",
+    "Participants will explore key elements such as structural design, painting and finishing, electrical installations, and panel piping.",
+    "Participants will gain insight into how panels are configured, built, and maintained for both functionality and safety in industrial environments."
+  ],
+  image: require("./coursesImg/Process I & C(Instruments Panels).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control principles",
+    "Basic knowledge of control devices such as transmitters, indicators, switches, and controllers",
+    "Technical or engineering background in instrumentation, electrical, or process systems"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of instrument panels in process instrumentation and control systems",
+    "Describe the general requirements, components, and layout considerations of instrument panels",
+    "Differentiate between conventional panels, console-type control centers, and graphic panels based on design and application",
+    "Apply best practices in structural design to ensure the durability and stability of instrument panels in various industrial settings",
+    "Understand the importance of painting and surface treatment for corrosion resistance and aesthetic standards",
+    "Plan and implement electrical installations within instrument panels, ensuring proper wiring, grounding, and safety",
+    "Integrate piping into panel design for pneumatic or hydraulic signal transmission, considering layout and maintenance needs",
+    "Interpret panel drawings and specifications to support fabrication, installation, and troubleshooting",
+    "Collaborate with multidisciplinary teams (mechanical, electrical, instrumentation) during panel design and implementation phases"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Conventional Panel",
+    "Module 4: Console-Type Control Center",
+    "Module 5: Graphic Panel",
+    "Module 6: Structural",
+    "Module 7: Painting",
+    "Module 8: Electrical Installations",
+    "Module 9: Piping"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#80,000 / $70",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 47,
+  title: "Process Instrumentation and Control (Pressure)",
+  date: "Present",
+  description: [
+    "In industrial processes, pressure is a key process variable that needs to be accurately measured and controlled to ensure safety, efficiency, and product quality.",
+    "It is especially important in systems involving gases, liquids, steam, or chemical reactions.",
+    "This course is designed to provide participants with the understanding of pressure measurement and control in industrial processes.",
+    "Pressure is a key process variable, and its accurate measurement is critical to safety, efficiency, and quality control in various sectors such as oil & gas, chemical processing, pharmaceuticals, and manufacturing.",
+    "The course introduces the principles and practices of pressure instrumentation, covering essential components such as purging and sealing systems, piping considerations, pressure gauges, transmitters, switches, and local control devices.",
+    "Participants will also learn about best practices in installation, calibration, and maintenance to ensure optimal performance and reliability."
+  ],
+  image: require("./coursesImg/Process I & C(pressure).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process control systems and instrumentation",
+    "General knowledge of physics, especially pressure and fluid dynamics",
+    "Background in engineering, industrial technology, or a related technical field is advantageous",
+    "Familiarity with industrial environments or process systems is helpful but not mandatory"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and significance of pressure measurement in process instrumentation and control",
+    "Describe common purging and sealing techniques used to protect pressure instruments from contamination and damage",
+    "Identify appropriate piping layouts and configurations that support accurate pressure measurement",
+    "Explain the types, operation, and applications of pressure gauges in various industrial settings",
+    "Understand the working principles, selection criteria, and calibration of pressure transmitters and switches",
+    "Describe the functionality and application of locally mounted pressure controllers and recorders",
+    "Apply knowledge of pressure instrumentation to improve process safety, efficiency, and reliability",
+    "Recognize common challenges in pressure measurement and learn troubleshooting and maintenance techniques"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Purging & Sealing",
+    "Module 3: Piping",
+    "Module 4: Pressure Gauges",
+    "Module 5: Pressure Transmitters, Switches, and Locally Mounted Controllers & Recorders"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#50,000 / $40",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 48,
+  title: "Process Instrumentation and Control (Level)",
+  date: "Present",
+  description: [
+    "Process Instrumentation and Control (Level), which is all about measuring and controlling the height of a fluid (liquid or sometimes solids like powders) in a vessel, tank, or column.",
+    "This specialized course focuses on level measurement and control as one of the most critical aspects of process instrumentation.",
+    "It provides a detailed exploration of the instruments, devices, and systems used to measure, indicate, transmit, control, and alarm process levels across various industrial applications.",
+    "Participants will gain knowledge of locally and remotely mounted instruments, controllers, and transmitters, as well as the accessories and system components that ensure accurate and reliable level control.",
+    "Through real-world case studies, the course also highlights best practices and troubleshooting techniques for effective level measurement in operational environments."
+  ],
+  image: require("./coursesImg/Process I & C(Level).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of instrumentation, process control, or operations",
+    "Basic understanding of process systems and measurement principles",
+    "Basic knowledge of level measurement",
+    "Interpretation skills"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental concepts and importance of level measurement in process industries",
+    "Identify various types of locally mounted indicating gauges and understand their applications",
+    "Explain the working principles and selection criteria for level transmitters",
+    "Distinguish between locally mounted and remote/board-mounted control and indication devices",
+    "Understand how locally mounted controllers function and where they are typically applied",
+    "Evaluate the role and configuration of remote receivers and board-level interfaces",
+    "Design and implement effective level alarm systems to ensure process safety and operational continuity",
+    "Recognize the significance of instrument accessories in enhancing accuracy and protecting equipment",
+    "Apply knowledge to real-world scenarios through case studies, reinforcing correct selection, installation, and troubleshooting of level measurement systems"
+  ],
+  outline: [
+    "Module 1: Content",
+    "Module 2: General",
+    "Module 3: Locally Mounted Indicating Gauges",
+    "Module 4: Level Transmitters",
+    "Module 5: Locally Mounted Controllers",
+    "Module 6: Remote or Board Mounted Receivers",
+    "Module 7: Level Alarms",
+    "Module 8: Accessories",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 49,
+  title: "Process Instrumentation and Control (Seals, Purges & Wintering)",
+  date: "Present",
+  description: [
+    "Seals, Purges & Wintering are protective and maintenance measures used in process plants to ensure instrumentation functions properly, especially in harsh environments, hazardous materials, or cold climates.",
+    "This specialized course focuses on the critical practices of sealing, purging, and winterizing in process instrumentation systems.",
+    "These practices are essential to ensure the protection, reliability, and accurate operation of field instruments exposed to harsh environments, corrosive media, or extreme weather conditions.",
+    "Participants will gain an understanding of various seal systems used to isolate instruments from the process, purging techniques for maintaining clean and safe instrument environments, and winterization strategies to prevent freezing and operational issues in cold climates.",
+    "The course bridges engineering principles with field-level application, enabling learners to apply these protective techniques in real-world industrial scenarios."
+  ],
+  image: require("./coursesImg/Process I & C(Seals Purges & Wintering).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control systems",
+    "Basic knowledge of field instrumentation components and their environmental considerations",
+    "Technical background in instrumentation, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of seals, purges, and winterization in ensuring reliable instrument performance",
+    "Identify different types of seals (e.g., diaphragm seals, chemical seals) and their applications in isolating instruments from process media",
+    "Explain the purpose, setup, and best practices of purge systems for protecting measurement devices from contamination or hazardous gases",
+    "Understand the methods and materials used for winterizing instrumentation systems to prevent freezing and ensure functionality in cold environments",
+    "Evaluate instrumentation environments to determine the appropriate sealing, purging, or winterization strategies",
+    "Apply inspection, maintenance, and troubleshooting techniques for seal and purge systems",
+    "Implement winterization plans in accordance with safety and operational standards to reduce downtime and protect assets",
+    "Integrate protective practices into the design and maintenance of instrumentation systems for enhanced process safety and reliability"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Seals",
+    "Module 3: Purges",
+    "Module 4: Winterizing"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 50,
+  title: "Process Instrumentation and Control (Temperature)",
+  date: "Present",
+  description: [
+    "Process Instrumentation and Control involves the use of various instruments and devices to measure, monitor, and control process variables such as temperature, pressure, flow, and level in industrial systems.",
+    "Temperature control is one of the most critical aspects, especially in chemical, food, pharmaceutical, and energy industries.",
+    "This course provides a comprehensive understanding of temperature measurement and control in industrial process instrumentation.",
+    "It delves into the principles, construction, working mechanisms, and applications of various temperature sensing instruments and technologies.",
+    "Starting with the basics, the course explores key devices such as thermocouples, resistance temperature detectors (RTDs), thermometers, and advanced optical pyrometers.",
+    "It culminates with real-world case studies to reinforce learning and practical application."
+  ],
+  image: require("./coursesImg/Process I & C(Temperature).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of general process control principles",
+    "Basic knowledge of physics, particularly heat and temperature concepts",
+    "Familiarity with industrial process systems (not mandatory)",
+    "Engineering or technical background in instrumentation, electronics, or mechanical disciplines is beneficial"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of temperature measurement in process instrumentation and control systems",
+    "Explain the working principles, construction, and applications of thermowells",
+    "Describe the operation, types, and advantages of thermocouples used in industrial settings",
+    "Identify resistance-type temperature sensors such as RTDs and thermistors, and their appropriate usage",
+    "Differentiate between various types of thermometers used for local temperature readings",
+    "Explain the working and application of filled-system temperature instruments",
+    "Understand the principles behind non-contact temperature measurement using radiation-type pyrometers",
+    "Gain insights into optical pyrometers and their usage in high-temperature and specialized environments",
+    "Analyze practical case studies to connect theoretical knowledge with real-world applications in process industries"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Thermowells",
+    "Module 3: Thermocouple Temperature Measurement",
+    "Module 4: Resistance-Type Temperature Measurement",
+    "Module 5: Thermometers for Local Temperature Measurement",
+    "Module 6: Filled-System Temperature Instrument",
+    "Module 7: Radiation Type Pyrometers",
+    "Module 8: Optical Pyrometers",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 51,
+  title: "Process Instrumentation and Control (Transmission Systems)",
+  date: "Present",
+  description: [
+    "Transmission systems in process control are responsible for conveying measurement and control signals between field instruments (like sensors and actuators) and centralized control units (PLCs, DCS, or SCADA). Accurate and reliable transmission is essential for effective monitoring and control.",
+    "This course provides a foundational and practical understanding of flow systems used in process instrumentation and control, with a specific focus on the transmission methods that drive industrial automation.",
+    "It explores the essential components, configurations, and operational principles of pneumatic, electrical, and hydraulic systems used to measure, control, and transmit flow information across various industries.",
+    "Participants will learn how these systems function individually and within integrated control loops, along with industry-standard practices for inspection, testing, and maintenance.",
+    "The course aims to bridge theoretical concepts with field applications, preparing participants to evaluate, maintain, and troubleshoot flow control systems effectively."
+  ],
+  image: require("./coursesImg/Process I & C(Transmission Systems).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of process control and instrumentation fundamentals",
+    "Familiarity with physical principles of flow and fluid mechanics",
+    "Engineering or technical background in automation, instrumentation, mechanical, or electrical fields (preferred)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and significance of flow systems in process instrumentation and control.",
+    "Identify general components and functions of flow control systems across various applications.",
+    "Explain the working principles and configuration of pneumatic systems used in flow control and actuation.",
+    "Understand electrical systems used in flow measurement and signal transmission, including wiring, sensors, and controllers.",
+    "Describe the operation, advantages, and limitations of hydraulic transmission systems used in industrial control applications.",
+    "Apply standard inspection and testing techniques to ensure performance, reliability, and safety of flow systems.",
+    "Troubleshoot common problems in pneumatic, electrical, and hydraulic systems within flow control environments.",
+    "Integrate knowledge of various transmission systems to support efficient and accurate process operations."
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Pneumatic Systems",
+    "Module 4: Electrical Systems",
+    "Module 5: Hydraulic Transmission Systems for Control",
+    "Module 6: Inspection & Test"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#60,000 / $50",
+  certification: "Certificate of Completion"
 }
+
+
+
+
 
 
 

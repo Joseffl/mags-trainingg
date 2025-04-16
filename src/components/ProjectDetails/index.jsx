@@ -269,14 +269,15 @@ const index = ({ openModal, setOpenModal }) => {
 
           <ButtonGroup>
             <Button dull href={project?.paymentLink} target='new'>Enroll Now</Button>
-            <Button 
-            as={HashLink}
-            smooth
-            to="/#contact"
-            // target="_blank"
+            <Button
+              as={HashLink}
+              smooth
+              to="/#contact"
+              onClick={() => setOpenModal({ state: false, project: null })}
             >
               Make Enquiry
             </Button>
+
           </ButtonGroup>
         </Wrapper>
       </Container>
