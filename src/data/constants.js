@@ -1139,7 +1139,7 @@ export const projects = [
       "On-the-job training"
 ,
     ],
-    cost: "₦80,000 / $50"
+    cost: "₦60,000 / $50"
   },
 
   {
@@ -4392,7 +4392,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Majid',
     ],
-    category: "plant drafting",
+    category: "petroleum",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -5159,10 +5159,10 @@ export const projects = [
     title: "Introduction to Process Modeling/Simulation using Aspen HYSYS",
     date: "Present",
     description: [
-      "This course offers a comprehensive and hands-on introduction to Aspen HYSYS, the industry-standard tool for steady-state process simulation in oil and gas, chemical, and refining industries.",
-      "Participants will learn to build and analyze simulations involving pumps, compressors, heat exchangers, reactors, distillation columns, and full plant models.",
-      "The training includes real-world case studies, such as crude oil plant simulation and gas/chemical project design, to bridge theory with practical industry scenarios.",
-      "Designed for professionals and students, the course also prepares participants for the Aspen HYSYS User Certification, ensuring readiness for simulation roles."
+      "This course provides a practical and comprehensive introduction to Aspen HYSYS. It offers a structured and comprehensive approach to learning Aspen HYSYS, the industry-standard tool for process simulation. Through a structured series of modules, participants will gain hands-on experience in building, analyzing, and optimizing steady-state process models for oil and gas facilities, refineries, and chemical plants. The course bridges theoretical concepts with real-world applications through extensive case studies including crude oil and gas/chemical projects. Tailored for professionals and students in the oil & gas, refining, and chemical industries.",
+
+      "Participants will gain practical skills through real-world case studies, including crude oil plant modeling and gas/chemical project design, enabling them to apply simulation results in feasibility studies, design optimization, and plant troubleshooting. The course also includes preparation for the Aspen HYSYS User Certification, ensuring participants are ready to demonstrate their simulation competence professionally."
+
     ],
     image: require("./coursesImg/intro to process model using aspen.png"),
     tags: [
@@ -5184,7 +5184,7 @@ export const projects = [
       "Define and manage component lists and apply appropriate thermodynamic property packages based on process requirements.",
       "Characterize petroleum assays for crude oil simulation and integrate assay data into models.",
       "Configure and apply unit sets, and effectively use model palettes to build simulation cases.",
-      "Design and simulate process equipment, including pumps, compressors, expanders, heat exchangers, and flash separators.",
+      "Design and simulate process equipment, including: (i) Pumps, compressors, expanders, Heat exchangers and flash separators (ii) Conversion and equilibrium reactors",
       "Model pipe segments and evaluate pressure drop and heat loss.",
       "Utilize logical operators and manipulators (e.g., adjusters, recyclers, spreadsheets) for process control and convergence.",
       "Simulate distillation/separation columns, such as De-Methanizer, De-Ethanizer, and De-Propanizer.",
@@ -5209,6 +5209,7 @@ export const projects = [
       "Module 13: Logical Operators/Manipulators (Recycler, Set, Adjust & Spreadsheet)",
       "Module 14: Modeling/Simulation of Separation Columns (De-Methanizer, De-Ethanizer, & De-Propanizer)",
       "Module 15: Heat & Material Balance (Reporting)",
+      "Case Studies – Crude Oil Project & Gas/Chemical Project",
       "Module 16: Simulation of a Crude Oil Plant (Characterization, Pre-Heat Train, Atmospheric Towers, Side Operation and Pump Around Operation)",
       "Module 17: Feasibility/Conceptual Design of a Gas/Chemical Project",
       "Module 18: Aspen HYSYS User Certification Preparation"
@@ -5229,10 +5230,12 @@ export const projects = [
     title: "Process Modeling/Simulation using Aspen HYSYS",
     date: "Present",
     description: [
-      "This advanced-level course builds on foundational Aspen HYSYS knowledge to equip participants with specialized modeling skills for gas processing and chemical industry applications.",
-      "Participants will master simulation techniques for acid gas removal, dehydration systems, sulfur recovery using SULSIM, sour water stripping, line sizing, and hydraulic modeling.",
-      "Real-world case studies and a capstone project support practical application in feasibility studies, debottlenecking, and conceptual process design.",
-      "The course prepares learners for the Aspen HYSYS Expert Certification, enabling them to validate and demonstrate professional-level simulation competence."
+      "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
+
+      "This advanced-level course is designed to deepen participants’ expertise in Aspen HYSYS by focusing on specialized processes and utilities commonly encountered in gas processing and chemical industries. Building on core simulation skills, the course covers acid gas removal, gas dehydration, sulfur recovery (SULSIM integration), sour water stripping, hydraulic calculations, and line sizing utilities.",
+
+      "Participants will explore column operations and develop a strong understanding of end-to-end process modeling for conceptual design, debottlenecking, and troubleshooting. Real-world case studies and a capstone project simulate the conceptual design of a gas/chemical plant. The course also includes a dedicated module to prepare learners for the Aspen HYSYS Expert Certification, validating their mastery of process simulation."
+
     ],
     image: require("./coursesImg/process model using aspen.png"),
     tags: [
@@ -5265,6 +5268,7 @@ export const projects = [
       "Module 6: Line Sizing Utility",
       "Module 7: Hydraulics",
       "Module 8: Column Operations in Aspen HYSYS",
+      "Case Studies –Gas/Chemical Project",
       "Module 9: Feasibility/Conceptual Design of a Gas/Chemical Project",
       "Module 10: Aspen HYSYS Expert Certification Preparation"
     ],
@@ -5285,10 +5289,11 @@ export const projects = [
     title: "Sizing of Strainers & Screen Openings For Strainers",
     date: "Present",
     description: [
-      "This course equips participants with the knowledge and skills to effectively size and select strainers and screen openings in industrial applications, especially within the oil and gas sector.",
-      "It focuses on the principles behind strainer sizing, screen mesh specifications, pressure drops, and correction factors critical for proper strainer selection.",
-      "Participants will understand how different screen openings impact system performance and how to apply sizing calculations to match operational needs.",
-      "The course is ideal for professionals working on EPC projects, helping them align strainer selection with project specifications and industry standards."
+      "Screen openings for strainers refer to the size of the holes or mesh openings in the strainer's screen or filter element. These openings are designed to separate solids from liquids or gases by allowing the fluid to pass through while retaining particles of a certain size. The selection of screen openings for strainers depends on the application and the type of material being filtered.",
+      "Strainer sizing is an essential process in designing systems that require filtration to protect downstream equipment or processes from debris, solids, or contaminants. Proper strainer sizing ensures that the strainer effectively captures particles without restricting fluid flow too much, preventing clogging, reducing maintenance, and ensuring optimal performance.",
+      "The Sizing of Strainers & Screen Openings course is designed to provide participants with the essential knowledge and skills required to select and size strainers and screens for various applications in industrial processes. The course covers key topics such as screen openings, mesh sizes, factors influencing screen selection, strainer types, and sizing calculations. Participants will also learn how to consider the effects of factors like viscosity, pressure drop, and burst pressure to ensure efficient operation and longevity of strainer systems in fluid handling systems.",
+      "By the end of this course, students will be proficient in determining the appropriate screen and strainer sizes for their systems and performing necessary calculations to optimize the performance of strainers across different operating conditions."
+
     ],
     image: require("./coursesImg/sizing of strainers.png"),
     tags: [
@@ -5301,16 +5306,21 @@ export const projects = [
     ],
     methodology: "Theoretical",
     objectives: [
-      "Define the concept of change and change management.",
-      "Understand key roles in the change management process.",
-      "Determine the phases of change management.",
-      "Learn to formulate an effective plan for the change process.",
-      "Deeply understand the reasons for resistance to change.",
-      "Find out about effective methods of preventing and eliminating resistance to change.",
-      "Gain the ability to design fruitful communication related to the change process.",
-      "Learn techniques for effective implementation of change.",
-      "Develop skills associated with controlling the change process.",
-      "Build proficiency in shaping a change-oriented organizational culture."
+      "Understand the concept of screen openings and their role in the function of strainers.",
+      "Identify different types of screen openings used in industrial straining applications.",
+      "Learn how to determine the appropriate mesh size for different straining applications.",
+      "Familiarize with the different mesh and opening sizes used in strainers, and how to select them based on application needs.",
+      "Identify and understand the factors that influence the selection of screen openings, such as fluid type, flow rate, and particle size.",
+      "Learn about the most commonly used screen opening sizes in various industries and applications.",
+      "Understand when and why each size is chosen.",
+      "Understand the types of materials used in making strainer screens (e.g., stainless steel, brass, plastic) and their suitability for various applications.",
+      "Explore the various applications where specific screen openings are used, such as in oil, water, gas, and chemical processing.",
+      "Learn about the different types of strainers (e.g., Y-strainers, basket strainers, temporary strainers) and their applications in various industrial systems.",
+      "Understand the importance of strainer sizing and the effects of improper sizing on system performance.",
+      "Learn about the key factors involved in sizing strainers, including flow rate, pressure, and type of fluid.",
+      "Learn how to perform sizing calculations for different types of strainers, considering flow conditions and operational requirements.",
+      "Apply the principles learned throughout the course to real-world case studies involving strainer and screen sizing, pressure drops, and burst pressure calculations."
+
     ],
     outline: [
       "Module 1: Screen Openings for Strainers",
@@ -5332,7 +5342,19 @@ export const projects = [
       "Module 17: Y-Strainer Pressure Drop - Saturated Steam",
       "Module 18: Basket Strainer Pressure Drop - Liquids",
       "Module 19: Temporary Strainer Pressure Drop - Liquids",
-      "Module 20: Fabricated Y & Tee Strainer Pressure Drop - Liquids"
+      "Module 20: Fabricated Y & Tee Strainer Pressure Drop - Liquids",
+      "Module 21:  Fabricated Basket & Duplex Strainer Pressure Drop - Liquids",
+      "Module 22:  Y-Strainer Screen Burst Pressure",
+      "Module 23:  Basket & Duplex Strainer Basket Burst Pressure",
+      "Module 24:  Series TB Strainer Burst Pressure",
+      "Module 25:  Series TC Strainer Burst Pressure",
+      "Module 26:  Fabricated Y-Strainer Screen Burst Pressure",
+      "Module 27:  Fabricated T-Strainer Screen Burst Pressure",
+      "Module 28:  Y-Strainer Screen Effective Area",
+      "Module 29:  Basket Strainer Effective Area",
+      "Module 30:   Fabricated Strainer Screen Effective Area",
+      "Module 31:   Case Studies"
+
     ],
     assessment: "Online Written Exam",
     cdf: [
@@ -12606,7 +12628,8 @@ export const projects = [
     "This course provides a comprehensive understanding of temperature measurement and control in industrial process instrumentation.",
     "It delves into the principles, construction, working mechanisms, and applications of various temperature sensing instruments and technologies.",
     "Starting with the basics, the course explores key devices such as thermocouples, resistance temperature detectors (RTDs), thermometers, and advanced optical pyrometers.",
-    "It culminates with real-world case studies to reinforce learning and practical application."
+    "It culminates with real-world case studies to reinforce learning and practical application.",
+    "Whether you're new to instrumentation or looking to deepen your expertise, this course equips you with the knowledge to select, install, and interpret temperature measurement instruments effectively in process environments."
   ],
   image: require("./coursesImg/Process I & C(Temperature).png"),
   tags: [
