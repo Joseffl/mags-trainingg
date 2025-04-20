@@ -5221,7 +5221,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "#180,000 / $150",
+    cost: "₦180,000 / $150",
     certification: "Certificate of Completion"
   },
   
@@ -5279,7 +5279,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "#250,000 / $200",
+    cost: "₦250,000 / $200",
     certification: "Certificate of Completion or Aspen HYSYS Expert Certificate"
   },
   
@@ -5302,7 +5302,8 @@ export const projects = [
     category: "process",
     duration: "3 Days",
     prerequisite: [
-      "Background of EPC (Engineering, Procurement, and Construction) projects"
+      "Basic understanding of fluid mechanics and industrial filtration systems.",
+      "Knowledge of process engineering or a related field, including concepts such as flow rate, pressure drop, and material properties."
     ],
     methodology: "Theoretical",
     objectives: [
@@ -5363,7 +5364,7 @@ export const projects = [
       "In-house workshops",
       "On-the-job training"
     ],
-    cost: "#100,000 / $80",
+    cost: "₦180,000 / $150",
     certification: "Certificate of Completion"
   },
   
@@ -12162,7 +12163,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#60,000 / $50",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 },
 
@@ -12214,7 +12215,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#80,000 / $60",
+  cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
 },
 
@@ -12272,7 +12273,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#80,000 / $60",
+  cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
 },
 
@@ -12329,7 +12330,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#80,000 / $60",
+  cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
 },
 
@@ -12395,7 +12396,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#100,000 / $80",
+  cost: "₦100,000 / $80",
   certification: "Certificate of Completion"
 },
 
@@ -12453,7 +12454,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#80,000 / $70",
+  cost: "₦80,000 / $70",
   certification: "Certificate of Completion"
 },
 
@@ -12506,7 +12507,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#50,000 / $40",
+  cost: "₦50,000 / $40",
   certification: "Certificate of Completion"
 },
 
@@ -12563,7 +12564,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#60,000 / $50",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 },
 
@@ -12614,7 +12615,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#60,000 / $50",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 },
 
@@ -12673,7 +12674,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#60,000 / $50",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 },
 
@@ -12725,7 +12726,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#60,000 / $50",
+  cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
 }
 
