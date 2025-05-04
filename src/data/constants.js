@@ -8,7 +8,7 @@ export const Bio = {
   linkedin: "",
   twitter: "",
   insta: "https://www.instagram.com/mags_engineering?igsh=b2VkaHMyZnNnMmc1",
-  facebook: "https://www.facebook.com/share/jHdh9HVJpjta9b7R/?mibextid=JRoKGi"
+  facebook: "https://web.facebook.com/profile.php?id=61575658900911"
 };
 
 export const skills = [

@@ -45,10 +45,10 @@ const Title = styled.h1`
 `;
 
 const Desc = styled.p`
-  font-size: 20px;
+  font-size: 17px;
   text-align: center;
   color: #333333;
-  max-width: 600px;
+  max-width: 800px;
   margin-bottom: 20px;
 
   @media (max-width: 768px) {
@@ -140,7 +140,8 @@ const Index = () => {
       <Wrapper>
         <Title>Our Services</Title>
         <Desc>
-          At Mags Engineering Limited, we provide cutting-edge engineering solutions tailored to meet the specific needs of our clients.
+          At Mags Engineering Limited, we provide cutting-edge engineering solutions tailored to meet the specific needs of our clients. 
+          Mags Engineering Limited offers specialized engineering training and consultancy services across Nigeria and globally. Our programs include Process Engineering, Mechanical Engineering, Petroleum and Gas Engineering, Project Management, HAZOP/HAZID studies, and 3D Plant Modelling, helping professionals advance their skills and meet industry standards worldwide.
         </Desc>
         <TimelineSection>
           <Timeline>
