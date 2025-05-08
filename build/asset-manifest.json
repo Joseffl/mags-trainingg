@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c1add93.css",
-    "main.js": "/static/js/main.123423e6.js",
+    "main.js": "/static/js/main.6190635f.js",
     "static/media/Process I & C(Transmission Systems).png": "/static/media/Process I & C(Transmission Systems).5b9ad87ad4af3748690b.png",
     "static/media/COMMISIONING .png": "/static/media/COMMISIONING .efc4b6513b7435a130af.png",
     "static/media/Process I & C(Temperature).png": "/static/media/Process I & C(Temperature).a10cdbd6d75b11e9a074.png",
@@ -16,8 +16,11 @@
     "static/media/Process I & C(Flow).png": "/static/media/Process I & C(Flow).a390f67633cc156aad2f.png",
     "static/media/Installation of Refinery Instruments and Control Systems.png": "/static/media/Installation of Refinery Instruments and Control Systems.bc78c4e4112b3a5aaefa.png",
     "static/media/Process I & C(Hydraulic System).png": "/static/media/Process I & C(Hydraulic System).12650257a3a314304264.png",
+    "static/media/Process Design of Oil & Gas Separator and Scrubbers.png": "/static/media/Process Design of Oil & Gas Separator and Scrubbers.b20b261fc62ca3e9cd2e.png",
+    "static/media/process model using aspen.png": "/static/media/process model using aspen.600f67fff075e0a0e5d6.png",
     "static/media/Process I & C(Electrical Power Supply.png": "/static/media/Process I & C(Electrical Power Supply.7600b5f3b47935dc52ca.png",
     "static/media/Process I & C(Instruments Panels).png": "/static/media/Process I & C(Instruments Panels).9eac19e1bbcb24e38396.png",
+    "static/media/intro to process model using aspen.png": "/static/media/intro to process model using aspen.7e12ede81c31a34862a8.png",
     "static/media/Process P&ID Course.png": "/static/media/Process P&ID Course.ff58d440074fc158faca.png",
     "static/media/HeroImage.png": "/static/media/HeroImage.e86fb11f846993d2b0aa.png",
     "static/media/eng safety checklist.png": "/static/media/eng safety checklist.7ee72e015a7d9deb6c00.png",
@@ -80,12 +83,9 @@
     "static/media/cost estimating.png": "/static/media/cost estimating.7fe6efbff445021b6384.png",
     "static/media/process drafting visio.png": "/static/media/process drafting visio.6656e5a13fb5057e67b0.png",
     "static/media/contract admin.png": "/static/media/contract admin.a8367424bb0016d4e36e.png",
-    "static/media/specification for oil.png": "/static/media/specification for oil.63b03157240e22f60a8d.png",
     "static/media/CALIBRATION - TECHNICIANS GUIDE.png": "/static/media/CALIBRATION - TECHNICIANS GUIDE.ebe28aed563c8ad6c14f.png",
-    "static/media/intro to process model using aspen.png": "/static/media/intro to process model using aspen.d86252dcc9c58d5b090b.png",
     "static/media/process drafting.png": "/static/media/process drafting.b4206afcb2f6643e95a4.png",
     "static/media/electrical drafting.png": "/static/media/electrical drafting.7aa412a803e5480784d4.png",
-    "static/media/process model using aspen.png": "/static/media/process model using aspen.67c65dd59ad91355deaf.png",
     "static/media/CONTROL VALVE SIZING.png": "/static/media/CONTROL VALVE SIZING.9e913fc4d55572dd10a7.png",
     "static/media/LNG.png": "/static/media/LNG.47b414d5f1ab41bf453c.png",
     "static/media/PUMP SIZING.png": "/static/media/PUMP SIZING.50111aa47cfb37f5ee74.png",
@@ -149,10 +149,10 @@
     "static/media/HeroBanner.jpg": "/static/media/HeroBanner.31154bfc10cd2e406099.jpg",
     "index.html": "/index.html",
     "main.8c1add93.css.map": "/static/css/main.8c1add93.css.map",
-    "main.123423e6.js.map": "/static/js/main.123423e6.js.map"
+    "main.6190635f.js.map": "/static/js/main.6190635f.js.map"
   },
   "entrypoints": [
     "static/css/main.8c1add93.css",
-    "static/js/main.123423e6.js"
+    "static/js/main.6190635f.js"
   ]
 }

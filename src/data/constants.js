@@ -4378,17 +4378,19 @@ export const projects = [
 
   {
     id: 10,
-    title: "Specification for Oil & Gas Separator  ",
+    title: "Process Design of Oil & Gas Separator and Scrubbers  ",
     date: "Oct 2022 - Present",
     description:
     [
           
       "An oil and gas separator is a crucial piece of equipment in the oil and gas industry used to separate the mixed production fluids (oil, gas, water, and other solids) into their individual components. The separator typically works in the upstream segment of the industry, before the fluids undergo further processing or transportation. ",
-      "The Specification for Oil & Gas Separator course provides a comprehensive guide for engineers, designers, and professionals working with separation equipment in the oil and gas industry. This specification outlines the fundamental concepts, guidelines, and technical aspects involved in the design, fabrication, testing, and operation of separators. Separators are essential equipment used to separate different phases (oil, gas, and water) from production streams in the oil and gas industry. Through this course, participants will gain a deeper understanding of separator specifications, from initial design through to commissioning, and will acquire the knowledge necessary to meet industry standards and address practical challenges."
+
+      "This course provides a comprehensive understanding of the process design principles for oil & gas separators and scrubbers. It covers theoretical concepts, design calculations, instrumentation integration, and real-world case studies. The course is designed for engineers and technical professionals involved in upstream oil and gas production.",
+      "Participants will learn how to analyze multiphase flow, apply sizing methodologies, and integrate safety and instrumentation into the design process. Emphasis is placed on practical design tools, API 12J codes and standards."
 
     ],
       image:
-      require("./coursesImg/specification for oil.png"),
+      require("./coursesImg/Process Design of Oil & Gas Separator and Scrubbers.png"),
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -4396,10 +4398,11 @@ export const projects = [
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
-    duration: "5 Days",
+    duration: "4 Days",
     prerequisite: [
       "Basic Engineering Knowledge.",
       "Familiarity with Oil & Gas Processes.",
+      "Basic understanding of process control and instrumentation.",
       "Fundamentals of Fluid Mechanics.",
       "Experience with Industry Standards."
 
@@ -4407,20 +4410,14 @@ export const projects = [
     ],
     methodology: "Theoretical",
     objectives: [
-          "Understand the Role and Importance of Separators.",
-          "Comprehend Industry Standards and Scope.",
-          "Learn Key Terminology and Definitions.",
-          "Select Materials for Separator Construction.",
-          "Apply Principles of Separator Design.",
-          "Understand Fabrication, Testing, and Painting.",
-          "Marking and Identification Standards.",
-          "Inspection and Rejection Protocols.",
-          "Evaluate Process Considerations.",
-          "Implement Corrosion Guidelines.",
-          "Perform Separator Design and Sizing Calculations.",
-          "Work through Separator Sizing Example Calculation.",
-          "Understand Separator Design Information.",
-          "Use of Monograms in Separator Design."
+          "Understand the role of separators and scrubbers in upstream processing.",
+          "Identify and apply key process and mechanical design parameters.",
+          "Perform sizing calculations for 2-phase and 3-phase separators as per API 12J codes and standards",
+          "Select appropriate instrumentation and control systems.",
+          "Evaluate mechanical and structural requirements for vessel design.",
+          "Interpret and apply design standards and codes (e.g., API, ASME).",
+          "Analyze real-world scenarios and troubleshoot design inefficiencies."
+
 
 
                   
@@ -4428,19 +4425,12 @@ export const projects = [
     outline: [
         "Module 1:   Introduction",
         "Module 2:   Scope.",
-        "Module 3:   Definitions",
-        "Module 4:   Material",
-        "Module 5:   Design",
-        "Module 6:   Fabrication, Testing, and Painting",
-        "Module 7:   Marking",
-        "Module 8:   Inspection and Rejection", 
-        "Module 9:   Process Considerations",
-        "Module 10:  Corrosion Guidelines",
-        "Module 11:  Design and Sizing Calculations",
-        "Module 12:  Separator Sizing Example Calculation",
-        "Module 13:  Separator Design Information",
-        "Module 14:  Use of Monogram",
-        "Module 15:  Case Studies"
+        "Module 3:   Design Parameters",
+        "Module 4:   Separator Sizing Specification",
+        "Module 5:   Instrumentation",
+        "Module 6:   Mechanical Design Consideration",
+        "Module 7:   Case Studies"
+
 
 
 
@@ -5156,7 +5146,7 @@ export const projects = [
 
   {
     id: 53,
-    title: "Introduction to Process Modeling/Simulation using Aspen HYSYS",
+    title: "Process Modeling/Simulation using Aspen HYSYS",
     date: "Present",
     description: [
       "This course provides a practical and comprehensive introduction to Aspen HYSYS. It offers a structured and comprehensive approach to learning Aspen HYSYS, the industry-standard tool for process simulation. Through a structured series of modules, participants will gain hands-on experience in building, analyzing, and optimizing steady-state process models for oil and gas facilities, refineries, and chemical plants. The course bridges theoretical concepts with real-world applications through extensive case studies including crude oil and gas/chemical projects. Tailored for professionals and students in the oil & gas, refining, and chemical industries.",
@@ -5227,7 +5217,7 @@ export const projects = [
   
   {
     id: 54,
-    title: "Process Modeling/Simulation using Aspen HYSYS",
+    title: "Advance Process Modeling/Simulation using Aspen HYSYS",
     date: "Present",
     description: [
       "Aspen HYSYS is a powerful process simulation software developed by Aspen Technology that is widely used in the chemical, oil and gas, and other process industries for designing and optimizing processes. It allows engineers to simulate, analyze, and optimize chemical processes with ease.",
