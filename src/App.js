@@ -17,6 +17,7 @@ import styled from "styled-components";
 import RoleDetailsPage from './components/RoleDetailsPage';
 import SkillDetail from "./components/SkillDetails/index.js";
 import Index from "./components/Experience";
+import CoursePage from "./pages/CoursePage/index.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -64,6 +65,7 @@ function App() {
               path="/training" 
               element={<Projects openModal={openModal} setOpenModal={setOpenModal} />} 
             />
+            
             <Route 
               path="/projects" 
               element={<Skills openModal={openModal} setOpenModal={setOpenModal} />} 
@@ -71,6 +73,8 @@ function App() {
             <Route path="/services" element={<Index openModal={openModal} setOpenModal={setOpenModal}/>} />
             <Route path="/services/:id" element={<SkillDetail openModal={openModal} setOpenModal={setOpenModal}/>} />
             {/* <Route path="/" element={<ServicesPage />} /> */}
+            <Route path="/courses/:slug" element={<CoursePage />} />
+
             <Route 
               path="/role/:id" 
               element={

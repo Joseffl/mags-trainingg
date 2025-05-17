@@ -336,6 +336,13 @@ export const experiences = [
   
 ];
 
+const slugify = (text) =>
+  text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')   // remove special characters
+    .replace(/\s+/g, '-')           // replace spaces with dashes
+    .replace(/-+/g, '-')            // remove multiple dashes
+    .trim();
 
 
 export const projects = [
@@ -346,7 +353,7 @@ export const projects = [
     description:
       "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      require("./coursesImg/COMMISIONING .png"),
+      require("./coursesImg/COMMISIONING.png"),
     tags: ["Trainer: Engr. Lateef"
   ],
     duration: "2 Days",
@@ -12724,9 +12731,10 @@ export const projects = [
 
 
 
-
-
-
 ];
 
 
+export const courses = projects.map(project => ({
+  ...project,
+  slug: slugify(project.title)
+}));
