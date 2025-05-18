@@ -5,7 +5,7 @@ import path from 'path';
 
 const inputFile = path.resolve('src/data/constants.js');
 const outputFile = path.resolve('public/sitemap.xml');
-const baseUrl = 'https://www.magsengineeringlimited.com'; 
+const baseUrl = 'https://magsengineeringlimited.com'; 
 const today = new Date().toISOString().split('T')[0]; // e.g., 2025-05-17
 // change this to your actual domain
 

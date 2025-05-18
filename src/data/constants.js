@@ -2,12 +2,10 @@ export const Bio = {
   name: "Mags Engineering Limited",
   description:
     "Mags Engineering is a prominent Engineering, Procurement, and Construction (EPC) company specializing in delivering comprehensive solutions across various sectors, including oil and gas, power, and infrastructure. With a focus on innovation and sustainability, Mags Engineering is known for its expertise in managing complex projects from initial design through to execution and maintenance. The company emphasizes quality, safety, and efficiency, leveraging advanced technologies and skilled professionals to meet client needs and industry standards. Mags engineering is committed to fostering long-term partnerships and contributing to the development of sustainable infrastructure.",
-  github: "#",
-  resume:
-    "https://drive.google.com/file/d/1rqeUcfiz8Ea3m1FecDcAdKzErcmmWkqW/view?usp=sharing",
-  linkedin: "",
-  twitter: "",
-  insta: "https://www.instagram.com/mags_engineering?igsh=b2VkaHMyZnNnMmc1",
+  
+  linkedin: "https://www.linkedin.com/company/mags-engineering-limitedd/",
+  twitter: "https://x.com/magseng_",
+  // insta: "https://www.instagram.com/mags_engineering?igsh=b2VkaHMyZnNnMmc1",
   facebook: "https://web.facebook.com/profile.php?id=61575658900911"
 };
 

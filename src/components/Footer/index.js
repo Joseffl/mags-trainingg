@@ -107,10 +107,10 @@ function Footer() {
         </ContactDetails>
         
         <SocialMediaIcons>
-          {/* <SocialMediaIcon href="#" target="display"><TwitterIcon /></SocialMediaIcon>
-          <SocialMediaIcon href="#" target="display"><LinkedInIcon /></SocialMediaIcon>  */}
+          <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon> 
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
           
         </SocialMediaIcons>
         <Copyright>

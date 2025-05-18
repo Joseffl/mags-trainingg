@@ -19,12 +19,21 @@ const Title = styled.h1`
   font-size: 28px;
   font-weight: 600;
   margin: 8px 0;
+
+  @media only screen and (max-width: 600px) {
+      font-size: 24px;
+      margin: 6px 6px 0px 6px;
+  }
 `;
 
 const Desc = styled.div`
   font-size: 16px;
   font-weight: 400;
   margin: 8px 0;
+  @media only screen and (max-width: 600px) {
+        font-size: 14px;
+        margin: 6px 6px;
+    }
 `;
 
 const Image = styled.img`
@@ -38,6 +47,10 @@ const Tags = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 10px;
+
+  @media only screen and (max-width: 600px) {
+        margin: 4px 0px;
+    }
 `;
 
 const Tag = styled.div`
@@ -47,6 +60,10 @@ const Tag = styled.div`
   padding: 4px 8px;
   border-radius: 8px;
   background-color: ${({ theme }) => theme.primary + 20};
+
+  @media only screen and (max-width: 600px) {
+        font-size: 12px;
+    }
 `;
 
 const SideBySideSections = styled.div`
@@ -57,6 +74,7 @@ const SideBySideSections = styled.div`
 
   @media (max-width: 768px) {
     flex-direction: column;
+    gap: 20px;
   }
 `;
 
@@ -65,6 +83,12 @@ const Section = styled.div`
   background-color: ${({ theme }) => theme.bgLight};
   padding: 20px;
   border-radius: 10px;
+
+   @media only screen and (max-width: 768px) {
+    width: 100%; /* Full width when stacked */
+    font-size: 14px;
+    // margin: 6px 6px;
+  }
 `;
 
 const ButtonGroup = styled.div`
@@ -75,17 +99,30 @@ const ButtonGroup = styled.div`
 `;
 
 const Button = styled.a`
-  font-size: 16px;
-  font-weight: 600;
-  color: ${({ theme }) => theme.text_primary};
-  padding: 12px 16px;
-  border-radius: 8px;
-  background-color: ${({ theme }) => theme.primary};
-  text-decoration: none;
-  cursor: pointer;
-  &:hover {
-    background-color: ${({ theme }) => theme.primary + 99};
-  }
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: ${({ theme }) => theme.text_primary};
+    padding: 12px 16px;
+    border-radius: 8px;
+    background-color: ${({ theme }) => theme.primary};
+    ${({ dull, theme }) => dull && `
+        background-color: ${theme.bgLight};
+        color: ${theme.text_secondary};
+        &:hover {
+            background-color: ${({ theme }) => theme.bg + 99};
+        }
+    `}
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    &:hover {
+        background-color: ${({ theme }) => theme.primary + 99};
+    }
+    @media only screen and (max-width: 600px) {
+        font-size: 12px;
+    }
 `;
 
 const CoursePage = () => {
