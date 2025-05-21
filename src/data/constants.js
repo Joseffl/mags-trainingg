@@ -6,7 +6,8 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/company/mags-engineering-limitedd/",
   twitter: "https://x.com/magseng_",
   // insta: "https://www.instagram.com/mags_engineering?igsh=b2VkaHMyZnNnMmc1",
-  facebook: "https://web.facebook.com/profile.php?id=61575658900911"
+  facebook: "https://web.facebook.com/profile.php?id=61575658900911",
+  whatsapp: "https://wa.me/+2348156358138"
 };
 
 export const skills = [
@@ -600,7 +601,7 @@ export const projects = [
 
   {
     id: 3,
-    title: "HAZARD AND IDENTIFICATION (HAZID)",
+    title: "HAZID",
     date: "Oct 2022 - Present",
     description:
       "A Hazard Identification (HAZID) course is a comprehensive program designed to equip individuals with the essential knowledge and skills to proactively identify, assess, and manage potential hazards within their workplace or projects. This course is crucial for ensuring workplace safety, regulatory compliance, and minimizing the risk of accidents or incidents.",
@@ -655,7 +656,7 @@ export const projects = [
 
   {
     id: 4,
-    title: "Hazard and Operability studies (HAZOP)",
+    title: "HAZOP",
     date: "Oct 2022 - Present",
     description:
       "HAZOP is a systematic and structured technique used to identify potential hazards and operational problems in a process or system. It's a widely used method in the process industry, particularly in areas like chemical engineering, pharmaceuticals, and oil and gas. This course aims to equip participants with the knowledge and skills necessary to accurately identify potential hazards and operational problems in a process or system.",
@@ -1772,17 +1773,6 @@ export const projects = [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 //     ],
 //     methodology: "Theoretical",
 //     objectives: [
@@ -1792,19 +1782,6 @@ export const projects = [
 //           "Explain how to apply the API RP 520 Part I, Sizing and Selection of Pressure Relieving Devices.",
 //           "Understand the different scenarios for PSV application",
 //           "Perform various PSV sizing with excel-sheet and hysys"
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1819,20 +1796,6 @@ export const projects = [
 //         "Module 6: Sizing application on Gas, Liquid and steam.",
 //         "Module 7: PSV Sizing with Aspen Hysys",
 //         "Module 8: PSV Datasheet"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -12723,7 +12686,418 @@ export const projects = [
   ],
   cost: "₦60,000 / $50",
   certification: "Certificate of Completion"
-}
+},
+
+{
+  id: 52,
+  title: "ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS",
+  date: "Present",
+  description: [
+    "Assessment involves identifying, analyzing, and understanding the risks posed by natural hazards. The goal is to reduce vulnerability and prepare for effective response and recovery.",
+    "This course provides a structured approach to assessing and planning for natural hazards with a focus on minimizing risks to infrastructure, equipment, and operations.",
+    "It guides participants through the process of identifying potential hazards, collecting relevant data, evaluating the vulnerability of critical equipment, and comparing risks against design criteria.",
+    "The course also covers planning for recovery and recommissioning activities after an event."
+  ],
+  image: require("./coursesImg/ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "hazop hazid",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of risk assessment or disaster management concepts",
+    "Familiarity with fluid mechanics and heat exchanger operations.",
+    "Knowledge of material science, especially related to thermal conductivity and corrosion.",
+    "General knowledge of environmental and geotechnical factors"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of natural hazard assessment in protecting assets and operations.",
+    "Identify various types of natural hazards (e.g., earthquakes, floods, hurricanes) relevant to specific locations or facilities",
+    "Collect and interpret hazard-related data for informed decision-making.",
+    "Recognize critical equipment and systems that must be assessed for vulnerability",
+    "Evaluate current designs and installations against hazard-resistant criteria or standards",
+    "Design and evaluate the performance of shell-and-tube exchangers, incorporating baffles and tube bundles to improve efficiency.",
+    "Plan for effective recovery and recommissioning following a natural hazard event",
+    "Apply practical knowledge gained from case studies to improve facility preparedness and response."
+  ],
+  outline: [
+    "Module 1:    Introduction",
+    "Module 2:    Identifying Hazards",
+    "Module 3:    Gather Data",
+    "Module 4: Identify Equipment to be addressed In Natural Hazards Assessment",
+    "Module 5:    Evaluate against Design Criteria",
+    "Module 6:    Recovery",
+    "Module 7:    Recommissioning",
+    "Module 8:  Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 52,
+  title: "Bearings Failures, Causes & Remedies",
+  date: "Present",
+  description: [
+    "Bearings are critical components in rotating machinery, designed to support loads and reduce friction between moving parts. When bearings fail, they can lead to equipment breakdowns, reduced efficiency, safety hazards, and costly downtime. Understanding why bearings fail and how to prevent it is essential for reliable machine operation.",
+    "This course offers a comprehensive study of bearing systems, focusing on their construction, operation, and failure mechanisms.",
+    "Participants will explore the types of loads bearings endure, the influence of material selection, clearances, and design considerations, as well as the most common causes of bearing failures.",
+    "The course introduces diagnostic tools and techniques, including path pattern interpretation and TV-2 statistics.",
+    "Real-world examples and practical demonstrations are included to reinforce root cause analysis and best practices for failure prevention and corrective action."
+  ],
+  image: require("./coursesImg/Bearings Failures, Causes & Remedies.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of mechanical components and rotating machinery",
+    "Familiarity with industrial maintenance practices.",
+    "Understanding of friction, lubrication, and material behavior."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Identify types of bearings and their working principles",
+    "Understand key components and their mechanical roles",
+    "Compare material properties and their impact on bearing performance",
+    "Recognize how material selection influences durability and failure risk",
+    "Understand how radial, axial, and combined loads affect bearing choice",
+    "Match bearing types to specific machine requirements",
+    "Learn how improper clearances contribute to wear and failure",
+    "Understand the impact of thermal expansion and misalignment",
+    "Explore issues such as lubrication problems, contamination, overloading, and fatigue",
+    "Analyze how poor installation and improper maintenance lead to failures",
+    "Study real-world failure examples and match symptoms to causes",
+    "Use path pattern analysis to determine failure modes",
+    "Learn how to apply statistical tools to assess bearing wear and reliability",
+    "Perform practical assessments and demonstrations of faulty bearings",
+    "Understand corrective actions and preventive maintenance measures",
+    "Analyze case histories of bearing failures in various industries",
+    "Apply lessons learned to improve reliability and reduce downtime"
+  ],
+  outline: [
+    "Module 1:     Concept",
+    "Module 2:     Construction",
+    "Module 3:     Bearing Materials",
+    "Module 4:     Types of Load and Bearings",
+    "Module 5:     Bearing Clearances",
+    "Module 6:     Why Bearing Fails",
+    "Module 7:     Failures, Causes, and Remedies: Few Examples",
+    "Module 8:     Path Pattern Interpretation",
+    "Module 9:     Other Important Points",
+    "Module 10:    TV-2 Statistic",
+    "Module 11:    Practical Demonstration",
+    "Module 12:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 53,
+  title: "Boiler System Failure",
+  date: "Present",
+  description: [
+    "A boiler system is a critical component in power plants, manufacturing industries, and heating systems. It works by heating water to produce steam, which is used for heating, power generation, or industrial processes.",
+    "Boiler system failures can lead to operational downtime, safety hazards, and costly repairs. These failures aren't limited to just the boiler tubes but include all parts of the system — such as feedwater systems, pressure vessels, burners, control systems, and more.",
+    "Understanding these failures is essential for maintaining efficiency, ensuring safety, and prolonging equipment life.",
+    "This course offers an in-depth exploration of boiler system failures, examining the causes, mechanisms, and prevention strategies across various boiler components.",
+    "Participants will gain knowledge about failure modes affecting economizers, deaerators, firetube and watertube boilers, steam and mud drums, and condensate systems.",
+    "The course will also address corrosion, deposits, and mechanical stresses that contribute to component degradation.",
+    "Through case studies, learners will analyze real-world failure incidents and apply corrective actions to enhance system reliability and performance."
+  ],
+  image: require("./coursesImg/Boiler System Failure.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of boiler design and operation",
+    "Familiarity with steam systems and water treatment processes.",
+    "Knowledge of materials, corrosion, and thermal stress concepts."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify the role of economizers, deaerators, drums, and tubes in steam generation",
+    "Recognize how each component contributes to boiler performance and efficiency",
+    "Learn the typical causes of failures in firetube and watertube boilers",
+    "Analyze the impact of design, operation, and maintenance practices on failure risks",
+    "Understand how corrosion, scaling, and deposits affect system integrity",
+    "Examine failure patterns in steam lines, mud drums, and superheaters",
+    "Identify symptoms of impending failure and conduct inspections",
+    "Learn preventive strategies through proper operation and monitoring",
+    "Analyze actual boiler failure events and root cause investigations",
+    "Use case study insights to improve system performance and reduce downtime"
+  ],
+  outline: [
+    "Module 1:     Economizers",
+    "Module 2:     Deaerators",
+    "Module 3:     Firetube Boilers",
+    "Module 4:     Watertube Boilers",
+    "Module 5:     Steam Line Deposits",
+    "Module 6:     Mud Drum and Steam Drum Deposits",
+    "Module 7:     Boiler Drums and Tubes",
+    "Module 8:     Boiler Water Sight Glass Failure",
+    "Module 9:     Superheater Tubes Failures",
+    "Module 10:    Condensate Lines Corrosion",
+    "Module 11:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 54,
+  title: "Boiler Tube Failure",
+  date: "Present",
+  description: [
+    "Boiler tube failure is one of the most common and critical problems in steam-generating systems, particularly in power plants and heavy industries.",
+    "The boiler tubes are essential components that carry water or steam at high pressure and temperature. If these tubes fail, it can lead to forced shutdowns, loss of efficiency, costly repairs, and in severe cases, dangerous accidents.",
+    "Failures happen when the tube material can no longer withstand the mechanical stresses, temperatures, or corrosive environments inside the boiler.",
+    "Understanding the causes and types of failures is crucial for improving reliability, safety, and performance.",
+    "This course focuses on the causes, types, and prevention of boiler tube failures, which are one of the leading causes of forced outages in thermal power and industrial steam generation systems.",
+    "Participants will gain foundational knowledge of boiler components and accessories, followed by an in-depth look at failure mechanisms, detection methods, and corrective actions.",
+    "Real-world case studies will be used to demonstrate practical approaches to diagnosing and mitigating boiler tube failures in various industrial settings."
+  ],
+  image: require("./coursesImg/Boiler Tube Failure.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of steam generation principles.",
+    "Familiarity with industrial boiler systems and components.",
+    "Knowledge of materials and corrosion concepts."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Recognize the importance of maintaining proper operating conditions.",
+    "Identify how accessory failures can contribute to tube damage.",
+    "Understand mechanisms such as corrosion, erosion, fatigue, overheating, and mechanical wear.",
+    "Detect early warning signs and use inspection techniques to assess tube condition.",
+    "Learn strategies for improving water chemistry, operational procedures, and material selection.",
+    "Plan maintenance and inspection routines to reduce failure frequency.",
+    "Examine documented failure incidents and root cause analysis.",
+    "Apply findings to improve the reliability and longevity of boiler systems."
+  ],
+  outline: [
+    "Module 1:    Boiler",
+    "Module 2:    Boiler Accessories",
+    "Module 3:    Boiler Tube Failures",
+    "Module 4:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 55,
+  title: "Fundamentals of Control Valve Engineering",
+  date: "Present",
+  description: [
+    "A control valve is a critical component in process control systems. It regulates the flow of fluids (liquids, gases, or steam) by varying the size of the flow passage. This ensures that process variables like pressure, temperature, and fluid level are maintained within desired ranges.",
+    "Control valves receive signals from controllers (like PLCs or DCS) and adjust their position accordingly to maintain process stability and efficiency.",
+    "This course provides a foundational understanding of control valve engineering, focusing on the selection, operation, and specification of control valves and associated components.",
+    "It covers essential topics such as actuators, positioners, severe service applications, treatment methods, industry standards, and documentation practices.",
+    "Participants will gain insight into how control valves regulate process variables and contribute to system efficiency and stability.",
+    "The course includes practical examples, sample specifications, and real-world case studies to enhance applied learning."
+  ],
+  image: require("./coursesImg/Fundamentals of Control Valve Engineering.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid mechanics and process control systems",
+    "Familiarity with instrumentation symbols and process flow diagrams",
+    "Awareness of industrial control systems and loop operations."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify different types of industrial furnaces and their applications",
+    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
+    "Learn to calculate thermal efficiency and assess heat losses",
+    "Understand key parameters affecting furnace performance",
+    "Identify opportunities for improving fuel usage and reducing energy losses",
+    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
+    "Review examples of successful furnace optimization projects",
+    "Understand practical implementation challenges and solutions"
+  ],
+  outline: [
+    "Module 1:     Control Valve",
+    "Module 2:     Actuators",
+    "Module 3:     Positioners",
+    "Module 4:     Severe Service",
+    "Module 5:     Severe Service Treatments",
+    "Module 6:     Standards",
+    "Module 7:     Sample Specification",
+    "Module 8:     Sample Datasheet",
+    "Module 9:     Case Study"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 56,
+  title: "Gas Dehydration",
+  date: "Present",
+  description: [
+    "Gas dehydration is the process of removing water vapor from natural gas to prevent problems such as hydrate formation, pipeline corrosion, and freezing. It’s a critical step in natural gas processing to ensure gas meets pipeline specifications and remains safe for transport and use.",
+    "This course provides a detailed understanding of gas dehydration processes, which are essential for removing water vapor from natural gas to prevent hydrate formation, corrosion, and equipment damage.",
+    "Participants will explore the behavior of water in hydrocarbon systems, various dehydration technologies, and hydrate inhibition techniques in both processing plants and pipelines.",
+    "Special focus is given to glycol dehydration using liquid desiccants.",
+    "The course concludes with real-world case studies to highlight practical challenges and solutions in gas dehydration operations."
+  ],
+  image: require("./coursesImg/Gas Dehydration.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of natural gas composition and processing",
+    "Familiarity with thermodynamics and phase behavior",
+    "Understanding of gas plant operations and equipment."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Recognize the need to remove water vapor from natural gas streams",
+    "Understand the impact of water on gas quality, pipeline integrity, and downstream equipment",
+    "Study the phase behavior of water in natural gas systems",
+    "Evaluate the conditions leading to condensation and hydrate formation",
+    "Identify various dehydration technologies and their operating principles",
+    "Compare absorption, adsorption, and refrigeration-based methods",
+    "Understand the use of triethylene glycol (TEG) and other desiccants",
+    "Analyze key equipment and parameters in a typical glycol dehydration unit",
+    "Explore chemical and mechanical methods to prevent hydrate formation",
+    "Learn about methanol and glycol injection strategies",
+    "Learn how to manage temperature and pressure to avoid hydrate risks",
+    "Apply hydrate inhibition strategies during transport and shutdown conditions",
+    "Analyze field examples of dehydration unit performance and failures",
+    "Learn from troubleshooting techniques and operational improvements"
+  ],
+  outline: [
+    "Module 1:     Overview",
+    "Module 2:     Water Hydrocarbon System Behaviors",
+    "Module 3:     Gas Dehydration Systems",
+    "Module 4:     Absorption Using Liquid Desiccants (Glycol Dehydration)",
+    "Module 5:     Hydrate Inhibition in Low Temperature Processing Plant",
+    "Module 6:     Hydrate Inhibition in Gas Pipeline",
+    "Module 7:     Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 57,
+  title: "Furnaces",
+  date: "Present",
+  description: [
+    "A furnace is an enclosed structure used to heat materials to high temperatures. In industries, furnaces are critical for processes such as metal melting, heat treatment, chemical reactions, and generating hot gases for boilers and other systems.",
+    "The main function of a furnace is to provide controlled heating, which can be direct (material is exposed to flame/gases) or indirect (heating elements or external heat sources).",
+    "This course offers a detailed understanding of industrial furnaces, focusing on their classification, performance evaluation, and fuel economy improvement techniques.",
+    "Participants will explore different furnace types, learn how to assess furnace efficiency, and identify practical energy-saving measures.",
+    "Real-world case studies will provide insight into best practices, common issues, and optimization strategies used across industries such as metallurgy, petrochemicals, ceramics, and manufacturing."
+  ],
+  image: require("./coursesImg/Furnaces.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and heat transfer",
+    "Familiarity with combustion processes and industrial heating systems",
+    "Awareness of energy efficiency principles."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify different types of industrial furnaces and their applications",
+    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
+    "Learn to calculate thermal efficiency and assess heat losses",
+    "Understand key parameters affecting furnace performance",
+    "Identify opportunities for improving fuel usage and reducing energy losses",
+    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
+    "Review examples of successful furnace optimization projects",
+    "Understand practical implementation challenges and solutions"
+  ],
+  outline: [
+    "Module 1:     Types and Classification of Different Furnaces",
+    "Module 2:     Performance Evaluation of a Typical Furnace",
+    "Module 3:     General Fuel Economy Measures in Furnaces",
+    "Module 4:     Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+
+
+
+
 
 
 
