@@ -398,6 +398,5018 @@ export const projects = [
     paymentLink: "",
     
   },
+
+  
+{
+  id: 27,
+  title: "LPG SAFETY",
+  date: "Present",
+  description:
+  [
+      "LPG (Liquefied Petroleum Gas) Safety is a crucial consideration in the use, storage, transportation, and handling of LPG due to its flammable and potentially hazardous nature. LPG is commonly used for heating, cooking, and as fuel in both residential and industrial applications. Given its flammable properties, any leakage or mishandling can pose serious risks, including fires, explosions, and health hazards.",
+      "LPG is widely used in various industries and households, making safety a critical aspect of its handling, transportation, and usage. This course provides a comprehensive understanding of LPG safety measures, regulatory requirements, and risk management strategies. Participants will explore best practices in bulk storage, transportation, cylinder handling, and consumer installations. The course also covers emergency response planning and real-world case studies to enhance practical knowledge."
+  ],
+  image: require("./coursesImg/LPG Safety.jpg"),
+  tags: [
+      'Trainer: Engr. Adeyemi',
+  ],
+  category: "hazop hazid",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic knowledge of LPG properties and uses",
+      "Familiarity with industrial safety protocols",
+      "Understanding of regulatory compliance requirements"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify key responsibilities in LPG safety management",
+      "Apply national and international LPG safety regulations",
+      "Analyze safety hazards in trans-shipment terminals and inland transportation",
+      "Implement best practices in bulk storage and handling",
+      "Establish proper handling techniques for LPG cylinders",
+      "Understand safety measures for bulk distribution and consumer installations",
+      "Identify safety management techniques for LPG operations",
+      "Implement safety monitoring and control measures",
+      "Develop effective emergency response plans",
+      "Apply real-world case study insights to improve safety practices"
+  ],
+  outline: [
+      "Module 1: Key Responsibilities",
+      "Module 2: Regulatory Framework",
+      "Module 3: LPG Safety",
+      "Module 4: LPG Distribution Chain",
+      "Module 5: Trans-Shipment Terminal",
+      "Module 6: Inland Transportation",
+      "Module 7: Bulk Storage and Handling",
+      "Module 8: Cylinder Filling and Handling",
+      "Module 9: Distribution in Bulk",
+      "Module 10: Consumer Installation and Usage",
+      "Module 11: Managing Safety",
+      "Module 12: Emergency Planning and Response",
+      "Module 13: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦250,000 / $220",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 28,
+  title: "MECHANICAL ENGINEERING",
+  date: "Present",
+  description:
+  [
+      "Mechanical Engineering is one of the broadest and oldest branches of engineering that involves the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles of physics, mathematics, material science, thermodynamics, fluid mechanics, and control theory to create or improve machines, devices, and systems.",
+      "Mechanical engineering is a broad discipline that applies principles of physics, material science, and mathematics to design, analyze, manufacture, and maintain mechanical systems. This course provides an in-depth understanding of core mechanical engineering concepts, including thermodynamics, fluid mechanics, heat transfer, and machine design. Participants will also explore material science, manufacturing processes, and electromechanical devices, with practical applications in real-world case studies."
+  ],
+  image: require("./coursesImg/Mechanical Engineering.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "4 Days",
+  prerequisite: [
+      "Basic knowledge of physics and mathematics",
+      "Understanding of fundamental engineering principles",
+      "Familiarity with mechanical systems and components"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Explain key concepts in thermodynamics, fluid mechanics, and heat transfer",
+      "Apply mechanical engineering principles in system design and analysis",
+      "Evaluate material properties and their impact on mechanical design",
+      "Understand the role of heat exchangers, pumps, and electromechanical devices in various applications",
+      "Explore different manufacturing processes and material selection techniques",
+      "Assess mechanical failures and improve design for durability and efficiency",
+      "Implement mechanical engineering concepts in practical applications",
+      "Analyze case studies to understand challenges and solutions in mechanical engineering"
+  ],
+  outline: [
+      "Module 1: Thermodynamics",
+      "Module 2: Fluid Mechanics",
+      "Module 3: Pumping Machinery",
+      "Module 4: Heat Transfer",
+      "Module 5: Heat Exchangers",
+      "Module 6: Material Science",
+      "Module 7: Manufacturing Processes",
+      "Module 8: Machine Design",
+      "Module 9: Electromechanical Devices",
+      "Module 10: Case Studies and Real-World Examples"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦250,000 / $220",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 29,
+  title: "Dye Penetrant Testing (DPT) Acceptance Criteria",
+  date: "Present",
+  description:
+  [
+      "Dye Penetrant Testing (DPT), also known as Liquid Penetrant Testing (LPT), is a widely used non-destructive testing (NDT) method to detect surface-breaking flaws in non-porous materials. Acceptance criteria for DPT are based on the evaluation of defects and their compliance with applicable standards or codes, depending on the type of material, application, and industry requirements.",
+      "This course provides an in-depth understanding of Dye Penetrant Testing (DPT) Acceptance Criteria and its application across various industry standards. Participants will learn to interpret and apply acceptance criteria for surface-breaking defects in metallic materials, welds, castings, and critical components. The course covers prominent industry standards and codes, focusing on their role in ensuring safety, compliance, and quality in diverse engineering sectors, including pressure vessels, storage tanks, piping systems, structural welding, and shipbuilding. Practical case studies will enhance the participants' ability to apply theoretical knowledge to real-world scenarios."
+  ],
+  image: require("./coursesImg/Dye Penetrant.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic knowledge of non-destructive testing (NDT) methods, especially Dye Penetrant Testing",
+      "Familiarity with material properties, welding processes, and manufacturing techniques",
+      "An understanding of common industrial applications (e.g., pressure vessels, piping, tanks)",
+      "Knowledge of engineering drawings and technical documentation"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Understand the principles and processes of Dye Penetrant Testing (DPT)",
+      "Explain the role of DPT in quality control, defect detection, and safety assurance",
+      "Interpret and apply DPT acceptance criteria as per global standards such as: ASME, API, AWS, ISO, EN, and IACS standards",
+      "Differentiate between various codes and standards for specific applications (e.g., pressure vessels, storage tanks, piping systems)",
+      "Evaluate defects in components such as welds, castings, pipelines, and structures based on their intended application and standard requirements",
+      "Recognize industry-specific challenges, including those in shipbuilding, power generation, and bridge construction",
+      "Prepare accurate inspection reports detailing DPT findings and ensuring compliance with acceptance criteria",
+      "Understand the importance of traceability and quality assurance in engineering projects",
+      "Analyze real-world case studies to learn best practices, avoid common pitfalls, and implement effective inspection processes",
+      "Enhance decision-making skills for defect evaluation and disposition, including repair and re-inspection"
+  ],
+  outline: [
+      "Module 1: ASME BPVC for Pressure Vessel",
+      "Module 2: API 650 for Oil Storage Tanks",
+      "Module 3: API 620 for Low Pressure Storage Tanks",
+      "Module 4: ASME B 31.3 for Process Piping",
+      "Module 5: ASME B 31.1 for Power Piping",
+      "Module 6: AWS D 1.1 for Steel Structural Welding Inspection",
+      "Module 7: API 1104 for Welding of Pipelines and Related Facilities",
+      "Module 8: American Bureau of Shipping (ABS) for Hull Inspection",
+      "Module 9: ISO 23277 Metallic Materials Weld Inspection",
+      "Module 10: ISO 17635",
+      "Module 11: IACS for Shipbuilding Inspection",
+      "Module 12: AWS D1.5 for Bridge Welding Inspection",
+      "Module 13: BS EN ISO 10228-2 for Steel Casting Inspection",
+      "Module 14: EN 10228-2 for Steel Casting Inspection",
+      "Module 15: ISO 4987 for Steel Casting Inspection",
+      "Module 16: GE Standard for GE Turbine and GE Accessories Inspection",
+      "Module 17: Acceptance Criteria at Fluorescent Dye Penetrant Testing",
+      "Module 18: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦250,000 / $220",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 30,
+  title: "Motors and Generators",
+  date: "Present",
+  description:
+  [
+      "Motors and generators are both machines used to convert energy, but they work on opposite principles. Motors convert electrical energy into mechanical energy, while generators convert mechanical energy into electrical energy.",
+      "Motors work based on electromagnetic induction. When current flows through a conductor (usually a coil), it creates a magnetic field. This magnetic field interacts with the magnetic field of a permanent magnet (or another electromagnet) to produce a mechanical force that turns the motor's shaft. A generator is a device that converts mechanical energy into electrical energy. It works on the principle of electromagnetic induction, where mechanical motion induces a current in a conductor moving through a magnetic field.",
+      "This course provides a comprehensive understanding of electric machines, focusing on the principles, operation, and maintenance of motors and generators. Participants will learn about the generation of electric current, synchronous and asynchronous machines, alternator connections, protection mechanisms, and motor operations. The course will also cover generator synchronization, motor applications, and troubleshooting techniques, reinforced through real-world case studies."
+  ],
+  image: require("./coursesImg/Motors and Generators.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic understanding of electricity and magnetism",
+      "Familiarity with electrical circuits and components",
+      "Knowledge of power systems"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define key concepts related to motors and generators",
+      "Explain the generation and transformation of electrical energy",
+      "Understand alternator construction, connections, and protections",
+      "Analyze alternator operation, control mechanisms, and maintenance practices",
+      "Understand the importance of synchronizing generators in a power system",
+      "Learn techniques for safe and effective generator paralleling",
+      "Compare synchronous and asynchronous motors",
+      "Examine the characteristics and uses of three-phase and other motor types",
+      "Explore the working principles of asynchronous motors",
+      "Learn about motor performance, efficiency, and load handling",
+      "Recognize common faults in motors and generators",
+      "Develop preventive maintenance strategies for reliable operation",
+      "Analyze real-world scenarios of motor and generator applications",
+      "Evaluate best practices for troubleshooting and optimization"
+  ],
+  outline: [
+      "Module 1: Objectives",
+      "Module 2: Introduction to Electric Machines",
+      "Module 3: Generation of Electric Current",
+      "Module 4: Synchronous Machines – Alternators",
+      "Module 5: Alternator Connections and Protections",
+      "Module 6: Alternator Operation and Control",
+      "Module 7: Generator Paralleling and Synchronizing",
+      "Module 8: Alternator Maintenance",
+      "Module 9: Synchronous Motors",
+      "Module 10: Three-phase Asynchronous Motor",
+      "Module 11: Other Types of Motors",
+      "Module 12: Operation of Asynchronous Motors",
+      "Module 13: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦300,000 / $250",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 31,
+  title: "Steam Boilers",
+  date: "Present",
+  description:
+  [
+      "A steam boiler is a device used to generate steam by applying heat energy to water. Boilers are essential components in many industrial processes, power plants, and heating systems. The basic principle behind a steam boiler is converting water into steam through the application of heat from a fuel source, which then can be used for various purposes, such as power generation, heating, or driving engines.",
+      "This course provides an in-depth understanding of steam boiler systems, their applications, types, common operational challenges, and best practices for boiler water treatment. Participants will gain insights into optimizing boiler performance, preventing failures, and ensuring safe and efficient operations. Case studies will provide real-world examples to reinforce learning."
+  ],
+  image: require("./coursesImg/Steam Boilers.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  duration: "1 Day",
+  prerequisite: [
+      "Basic knowledge of thermodynamics and heat transfer",
+      "Understanding of industrial processes that require steam",
+      "Familiarity with fluid mechanics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Identify key applications of steam in industries such as power generation, refining, and manufacturing",
+      "Explain the role of steam in heating, sterilization, and mechanical work",
+      "Describe the working principles of fire-tube and water-tube boilers",
+      "Understand the advantages and limitations of different boiler types",
+      "Recognize common operational issues such as scaling, corrosion, and carryover",
+      "Analyze the impact of poor water quality on boiler efficiency and lifespan",
+      "Explain the importance of water treatment in preventing scaling and corrosion",
+      "Explore chemical and mechanical treatment methods for maintaining boiler efficiency",
+      "Review real-world boiler system failures and their causes",
+      "Evaluate best practices for boiler maintenance and optimization"
+  ],
+  outline: [
+      "Module 1: Uses for Steam",
+      "Module 2: Types of Steam Boilers",
+      "Module 3: Problem Areas",
+      "Module 4: Principles of Boiler Water Treatment",
+      "Module 5: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦90,000 / $70",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 32,
+  title: "Oil & Gas Production",
+  date: "Present",
+  description:
+  [
+    "Oil and gas production involves the extraction of hydrocarbons from underground reservoirs and processing them into usable fuels.",
+    "The Oil & Gas Production course provides a detailed understanding of the key processes involved in extracting, processing, and handling hydrocarbons. This course covers fundamental principles, from reservoir dynamics and wellhead operations to processing systems and utility requirements. Participants will gain insights into industry best practices, operational challenges, and case studies from real-world applications.",
+    "Designed for engineers, technicians, and industry professionals, this course aims to bridge the gap between theoretical knowledge and practical field applications, equipping learners with the necessary skills to work effectively in oil and gas production operations."
+  ],
+  image: require("./coursesImg/Oil & Gas Production.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "A basic understanding of engineering principles",
+    "Familiarity with oil & gas industry operations",
+    "Knowledge of fluid mechanics and thermodynamics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the basic concepts, industry landscape, and key terminologies",
+    "Describe the stages of oil and gas processing from extraction to final product handling",
+    "Understand reservoir behavior, wellhead components, and their role in production efficiency",
+    "Identify the separation, treatment, and processing methods used in production facilities",
+    "Understand the role of power generation, water treatment, and gas compression in production operations",
+    "Learn from real-world examples, challenges, and problem-solving strategies in oil and gas production"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Process Overview",
+    "Module 3: Reservoir and Wellheads",
+    "Module 4: The Oil and Gas Process",
+    "Module 5: Utility Systems",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 33,
+  title: "Commissioning",
+  date: "Present",
+  description:
+  [
+    "Commissioning is the structured process of planning, inspecting, testing, and validating systems and equipment to ensure they are installed correctly and operate according to design and safety standards before turning over to operations. It bridges the gap between construction completion and the start of commercial operations.",
+    "The Commissioning Course provides a complete understanding of the commissioning phase in project execution, with an emphasis on systematic planning, documentation, team coordination, and safe execution. This course walks participants through the commissioning process from engineering preparation to final handover, including systemization, progress tracking, data management, HSE compliance, and startup operations.",
+    "The course emphasizes practical tools and methodologies used across various industries (e.g., oil & gas, energy, infrastructure) to ensure systems are tested, verified, and transferred safely and efficiently from construction to operation."
+  ],
+  image: require("./coursesImg/Commissioning.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering, project management, or construction",
+    "Basic understanding of industrial project execution phases",
+    "Familiarity with technical documentation and system-based thinking"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand what commissioning is, its objectives, phases, and integration into the project lifecycle",
+    "Analyze how commissioning fits within overall project frameworks and communicate its scope effectively",
+    "Break down complex projects into manageable systems and subsystems for structured commissioning",
+    "Develop and implement engineering procedures and readiness checklists for safe start-up",
+    "Utilize commissioning databases and tools for punch list management, tagging, and record-keeping",
+    "Monitor commissioning progress, understand KPIs, and apply status-reporting principles for control",
+    "Structure commissioning teams and clarify roles within a robust organizational setup",
+    "Manage handovers between construction, commissioning, and operations teams with clarity and documentation",
+    "Interpret contract structures, milestones, and responsibilities related to commissioning deliverables",
+    "Implement HSE Best Practices – Apply health, safety, and environmental measures throughout commissioning to ensure risk-free operations",
+    "Coordinate final start-up procedures and ensure seamless transition into operational phase"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Project Presentation",
+    "Module 3: System/Subsystem Methodology",
+    "Module 4: Pre‐commissioning/Commissioning Engineering",
+    "Module 5: Database",
+    "Module 6: Progress and Status Principles",
+    "Module 7: Organization",
+    "Module 8: Technical Transfer of Responsibilities",
+    "Module 9: Contract Structure",
+    "Module 10: HSE During Commissioning Operations",
+    "Module 11: Startup Operations"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 34,
+  title: "Commissioning Standards Documents",
+  date: "Present",
+  description:
+  [
+    "The Commissioning Standards Documents Course is designed to provide professionals with a comprehensive understanding of the standardized documentation, frameworks, and best practices that guide the commissioning process across industries. The course emphasizes the importance of clear planning, consistent terminology, defined responsibilities, risk management, and continuous improvement through lessons learned.",
+    "Participants will gain insights into the structured use of commissioning standards and documentation throughout all project phases—from engineering and manufacturing to construction completions, on-site testing, and system handover.",
+    "This course prepares participants to implement documentation frameworks that support efficiency, traceability, and safety in commissioning projects."
+  ],
+  image: require("./coursesImg/Commissioning Standards Documents.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering, project management, or commissioning",
+    "Familiarity with basic commissioning and project execution principles",
+    "Understanding of industrial systems or facilities"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the role of standardized documentation in ensuring quality, consistency, and safety",
+    "Distinguish between engineering, pre-commissioning, commissioning, and closeout phases",
+    "Apply industry-approved commissioning terms to promote clear communication and reduce ambiguity",
+    "Interpret documentation that outlines accountability and scope for all stakeholders in the commissioning team",
+    "Design structured commissioning plans using standardized formats and planning tools",
+    "Ensure alignment between design, fabrication, installation, and commissioning documentation",
+    "Follow standardized protocols for field tests, function checks, and performance verification",
+    "Complete and document the formal transfer of systems into operation, including punch list closure",
+    "Incorporate HSE documentation into commissioning workflows to mitigate operational risks",
+    "Document feedback, performance gaps, and improvements for ongoing standardization enhancement"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Phases of the Commissioning Process",
+    "Module 3: Terminology",
+    "Module 4: Roles & Responsibilities",
+    "Module 5: Commissioning Strategy & Planning",
+    "Module 6: Commissioning Engineering, Manufacturing, Construction Completions",
+    "Module 7: On-Site Testing",
+    "Module 8: Handover, In-Service, Closeout",
+    "Module 9: Safety & Risk Management",
+    "Module 10: Lessons Learned & Continuous Improvement"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 35,
+  title: "Pipeline Engineering",
+  date: "Present",
+  description:
+  [
+    "Pipeline engineering involves the design, construction, operation, and maintenance of pipelines used to transport fluids such as oil, gas, water, and chemicals.",
+    "The Pipeline Engineering course provides a comprehensive understanding of the principles, design, construction, operation, and maintenance of pipelines used in various industries such as oil & gas, water supply, and chemical transportation.",
+    "The course covers essential engineering concepts, safety standards, and industry best practices to equip professionals with the skills needed to design, construct, and manage pipeline infrastructure efficiently.",
+    "Participants will gain insights into risk assessment techniques, condition monitoring, and repair methods, ensuring pipelines operate safely and effectively throughout their lifecycle. The course also explores the latest industry developments and decommissioning strategies for aging pipelines."
+  ],
+  image: require("./coursesImg/Pipeline Engineering.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in engineering",
+    "Basic knowledge of fluid mechanics and material science",
+    "Familiarity with industry standards and regulations"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the principles of pipeline design, material selection, and fluid dynamics considerations",
+    "Implement industry-standard pipeline design approaches, including stress analysis and route selection",
+    "Assess construction methods, risk mitigation techniques, and safety protocols",
+    "Perform hydrostatic testing, leak detection, and commissioning procedures",
+    "Understand operational challenges, flow assurance, and performance optimization",
+    "Develop preventive and corrective maintenance plans to enhance pipeline longevity",
+    "Apply condition monitoring tools and effective repair techniques",
+    "Learn decommissioning processes and explore emerging industry innovations",
+    "Gain insights from past pipeline projects, failures, and success stories to enhance decision-making"
+  ],
+  outline: [
+    "Module 1: Principles of Pipeline Design",
+    "Module 2: Design Approach",
+    "Module 3: Pipeline Construction and Risk Assessment Techniques",
+    "Module 4: Pressure Testing and Commissioning",
+    "Module 5: Pipeline Operation",
+    "Module 6: Pipeline Maintenance",
+    "Module 7: Pipeline Condition Monitoring and Repair Methods",
+    "Module 8: Pipeline Decommissioning and Industry Developments",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 36,
+  title: "Power Plant Commissioning",
+  date: "Present",
+  description:
+  [
+    "Power plant commissioning is the systematic process of ensuring that all systems and components of a power plant are designed, installed, tested, operated, and maintained according to the operational requirements. It marks the final phase before a plant becomes fully operational.",
+    "The Power Plant Commissioning course is designed to provide a thorough understanding of the commissioning process for power generation facilities, with a strong focus on system readiness, performance validation, and safe integration of plant components.",
+    "This course covers the commissioning of major systems such as boilers, turbines, generators, and electrical equipment, as well as the management systems required to ensure a successful, safe, and efficient start-up.",
+    "Through this course, participants will gain practical and theoretical knowledge needed to manage, supervise, and execute the commissioning phases in thermal and combined-cycle power plants."
+  ],
+  image: require("./coursesImg/Power Plant Commissioning.jpg"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "commissioning",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in electrical, mechanical, or power engineering",
+    "Basic knowledge of power plant operations and system components",
+    "Familiarity with project execution phases"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Define commissioning, its objectives, and its role in the power plant lifecycle",
+    "Apply structured procedures, checklists, and documentation tools for effective commissioning control",
+    "Understand start-up and operational readiness testing for boilers, burners, feedwater systems, and related components",
+    "Oversee functional checks and performance testing for steam or gas turbines, lube oil systems, and vibration monitoring",
+    "Conduct commissioning activities for generators including insulation tests, synchronization, and excitation systems",
+    "Ensure proper operation of switchgear, transformers, protection systems, cabling, and grounding systems"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Commissioning Management System",
+    "Module 3: Boiler & Auxiliaries",
+    "Module 4: Turbine & Auxiliaries",
+    "Module 5: Generators & Auxiliaries",
+    "Module 6: Electrical Equipment’s"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 37,
+  title: "Process Measurement",
+  date: "Present",
+  description:
+  [
+    "Process measurement is the method of quantifying physical parameters in industrial processes—such as pressure, temperature, flow, and level—using sensors and instruments. Accurate measurement is essential for effective monitoring, control, and optimization of industrial operations.",
+    "The Process Measurement course provides an in-depth exploration of the fundamental techniques and instruments used to measure key process variables in industrial operations. Accurate measurement of temperature, pressure, flow, and level is essential for effective process control, safety, efficiency, and product quality.",
+    "This course introduces participants to the core concepts of process measurement and progresses through the practical selection, installation, and protection of measurement instruments.",
+    "It also addresses critical environmental and operational considerations, including instrument heating and climate protection. Emphasis is placed on real-world application and industry standards to prepare participants for field or control room roles in various industries such as oil and gas, petrochemicals, power generation, and manufacturing."
+  ],
+  image: require("./coursesImg/process measurement.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "process",
+  duration: "4 Days",
+  prerequisite: [
+    "Basic understanding of industrial processes and control systems",
+    "Familiarity with measurement principles (e.g., units, calibration, accuracy)",
+    "A background in instrumentation, electrical, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the significance of process measurement in achieving control, safety, and operational objectives",
+    "Identify the basic principles and instruments used to measure temperature, pressure, flow, and level",
+    "Select appropriate measurement devices based on process characteristics and application requirements",
+    "Interpret specifications, datasheets, and installation guidelines for different measurement instruments",
+    "Understand best practices for the installation of process instruments to ensure accuracy and reliability",
+    "Apply methods to protect instruments from mechanical damage, corrosion, and environmental exposure",
+    "Implement heating and climate protection techniques to maintain instrument performance in harsh conditions",
+    "Troubleshoot common issues in process measurement and propose practical solutions",
+    "Ensure compliance with industry regulations and safety standards during instrument selection and deployment",
+    "Integrate measurement systems with control architectures and data acquisition systems for optimal plant performance"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Temperature",
+    "Module 4: Pressure",
+    "Module 5: Flow",
+    "Module 6: Level",
+    "Module 7: Instrument Installation",
+    "Module 8: Instrument Protection",
+    "Module 9: Instrument Heating & Climate Protection"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 38,
+  title: "Process P&ID",
+  date: "Present",
+  description:
+  [
+    "Process P&ID (Piping and Instrumentation Diagram) is a detailed engineering drawing that shows the piping and related components of a physical process flow. It’s used in the chemical, oil and gas, power, water treatment, and other process industries.",
+    "The Process P&ID course is designed to provide a comprehensive understanding of how to develop, interpret, manage, and review piping and instrumentation diagrams, which are critical for the design, operation, and maintenance of process facilities.",
+    "This course takes participants through the complete lifecycle of a P&ID — from its initial preparation to issue, review, and eventual change management.",
+    "Each module is structured to build a strong foundation and gradually develop practical skills, reinforced by real-world examples and case studies. By the end of this course, learners will be equipped to effectively participate in P&ID-related activities, ensuring compliance with engineering standards, operational safety, and project requirements."
+  ],
+  image: require("./coursesImg/Process P&ID Course.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "A basic understanding of process engineering principles",
+    "Familiarity with process equipment and systems (e.g., pumps, vessels, valves)",
+    "Some exposure to industrial or plant operations is beneficial but not mandatory",
+    "Engineering background"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the purpose, scope, and importance of P&IDs in process industries",
+    "Identify the responsibilities associated with P&ID creation and management",
+    "Interpret standard symbols, formats, and content used in P&IDs",
+    "Accurately represent process equipment, piping systems, and instrumentation on a P&ID",
+    "Apply industry-standard references and guidelines in P&ID development",
+    "Follow structured procedures for the preparation, review, issuance, and change management of P&IDs",
+    "Analyze and critique P&IDs using a checklist-based review approach",
+    "Apply lessons learned from case studies to improve P&ID quality and project outcomes"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: References",
+    "Module 3: Process P&ID Responsibilities",
+    "Module 4: Format & Contents",
+    "Module 5: Equipment",
+    "Module 6: Piping",
+    "Module 7: Instrumentation & Controls",
+    "Module 8: P&ID Examples",
+    "Module 9: P&ID Development Procedures",
+    "Module 10: P&ID Issue",
+    "Module 11: Preparation of P&ID",
+    "Module 12: P&ID Review",
+    "Module 13: Management of Change",
+    "Module 14: Process P&ID Review Checklist",
+    "Module 15: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 39,
+  title: "Refinery Valves and Accessories for Control and Safety Instrumented Systems Course",
+  date: "Present",
+  description:
+  [
+    "In a refinery, valves and their accessories play a critical role in both process control and safety. While control valves regulate process variables (flow, pressure, temperature), safety valves are part of Safety Instrumented Systems (SIS) designed to prevent hazards and ensure safe shutdown.",
+    "This course provides a comprehensive insight into the selection, application, and maintenance of valves and related accessories used in control and safety instrumented systems (SIS) within refinery environments.",
+    "With safety, reliability, and precision being paramount in refinery operations, this course focuses on the critical role valves play in both process control and emergency scenarios.",
+    "Participants will explore various types of control and safety valves, including emergency block valves, SIS valves, vapor depressurizing valves, and hydraulic slide valve actuators. The course also covers specific selection criteria, installation best practices, and testing procedures to ensure compliance with industry standards and operational integrity."
+  ],
+  image: require("./coursesImg/Refinery Valves and Accessories.png"),
+  tags: [
+    'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  duration: "4 Days",
+  prerequisite: [
+    "Basic foundational understanding of process instrumentation and control systems",
+    "Familiarity with refinery operations and industrial process equipment",
+    "Basic knowledge of valve types, functions, and instrumentation terminology"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of valves and accessories in refinery control and safety instrumented systems",
+    "Identify different types of control valves and their functions in process regulation",
+    "Apply specific criteria for valve selection based on pressure, temperature, fluid characteristics, and process requirements",
+    "Perform and oversee proper installation, inspection, and testing procedures to ensure safe and effective valve operation",
+    "Analyze typical refinery applications of valves and understand their integration into process systems",
+    "Describe the role of emergency block valves in isolating systems during abnormal or hazardous conditions",
+    "Understand the function and criticality of SIS valves in maintaining process safety and meeting regulatory compliance",
+    "Explain vapor depressurizing valve operations and their importance in overpressure protection and process safety",
+    "Understand the function, configuration, and control of hydraulic slide valve actuators in refining applications",
+    "Integrate valve systems effectively into safety and control architectures for reliable refinery operation"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Control Valves",
+    "Module 3: Specific Criteria",
+    "Module 4: Installation/Inspecting/Testing",
+    "Module 5: Refinery Applications",
+    "Module 6: Emergency Block Valves",
+    "Module 7: Safety Instrumented Systems (SIS) Valves",
+    "Module 8: Vapor Depressurizing Valves",
+    "Module 9: Hydraulic Slide Valves Actuators"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 40,
+  title: "Refinery Instrumentation and Control Systems",
+  date: "Present",
+  description:
+  [
+    "Installing refinery instruments and control systems is a crucial part of setting up and commissioning a refinery. It ensures that the process can be monitored, controlled, and optimized safely and efficiently.",
+    "Process Instrumentation and Control (PIC) is the backbone of any industrial process, especially in refineries, chemical plants, power generation, and water treatment. It involves measuring, monitoring, and controlling process variables to ensure efficiency, safety, and product quality.",
+    "The Process Instrumentation and Control course provides in-depth knowledge and practical insights into the measurement and control of process variables essential for safe, efficient, and automated plant operations.",
+    "Participants will explore core instrumentation topics such as flow, level, temperature, and pressure measurements, as well as advanced topics including automatic control systems, control valves, transmission methods, and protective devices.",
+    "The course integrates basic knowledge of industrial instrumentation systems, power supply arrangements, and control center configurations."
+  ],
+  image: require("./coursesImg/Installation of Refinery Instruments and Control Systems.png"),
+  tags: [
+    'Trainer: Engr. Okechukwu',
+  ],
+  category: "PAI",
+  duration: "1 Day",
+  prerequisite: [
+    "Engineering Background",
+    "Understanding of process operations",
+    "Knowledge of process systems and control theory",
+    "Understanding of industrial automation and instrumentation"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the principles and methods of measuring key process variables — flow, level, temperature, and pressure",
+    "Gain knowledge of automatic controls, control valves & accessories, transmission systems, seals, purges & winterizing, air supply system, hydraulic system, electrical power supply, and instrument panels"
+  ],
+  outline: [
+    "Module 1: Flow",
+    "Module 2: Level",
+    "Module 3: Temperature",
+    "Module 4: Pressure",
+    "Module 5: Automatic Controls",
+    "Module 6: Control Valves & Accessories",
+    "Module 7: Transmission Systems",
+    "Module 8: Seals, Purges & Winterizing",
+    "Module 9: Air Supply System",
+    "Module 10: Hydraulic System",
+    "Module 11: Electrical Power Supply",
+    "Module 12: Instruments Panels"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "FREE",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 41,
+  title: "Process Instrumentation and Control (Air Supply System)",
+  date: "Present",
+  description: [
+    "An air supply system in process instrumentation provides compressed air for operating pneumatic instruments, actuators, control valves, and tools. It is a backbone utility in industries for reliable and clean power where electrical systems are not ideal.",
+    "This course offers a comprehensive introduction to the design, operation, and maintenance of instrument air supply systems, which are critical to the reliability of process instrumentation and automation.",
+    "Instrument air systems ensure the delivery of clean, dry, and pressurized air to pneumatic instruments and control valves used in a wide variety of industrial processes.",
+    "Participants will explore the fundamental components and considerations of air supply systems, including air compressors, drying and cleaning methods, distribution networks, and standby systems.",
+    "The course is structured to provide both theoretical understanding and practical insight, enabling learners to support safe and efficient process operations."
+  ],
+  image: require("./coursesImg/Process I & C(Air Supply System).png"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of industrial instrumentation and control systems",
+    "General knowledge of fluid mechanics and compressed air principles",
+    "Technical or engineering background in instrumentation, mechanical, or process engineering (preferred)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance and function of instrument air systems in process control and automation",
+    "Describe the general structure and components of air supply systems used in industrial environments",
+    "Evaluate the capacity requirements for instrument air based on system demands and process needs",
+    "Explain various methods of air drying and cleaning to maintain air quality standards suitable for instrumentation",
+    "Understand the design and layout principles of instrument air distribution systems",
+    "Identify the role and configuration of instrument air standby systems in ensuring system reliability and availability",
+    "Apply best practices in monitoring, maintaining, and troubleshooting air supply systems to prevent downtime and instrument failure"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Capacity",
+    "Module 4: Drying & Cleaning",
+    "Module 5: Distribution Systems",
+    "Module 6: Instrument Air Standby Systems"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 42,
+  title: "Process Instrumentation and Control (Control Valves & Accessories)",
+  date: "Present",
+  description: [
+    "Control valves regulate the flow, pressure, temperature, or level of fluids by varying the size of the flow passage. They are final control elements in a process loop and receive signals from controllers to maintain the desired set-point.",
+    "This course offers a comprehensive study of control valves and their associated accessories, which are vital components in regulating process variables such as flow, pressure, temperature, and level.",
+    "Control valves serve as the final control elements in an automation system, and their proper selection, installation, and maintenance directly impact process performance and efficiency.",
+    "The course covers various types of control valves, their actuators, manifolds, and the associated piping and wiring practices.",
+    "Participants will gain both theoretical knowledge and practical insights through case studies that reflect real-world industrial challenges and solutions.",
+    "The course is ideal for professionals seeking to deepen their understanding of how control valves function within a broader control system."
+  ],
+  image: require("./coursesImg/Process I & C(Control Valves & Accessories).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process control principles and instrumentation systems",
+    "Familiarity with fluid dynamics and process operations",
+    "Technical or Engineering background in instrumentation, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of control valves in process automation and their impact on system performance",
+    "Identify and compare different types of control valves, including their construction, functionality, and typical applications",
+    "Understand the function, types, and selection criteria of control valve actuators (pneumatic, electric, and hydraulic)",
+    "Explain the role and configuration of control valve manifolds in maintaining and isolating valve assemblies",
+    "Describe best practices for the piping and wiring of control valve actuators to ensure reliable and safe operation",
+    "Analyze real-life case studies to apply theoretical knowledge in troubleshooting, optimizing, and maintaining control valve systems",
+    "Select appropriate control valve and accessory configurations based on process requirements and environmental conditions"
+  ],
+  outline: [
+    "Module 1: General",
+    "Module 2: Control Valves Types",
+    "Module 3: Control Valves Actuators",
+    "Module 4: Control Valves Manifolds",
+    "Module 5: Piping & Wiring to Control Valves Actuators",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 43,
+  title: "Process Instrumentation and Control (Flow)",
+  date: "Present",
+  description: [
+    "Flow is the movement of a fluid (liquid, gas, or steam) through a pipe or channel. In industrial process control, accurate flow measurement ensures proper material balance, energy efficiency, product quality, and system safety.",
+    "This course provides an in-depth exploration of flow measurement techniques and their application in industrial process control systems.",
+    "Flow measurement is critical to monitoring and managing fluids in industries such as oil and gas, chemical processing, water treatment, and power generation.",
+    "Participants will gain a solid understanding of the various types of flow meters, from traditional differential pressure devices to advanced technologies such as magnetic, turbine, and target flow transmitters.",
+    "The course also addresses proper installation practices, including connecting piping and instrument layout, to ensure accurate and reliable flow measurement.",
+    "Practical applications and case-based examples help reinforce theoretical concepts and industry best practices."
+  ],
+  image: require("./coursesImg/Process I & C(Flow).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control systems",
+    "Foundational knowledge of fluid mechanics and flow behavior",
+    "Engineering, technical, or operations background in instrumentation, chemical, mechanical, or process industries"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of flow measurement in industrial process control and automation",
+    "Identify suitable flow measurement technologies based on application needs and process conditions",
+    "Describe the working principles and use of differential primary elements (e.g., orifice plates, venturis, flow nozzles)",
+    "Understand the function and configuration of differential pressure measuring devices used with primary elements",
+    "Recognize best practices for piping and installation to minimize flow disturbances and ensure accurate readings",
+    "Explain the operation and application of area meters (e.g., rotameters) for variable-area flow measurement",
+    "Understand the construction, principle, and uses of target flow transmitters in specific process environments",
+    "Describe the characteristics and performance of turbine and propeller flow meters in measuring flow rates",
+    "Understand the advantages, limitations, and application criteria for magnetic flowmeters in conductive fluid systems",
+    "Apply theoretical knowledge to evaluate, select, and troubleshoot flow measurement systems in real-world scenarios"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Application",
+    "Module 3: Differential Primary Elements",
+    "Module 4: Differential Measuring Devices",
+    "Module 5: Connecting Piping",
+    "Module 6: Area Meters",
+    "Module 7: Target Flow Transmitters",
+    "Module 8: Turbine & Propeller Meters",
+    "Module 9: Magnetic Flowmeters"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 44,
+  title: "Process Instrumentation and Control (Electrical Power Supply)",
+  date: "Present",
+  description: [
+    "The electrical power supply in process instrumentation and control systems is responsible for providing the necessary power to operate the field instruments, sensors, controllers, actuators, and other electronic devices involved in process control.",
+    "A reliable and stable electrical power supply is essential for accurate measurements, control, and safety.",
+    "This course provides a detailed understanding of electrical power supply systems used in industrial process instrumentation and control.",
+    "The reliable supply of electrical power is crucial to the functioning of instrumentation systems, as it ensures the continuous operation of control devices, monitoring equipment, and other electrical loads.",
+    "The course covers essential principles, configurations, and strategies involved in supplying electrical power to process systems, with a focus on handling power dips, interruptions, and ensuring emergency power availability.",
+    "Participants will explore various aspects of electrical power supply, including circuit arrangements, load management, and solutions for maintaining power during interruptions.",
+    "The course will also delve into emergency power systems, backup solutions, and combination drives designed to mitigate power dips, ensuring uninterrupted operation of instrumentation systems."
+  ],
+  image: require("./coursesImg/Process I & C(Electrical Power Supply.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of electrical systems and their role in industrial process control",
+    "Familiarity with electrical circuits, load calculations, and power distribution",
+    "Technical background in electrical engineering, instrumentation, or process control"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of a reliable electrical power supply in industrial process control and instrumentation",
+    "Identify the key components of an electrical power supply system and how they interact with process instrumentation",
+    "Describe general electrical power supply principles, including voltage, current, and frequency management",
+    "Explain various power supply circuit arrangements and how to design them for optimal performance and safety",
+    "Learn how to manage power supply to loads in process systems, ensuring stability and reliability",
+    "Understand how to provide power to critical loads from two different sources to ensure system redundancy and reliability",
+    "Implement strategies to supply electricity during power dips and ensure continuous operation of instruments and equipment",
+    "Design and implement emergency power systems to provide backup power to instrumentation and associated loads during power outages",
+    "Explore combination drives that address both power dips and interruptions, ensuring minimal disruption in process control"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Power Supply Circuit Arrangement",
+    "Module 4: Power Supply to Loads",
+    "Module 5: Load Supply From Two Sources",
+    "Module 6: Supplying Electricity During Power Dips",
+    "Module 7: Supplying Emergency Power to Instruments & Associated Load",
+    "Module 8: Combination Drives for Power Dips & Interruption"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 45,
+  title: "Process Instrumentation and Control (Hydraulic System)",
+  date: "Present",
+  description: [
+    "A hydraulic system uses pressurized fluid to perform work. In industrial applications, hydraulic systems are commonly used to control heavy machinery, automate processes, and move mechanical components with high force.",
+    "Hydraulic systems in process instrumentation and control ensure that machines operate smoothly and efficiently, with precision in controlling force, speed, and movement.",
+    "This course offers a comprehensive introduction to hydraulic systems used in industrial process instrumentation and control.",
+    "Hydraulic systems play a vital role in controlling and transmitting power in various sectors, including manufacturing, oil & gas, and chemical processing.",
+    "The course covers the essential components of hydraulic systems, their design principles, and how to integrate them with control systems to ensure efficient operation.",
+    "Participants will explore key topics such as pumps, pressure regulation, safety mechanisms, alarms, fluid handling, and the importance of proper piping and strainers.",
+    "Additionally, the course addresses how to design hydraulic systems that meet operational requirements and adhere to safety standards, as well as how to maintain and troubleshoot hydraulic systems effectively."
+  ],
+  image: require("./coursesImg/Process I & C(Hydraulic System).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control principles",
+    "General knowledge of fluid mechanics, pressure, and fluid dynamics",
+    "A technical background in instrumentation, mechanical engineering, or process control"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and function of hydraulic systems in process control and instrumentation",
+    "Identify the fundamental design principles of hydraulic systems and the factors that influence system performance",
+    "Describe the different types of hydraulic pumps, their operation, and how to select them based on system requirements",
+    "Explain the purpose and functionality of hydraulic drums in the storage and management of hydraulic fluids",
+    "Understand the principles of pressure control and how hydraulic pressure is managed within a system",
+    "Recognize the function and importance of safety and relief valves in protecting hydraulic systems from overpressure",
+    "Learn about level alarms used to monitor hydraulic fluid levels and ensure optimal system performance",
+    "Understand pressure alarms and their role in monitoring system pressure to prevent damage and ensure safety",
+    "Describe the types and functions of pressure gauges and gauge glasses for accurate pressure measurement in hydraulic systems",
+    "Identify the role of pressure regulators in maintaining consistent system pressure and preventing pressure fluctuations",
+    "Explain the operation and importance of strainers in filtering hydraulic fluid to protect components from contaminants",
+    "Understand the role of piping in hydraulic systems and the best practices for ensuring leak-free, efficient fluid transmission",
+    "Gain insights into hydraulic fluid types, characteristics, and maintenance practices to ensure long-term system reliability"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Basis of Design",
+    "Module 3: Pumps",
+    "Module 4: Drums",
+    "Module 5: Pressure",
+    "Module 6: Safety and Relief Valves",
+    "Module 7: Level Alarms",
+    "Module 8: Pressure Alarms",
+    "Module 9: Pressure Gauges & Gauge Glasses",
+    "Module 10: Pressure Regulators",
+    "Module 11: Strainers",
+    "Module 12: Piping",
+    "Module 13: Fluid"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 46,
+  title: "Process Instrumentation and Control (Instruments Panels)",
+  date: "Present",
+  description: [
+    "Instrument panel is a central assembly housing instruments and control components that monitor and control industrial processes. It acts as the interface between operators and the process, enabling efficient monitoring, diagnostics, and control.",
+    "Instrument panels may include various instruments, controllers, relays, switches, and indicators in a neatly organized and accessible format.",
+    "This course is designed to provide a comprehensive understanding of the design, construction, and application of instrument panels in process control systems.",
+    "Instrument panels serve as the interface between operators and the process, housing instruments, controllers, indicators, and other control devices in a structured and user-friendly layout.",
+    "The course covers different types of panels including conventional, console-type control centers, and graphic panels.",
+    "Participants will explore key elements such as structural design, painting and finishing, electrical installations, and panel piping.",
+    "Participants will gain insight into how panels are configured, built, and maintained for both functionality and safety in industrial environments."
+  ],
+  image: require("./coursesImg/Process I & C(Instruments Panels).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control principles",
+    "Basic knowledge of control devices such as transmitters, indicators, switches, and controllers",
+    "Technical or engineering background in instrumentation, electrical, or process systems"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of instrument panels in process instrumentation and control systems",
+    "Describe the general requirements, components, and layout considerations of instrument panels",
+    "Differentiate between conventional panels, console-type control centers, and graphic panels based on design and application",
+    "Apply best practices in structural design to ensure the durability and stability of instrument panels in various industrial settings",
+    "Understand the importance of painting and surface treatment for corrosion resistance and aesthetic standards",
+    "Plan and implement electrical installations within instrument panels, ensuring proper wiring, grounding, and safety",
+    "Integrate piping into panel design for pneumatic or hydraulic signal transmission, considering layout and maintenance needs",
+    "Interpret panel drawings and specifications to support fabrication, installation, and troubleshooting",
+    "Collaborate with multidisciplinary teams (mechanical, electrical, instrumentation) during panel design and implementation phases"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Conventional Panel",
+    "Module 4: Console-Type Control Center",
+    "Module 5: Graphic Panel",
+    "Module 6: Structural",
+    "Module 7: Painting",
+    "Module 8: Electrical Installations",
+    "Module 9: Piping"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $70",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 47,
+  title: "Process Instrumentation and Control (Pressure)",
+  date: "Present",
+  description: [
+    "In industrial processes, pressure is a key process variable that needs to be accurately measured and controlled to ensure safety, efficiency, and product quality.",
+    "It is especially important in systems involving gases, liquids, steam, or chemical reactions.",
+    "This course is designed to provide participants with the understanding of pressure measurement and control in industrial processes.",
+    "Pressure is a key process variable, and its accurate measurement is critical to safety, efficiency, and quality control in various sectors such as oil & gas, chemical processing, pharmaceuticals, and manufacturing.",
+    "The course introduces the principles and practices of pressure instrumentation, covering essential components such as purging and sealing systems, piping considerations, pressure gauges, transmitters, switches, and local control devices.",
+    "Participants will also learn about best practices in installation, calibration, and maintenance to ensure optimal performance and reliability."
+  ],
+  image: require("./coursesImg/Process I & C(pressure).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process control systems and instrumentation",
+    "General knowledge of physics, especially pressure and fluid dynamics",
+    "Background in engineering, industrial technology, or a related technical field is advantageous",
+    "Familiarity with industrial environments or process systems is helpful but not mandatory"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and significance of pressure measurement in process instrumentation and control",
+    "Describe common purging and sealing techniques used to protect pressure instruments from contamination and damage",
+    "Identify appropriate piping layouts and configurations that support accurate pressure measurement",
+    "Explain the types, operation, and applications of pressure gauges in various industrial settings",
+    "Understand the working principles, selection criteria, and calibration of pressure transmitters and switches",
+    "Describe the functionality and application of locally mounted pressure controllers and recorders",
+    "Apply knowledge of pressure instrumentation to improve process safety, efficiency, and reliability",
+    "Recognize common challenges in pressure measurement and learn troubleshooting and maintenance techniques"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Purging & Sealing",
+    "Module 3: Piping",
+    "Module 4: Pressure Gauges",
+    "Module 5: Pressure Transmitters, Switches, and Locally Mounted Controllers & Recorders"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦50,000 / $40",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 48,
+  title: "Process Instrumentation and Control (Level)",
+  date: "Present",
+  description: [
+    "Process Instrumentation and Control (Level), which is all about measuring and controlling the height of a fluid (liquid or sometimes solids like powders) in a vessel, tank, or column.",
+    "This specialized course focuses on level measurement and control as one of the most critical aspects of process instrumentation.",
+    "It provides a detailed exploration of the instruments, devices, and systems used to measure, indicate, transmit, control, and alarm process levels across various industrial applications.",
+    "Participants will gain knowledge of locally and remotely mounted instruments, controllers, and transmitters, as well as the accessories and system components that ensure accurate and reliable level control.",
+    "Through real-world case studies, the course also highlights best practices and troubleshooting techniques for effective level measurement in operational environments."
+  ],
+  image: require("./coursesImg/Process I & C(Level).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of instrumentation, process control, or operations",
+    "Basic understanding of process systems and measurement principles",
+    "Basic knowledge of level measurement",
+    "Interpretation skills"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental concepts and importance of level measurement in process industries",
+    "Identify various types of locally mounted indicating gauges and understand their applications",
+    "Explain the working principles and selection criteria for level transmitters",
+    "Distinguish between locally mounted and remote/board-mounted control and indication devices",
+    "Understand how locally mounted controllers function and where they are typically applied",
+    "Evaluate the role and configuration of remote receivers and board-level interfaces",
+    "Design and implement effective level alarm systems to ensure process safety and operational continuity",
+    "Recognize the significance of instrument accessories in enhancing accuracy and protecting equipment",
+    "Apply knowledge to real-world scenarios through case studies, reinforcing correct selection, installation, and troubleshooting of level measurement systems"
+  ],
+  outline: [
+    "Module 1: Content",
+    "Module 2: General",
+    "Module 3: Locally Mounted Indicating Gauges",
+    "Module 4: Level Transmitters",
+    "Module 5: Locally Mounted Controllers",
+    "Module 6: Remote or Board Mounted Receivers",
+    "Module 7: Level Alarms",
+    "Module 8: Accessories",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 49,
+  title: "Process Instrumentation and Control (Seals, Purges & Wintering)",
+  date: "Present",
+  description: [
+    "Seals, Purges & Wintering are protective and maintenance measures used in process plants to ensure instrumentation functions properly, especially in harsh environments, hazardous materials, or cold climates.",
+    "This specialized course focuses on the critical practices of sealing, purging, and winterizing in process instrumentation systems.",
+    "These practices are essential to ensure the protection, reliability, and accurate operation of field instruments exposed to harsh environments, corrosive media, or extreme weather conditions.",
+    "Participants will gain an understanding of various seal systems used to isolate instruments from the process, purging techniques for maintaining clean and safe instrument environments, and winterization strategies to prevent freezing and operational issues in cold climates.",
+    "The course bridges engineering principles with field-level application, enabling learners to apply these protective techniques in real-world industrial scenarios."
+  ],
+  image: require("./coursesImg/Process I & C(Seals Purges & Wintering).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process instrumentation and control systems",
+    "Basic knowledge of field instrumentation components and their environmental considerations",
+    "Technical background in instrumentation, mechanical, or process engineering"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of seals, purges, and winterization in ensuring reliable instrument performance",
+    "Identify different types of seals (e.g., diaphragm seals, chemical seals) and their applications in isolating instruments from process media",
+    "Explain the purpose, setup, and best practices of purge systems for protecting measurement devices from contamination or hazardous gases",
+    "Understand the methods and materials used for winterizing instrumentation systems to prevent freezing and ensure functionality in cold environments",
+    "Evaluate instrumentation environments to determine the appropriate sealing, purging, or winterization strategies",
+    "Apply inspection, maintenance, and troubleshooting techniques for seal and purge systems",
+    "Implement winterization plans in accordance with safety and operational standards to reduce downtime and protect assets",
+    "Integrate protective practices into the design and maintenance of instrumentation systems for enhanced process safety and reliability"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Seals",
+    "Module 3: Purges",
+    "Module 4: Winterizing"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 50,
+  title: "Process Instrumentation and Control (Temperature)",
+  date: "Present",
+  description: [
+    "Process Instrumentation and Control involves the use of various instruments and devices to measure, monitor, and control process variables such as temperature, pressure, flow, and level in industrial systems.",
+    "Temperature control is one of the most critical aspects, especially in chemical, food, pharmaceutical, and energy industries.",
+    "This course provides a comprehensive understanding of temperature measurement and control in industrial process instrumentation.",
+    "It delves into the principles, construction, working mechanisms, and applications of various temperature sensing instruments and technologies.",
+    "Starting with the basics, the course explores key devices such as thermocouples, resistance temperature detectors (RTDs), thermometers, and advanced optical pyrometers.",
+    "It culminates with real-world case studies to reinforce learning and practical application.",
+    "Whether you're new to instrumentation or looking to deepen your expertise, this course equips you with the knowledge to select, install, and interpret temperature measurement instruments effectively in process environments."
+  ],
+  image: require("./coursesImg/Process I & C(Temperature).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of general process control principles",
+    "Basic knowledge of physics, particularly heat and temperature concepts",
+    "Familiarity with industrial process systems (not mandatory)",
+    "Engineering or technical background in instrumentation, electronics, or mechanical disciplines is beneficial"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of temperature measurement in process instrumentation and control systems",
+    "Explain the working principles, construction, and applications of thermowells",
+    "Describe the operation, types, and advantages of thermocouples used in industrial settings",
+    "Identify resistance-type temperature sensors such as RTDs and thermistors, and their appropriate usage",
+    "Differentiate between various types of thermometers used for local temperature readings",
+    "Explain the working and application of filled-system temperature instruments",
+    "Understand the principles behind non-contact temperature measurement using radiation-type pyrometers",
+    "Gain insights into optical pyrometers and their usage in high-temperature and specialized environments",
+    "Analyze practical case studies to connect theoretical knowledge with real-world applications in process industries"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Thermowells",
+    "Module 3: Thermocouple Temperature Measurement",
+    "Module 4: Resistance-Type Temperature Measurement",
+    "Module 5: Thermometers for Local Temperature Measurement",
+    "Module 6: Filled-System Temperature Instrument",
+    "Module 7: Radiation Type Pyrometers",
+    "Module 8: Optical Pyrometers",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 51,
+  title: "Process Instrumentation and Control (Transmission Systems)",
+  date: "Present",
+  description: [
+    "Transmission systems in process control are responsible for conveying measurement and control signals between field instruments (like sensors and actuators) and centralized control units (PLCs, DCS, or SCADA). Accurate and reliable transmission is essential for effective monitoring and control.",
+    "This course provides a foundational and practical understanding of flow systems used in process instrumentation and control, with a specific focus on the transmission methods that drive industrial automation.",
+    "It explores the essential components, configurations, and operational principles of pneumatic, electrical, and hydraulic systems used to measure, control, and transmit flow information across various industries.",
+    "Participants will learn how these systems function individually and within integrated control loops, along with industry-standard practices for inspection, testing, and maintenance.",
+    "The course aims to bridge theoretical concepts with field applications, preparing participants to evaluate, maintain, and troubleshoot flow control systems effectively."
+  ],
+  image: require("./coursesImg/Process I & C(Transmission Systems).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of process control and instrumentation fundamentals",
+    "Familiarity with physical principles of flow and fluid mechanics",
+    "Engineering or technical background in automation, instrumentation, mechanical, or electrical fields (preferred)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and significance of flow systems in process instrumentation and control.",
+    "Identify general components and functions of flow control systems across various applications.",
+    "Explain the working principles and configuration of pneumatic systems used in flow control and actuation.",
+    "Understand electrical systems used in flow measurement and signal transmission, including wiring, sensors, and controllers.",
+    "Describe the operation, advantages, and limitations of hydraulic transmission systems used in industrial control applications.",
+    "Apply standard inspection and testing techniques to ensure performance, reliability, and safety of flow systems.",
+    "Troubleshoot common problems in pneumatic, electrical, and hydraulic systems within flow control environments.",
+    "Integrate knowledge of various transmission systems to support efficient and accurate process operations."
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: General",
+    "Module 3: Pneumatic Systems",
+    "Module 4: Electrical Systems",
+    "Module 5: Hydraulic Transmission Systems for Control",
+    "Module 6: Inspection & Test"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦60,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 52,
+  title: "ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS",
+  date: "Present",
+  description: [
+    "Assessment involves identifying, analyzing, and understanding the risks posed by natural hazards. The goal is to reduce vulnerability and prepare for effective response and recovery.",
+    "This course provides a structured approach to assessing and planning for natural hazards with a focus on minimizing risks to infrastructure, equipment, and operations.",
+    "It guides participants through the process of identifying potential hazards, collecting relevant data, evaluating the vulnerability of critical equipment, and comparing risks against design criteria.",
+    "The course also covers planning for recovery and recommissioning activities after an event."
+  ],
+  image: require("./coursesImg/ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "hazop hazid",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of risk assessment or disaster management concepts",
+    "Familiarity with fluid mechanics and heat exchanger operations.",
+    "Knowledge of material science, especially related to thermal conductivity and corrosion.",
+    "General knowledge of environmental and geotechnical factors"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the importance of natural hazard assessment in protecting assets and operations.",
+    "Identify various types of natural hazards (e.g., earthquakes, floods, hurricanes) relevant to specific locations or facilities",
+    "Collect and interpret hazard-related data for informed decision-making.",
+    "Recognize critical equipment and systems that must be assessed for vulnerability",
+    "Evaluate current designs and installations against hazard-resistant criteria or standards",
+    "Design and evaluate the performance of shell-and-tube exchangers, incorporating baffles and tube bundles to improve efficiency.",
+    "Plan for effective recovery and recommissioning following a natural hazard event",
+    "Apply practical knowledge gained from case studies to improve facility preparedness and response."
+  ],
+  outline: [
+    "Module 1:    Introduction",
+    "Module 2:    Identifying Hazards",
+    "Module 3:    Gather Data",
+    "Module 4: Identify Equipment to be addressed In Natural Hazards Assessment",
+    "Module 5:    Evaluate against Design Criteria",
+    "Module 6:    Recovery",
+    "Module 7:    Recommissioning",
+    "Module 8:  Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 52,
+  title: "Bearings Failures, Causes & Remedies",
+  date: "Present",
+  description: [
+    "Bearings are critical components in rotating machinery, designed to support loads and reduce friction between moving parts. When bearings fail, they can lead to equipment breakdowns, reduced efficiency, safety hazards, and costly downtime. Understanding why bearings fail and how to prevent it is essential for reliable machine operation.",
+    "This course offers a comprehensive study of bearing systems, focusing on their construction, operation, and failure mechanisms.",
+    "Participants will explore the types of loads bearings endure, the influence of material selection, clearances, and design considerations, as well as the most common causes of bearing failures.",
+    "The course introduces diagnostic tools and techniques, including path pattern interpretation and TV-2 statistics.",
+    "Real-world examples and practical demonstrations are included to reinforce root cause analysis and best practices for failure prevention and corrective action."
+  ],
+  image: require("./coursesImg/Bearings Failures, Causes & Remedies.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of mechanical components and rotating machinery",
+    "Familiarity with industrial maintenance practices.",
+    "Understanding of friction, lubrication, and material behavior."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Identify types of bearings and their working principles",
+    "Understand key components and their mechanical roles",
+    "Compare material properties and their impact on bearing performance",
+    "Recognize how material selection influences durability and failure risk",
+    "Understand how radial, axial, and combined loads affect bearing choice",
+    "Match bearing types to specific machine requirements",
+    "Learn how improper clearances contribute to wear and failure",
+    "Understand the impact of thermal expansion and misalignment",
+    "Explore issues such as lubrication problems, contamination, overloading, and fatigue",
+    "Analyze how poor installation and improper maintenance lead to failures",
+    "Study real-world failure examples and match symptoms to causes",
+    "Use path pattern analysis to determine failure modes",
+    "Learn how to apply statistical tools to assess bearing wear and reliability",
+    "Perform practical assessments and demonstrations of faulty bearings",
+    "Understand corrective actions and preventive maintenance measures",
+    "Analyze case histories of bearing failures in various industries",
+    "Apply lessons learned to improve reliability and reduce downtime"
+  ],
+  outline: [
+    "Module 1:     Concept",
+    "Module 2:     Construction",
+    "Module 3:     Bearing Materials",
+    "Module 4:     Types of Load and Bearings",
+    "Module 5:     Bearing Clearances",
+    "Module 6:     Why Bearing Fails",
+    "Module 7:     Failures, Causes, and Remedies: Few Examples",
+    "Module 8:     Path Pattern Interpretation",
+    "Module 9:     Other Important Points",
+    "Module 10:    TV-2 Statistic",
+    "Module 11:    Practical Demonstration",
+    "Module 12:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 53,
+  title: "Boiler System Failure",
+  date: "Present",
+  description: [
+    "A boiler system is a critical component in power plants, manufacturing industries, and heating systems. It works by heating water to produce steam, which is used for heating, power generation, or industrial processes.",
+    "Boiler system failures can lead to operational downtime, safety hazards, and costly repairs. These failures aren't limited to just the boiler tubes but include all parts of the system — such as feedwater systems, pressure vessels, burners, control systems, and more.",
+    "Understanding these failures is essential for maintaining efficiency, ensuring safety, and prolonging equipment life.",
+    "This course offers an in-depth exploration of boiler system failures, examining the causes, mechanisms, and prevention strategies across various boiler components.",
+    "Participants will gain knowledge about failure modes affecting economizers, deaerators, firetube and watertube boilers, steam and mud drums, and condensate systems.",
+    "The course will also address corrosion, deposits, and mechanical stresses that contribute to component degradation.",
+    "Through case studies, learners will analyze real-world failure incidents and apply corrective actions to enhance system reliability and performance."
+  ],
+  image: require("./coursesImg/Boiler System Failure.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of boiler design and operation",
+    "Familiarity with steam systems and water treatment processes.",
+    "Knowledge of materials, corrosion, and thermal stress concepts."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify the role of economizers, deaerators, drums, and tubes in steam generation",
+    "Recognize how each component contributes to boiler performance and efficiency",
+    "Learn the typical causes of failures in firetube and watertube boilers",
+    "Analyze the impact of design, operation, and maintenance practices on failure risks",
+    "Understand how corrosion, scaling, and deposits affect system integrity",
+    "Examine failure patterns in steam lines, mud drums, and superheaters",
+    "Identify symptoms of impending failure and conduct inspections",
+    "Learn preventive strategies through proper operation and monitoring",
+    "Analyze actual boiler failure events and root cause investigations",
+    "Use case study insights to improve system performance and reduce downtime"
+  ],
+  outline: [
+    "Module 1:     Economizers",
+    "Module 2:     Deaerators",
+    "Module 3:     Firetube Boilers",
+    "Module 4:     Watertube Boilers",
+    "Module 5:     Steam Line Deposits",
+    "Module 6:     Mud Drum and Steam Drum Deposits",
+    "Module 7:     Boiler Drums and Tubes",
+    "Module 8:     Boiler Water Sight Glass Failure",
+    "Module 9:     Superheater Tubes Failures",
+    "Module 10:    Condensate Lines Corrosion",
+    "Module 11:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 54,
+  title: "Boiler Tube Failure",
+  date: "Present",
+  description: [
+    "Boiler tube failure is one of the most common and critical problems in steam-generating systems, particularly in power plants and heavy industries.",
+    "The boiler tubes are essential components that carry water or steam at high pressure and temperature. If these tubes fail, it can lead to forced shutdowns, loss of efficiency, costly repairs, and in severe cases, dangerous accidents.",
+    "Failures happen when the tube material can no longer withstand the mechanical stresses, temperatures, or corrosive environments inside the boiler.",
+    "Understanding the causes and types of failures is crucial for improving reliability, safety, and performance.",
+    "This course focuses on the causes, types, and prevention of boiler tube failures, which are one of the leading causes of forced outages in thermal power and industrial steam generation systems.",
+    "Participants will gain foundational knowledge of boiler components and accessories, followed by an in-depth look at failure mechanisms, detection methods, and corrective actions.",
+    "Real-world case studies will be used to demonstrate practical approaches to diagnosing and mitigating boiler tube failures in various industrial settings."
+  ],
+  image: require("./coursesImg/Boiler Tube Failure.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of steam generation principles.",
+    "Familiarity with industrial boiler systems and components.",
+    "Knowledge of materials and corrosion concepts."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Recognize the importance of maintaining proper operating conditions.",
+    "Identify how accessory failures can contribute to tube damage.",
+    "Understand mechanisms such as corrosion, erosion, fatigue, overheating, and mechanical wear.",
+    "Detect early warning signs and use inspection techniques to assess tube condition.",
+    "Learn strategies for improving water chemistry, operational procedures, and material selection.",
+    "Plan maintenance and inspection routines to reduce failure frequency.",
+    "Examine documented failure incidents and root cause analysis.",
+    "Apply findings to improve the reliability and longevity of boiler systems."
+  ],
+  outline: [
+    "Module 1:    Boiler",
+    "Module 2:    Boiler Accessories",
+    "Module 3:    Boiler Tube Failures",
+    "Module 4:    Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 55,
+  title: "Fundamentals of Control Valve Engineering",
+  date: "Present",
+  description: [
+    "A control valve is a critical component in process control systems. It regulates the flow of fluids (liquids, gases, or steam) by varying the size of the flow passage. This ensures that process variables like pressure, temperature, and fluid level are maintained within desired ranges.",
+    "Control valves receive signals from controllers (like PLCs or DCS) and adjust their position accordingly to maintain process stability and efficiency.",
+    "This course provides a foundational understanding of control valve engineering, focusing on the selection, operation, and specification of control valves and associated components.",
+    "It covers essential topics such as actuators, positioners, severe service applications, treatment methods, industry standards, and documentation practices.",
+    "Participants will gain insight into how control valves regulate process variables and contribute to system efficiency and stability.",
+    "The course includes practical examples, sample specifications, and real-world case studies to enhance applied learning."
+  ],
+  image: require("./coursesImg/Fundamentals of Control Valve Engineering.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid mechanics and process control systems",
+    "Familiarity with instrumentation symbols and process flow diagrams",
+    "Awareness of industrial control systems and loop operations."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify different types of industrial furnaces and their applications",
+    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
+    "Learn to calculate thermal efficiency and assess heat losses",
+    "Understand key parameters affecting furnace performance",
+    "Identify opportunities for improving fuel usage and reducing energy losses",
+    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
+    "Review examples of successful furnace optimization projects",
+    "Understand practical implementation challenges and solutions"
+  ],
+  outline: [
+    "Module 1:     Control Valve",
+    "Module 2:     Actuators",
+    "Module 3:     Positioners",
+    "Module 4:     Severe Service",
+    "Module 5:     Severe Service Treatments",
+    "Module 6:     Standards",
+    "Module 7:     Sample Specification",
+    "Module 8:     Sample Datasheet",
+    "Module 9:     Case Study"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 56,
+  title: "Gas Dehydration",
+  date: "Present",
+  description: [
+    "Gas dehydration is the process of removing water vapor from natural gas to prevent problems such as hydrate formation, pipeline corrosion, and freezing. It’s a critical step in natural gas processing to ensure gas meets pipeline specifications and remains safe for transport and use.",
+    "This course provides a detailed understanding of gas dehydration processes, which are essential for removing water vapor from natural gas to prevent hydrate formation, corrosion, and equipment damage.",
+    "Participants will explore the behavior of water in hydrocarbon systems, various dehydration technologies, and hydrate inhibition techniques in both processing plants and pipelines.",
+    "Special focus is given to glycol dehydration using liquid desiccants.",
+    "The course concludes with real-world case studies to highlight practical challenges and solutions in gas dehydration operations."
+  ],
+  image: require("./coursesImg/Gas Dehydration.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of natural gas composition and processing",
+    "Familiarity with thermodynamics and phase behavior",
+    "Understanding of gas plant operations and equipment."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Recognize the need to remove water vapor from natural gas streams",
+    "Understand the impact of water on gas quality, pipeline integrity, and downstream equipment",
+    "Study the phase behavior of water in natural gas systems",
+    "Evaluate the conditions leading to condensation and hydrate formation",
+    "Identify various dehydration technologies and their operating principles",
+    "Compare absorption, adsorption, and refrigeration-based methods",
+    "Understand the use of triethylene glycol (TEG) and other desiccants",
+    "Analyze key equipment and parameters in a typical glycol dehydration unit",
+    "Explore chemical and mechanical methods to prevent hydrate formation",
+    "Learn about methanol and glycol injection strategies",
+    "Learn how to manage temperature and pressure to avoid hydrate risks",
+    "Apply hydrate inhibition strategies during transport and shutdown conditions",
+    "Analyze field examples of dehydration unit performance and failures",
+    "Learn from troubleshooting techniques and operational improvements"
+  ],
+  outline: [
+    "Module 1:     Overview",
+    "Module 2:     Water Hydrocarbon System Behaviors",
+    "Module 3:     Gas Dehydration Systems",
+    "Module 4:     Absorption Using Liquid Desiccants (Glycol Dehydration)",
+    "Module 5:     Hydrate Inhibition in Low Temperature Processing Plant",
+    "Module 6:     Hydrate Inhibition in Gas Pipeline",
+    "Module 7:     Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 57,
+  title: "Furnaces",
+  date: "Present",
+  description: [
+    "A furnace is an enclosed structure used to heat materials to high temperatures. In industries, furnaces are critical for processes such as metal melting, heat treatment, chemical reactions, and generating hot gases for boilers and other systems.",
+    "The main function of a furnace is to provide controlled heating, which can be direct (material is exposed to flame/gases) or indirect (heating elements or external heat sources).",
+    "This course offers a detailed understanding of industrial furnaces, focusing on their classification, performance evaluation, and fuel economy improvement techniques.",
+    "Participants will explore different furnace types, learn how to assess furnace efficiency, and identify practical energy-saving measures.",
+    "Real-world case studies will provide insight into best practices, common issues, and optimization strategies used across industries such as metallurgy, petrochemicals, ceramics, and manufacturing."
+  ],
+  image: require("./coursesImg/Furnaces.png"),
+  tags: [
+    "Trainer: Engr. Adeyemi"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and heat transfer",
+    "Familiarity with combustion processes and industrial heating systems",
+    "Awareness of energy efficiency principles."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Identify different types of industrial furnaces and their applications",
+    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
+    "Learn to calculate thermal efficiency and assess heat losses",
+    "Understand key parameters affecting furnace performance",
+    "Identify opportunities for improving fuel usage and reducing energy losses",
+    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
+    "Review examples of successful furnace optimization projects",
+    "Understand practical implementation challenges and solutions"
+  ],
+  outline: [
+    "Module 1:     Types and Classification of Different Furnaces",
+    "Module 2:     Performance Evaluation of a Typical Furnace",
+    "Module 3:     General Fuel Economy Measures in Furnaces",
+    "Module 4:     Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 58,
+  title: "Engineering Disciplines (Activities and Deliverables)",
+  date: "Present",
+  description: [
+    "In industrial and infrastructure projects, engineering disciplines work in coordination to deliver safe, functional, and cost-effective systems. Each discipline contributes through distinct phases of design, analysis, and documentation.",
+    "Their deliverables are essential for procurement, construction, commissioning, and operation.",
+    "This course provides a structured understanding of the roles, responsibilities, and key deliverables of each major engineering discipline in an industrial project environment.",
+    "It highlights the scope of work and interdependencies across process, mechanical, civil, piping, instrumentation, and electrical engineering, among others.",
+    "The course is designed to give participants clarity on typical outputs, coordination challenges, and quality expectations from each discipline, with practical reinforcement through case studies."
+  ],
+  image: require("./coursesImg/Engineering disciplines (Activities and Deliverables).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "project management",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of project execution in engineering or construction",
+    "Familiarity with engineering disciplines",
+    "Suitable for junior engineers, project coordinators, engineering managers, and technical documentation teams"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the specific roles and deliverables of each engineering discipline in a project",
+    "Interpret and produce key documents such as P&IDs, layouts, datasheets, and analysis reports",
+    "Recognize interdependencies and coordination requirements across disciplines",
+    "Identify the documentation and inputs required at various project phases (FEED, EPC, commissioning)",
+    "Apply quality control practices to engineering deliverables",
+    "Evaluate case studies to identify best practices and common coordination issues",
+    "Communicate more effectively across multidisciplinary engineering teams",
+    "Track progress and ensure alignment with project execution plans",
+    "Support design review processes such as 30%, 60%, and 90% model reviews",
+    "Promote efficiency, safety, and compliance through accurate engineering documentation"
+  ],
+  outline: [
+    "Module 1:     Process",
+    "Module 2:     Plant Layout",
+    "Module 3:     Equipment",
+    "Module 4:     Safety & Environment",
+    "Module 5:     Civil",
+    "Module 6:     Piping",
+    "Module 7:     Pipeline",
+    "Module 8:     Instrumentation",
+    "Module 9:     Electrical"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 59,
+  title: "Heat Exchanger Inspection",
+  date: "Present",
+  description: [
+    "Heat exchangers are critical components in industrial systems, used to transfer heat between two or more fluids without mixing them.",
+    "Due to harsh operating environments, they are prone to issues like fouling, corrosion, erosion, cracking, and leaks, which can reduce efficiency and lead to unplanned shutdowns or safety hazards.",
+    "This course provides a comprehensive understanding of heat exchanger systems with a specific focus on inspection, testing, and maintenance practices.",
+    "It explores the different types of heat exchangers, deterioration mechanisms, and the importance of regular inspection to ensure safety, efficiency, and compliance.",
+    "Real-world case studies illustrate key learning points and industry best practices."
+  ],
+  image: require("./coursesImg/heat exchanger inspection.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of heat transfer and thermodynamics",
+    "Familiarity with heat exchanger operations and process equipment",
+    "Knowledge of industrial maintenance or inspection methods"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Recognize inspection’s role in maintaining performance, reliability, and safety",
+    "Identify regulatory and operational drivers for periodic inspections",
+    "Understand applications across industries and operating environments",
+    "Compare designs such as shell-and-tube, plate, finned, and air-cooled exchangers",
+    "Understand fouling, scaling, erosion, and stress-related damage",
+    "Explain the necessity of inspection and monitoring",
+    "Learn how inspection prevents failure, reduces downtime, and extends asset life",
+    "Perform visual inspections, non-destructive testing (NDT), and operational checks",
+    "Follow protocols for accessing, disassembling, and inspecting units",
+    "Explore hydrostatic, dye penetrant, ultrasonic, eddy current, and radiographic testing",
+    "Interpret test results and identify actionable outcomes",
+    "Prevent internal damage and corrosion during shutdowns",
+    "Apply proper cleaning, drying, and sealing techniques",
+    "Document findings, test results, repairs, and preventive measures",
+    "Review real-life inspection scenarios and outcomes",
+    "Identify lessons learned and best practices for future inspections"
+  ],
+  outline: [
+    "Module 1: Scope",
+    "Module 2: Name and Functions of Heat Exchangers",
+    "Module 3: Types of Heat Exchangers",
+    "Module 4: Corrosion and Deterioration in Heat Exchangers",
+    "Module 5: Necessity of Inspection",
+    "Module 6: Inspection Procedures",
+    "Module 7: Testing",
+    "Module 8: Idle Time Preservation",
+    "Module 9: Inspection Documentation",
+    "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 60,
+  title: "Heat Exchanger Maintenance",
+  date: "Present",
+  description: [
+    "Heat exchangers are critical pieces of equipment used to transfer heat between two fluids without mixing them, common in power generation, oil & gas, chemical processing, HVAC, and food production.",
+    "Due to exposure to extreme temperatures, pressures, and corrosive materials, regular maintenance is crucial for efficient and safe operation.",
+    "This course provides technical and practical insights into maintenance and repair of heat exchangers, focusing on structure, types, and maintenance routines.",
+    "It includes specialized techniques for diaphragm-type exchangers and hands-on knowledge about re-tubing old bundles.",
+    "Case studies highlight common failures and best practices used in the field."
+  ],
+  image: require("./coursesImg/heat exchanger maintenance.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of heat transfer principles",
+    "Familiarity with mechanical maintenance practices and tools",
+    "Knowledge of industrial process systems and components"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Identify key operating principles and heat transfer mechanisms",
+    "Recognize the importance of maintenance for reliability and efficiency",
+    "Understand structural and functional differences in shell-and-tube, plate, and diaphragm types",
+    "Match exchanger types to their most suitable applications",
+    "Learn about key components like tubes, shells, baffles, heads, and gaskets",
+    "Understand construction materials and mechanical assembly details",
+    "Perform cleaning, inspection, and preventive maintenance routines",
+    "Detect fouling, corrosion, leaks, and mechanical wear",
+    "Understand unique structural and operational considerations",
+    "Learn specialized inspection and maintenance techniques",
+    "Learn how to assess when re-tubing is necessary",
+    "Gain knowledge of material compatibility and mechanical procedures",
+    "Study real-world problems and repair approaches",
+    "Apply learning to enhance reliability and operational uptime"
+  ],
+  outline: [
+    "Module 1: What is a Heat Exchanger",
+    "Module 2: Types of Heat Exchangers",
+    "Module 3: Exchanger Components",
+    "Module 4: Heat Exchanger Construction",
+    "Module 5: Maintenance of Heat Exchanger",
+    "Module 6: Diaphragm Type Heat Exchanger",
+    "Module 7: Special Consideration in Diaphragm Type Heat Exchanger Maintenance",
+    "Module 8: Old Bundle Re-Tubing",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 61,
+  title: "HVAC Domestic and Industrial Ventilation Systems",
+  date: "Present",
+  description: [
+    "HVAC (Heating, Ventilation, and Air Conditioning) systems are vital for maintaining indoor comfort, safety, and air quality in both residential and industrial settings.",
+    "Ventilation systems regulate air movement, remove contaminants, and control humidity and temperature, ensuring healthy environments.",
+    "This course introduces the fundamentals of ventilation systems, including types, components, and system design for both domestic and industrial applications.",
+    "It emphasizes air quality control, air change calculations, and compliance with international standards like ASHRAE and CIBSE.",
+    "Participants will explore real-life case studies to apply theoretical knowledge in practical contexts."
+  ],
+  image: require("./coursesImg/HVAC Domestic and Industrial Ventilation Systems.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and fluid flow",
+    "Familiarity with HVAC system components and functions",
+    "Awareness of indoor air quality principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Explain why ventilation is critical for comfort, safety, and air quality",
+    "Differentiate between natural and mechanical ventilation",
+    "Recognize systems such as exhaust, supply, balanced, and spot ventilation",
+    "Match system types to appropriate applications in residential and industrial contexts",
+    "Understand ventilation’s role in controlling pollutants, moisture, and odors",
+    "Incorporate filtration, air exchange, and humidity control techniques",
+    "Use standard formulas and guidelines (ASHRAE, CIBSE, etc.)",
+    "Calculate air changes per hour (ACH) based on occupancy and space use",
+    "Learn how to control airborne contaminants in workplaces",
+    "Explore local exhaust ventilation (LEV), dilution ventilation, and capture systems",
+    "Assess space constraints, noise, energy use, and ducting layouts",
+    "Evaluate fan selection, air distribution, and integration with HVAC systems",
+    "Review successful and problematic ventilation installations",
+    "Identify key lessons and best practices for design and maintenance"
+  ],
+  outline: [
+    "Module 1: General Purpose Ventilation",
+    "Module 2: Types of Ventilation Systems",
+    "Module 3: Ventilation Strategies for Indoor Air Quality",
+    "Module 4: Estimating Ventilation Rates",
+    "Module 5: Industrial Ventilation",
+    "Module 6: General System Design Considerations",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 62,
+  title: "Inspection of Pressure Vessels",
+  date: "Present",
+  description: [
+    "ASME Section VIII Division 1 of the Boiler and Pressure Vessel Code (BPVC) sets the standard for the design, testing, inspection, and certification of pressure vessels.",
+    "Due to the high-pressure and hazardous nature of pressure vessel contents, inspection is a critical aspect of ensuring safety and compliance.",
+    "This course covers inspection processes, code provisions, and the role of authorized inspectors according to ASME Section VIII Div. 1.",
+    "Participants will explore stamping procedures, inspection responsibilities, material traceability, and pressure testing.",
+    "Real-world case studies will help reinforce key lessons in compliance, fabrication oversight, and code interpretation."
+  ],
+  image: require("./coursesImg/inspection of pressure vessels.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of pressure vessel design and manufacturing",
+    "Familiarity with general industrial codes and standards",
+    "Knowledge of welding, NDE, and fabrication processes"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Define who an Authorized Inspector is and their role in code compliance",
+    "Explain when and why authorized inspection is required under ASME",
+    "Understand how the ASME Code is structured and applied across industries",
+    "Navigate relevant sections with a focus on Section VIII Div. 1",
+    "Identify the purpose of the 'U,' 'UM,' 'U2,' and other relevant stamps",
+    "Understand stamping procedures and their implications on inspection",
+    "Distinguish duties related to document review, witness testing, and final acceptance",
+    "Coordinate effectively between involved parties during vessel fabrication",
+    "Review key code sections on design, materials, fabrication, inspection, testing, and certification",
+    "Understand how Division 1 differs from other Divisions in Section VIII",
+    "Follow procedures for joint review, material traceability, pressure testing, and final inspection",
+    "Engage in Q&A for clarification and knowledge reinforcement",
+    "Address common questions related to inspection practices and code interpretation",
+    "Learn from inspection successes and failures in various industries",
+    "Identify best practices and preventive measures"
+  ],
+  outline: [
+    "Module 1: What is Authorized Inspection?",
+    "Module 2: Overview of ASME Code",
+    "Module 3: Code Stamps",
+    "Module 4: Inspection responsibilities: Manufacturer & Authorized Inspector",
+    "Module 5: ASME Section Inspection VIII: Scope & Organization",
+    "Module 6: Section VIII & Division 1 Inspection requirements",
+    "Module 7: Questions & Answers",
+    "Module 8: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 63,
+  title: "Instrumentation Project Engineering Documents",
+  date: "Present",
+  description: [
+    "Instrumentation projects involve specifying, selecting, installing, and integrating instruments and control systems across various industries such as oil & gas, power, and manufacturing.",
+    "A structured set of engineering documents ensures accurate design, proper installation, and safe, reliable operation of these systems.",
+    "This course offers a deep dive into the essential documents used in process and industrial automation instrumentation projects.",
+    "Participants will understand the purpose, sequence, and interrelationships of documents such as P&IDs, datasheets, loop diagrams, and logic diagrams.",
+    "Real-world case studies will highlight the importance of document accuracy, coordination, and lifecycle management for safe and efficient project execution."
+  ],
+  image: require("./coursesImg/Instrumentation Project Engineering Documents.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of instrumentation and control principles",
+    "Familiarity with process systems and control loops",
+    "Understanding of project execution phases in industrial settings"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Recognize how each document supports project planning, execution, and commissioning",
+    "Ensure consistency and integration across multidisciplinary teams",
+    "Understand how P&IDs define process flow, control logic, and instrument locations",
+    "Use P&IDs as the basis for developing other instrumentation documents",
+    "Translate process requirements into technical specifications for instruments",
+    "Ensure datasheets meet design, procurement, and operational needs",
+    "Organize instruments by tag number, service, and system",
+    "Create and update I/O lists for integration with control systems",
+    "Illustrate control loop connections from field to control room",
+    "Design hook-ups for installation with accurate materials and termination",
+    "Assign and document cable routing, termination, and control signals",
+    "Understand how logic diagrams represent control system behavior",
+    "Document safety and control logic in response to process deviations",
+    "Apply to emergency shutdown (ESD) and interlock systems",
+    "Learn from actual project documentation scenarios",
+    "Identify common pitfalls and best practices for effective document management"
+  ],
+  outline: [
+    "Module 1: Piping & Instrumentation Diagram or P&ID",
+    "Module 2: Process Datasheet",
+    "Module 3: Instrument Index",
+    "Module 4: I/O List",
+    "Module 5: Instrument Specification",
+    "Module 6: Instrument Loop Diagrams",
+    "Module 7: Instrument Hook-up Diagrams",
+    "Module 8: Instrument Cable Schedule",
+    "Module 9: Instrument Logic Diagrams",
+    "Module 10: Cause & Effect Diagrams",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $50",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 64,
+  title: "Instruments Symbols",
+  date: "Present",
+  description: [
+    "Instrument symbols serve as the universal language in engineering drawings, especially in industries like oil & gas, power, chemicals, and manufacturing.",
+    "These symbols appear in P&IDs to communicate how systems are measured, monitored, and controlled, aiding engineers and technicians in system design and troubleshooting.",
+    "This course provides a comprehensive understanding of instrumentation symbols used in technical drawings and control system documentation.",
+    "Participants will explore standard conventions, their applications in various measurements, and how symbols represent different instrument types and functions.",
+    "The course includes real-world case studies and references to international standards, enhancing interpretation skills and accuracy in design reviews."
+  ],
+  image: require("./coursesImg/instruments symbols.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of process instrumentation and control systems",
+    "Familiarity with industrial processes and equipment",
+    "Understanding of process diagrams"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Recognize the role of symbols in engineering drawings and documentation",
+    "Identify standard conventions for instrumentation symbols",
+    "Understand how flow and pressure instruments are represented in P&IDs",
+    "Distinguish between different types of sensors and transmitters",
+    "Identify different types of control valves and their functions",
+    "Recognize accessories like positioners, I/P converters, and actuators",
+    "Learn how thermocouples, RTDs, and level sensors are represented in diagrams",
+    "Differentiate between local, remote, and display instruments",
+    "Analyze feedback and feedforward loop arrangements",
+    "Understand the flow of information from field to control room",
+    "Understand calibration notations and symbols on loop sheets",
+    "Recognize how calibration documentation aligns with field instruments",
+    "Learn relevant international standards (e.g., ISA, ISO) for symbol usage",
+    "Understand their importance in engineering consistency and compliance",
+    "Interpret symbols related to safety functions, shutdowns, and interlocks",
+    "Understand SIS-specific documentation and notations",
+    "Analyze real project documentation and troubleshoot errors",
+    "Improve interpretation and accuracy in instrumentation design and reviews"
+  ],
+  outline: [
+    "Module 1: Instrument Symbols",
+    "Module 2: Flow / Pressure measurement",
+    "Module 3: Control Valve",
+    "Module 4: Control Valve Accessories",
+    "Module 5: Temperature measurement",
+    "Module 6: Level measurement",
+    "Module 7: Control Loops",
+    "Module 8: Instruments Calibration",
+    "Module 9: Codes, standards & Specification",
+    "Module 10: Safety Instrumented Systems",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 65,
+  title: "Introduction to Steam Turbines",
+  date: "Present",
+  description: [
+    "Steam turbines convert thermal energy from pressurized steam into mechanical energy used to power generators, compressors, and pumps in critical industries like power generation, petrochemicals, and marine propulsion.",
+    "This course introduces the fundamentals of steam turbines, their configurations, and their integration with boilers and nuclear steam systems.",
+    "Participants will explore turbine components, steam flow mechanics, impulse vs. reaction turbines, and the role of turbines in different plant types.",
+    "Real-world case studies provide practical insights into turbine operation, performance, and troubleshooting within modern power plants.",
+    "The course prepares engineers and technicians for effective steam turbine design understanding and system optimization."
+  ],
+  image: require("./coursesImg/introduction to steam turbines.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and mechanical systems",
+    "General awareness of how power plants operate",
+    "Familiarity with energy conversion principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Recognize the importance of steam turbines in thermal power generation",
+    "Describe how turbines convert thermal energy into mechanical and electrical energy",
+    "Learn the basic arrangement of steam turbines including casing, rotor, and blades",
+    "Understand the flow of steam through various turbine stages",
+    "Study the stationary and rotating elements of a steam path",
+    "Understand how steam pressure and temperature affect turbine performance",
+    "Compare impulse and reaction turbines",
+    "Understand configurations such as condensing, extraction, and back-pressure turbines",
+    "Learn how pulverized coal-fired boilers generate steam for turbine use",
+    "Explore combustion and heat transfer processes relevant to turbine operation",
+    "Understand the role of steam turbines in nuclear steam supply systems (NSSS)",
+    "Identify differences in design and safety considerations compared to fossil plants",
+    "Analyze real-world steam turbine applications",
+    "Review operational challenges, failures, and performance optimization examples"
+  ],
+  outline: [
+    "Module 1: Introduction to Power Plants",
+    "Module 2: Steam Turbine Arrangement",
+    "Module 3: Steam Path Parts",
+    "Module 4: Types of Steam Turbines",
+    "Module 5: Pulverized Coal-Fired Boilers",
+    "Module 6: Nuclear Steam Supply System",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 66,
+  title: "Pinch Technology",
+  date: "Present",
+  description: [
+    "Pinch Technology is a process integration technique used to maximize energy efficiency by optimizing heat recovery between process streams.",
+    "It identifies minimum energy requirements and guides the design of heat exchanger networks to recover waste heat and reduce utility consumption such as steam, cooling water, and fuel.",
+    "Widely applied in refineries, chemical plants, and energy-intensive industries, pinch analysis helps improve energy use, reduce emissions, and lower operating costs.",
+    "This course covers both theory and practical applications of pinch technology, including exergy analysis, capital-energy trade-offs, and total site integration with real-world case studies.",
+    "Participants will learn to set energy targets, design heat exchanger networks, and apply pinch concepts to optimize existing and new processes."
+  ],
+  image: require("./coursesImg/pinch technology.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of heat transfer and thermodynamics",
+    "Familiarity with process design and energy systems",
+    "Recommended for process engineers, energy analysts, and plant designers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the core principles of pinch technology and its importance in energy optimization",
+    "Extract relevant data from process flowsheets to apply pinch analysis",
+    "Set realistic energy targets for heat recovery and utility usage",
+    "Design efficient heat exchanger networks based on pinch principles",
+    "Analyze energy systems using exergy for deeper insight into inefficiencies",
+    "Balance capital investment with energy savings through trade-off analysis",
+    "Apply pinch concepts to improve existing processes and reduce utility costs",
+    "Integrate heat pumps and engines for enhanced process efficiency",
+    "Expand analysis from unit operations to total site energy management",
+    "Interpret and apply insights from real-world case studies to industrial processes"
+  ],
+  outline: [
+    "Module 1: What this chapter contains",
+    "Module 2: What is Pinch Technology",
+    "Module 3: From Flowsheet to Pinch Data",
+    "Module 4: Energy Targets",
+    "Module 5: Targeting for Multiple Utilities",
+    "Module 6: Exergy Analysis",
+    "Module 7: Capital - Energy Trade-offs",
+    "Module 8: Process Modifications",
+    "Module 9: Placement of Heat Engines and Heat Pumps",
+    "Module 10: Heat Exchanger Network Design",
+    "Module 11: Data Extraction Principles",
+    "Module 12: Total Site Improvement",
+    "Module 13: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 67,
+  title: "Pipeline Flow Pigging",
+  date: "Present",
+  description: [
+    "Pigging is a process used in pipeline systems to clean, inspect, or separate different products within the line without stopping the flow.",
+    "It involves inserting a device known as a 'pig' into the pipeline, which travels with the fluid flow to perform various functions.",
+    "Widely used in oil and gas, petrochemicals, food and beverage, and water treatment industries, pigging improves pipeline efficiency, reduces contamination, and helps maintain flow by removing build-up or debris.",
+    "This course covers routine cleaning and advanced inline inspection techniques, pig selection, pig trap design, and operational procedures for various pipeline fluids.",
+    "Participants will gain practical insights from real-world case studies to improve pipeline operations and integrity management."
+  ],
+  image: require("./coursesImg/pipeline flow pigging.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of pipeline systems and fluid mechanics",
+    "Familiarity with oil, gas, or refined product transportation systems",
+    "Ideal for pipeline engineers, integrity specialists, operations personnel, and maintenance teams"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the objectives and benefits of pigging in pipeline systems",
+    "Identify and design critical components of piggable pipelines",
+    "Operate and maintain pig launching and receiving stations safely",
+    "Select the appropriate pig based on pipeline conditions and pigging goals",
+    "Apply pigging techniques during pipeline construction and commissioning",
+    "Conduct routine onstream pigging for various fluids, including crude oil and gas",
+    "Utilize inline inspection tools for pipeline integrity evaluation",
+    "Implement maintenance practices for pigs and associated hardware",
+    "Interpret data from pigging operations to improve performance and reliability",
+    "Analyze real-world case studies to strengthen operational decision-making"
+  ],
+  outline: [
+    "Module 1: Purpose of Pigging",
+    "Module 2: Pipeline Design Considerations",
+    "Module 3: Pig Launching and Receiving Traps",
+    "Module 4: Selecting the Right Pipeline Pig",
+    "Module 5: Pigging New Construction",
+    "Module 6: Onstream Pigging of Natural Gas Lines, Natural Gas Liquids and Refined Petroleum Products",
+    "Module 7: Onstream Pigging of Crude Oil Lines",
+    "Module 8: Inline Inspection Technology",
+    "Module 9: Maintenance, Cleaning and Storage of Pigs and Components",
+    "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 68,
+  title: "Post Combustion CO₂ Capture (Hysys Software)",
+  date: "Present",
+  description: [
+    "This course offers a comprehensive exploration of post-combustion carbon dioxide (CO₂) capture technologies, focusing on the MEA-based absorption method and its implementation using Aspen HYSYS simulation software.",
+    "Participants will gain a strong understanding of the thermodynamics, process flow, equipment design, and simulation practices related to CO₂ capture from flue gases.",
+    "Economic evaluation and future considerations of Carbon Capture and Storage (CCS) systems are also discussed.",
+    "The course integrates theoretical concepts with hands-on process simulation and real-life case studies to prepare participants for industry-relevant CCS applications."
+  ],
+  image: require("./coursesImg/Post Combustion CO₂ Capture (Hysys Software).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "A background in chemical/process engineering",
+    "Basic knowledge of thermodynamics and mass transfer",
+    "Prior exposure to Aspen HYSYS (basic level)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Explain the principles and importance of post-combustion CO₂ capture within a CCS framework",
+    "Understand and simulate the MEA-based CO₂ absorption-regeneration process in HYSYS",
+    "Input and interpret real-world flue gas data for accurate simulation modeling",
+    "Develop and troubleshoot process simulation models for CO₂ capture using HYSYS",
+    "Evaluate the economic feasibility of CO₂ capture systems, considering energy usage and solvent recycling",
+    "Identify trends, future directions, and policy implications related to CCS technologies",
+    "Apply learned concepts to real case scenarios for practical insight into deployment and optimization"
+  ],
+  outline: [
+    "Module 1: Introduction & CCS System Overview",
+    "Module 2: Overview of MEA-CO₂ Capture Process",
+    "Module 3: Flue Gas Process Specifications for Simulation Models",
+    "Module 4: Process Simulation Models Development",
+    "Module 5: Economics of CO₂ Capture System",
+    "Module 6: CCS Future Outlook & Conclusion",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 69,
+  title: "Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange",
+  date: "Present",
+  description: [
+    "This course provides an in-depth understanding of the design principles and code requirements for pressure vessels, focusing on the shell, head, nozzle, and basic flange design.",
+    "Using the ASME Boiler and Pressure Vessel Code (BPVC) Section VIII, Division 1, participants will learn how to interpret and apply design rules to ensure safe and efficient vessel design.",
+    "The course combines theoretical foundations with practical insights and case studies to equip engineers and inspectors with the skills needed for pressure vessel design and evaluation.",
+    "Pressure vessels are critical in many industries such as Oil & Gas, Chemical Processing, Power Generation, Pharmaceuticals, Food and Beverage, where operating under pressure demands rigorous design and compliance with standards like ASME Section VIII and PED."
+  ],
+  image: require("./coursesImg/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "A basic understanding of mechanical or process engineering",
+    "Familiarity with industrial equipment such as vessels, tanks, or piping systems",
+    "Knowledge of engineering materials and stress analysis"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Understand the structure and application of ASME BPVC Section VIII Div. 1 for pressure vessel design",
+    "Identify design conditions and select suitable materials based on operating parameters",
+    "Apply joint efficiency principles and calculate minimum wall thickness for shells and heads",
+    "Design common vessel components, including cylindrical shells, heads, nozzles, and conical transitions",
+    "Analyze and implement code requirements for nozzle reinforcement",
+    "Evaluate the impact of design codes on manufacturing and inspection processes",
+    "Ensure pressure vessel integrity through compliance with recognized industry standards",
+    "Interpret technical design problems using real-world case studies for practical application"
+  ],
+  outline: [
+    "Module 1: Design Codes",
+    "Module 2: ASME BPVC – Boiler and Pressure Vessel Code",
+    "Module 3: ASME BPVC Section VIII, Div.1",
+    "Module 4: Design Conditions",
+    "Module 5: Material Selection",
+    "Module 6: Joint Efficiency",
+    "Module 7: Design of Parts under Internal Pressure",
+    "Module 8: Conical Transitions under Internal Pressure",
+    "Module 9: Nozzle",
+    "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 70,
+  title: "Introduction to Process Control for Chemical Engineers",
+  date: "Present",
+  description: [
+    "Process control is the science of keeping industrial processes running within desired conditions. It’s essential for safety, efficiency, quality, and productivity in process industries like oil and gas, food processing, power plants, or chemical manufacturing.",
+    "This course provides a solid foundation in process control principles, focusing on the essential components and functions that keep industrial processes stable, safe, and efficient.",
+    "Participants will understand how sensors, transmitters, controllers, and final control elements interact within feedback control loops, exploring different control modes and system responses.",
+    "Designed for engineers, technicians, and technical personnel, the course equips learners to interpret control loop behavior and apply best practices in monitoring and troubleshooting."
+  ],
+  image: require("./coursesImg/Introduction to Process Control for Chemical Engineers.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "A basic understanding of industrial processes or plant operations",
+    "Familiarity with general instrumentation concepts is helpful but not mandatory",
+    "An Engineering, technical, or operator-level background in manufacturing or process industries"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Understand the fundamental purpose and components of process control systems",
+    "Differentiate between open-loop and closed-loop control strategies",
+    "Identify key components in a feedback control loop and explain their roles",
+    "Select appropriate sensors and transmitters for different process applications",
+    "Understand signal transmission methods and how they affect control accuracy",
+    "Explain the function and tuning of controllers, particularly PID controllers",
+    "Describe the role and types of final control elements in a process loop",
+    "Analyze different control loop modes and their use in specific process conditions",
+    "Apply theoretical knowledge to real-life problems using case studies",
+    "Recognize the impact of control strategy on process safety, quality, and efficiency"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Control Concepts",
+    "Module 3: Feedback Control Loops",
+    "Module 4: Sensors",
+    "Module 5: Signal Transmitters",
+    "Module 6: Controllers",
+    "Module 7: Final Control Elements",
+    "Module 8: Control Loops Mode",
+    "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 71,
+  title: "PROCESS CONTROL FOR OPERATORS",
+  date: "Present",
+  description: [
+    "Process control is all about keeping industrial processes running smoothly, safely, and efficiently. As an operator, you play a key role in monitoring and adjusting the process to maintain optimal performance.",
+    "This course introduces plant operators and technical personnel to the fundamentals of process control systems used in industrial operations.",
+    "It explains the principles, measurements, and control techniques necessary for maintaining stable, efficient, and safe operations.",
+    "Topics include measurement of temperature, pressure, level, and flow, as well as analytical parameters and control system components like actuators and controllers.",
+    "The course bridges theory and practice, empowering operators to understand and interact effectively with control systems in real-time environments.",
+    "Case studies help contextualize learning with real-world examples."
+  ],
+  image: require("./coursesImg/process control for operators.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "7 Days",
+  prerequisite: [
+    "Basic knowledge of industrial processes",
+    "A general understanding of plant equipment and operations",
+    "Familiarity with standard operating procedures (SOPs) in industrial facilities"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Define process control and its impact on safety, product quality, and efficiency",
+    "Recognize how control systems affect day-to-day operations",
+    "Understand the principles behind temperature, pressure, level, and flow measurement",
+    "Identify the appropriate instruments used for each measurement",
+    "Learn about key chemical and physical parameters monitored in a process",
+    "Recognize the importance of on-line analyzers and sensors",
+    "Identify the roles of sensors, controllers, actuators, and final control elements",
+    "Understand how these components work together in a feedback system",
+    "Understand proportional, integral, and derivative (PID) control",
+    "Explore different controller types and their practical uses",
+    "Learn the basics of cascade, feedforward, and ratio control",
+    "Recognize the challenges of interacting control loops in complex systems",
+    "Understand lag, dead time, and process dynamics",
+    "Anticipate process behavior and adjust control actions accordingly",
+    "Monitor trends, alarms, and setpoints",
+    "Make informed decisions to adjust or troubleshoot control elements",
+    "Study real case examples of process instability, equipment response, or control failure",
+    "Learn corrective and preventive strategies"
+  ],
+  outline: [
+    "Module 1: Introduction to Process control",
+    "Module 2: Temperature Measurement and control",
+    "Module 3: Pressure Measurement",
+    "Module 4: Level Measurement",
+    "Module 5: Flow Measurement",
+    "Module 6: Analytical Measurement",
+    "Module 7: Final Control Elements",
+    "Module 8: Process Characteristics",
+    "Module 9: Types of Process Controllers",
+    "Module 10: Multi-Loop Controllers",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦350,000 / $300",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 72,
+  title: "Process Engineering (Introduction)",
+  date: "Present",
+  description: [
+    "Process Engineering is a branch of engineering that focuses on designing, operating, controlling, and optimizing chemical, physical, and biological processes.",
+    "It plays a crucial role in industries such as chemicals, oil and gas, pharmaceuticals, food and beverage, water treatment, and many more.",
+    "At its core, process engineering is about transforming raw materials into valuable products efficiently, safely, and sustainably.",
+    "This course provides a comprehensive introduction to Process Engineering, focusing on its role within industrial projects, particularly in the oil & gas sector.",
+    "It covers the scope of process engineering across project phases from FEED (Front-End Engineering Design) to detailed design and EPC (Engineering, Procurement, and Construction) proposals.",
+    "Learners will explore essential design documents, calculations, equipment sizing, and simulation tools.",
+    "The course combines theoretical knowledge with practical applications and real-world case studies to build a strong foundation for aspiring process engineers and related professionals."
+  ],
+  image: require("./coursesImg/process engineering (introduction).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of chemical or mechanical engineering principles",
+    "Familiarity with physical and chemical processes",
+    "Foundational knowledge of thermodynamics and fluid mechanics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together.",
+    "Define the scope and responsibilities of a process engineer",
+    "Recognize the relevance of process engineering in industrial projects",
+    "Distinguish between FEED, EPC, and detailed design phases",
+    "Understand the process engineering deliverables for each stage",
+    "Collaborate with other discipline engineers (mechanical, electrical, instrumentation)",
+    "Manage technical coordination during different project stages",
+    "Develop a robust basis of design document",
+    "Select appropriate processes based on project requirements",
+    "Utilize process simulation tools to analyze plant behavior",
+    "Evaluate flow-related challenges in pipeline systems",
+    "Read and create Process Flow Diagrams (PFDs) and Piping & Instrumentation Diagrams (P&IDs)",
+    "Analyze Heat & Mass Balance (H&MB) sheets",
+    "Perform line sizing, pump hydraulic calculations, and vessel sizing",
+    "Design relief systems and flare networks",
+    "Evaluate heat exchanger requirements and perform thermal design",
+    "Size relief valves accurately",
+    "Perform blowdown and depressurization analysis",
+    "Review real engineering design challenges and solutions",
+    "Reflect on best practices and common pitfalls in process engineering"
+  ],
+  outline: [
+    "Module 1: Introduction to Process Engineering",
+    "Module 2: Process Engineering Projects",
+    "Module 3: Role of Process Engineer",
+    "Module 4: Interface with Other Discipline Engineers",
+    "Module 5: Oil & Gas Projects",
+    "Module 6: Phases of Project",
+    "Module 7: FEED – Process Engineering Scope",
+    "Module 8: EPC Proposals – Process Engineering Scope",
+    "Module 9: Detailed Design – Process Engineering Scope",
+    "Module 10: Basis of Design",
+    "Module 11: Process Selection",
+    "Module 12: Process Simulation",
+    "Module 13: Flow Assurance Evaluation",
+    "Module 14: Process Flow Diagram (PFD) and Heat & Mass Balance (H&MB)",
+    "Module 15: Piping and Instrumentation Diagram (P&ID)",
+    "Module 16: Line Sizing",
+    "Module 17: Pump Hydraulics Calculation",
+    "Module 18: Vessel Sizing",
+    "Module 19: Heat Exchanger Thermal Design",
+    "Module 20: Relief Valve Sizing",
+    "Module 21: Blowdown and Depressurization Study",
+    "Module 22: Flare Design",
+    "Module 23: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 73,
+  title: "Process Loop Checking",
+  date: "Present",
+  description: [
+    "Process loop checking is the final verification activity conducted before commissioning a control system.",
+    "It ensures that all instruments, wiring, signals, and control logic from the field device to the control system and back operate correctly as designed.",
+    "This critical step confirms the integrity and functionality of the entire control loop, reducing the risk of startup delays or process upsets.",
+    "This course provides a comprehensive understanding of process loop checking — a critical activity in commissioning and startup phases of industrial automation and control systems.",
+    "It covers the full loop verification process, from field instrument to control system, ensuring functionality, safety, and readiness for operation.",
+    "Participants will learn how to document loop checks, conduct factory acceptance tests, and benchmark system performance, with real-world examples for practical context."
+  ],
+  image: require("./coursesImg/process loop checking.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of instrumentation and control systems",
+    "Familiarity with process plant commissioning procedures",
+    "Suitable for instrumentation technicians, commissioning engineers, control system engineers, and QA/QC personnel"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the purpose and process of loop checking in automation systems",
+    "Identify different types of control and monitoring loops",
+    "Conduct proper loop check procedures during FAT and site commissioning",
+    "Collaborate effectively across disciplines during loop validation",
+    "Use diagnostic tools and documentation to verify signal integrity and system function",
+    "Analyze loop performance data and resolve discrepancies",
+    "Develop and implement strategies for sustaining loop performance",
+    "Maintain loop records for audits, maintenance, and continuous improvement",
+    "Follow safety and QA/QC protocols during testing and operation",
+    "Apply insights from case studies to improve reliability and commissioning success"
+  ],
+  outline: [
+    "Module 1: Introduction to Loop Checking",
+    "Module 2: The Factory Acceptance Test",
+    "Module 3: Start-Up",
+    "Module 4: Performance Benchmarking",
+    "Module 5: Sustaining the Performance",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 74,
+  title: "Process Safety Incident Case Studies",
+  date: "Present",
+  description: [
+    "Studying real-world process safety incidents helps engineers and operators understand the root causes of failures and implement better safety systems.",
+    "These case studies highlight the importance of proper design, hazard identification, operational discipline, and compliance with safety regulations.",
+    "Most major incidents are preventable and often result from a combination of human error, design flaws, poor maintenance, or inadequate procedures.",
+    "This course offers an in-depth examination of major industrial incidents across various sectors, focusing on process safety failures and lessons learned.",
+    "Through real-world case studies from chemical plants, refineries, and manufacturing facilities, participants will explore root causes, contributing factors, and corrective actions.",
+    "The course emphasizes proactive risk identification, safety management system improvement, and incident prevention strategies."
+  ],
+  image: require("./coursesImg/process safety incident case studies.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "hazop hazid",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of process safety and industrial operations",
+    "Familiarity with hazard identification and risk management principles",
+    "Suitable for safety professionals, process engineers, operations personnel, and compliance managers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the critical role of incident analysis in improving process safety",
+    "Identify common root causes across various industrial accidents",
+    "Evaluate deficiencies in safety management systems and controls",
+    "Analyze the consequences of poor maintenance, communication, and emergency planning",
+    "Apply lessons learned to prevent similar failures in their own operations",
+    "Improve the implementation of hazard reviews, MOC, and inspection systems",
+    "Enhance process safety culture through real-world examples",
+    "Develop a systematic approach to reviewing and documenting incidents",
+    "Promote cross-functional learning from high-impact failures",
+    "Recommend corrective and preventive measures aligned with industry best practices"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Valero Meraux Refinery",
+    "Module 3: LACC",
+    "Module 4: Wacker Polysilicon",
+    "Module 5: Formosa Plastics Corporation",
+    "Module 6: Lubrizol Chemtool",
+    "Module 7: ConocoPhillips",
+    "Module 8: Rubicon",
+    "Module 9: Home Market Foods",
+    "Module 10: Suncor Energy",
+    "Module 11: Tyson Foods",
+    "Module 12: Dow St. Charles Operations",
+    "Module 13: Phillips 66 Refinery",
+    "Module 14: Georgia-Pacific",
+    "Module 15: CITGO Petroleum Refinery",
+    "Module 16: Kinder Morgan Gas Plant",
+    "Module 17: Kinder Morgan Crude Oil Production Facility",
+    "Module 18: Georgia-Pacific",
+    "Module 19: Pemex Refinery",
+    "Module 20: ConocoPhillips",
+    "Module 21: Georgia-Pacific",
+    "Module 22: Pemex Refinery",
+    "Module 23: Domtar Paper Mill",
+    "Module 24: Flint Hills Resources Refinery",
+    "Module 25: Polycarbon Industries",
+    "Module 26: Darling Ingredients",
+    "Module 27: BASF TOTALEnergies",
+    "Module 28: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦180,000 / $150",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 75,
+  title: "Process Safety Management",
+  date: "Present",
+  description: [
+    "Process Safety Management (PSM) is a systematic framework used to prevent the unintended release of hazardous chemicals, especially in industries dealing with high-risk processes such as oil & gas, chemical manufacturing, and petrochemicals.",
+    "PSM focuses on managing the integrity of operating systems and processes handling dangerous substances through disciplined design, operation, and maintenance practices.",
+    "This course introduces the fundamental concepts and practical applications of Process Safety Management (PSM) for managing hazardous processes in industrial settings.",
+    "It focuses on risk identification, hazard control, and fire/explosion prevention.",
+    "By combining theoretical foundations with real-world examples, the course equips participants with tools to implement and sustain effective PSM systems in compliance with regulatory standards and best practices."
+  ],
+  image: require("./coursesImg/process safety management.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "hazop hazid",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of industrial processes and safety principles",
+    "Familiarity with risk assessment and hazard identification techniques",
+    "Suitable for safety engineers, operations managers, maintenance personnel, and regulatory compliance professionals"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the core principles of Process Safety Management and its importance",
+    "Identify and evaluate process hazards and associated risks",
+    "Implement control measures to manage risks effectively",
+    "Apply industry standards and regulatory requirements for PSM",
+    "Integrate process safety into design, operations, and maintenance activities",
+    "Distinguish between fire and explosion hazards and apply protective measures",
+    "Promote a safety culture through leadership, training, and accountability",
+    "Analyze process incidents and apply findings to improve safety systems",
+    "Use real-world case studies to inform better decision-making and risk management strategies",
+    "Support ongoing improvement of PSM systems through audits and performance monitoring"
+  ],
+  outline: [
+    "Module 1: Foreword",
+    "Module 2: Management of process risk",
+    "Module 3: Process safety hazard control",
+    "Module 4: Fire and explosion protection",
+    "Module 5: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 76,
+  title: "Process Safety Management for Petroleum Refineries",
+  date: "Present",
+  description: [
+    "Process Safety Management (PSM) is a disciplined framework for managing the integrity of operating systems and processes handling hazardous substances in petroleum refineries.",
+    "Its primary goal is to prevent incidents such as fires, explosions, toxic releases, and environmental harm by systematically identifying, evaluating, and controlling process hazards.",
+    "This course provides a practical and structured understanding of Process Safety Management (PSM) tailored specifically for petroleum refinery operations.",
+    "Emphasizing both regulatory compliance and operational excellence, the course explores key elements such as process safety information, hazard analysis, operating procedures, mechanical integrity, and management of change.",
+    "Learners will also examine the role of PSM in preventing catastrophic incidents through proactive system design and effective risk management.",
+    "Case studies from real refinery operations will reinforce theoretical knowledge with real-world context."
+  ],
+  image: require("./coursesImg/Process Safety Management for Petroleum Refineries.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "hazop hazid",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of chemical or process engineering concepts",
+    "Familiarity with refinery operations or industrial plant systems",
+    "Awareness of occupational health and safety practices"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Define the purpose and core elements of Process Safety Management",
+    "Identify and evaluate hazards in petroleum refinery operations",
+    "Interpret and utilize essential process safety documentation",
+    "Develop and review effective operating procedures",
+    "Apply mechanical integrity and management of change principles",
+    "Understand regulatory standards relevant to PSM in the refinery sector",
+    "Analyze case studies to reinforce best practices and lessons learned"
+  ],
+  outline: [
+    "Module 1: Purpose",
+    "Module 2: Process Safety Information",
+    "Module 3: Process Hazards Analysis",
+    "Module 4: Operating Procedures",
+    "Module 5: Mechanical Integrity",
+    "Module 6: Management of Change",
+    "Module 7: Related Standards",
+    "Module 8: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 77,
+  title: "Project Control Deliverables",
+  date: "Present",
+  description: [
+    "Project Control Deliverables are the critical outputs produced by the project controls team to plan, monitor, and manage project performance effectively.",
+    "These deliverables ensure that the project is completed on time, within budget, and according to the required quality standards.",
+    "In engineering and construction projects, especially in complex sectors like oil & gas, energy, and infrastructure, project controls serve as the backbone of project management.",
+    "They provide the necessary tools and information for decision-making across all project phases — from feasibility studies to project close-out.",
+    "These deliverables typically include a mix of planning documents, cost reports, progress tracking tools, risk assessments, and forecasting models.",
+    "This course provides a comprehensive guide to the key documents, registers, procedures, and analytical tools required for effective project control in engineering and construction projects."
+  ],
+  image: require("./coursesImg/project control deliverables.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of project management principles",
+    "Familiarity with scheduling and cost estimation concepts",
+    "Prior exposure to engineering or construction projects"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the structure and function of key project control deliverables",
+    "Develop and interpret baseline and detailed schedules for all project phases",
+    "Utilize registers such as EDDR, PSR, SSR, and MDR for tracking project progress",
+    "Apply progress measurement techniques including S-curves and earned value methods",
+    "Generate manpower and equipment deployment plans aligned with execution schedules",
+    "Prepare, analyze, and report on project performance through structured procedures",
+    "Conduct schedule risk analysis and develop appropriate recovery strategies",
+    "Integrate cost estimating, invoicing, and forecasting into the project control framework",
+    "Prepare and review standard project reports including progress, variation, and cost reports",
+    "Understand and apply best practices through analysis of real-world case studies"
+  ],
+  outline: [
+    "Module 1: Baseline Schedule",
+    "Module 2: Detailed Schedules/Networks",
+    "Module 3: Engineering Document Deliverables Register (EDDR)",
+    "Module 4: Procurement Services Register (PSR)",
+    "Module 5: Subcontracting Services Register (SSR)",
+    "Module 6: Manufacturing & Delivery Register (MDR)",
+    "Module 7: Detailed Construction Schedules",
+    "Module 8: Detailed Shutdown/Tie-in Schedules",
+    "Module 9: Planning & Scheduling Procedure",
+    "Module 10: Detailed Pre-Commissioning/Commissioning Schedules",
+    "Module 11: Progress S Curves",
+    "Module 12: Manpower Deployment Schedules & Histograms",
+    "Module 13: Equipment Deployment Schedules",
+    "Module 14: Progress Measurement Procedure",
+    "Module 15: Progress Reporting Procedure",
+    "Module 16: Progress Review and Certification Procedure",
+    "Module 17: Schedule Risk Analysis Procedure and Report",
+    "Module 18: Recovery Plans",
+    "Module 19: Weekly/Monthly Progress Reports and Other Exception Reports",
+    "Module 20: Weekly Quantity-Based Construction Reports",
+    "Module 21: Change Order and Variation Reports",
+    "Module 22: Cost Estimating Procedure",
+    "Module 23: Code of Accounts",
+    "Module 24: Asset Register Procedure and Asset Register",
+    "Module 25: Monthly Cost Reports",
+    "Module 26: Invoicing Procedure and Invoices",
+    "Module 27: Invoices Status Report",
+    "Module 28: Cash Flow Forecasts",
+    "Module 29: Project Execution Plan (PEP)",
+    "Module 30: Contract Execution Plan (CEP)",
+    "Module 31: Construction Manpower Deployment Schedule",
+    "Module 32: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦250,000 / $230",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 78,
+  title: "Project Execution Plan",
+  date: "Present",
+  description: [
+    "The Project Execution Plan (PEP) defines the strategy, scope, and approach for successfully executing a project, acting as a roadmap from initiation to close-out.",
+    "It ensures alignment across stakeholders, efficient resource use, and adherence to safety, quality, and schedule commitments.",
+    "The PEP outlines roles, responsibilities, procedures, milestones, and deliverables for all project phases.",
+    "This course offers a detailed guide on developing and implementing a PEP to ensure project delivery within time, budget, and quality constraints.",
+    "Topics include project governance, risk management, stakeholder engagement, procurement, quality assurance, operations readiness, and technology deployment.",
+    "Case studies offer practical insights into how well-structured PEPs lead to successful project outcomes."
+  ],
+  image: require("./coursesImg/project execution plan.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "project management",
+  duration: "4 Days",
+  prerequisite: [
+    "A foundational understanding of project management principles",
+    "Some exposure to engineering, construction, or operations projects",
+    "Familiarity with project lifecycle stages (concept, FEED, execution, close-out)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify major boiler components and how they function together",
+    "Define the purpose, scope, and structure of a Project Execution Plan (PEP)",
+    "Identify and describe the key elements required to develop a robust PEP",
+    "Understand the governance and assurance processes that underpin successful project delivery",
+    "Analyze project risks and describe how risk mitigation is integrated into the PEP",
+    "Develop stakeholder and interface management strategies for large or complex projects",
+    "Interpret how HSSE, quality, and regulatory requirements are embedded within project execution",
+    "Coordinate engineering, procurement, and construction strategies within the PEP framework",
+    "Apply information management techniques to enhance communication and data flow throughout a project",
+    "Plan for operations readiness and long-term asset performance from the early stages of a project",
+    "Examine real-world case studies to evaluate how well-crafted PEPs drive successful project outcomes"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Project Background",
+    "Module 3: Premises",
+    "Module 4: Development Concept & Scope",
+    "Module 5: Governance",
+    "Module 6: Project Assurance",
+    "Module 7: Forms of Agreement",
+    "Module 8: Financing & Insurance",
+    "Module 9: Risk Management",
+    "Module 10: Permits & Approvals",
+    "Module 11: HSSE & Social Performance",
+    "Module 12: Project Organization",
+    "Module 13: Stakeholder Engagement",
+    "Module 14: Interface Management",
+    "Module 15: Project Controls",
+    "Module 16: Quality Management",
+    "Module 17: Technology",
+    "Module 18: Engineering",
+    "Module 19: Contracting & Procurement",
+    "Module 20: Construction",
+    "Module 21: Information Management & Technology",
+    "Module 22: Subsurface",
+    "Module 23: Operations Readiness",
+    "Module 24: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦250,000 / $200",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 79,
+  title: "Quality Control Plan of Construction Project",
+  date: "Present",
+  description: [
+    "A Quality Control Plan (QCP) is a vital document that outlines procedures, standards, responsibilities, and methods to ensure construction activities meet project specifications, codes, and client expectations.",
+    "Maintaining high construction quality is essential for safety, compliance, and long-term structural performance.",
+    "The QCP provides a systematic approach to control and verify quality across materials, workmanship, and processes during the construction lifecycle.",
+    "This course provides participants with the knowledge and tools to develop and implement an effective QCP.",
+    "Participants will explore quality control procedures, team responsibilities, submittals, materials handling, and document management through real-world case studies."
+  ],
+  image: require("./coursesImg/Quality Control Plan of Construction Project.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "project management",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of construction project management",
+    "Familiarity with site operations and contract documentation",
+    "Suitable for engineers, site supervisors, QA/QC inspectors, and construction managers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and importance of pressure relief systems in process safety",
+    "Identify different types of relief scenarios and determine appropriate relief loads",
+    "Use Aspen HYSYS to calculate and size relief valves for various fluid conditions",
+    "Properly size inlet and outlet piping to comply with API 520 and 521 standards",
+    "Generate and interpret detailed relief valve datasheets",
+    "Confidently transfer data from Aspen HYSYS to Aspen Flare System Analyzer",
+    "Evaluate real-life industrial case studies to reinforce sizing practice",
+    "Avoid common pitfalls and ensure safety and compliance in valve sizing",
+    "Integrate relief valve design with the overall process safety management strategy",
+    "Communicate effectively with safety teams and vendors regarding relief system specifications"
+  ],
+  outline: [
+    "Module 1: Background Information of The Project",
+    "Module 2: Quality Control Plan (QCP)",
+    "Module 3: Project Organization",
+    "Module 4: Quality Control Procedures",
+    "Module 5: Submittals and Materials",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 80,
+  title: "Relief Valve Sizing (Aspen HYSYS)",
+  date: "Present",
+  description: [
+    "Relief valves, or pressure safety valves (PSVs), are essential for maintaining the safety of process plants by preventing equipment overpressure failures.",
+    "Relief valve sizing involves calculating the correct valve discharge area to safely release excess pressure during overpressure events.",
+    "This course teaches participants how to use Aspen HYSYS to simulate process scenarios and accurately size relief valves in accordance with industry standards such as API 520, API 521, and ASME.",
+    "Participants will learn to estimate relief loads, size valves and piping, generate datasheets, and integrate Aspen HYSYS with Aspen Flare System Analyzer.",
+    "Hands-on simulations and real-world case studies provide practical skills in designing safe and compliant relief systems."
+  ],
+  image: require("./coursesImg/Relief valve sizing (aspen hysys).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of process safety and pressure systems",
+    "Familiarity with fluid dynamics and thermodynamic principles",
+    "Prior experience or exposure to Aspen HYSYS is recommended"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role and importance of pressure relief systems in process safety",
+    "Identify different types of relief scenarios and determine appropriate relief loads",
+    "Use Aspen HYSYS to calculate and size relief valves for various fluid conditions",
+    "Properly size inlet and outlet piping to comply with API 520 and 521 standards",
+    "Generate and interpret detailed relief valve datasheets",
+    "Confidently transfer data from Aspen HYSYS to Aspen Flare System Analyzer",
+    "Evaluate real-life industrial case studies to reinforce sizing practice",
+    "Avoid common pitfalls and ensure safety and compliance in valve sizing",
+    "Integrate relief valve design with the overall process safety management strategy",
+    "Communicate effectively with safety teams and vendors regarding relief system specifications"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Relief load estimation",
+    "Module 3: Relief valve sizing",
+    "Module 4: Relief valve inlet and outlet line sizing",
+    "Module 5: Relief valve datasheets",
+    "Module 6: Transfer data to Aspen Flare System Analyzer",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 81,
+  title: "Risk-Based Inspection",
+  date: "Present",
+  description: [
+    "Risk-Based Inspection (RBI) is a strategic approach to inspection planning that prioritizes resources based on equipment risk levels, improving safety and reliability while reducing costs.",
+    "Unlike traditional time-based inspections, RBI evaluates both the probability and consequences of failure to determine inspection frequency and scope.",
+    "This course follows API Recommended Practice 580 and provides participants with the knowledge to assess and manage risks in petrochemical and refining environments.",
+    "Learners will explore RBI methodology, deterioration mechanisms, failure modes, and risk assessments to optimize inspection planning.",
+    "Real-world case studies help reinforce the practical application of RBI principles and tools for maintaining asset integrity."
+  ],
+  image: require("./coursesImg/risk-based inspection (api 580).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of chemical or mechanical engineering principles",
+    "Familiarity with physical and chemical processes",
+    "Foundational knowledge of thermodynamics and fluid mechanics"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental principles of Risk-Based Inspection as per API 580",
+    "Identify and analyze potential deterioration mechanisms and failure modes",
+    "Collect and organize the necessary data to support an RBI program",
+    "Assess the likelihood and consequences of failure for process equipment",
+    "Evaluate overall risk and prioritize equipment for inspection",
+    "Develop an inspection plan based on risk ranking and operational context",
+    "Recommend additional mitigation actions beyond inspection",
+    "Document RBI assessments and ensure traceability of decisions",
+    "Recognize the importance of team roles, qualifications, and ongoing training",
+    "Apply the RBI methodology to practical case studies and real-life scenarios"
+  ],
+  outline: [
+    "Module 1: Purpose and Scope",
+    "Module 2: References",
+    "Module 3: Definitions and Acronyms",
+    "Module 4: Basic Concepts",
+    "Module 5: Introduction to Risk-Based Inspection",
+    "Module 6: Screening and Boundary Identification",
+    "Module 7: Data and Information Collection for RBI Assessment",
+    "Module 8: Identifying Deterioration Mechanisms and Failure Modes",
+    "Module 9: Assessing Likelihood of Failure",
+    "Module 10: Assessing Consequences of Failure",
+    "Module 11: Assessing Risk",
+    "Module 12: Risk Management with Inspection Activities",
+    "Module 13: Other Risk Mitigation Activities",
+    "Module 14: Reassessment and Updating RBI Assessments",
+    "Module 15: Roles, Responsibilities, Training and Qualifications",
+    "Module 16: RBI Documentation and Record Keeping",
+    "Module 17: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 82,
+  title: "Well Testing",
+  date: "Present",
+  description: [
+    "Well testing is a vital process in the oil and gas industry used to evaluate well performance and reservoir behavior by analyzing the controlled flow of reservoir fluids to the surface.",
+    "It plays a key role in reservoir evaluation, well commissioning, production optimization, and performance monitoring throughout a well's lifecycle.",
+    "This course introduces the fundamental principles and applications of well testing, including data acquisition, test execution, and interpretation.",
+    "Participants will explore test types, required surface and downhole equipment, and industry-standard analysis techniques.",
+    "Through practical examples and case studies, the course equips engineers and field professionals with skills to make informed decisions on reservoir development and well management."
+  ],
+  image: require("./coursesImg/well testing.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of petroleum engineering principles",
+    "Familiarity with drilling and production operations",
+    "Ideal for reservoir engineers, production engineers, field operators, and geoscientists"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental purpose and benefits of well testing",
+    "Identify various types of well tests and their appropriate applications",
+    "Plan and execute well tests safely and efficiently",
+    "Select and operate the required surface and downhole test equipment",
+    "Acquire and validate high-quality test data in the field",
+    "Analyze well test data to determine key reservoir parameters",
+    "Interpret pressure and rate responses to assess well performance",
+    "Apply industry-standard tools and techniques for test interpretation",
+    "Understand how well testing supports reservoir modeling and development planning",
+    "Evaluate real-world case studies to improve testing strategies"
+  ],
+  outline: [
+    "Module 1: What is Well Testing",
+    "Module 2: Practical Well Testing",
+    "Module 3: Information Obtained from Well Testing",
+    "Module 4: Types of Well Tests",
+    "Module 5: Surface and Down Hole Equipment",
+    "Module 6: Well Test Interpretation",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 83,
+  title: "Well Logging (Part-1: Open Hole Logging)",
+  date: "Present",
+  description: [
+    "Open hole logging is the process of measuring and recording the physical, chemical, and structural properties of subsurface formations through an uncased wellbore before completion or casing.",
+    "This essential technique supports reservoir characterization, drilling decisions, and completion strategies by offering continuous and detailed formation data.",
+    "The course delivers a comprehensive introduction to conventional and advanced open hole logging practices, tools, and interpretation techniques.",
+    "It includes practical logging procedures at the wellsite, interpretation of lithology, porosity, and saturation, and challenges in horizontal wells.",
+    "Participants will build competence in data acquisition, evaluation, and integration with core, seismic, and test data for improved operational decision-making."
+  ],
+  image: require("./coursesImg/Well Logging (Part-1_ Open Hole Logging).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of petroleum geology and drilling operations",
+    "Familiarity with reservoir engineering principles is helpful",
+    "Ideal for logging engineers, geologists, drilling engineers, and subsurface analysts"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the purpose and scope of open hole well logging",
+    "Identify and explain various types of conventional logging tools",
+    "Interpret logs for lithology, porosity, and fluid saturation",
+    "Execute logging operations safely and efficiently at the wellsite",
+    "Evaluate the benefits of high-tech logging tools for detailed formation analysis",
+    "Understand specific logging challenges in horizontal and deviated wells",
+    "Differentiate between wireline and LWD logging methods",
+    "Apply best practices in data quality control and depth correlation",
+    "Integrate log data with core, test, and seismic information",
+    "Use case studies to enhance interpretation accuracy and operational performance"
+  ],
+  outline: [
+    "Module 1: Introduction to Conventional Open Hole Logging",
+    "Module 2: Type of Conventional Open Hole Logging",
+    "Module 3: Log Interpretation for Conventional Open Hole Logging",
+    "Module 4: Logging Procedure in Well Site",
+    "Module 5: High Technology Log",
+    "Module 6: Well Logging in Horizontal Wells",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 84,
+  title: "Well Logging (Part-2: Cased Hole Logging)",
+  date: "Present",
+  description: [
+    "Cased hole logging involves measuring well and reservoir parameters after casing has been installed and cemented, allowing engineers to assess well integrity, production performance, and reservoir behavior.",
+    "Unlike open hole logging, this method uses specialized tools to obtain data through steel casing and cement layers, making it essential for post-completion diagnostics.",
+    "This course covers the principles and application of cased hole tools such as cement evaluation logs, casing inspection logs, spectral noise tools, and production logging instruments.",
+    "Participants will gain practical knowledge in selecting the right tools, interpreting results, and integrating logs with production history to guide field operations and enhance well performance.",
+    "The training includes real-world case studies to develop analytical skills and improve strategies for well intervention and reservoir management."
+  ],
+  image: require("./coursesImg/Well Logging (Part-2_ Cased Hole Logging).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of petroleum geology and drilling operations",
+    "Familiarity with reservoir engineering principles is helpful",
+    "Ideal for logging engineers, geologists, drilling engineers, and subsurface analysts"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the role of cased hole logging in well evaluation and diagnostics",
+    "Select appropriate cement evaluation tools based on well conditions",
+    "Interpret casing inspection logs to assess mechanical integrity",
+    "Use spectral noise and production logging tools to locate flow anomalies",
+    "Apply saturation logs to monitor reservoir fluid movement and support EOR",
+    "Correlate cased hole log results with completion and production history",
+    "Conduct effective cased hole log planning and data quality control",
+    "Improve well performance and safety through log-based decisions",
+    "Integrate multi-log data for comprehensive post-completion analysis",
+    "Learn from real-world examples to enhance well intervention strategies"
+  ],
+  outline: [
+    "Module 1: Introduction to Cased Hole Logging",
+    "Module 2: Cement Logs (CBL, SBT, URS, RIB, RBT, CAST, USI, SCMT)",
+    "Module 3: Casing Inspection Log (MIT, MFC)",
+    "Module 4: Spectral Noise Tool (SNL) & Production Logging Tools (PLT)",
+    "Module 5: Saturation Log",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 85,
+  title: "Well Completion and Stimulation",
+  date: "Present",
+  description: [
+    "Well completion prepares a drilled well for production or injection by installing necessary downhole and surface equipment to ensure safe and efficient operations.",
+    "Stimulation enhances well productivity by improving flow paths between the reservoir and wellbore, especially when natural reservoir drive is insufficient or damaged.",
+    "This course provides a comprehensive overview of both completion and stimulation processes, exploring equipment, techniques, and operational decisions from casing to production optimization.",
+    "Participants will gain knowledge on different completion systems, perforation methods, stimulation techniques, and production control strategies to boost efficiency and well longevity.",
+    "Through real-world case studies, attendees will develop practical skills in planning, execution, and evaluation of well completion and stimulation programs."
+  ],
+  image: require("./coursesImg/Well Completion and Stimulation.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of drilling and reservoir engineering",
+    "Familiarity with oil and gas well architecture",
+    "Recommended for petroleum engineers, production engineers, well services personnel, and field operators"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the fundamental concepts of well completion and stimulation",
+    "Identify and describe the steps in the completion process",
+    "Evaluate different types of completion systems and their applications",
+    "Understand the role of tubing and surface equipment in production control",
+    "Select appropriate completion fluids and design for formation compatibility",
+    "Apply perforation techniques to achieve efficient reservoir contact",
+    "Distinguish between various stimulation techniques and when to apply them",
+    "Assess the impact of completion design on flow assurance and well performance",
+    "Analyze real-world case studies for practical insights and improvement",
+    "Make informed decisions for optimizing well productivity and longevity"
+  ],
+  outline: [
+    "Module 1: What is Well Completion",
+    "Module 2: Setting Production Casing",
+    "Module 3: Installing the Tubing",
+    "Module 4: Installing the Christmas Tree",
+    "Module 5: Types of Well Completion",
+    "Module 6: Factors Influencing Well Completion Selection",
+    "Module 7: Type of Flow",
+    "Module 8: Completion and Workover Fluids",
+    "Module 9: Perforating",
+    "Module 10: Well Stimulation",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 86,
+  title: "Water Treatment",
+  date: "Present",
+  description: [
+    "Water treatment involves improving the quality of water to meet specific end-use requirements such as drinking, industrial use, irrigation, or environmental discharge.",
+    "This process includes removing or reducing contaminants from raw water sources like rivers, lakes, groundwater, or industrial effluents.",
+    "In industrial settings, water treatment is essential for protecting human health, ensuring the efficiency of equipment, and complying with environmental regulations.",
+    "This course covers the full water treatment cycle—from raw water intake to wastewater discharge—exploring technologies, equipment, and chemical processes involved in treatment systems.",
+    "Participants will gain practical knowledge through case studies, enabling them to troubleshoot problems, improve system reliability, and ensure sustainable water use in various operations."
+  ],
+  image: require("./coursesImg/water treatment.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of chemistry and fluid mechanics",
+    "Familiarity with industrial plant operations",
+    "Ideal for chemical, process, and utility engineers, as well as plant operators and maintenance personnel"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify and classify different types of water sources and contaminants",
+    "Describe the objectives and methods used in water pre-treatment",
+    "Understand the chemistry and control of cooling tower water treatment",
+    "Explain the requirements for effective boiler water conditioning",
+    "Evaluate different wastewater treatment techniques and technologies",
+    "Interpret water analysis data to troubleshoot common problems",
+    "Apply operational best practices to improve treatment system reliability",
+    "Ensure compliance with environmental and safety regulations",
+    "Develop strategies for cost-effective and sustainable water treatment",
+    "Analyze case studies to enhance problem-solving and design skills"
+  ],
+  outline: [
+    "Module 1: Raw Water",
+    "Module 2: Pre-treatment",
+    "Module 3: Cooling Tower",
+    "Module 4: Boiler Water",
+    "Module 5: Wastewater Treatment",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 87,
+  title: "Waste Heat Recovery",
+  date: "Present",
+  description: [
+    "Waste Heat Recovery (WHR) involves capturing and reusing heat that is typically lost in industrial processes, such as in exhaust gases, cooling water, or flue gases.",
+    "By reusing this waste heat, industries can significantly reduce fuel consumption, improve energy efficiency, and lower greenhouse gas emissions.",
+    "Recovered heat can be repurposed for preheating, steam generation, or even power production using technologies like Organic Rankine Cycle (ORC) or thermoelectric generators.",
+    "This course equips participants with the knowledge to identify, assess, and implement effective WHR systems within industrial settings.",
+    "Through real-world case studies and practical examples, participants will learn to optimize energy use and reduce operational costs in sectors such as cement, steel, petrochemicals, and power generation."
+  ],
+  image: require("./coursesImg/waste heat recovery.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and heat transfer",
+    "Familiarity with industrial processes and energy systems",
+    "Recommended for process engineers, energy consultants, facility managers, and technical staff involved in energy optimization"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Define waste heat and its importance in industrial energy efficiency",
+    "Identify common sources of waste heat in plant operations",
+    "Understand the key factors influencing feasibility of recovery systems",
+    "Evaluate and select appropriate waste heat recovery technologies",
+    "Analyze energy flows to pinpoint loss points and savings potential",
+    "Apply waste heat recovery practices to diverse industrial sectors",
+    "Assess real-world case studies for lessons and benchmarking",
+    "Explore current research trends and technological advancements",
+    "Quantify the economic and environmental benefits of waste heat projects",
+    "Develop strategies for implementing and optimizing recovery systems"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Factors Affecting Waste Heat Recovery Feasibility",
+    "Module 3: Waste Heat Recovery Options and Technologies",
+    "Module 4: Evaluating Selected Applications for Waste Heat Opportunities and Practices",
+    "Module 5: Industrial Waste Heat Losses and Research Development, and Demonstration Needs",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 88,
+  title: "Steam Tracing Systems for Industrial Plants",
+  date: "Present",
+  description: [
+    "Steam Tracing Systems are essential auxiliary systems in industrial plants, designed to maintain or raise the temperature of process piping, equipment, or instruments by using steam as the heat source. These systems prevent freezing, maintain fluid viscosity, or ensure the continuity of process flow in critical pipelines and vessels, especially in colder environments or when handling temperature-sensitive materials.",
+    "Steam tracing involves the installation of small-bore steam lines (tracers) alongside or around process lines. Heat from the steam is transferred by conduction through the pipe wall to the process fluid, preventing solidification or thermal degradation.",
+    "In industries such as oil and gas, petrochemicals, refineries, food processing, and pharmaceuticals, steam tracing ensures operational reliability, safety, and process efficiency by mitigating risks associated with low temperatures — such as blockages, ruptures, or compromised product quality.",
+    "This course provides a comprehensive guide to the design, operation, and optimization of steam tracing systems in industrial plants. Steam tracing is vital for maintaining temperature, preventing freezing, and ensuring fluidity in piping systems and equipment. Participants will explore the technical principles behind tracing design, understand different heating mediums, and gain practical knowledge in dimensioning, installation, and cost-effective system implementation."
+  ],
+  image: require("./coursesImg/Steam Tracing Systems for Industrial Plants.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of thermodynamics and heat transfer",
+    "Familiarity with piping systems and process equipment",
+    "Understanding of industrial plant utilities"
+  ],
+  objectives: [
+    "Understand the purpose and benefits of steam tracing systems in industrial applications",
+    "Identify areas of a plant that require steam heating and tracing",
+    "Select appropriate steam pressures based on system requirements",
+    "Perform basic calculations for heat loss, steam consumption, and tracer sizing",
+    "Dimension both the steam distribution and condensate return systems effectively",
+    "Plan and implement efficient layouts for steam tracing installations",
+    "Compare steam tracing with alternative methods like electric or thermal fluid tracing",
+    "Apply economic and energy-efficient design principles in steam tracing systems",
+    "Analyze real-world case studies to extract practical lessons and best practices",
+    "Integrate steam tracing into broader plant utility and maintenance strategies"
+  ],
+  outline: [
+    "Module 1: Reason for Using Stream Tracing Systems",
+    "Module 2: Explanation on Steam Heating of Various Part of a Plant",
+    "Module 3: Selection of Steam Pressure",
+    "Module 4: Calculation of the Tracing System",
+    "Module 5: Dimensioning of the Steam Distribution System",
+    "Module 6: Dimensioning of the Condensate Collecting System",
+    "Module 7: Arrangement and Installation of Steam Tracing System",
+    "Module 8: Example of Installation for a Steam Tracing System",
+    "Module 9: Economic Design of Steam Tracing System",
+    "Module 10: High-Pressure Hot Water and Thermal Fluid System",
+    "Module 11: Steam or Electric Tracing Systems- a Comparison",
+    "Module 12: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 89,
+  title: "Turbine",
+  date: "Present",
+  description: [
+    "A turbine is a rotary mechanical device that extracts energy from a fluid flow (liquid, steam, gas, or air) and converts it into mechanical work. This mechanical work is often used to drive generators for electricity production, compressors, or pumps in industrial applications. Turbines are essential components in power generation, aviation, oil & gas, and various process industries. The design and type of turbine used depend on the working fluid, energy input, and application requirements.",
+    "This comprehensive course explores the principles, components, and operations of turbines, with a primary focus on steam turbines. It covers essential theoretical concepts, classification systems, design parameters, auxiliary systems, and turbine protection mechanisms. Participants will gain a deep understanding of turbine technology through theoretical discussions and real-world case studies to enhance their practical knowledge and troubleshooting abilities."
+  ],
+  image: require("./coursesImg/turbine.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of thermodynamics and fluid mechanics",
+    "Understanding of industrial power systems and process operations",
+    "Suitable for mechanical, process, and maintenance engineers, plant operators, and energy professionals"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamentals of turbine operation and energy conversion",
+    "Differentiate between impulse and reaction turbine mechanisms",
+    "Classify turbines based on pressure, casing type, and application",
+    "Analyze the operation of condensing vs non-condensing and reheat vs non-reheat systems",
+    "Identify and describe key turbine components and auxiliary systems",
+    "Explain the function and importance of turbine protection systems",
+    "Interpret turbine instrumentation for performance and condition monitoring",
+    "Describe the role of lubrication and sealing systems in reliable turbine operation",
+    "Apply theoretical knowledge to analyze operational issues",
+    "Learn from real-world case studies to improve troubleshooting and efficiency"
+  ],
+  outline: [
+    "Module 1: Contents",
+    "Module 2: Steam turbine",
+    "Module 3: Basic turbine theory",
+    "Module 4: Impulse and reaction balding",
+    "Module 5: Turbine classification",
+    "Module 6: Condensing VS non condensing",
+    "Module 7: Single pressure VS Multi pressure",
+    "Module 8: Reheat VS non reheat",
+    "Module 9: Single casing VS compound casing",
+    "Module 10: Exhaust flows",
+    "Module 11: Inter stage sealing",
+    "Module 12: Steam admission components",
+    "Module 13: Turbine expansion",
+    "Module 14: Turbine bearings",
+    "Module 15: Lubrication",
+    "Module 16: Turing gear",
+    "Module 17: Rupture Diaphragm",
+    "Module 18: Turbine Auxiliary systems",
+    "Module 19: Lube oil system components",
+    "Module 20: Gland Steam system",
+    "Module 21: Turbine Electro-Hydraulic Control oil system",
+    "Module 22: Turbine Supervisory Instruments",
+    "Module 23: LP/PG Turbines",
+    "Module 24: Turbine Protections",
+    "Module 25: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 90,
+  title: "Tank Design & Fundamental Operation",
+  date: "Present",
+  description: [
+    "Storage tanks are essential components in various industries such as oil & gas, chemical processing, water treatment, food & beverage, and pharmaceuticals. They are used to store raw materials, intermediates, or final products, and may hold liquids, gases, or slurries under atmospheric or pressurized conditions.",
+    "Proper tank design ensures safe operation, efficient storage, and compliance with industry codes (e.g., API 650, API 620, ASME). The design process considers the nature of the stored substance, environmental conditions, pressure/temperature, and operational requirements. The operation of storage tanks includes filling, holding, and emptying the tank, as well as monitoring and maintaining the integrity of the stored contents.",
+    "This course provides a detailed foundation in the design, construction, operation, and maintenance of storage tanks used in industrial facilities. Participants will learn about the design codes, material selection, construction practices, operational requirements, and safety considerations critical to efficient tank operation. Through real-world case studies, learners will explore practical challenges and best practices in managing aboveground and underground storage systems."
+  ],
+  image: require("./coursesImg/Tank Design & Fundamental Operation.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and mechanical systems",
+    "Familiarity with industrial plant processes",
+    "Suitable for process, mechanical, and maintenance engineers, operators, and safety personnel"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify the different types and functions of industrial storage tanks",
+    "Understand the design principles, standards, and material choices for tank construction",
+    "Interpret tank drawings and specifications",
+    "Explain the key steps involved in tank construction and quality control",
+    "Operate storage tanks safely and efficiently under different process conditions",
+    "Implement routine maintenance, inspection, and repair procedures",
+    "Recognize potential safety hazards and apply appropriate mitigation techniques",
+    "Analyze case studies to enhance practical knowledge and decision-making",
+    "Comply with environmental and regulatory standards for tank operations",
+    "Recommend design or operational improvements based on performance analysis"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Tank Design",
+    "Module 3: Tank Construction",
+    "Module 4: Tank Operations",
+    "Module 5: Tank Maintenance",
+    "Module 6: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 91,
+  title: "Shell and Tube Heat Exchanger",
+  date: "Present",
+  description: [
+    "The Shell and Tube Heat Exchanger is one of the most widely used types of heat exchangers in industrial applications, particularly in sectors such as oil & gas, petrochemicals, power generation, food processing, and HVAC systems. It is designed to efficiently transfer heat between two fluids — one flowing through a bundle of tubes and the other flowing over the tubes within an outer shell. The fluids can be either liquids or gases, and they can flow in the same or opposite directions (parallel flow or counterflow), depending on process requirements.",
+    "This course offers a detailed exploration of Shell and Tube Heat Exchangers (STHEs), which are widely used in process industries for efficient thermal energy transfer. The course begins with basic concepts and working principles, progressing through TEMA classifications, component identification, stream allocation, thermal design, and operational challenges. It also introduces software tools such as HTRI for practical design and evaluation. By the end, learners will understand both theoretical principles and real-world applications of STHEs."
+  ],
+  image: require("./coursesImg/shell and tube heat exchanger.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Fundamental knowledge of heat transfer and thermodynamics",
+    "Basic understanding of fluid mechanics and process engineering",
+    "Exposure to chemical or mechanical engineering principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental working principles and classifications of heat exchangers",
+    "Identify the components and design standards used in shell and tube heat exchangers",
+    "Differentiate between TEMA head and shell types and select appropriate configurations",
+    "Allocate process streams correctly for optimal performance and longevity",
+    "Recognize and address common operational issues such as fouling and vibration",
+    "Apply thermal design principles using LMTD and effectiveness-NTU methods",
+    "Interpret software-generated heat exchanger performance data (e.g., HTRI outputs)",
+    "Evaluate various heat exchanger types and choose the right one for a specific application",
+    "Perform basic thermal rating and sizing tasks for process needs",
+    "Draw practical lessons from case studies and industrial use scenarios"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Working Principle/Governing Equation",
+    "Module 3: Other Types of Heat Exchangers",
+    "Module 4: Applications of Heat Exchangers",
+    "Module 5: Different Parts of Heat Exchangers",
+    "Module 6: Tema Front / Rear Head Types",
+    "Module 7: Tema Shell Types",
+    "Module 8: Allocation of Streams",
+    "Module 9: Major Practical Problems in Heat Exchangers",
+    "Module 10: Thermal Designing & Rating of Heat Exchangers",
+    "Module 11: HTRI Output/Results Interpretation",
+    "Module 12: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 92,
+  title: "Rule of Thumb for Process Engineers",
+  date: "Present",
+  description: [
+    "In the fast-paced and complex world of process engineering, precise calculations and simulations are crucial. However, experienced engineers often rely on Rules of Thumb as quick reference points for preliminary design, feasibility checks, and rapid decision-making during early project stages or troubleshooting.",
+    "Rules of Thumb are simplified engineering guidelines derived from practical experience, empirical data, and industry best practices. While not a replacement for detailed engineering analysis, they are invaluable for: Initial equipment sizing, rough cost estimation, Preliminary heat and material balances, Rapid verification of simulation outputs, Field troubleshooting. Process engineers use these shortcuts to make timely, informed decisions — especially when immediate answers are needed, or data is incomplete.",
+    "This course provides a practical collection of industry-validated rules of thumb that guide process engineers in day-to-day decision-making and quick estimations. It covers key areas such as separation processes, heat exchange, treating, fluid flow, fractionation, combustion, and more. These heuristics are invaluable for early design phases, troubleshooting, or when detailed data is not yet available. Through detailed modules and real-world case studies, participants will gain practical insight to complement theoretical knowledge and software tools."
+  ],
+  image: require("./coursesImg/rule of thumb for process engineers.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Fundamental knowledge of heat transfer and thermodynamics",
+    "Basic understanding of fluid mechanics and process engineering",
+    "Exposure to chemical or mechanical engineering principles"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Apply common rules of thumb for rapid process evaluations and feasibility checks",
+    "Make rough equipment sizing and performance estimates during early design stages",
+    "Understand practical boundaries and limitations of heuristic methods",
+    "Use thumb rules for separation, fluid flow, and heat transfer processes",
+    "Estimate requirements for treating systems such as amine units or gas dehydration",
+    "Quickly approximate utility loads and equipment capacities (e.g., pumps, compressors)",
+    "Evaluate fractionation and combustion systems using simplified empirical methods",
+    "Cross-check simulation results or detailed calculations against known industry heuristics",
+    "Recognize when to use thumb rules versus when detailed design is necessary",
+    "Analyze real-world case studies where thumb rules have enhanced or limited performance"
+  ],
+  outline: [
+    "Module 1: Separation",
+    "Module 2: Heat Transfer Shell & Tube Heat Exchangers",
+    "Module 3: Treating",
+    "Module 4: Fluid Flow",
+    "Module 5: Fractionation",
+    "Module 6: Combustion",
+    "Module 7: Physical Properties",
+    "Module 8: Compressors, Expanders & Pumps",
+    "Module 9: Refrigeration",
+    "Module 10: Miscellaneous",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦200,000 / $180",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 93,
+  title: "Scaffold Safety",
+  date: "Present",
+  description: [
+    "Scaffold Safety is a critical aspect of workplace safety in industries such as construction, oil & gas, petrochemicals, shipbuilding, and maintenance operations. Scaffolds provide temporary elevated platforms that allow workers to access hard-to-reach areas for construction, maintenance, inspection, or repair activities.",
+    "While scaffolds improve accessibility and efficiency, they also introduce significant hazards, including falls from height, scaffold collapse, falling objects, and electrical risks. Therefore, proper design, erection, inspection, and use of scaffolding are essential to protect workers and comply with safety regulations. Effective scaffold safety programs involve planning, competent supervision, worker training, regular inspections, and adherence to safety standards (such as OSHA, EN, or local regulations). Safe practices ensure not only worker protection but also productivity and legal compliance.",
+    "This course is designed to equip participants with the essential knowledge and skills to safely use, inspect, and maintain scaffolding systems in industrial and construction environments. The course emphasizes compliance with safety regulations, proper use of personal protective equipment (PPE), and hands-on understanding of scaffold components, inspection procedures, and tagging systems. Real-world case studies are included to reinforce key learning outcomes and promote a safety-first mindset on-site."
+  ],
+  image: require("./coursesImg/scaffold safety.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of workplace safety principles",
+    "Familiarity with construction or industrial work environments",
+    "Prior participation in general health and safety induction"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify the main components and types of scaffolding",
+    "Demonstrate correct usage and inspection of fall protection equipment",
+    "Conduct scaffold pre-use checks using a standardized user checklist",
+    "Recognize the importance and implementation of scaffold tagging systems",
+    "Apply key safety regulations and general requirements for scaffold use",
+    "Understand the process and responsibilities around scaffold erection and dismantling",
+    "Detect potential hazards associated with scaffolding and take corrective actions",
+    "Analyze real incidents to reinforce safe practices and avoid common mistakes",
+    "Enhance workplace communication related to scaffold safety concerns",
+    "Promote a proactive safety culture in environments involving elevated work"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Scaffold Components",
+    "Module 3: Harness/Lanyard Inspection & Use",
+    "Module 4: Scaffold Inspection and Tagging",
+    "Module 5: Scaffold User’s Checklist",
+    "Module 6: Scaffold General Requirements"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 94,
+  title: "Fired Heaters",
+  date: "Present",
+  description: [
+    "Fired heaters are critical equipment in refineries, petrochemical plants, and gas processing facilities. They supply the necessary heat to process fluids through direct combustion of fuel, typically used in applications such as crude preheating, reforming, or thermal cracking.",
+    "This course introduces the fundamental principles, design considerations, and operational practices of fired heaters used in industrial process systems—especially in refineries and petrochemical plants. Participants will explore different fired heater configurations, performance monitoring techniques, common operational challenges, and troubleshooting methods. The course includes practical case studies to connect theory with real-world applications."
+  ],
+  image: require("./coursesImg/fired heaters.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and heat transfer",
+    "Familiarity with process plant equipment and operations",
+    "Ideal for process engineers, maintenance personnel, and plant operators"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify various types of fired heater designs and their applications",
+    "Understand the heat transfer mechanisms within a fired heater",
+    "Monitor key performance indicators and optimize heater efficiency",
+    "Operate fired heaters safely under varying load conditions",
+    "Analyze flue gas to assess combustion performance",
+    "Troubleshoot common issues related to heater operation and performance",
+    "Perform basic maintenance and inspection tasks for fired heaters",
+    "Apply learning through case studies focused on real-world heater performance and failures"
+  ],
+  outline: [
+    "Module 1: Fired Heater Designs",
+    "Module 2: Performance Monitoring",
+    "Module 3: Fired Heater Operation",
+    "Module 4: Troubleshooting",
+    "Module 5: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $70",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 95,
+  title: "Field Instrumentation",
+  date: "Present",
+  description: [
+    "Field instrumentation refers to the measurement and control devices installed in process plants and industrial facilities to monitor and regulate variables such as pressure, temperature, flow, level, and composition. These instruments are installed directly in the field (at or near process equipment) and are essential for safe, efficient, and automated operation of process systems.",
+    "This course offers a practical and technical foundation in the core elements of field instrumentation used in industrial process control. It covers the fundamental principles, types of measurements, calibration techniques, control loop configurations, safety systems, and international standards. The course prepares participants to work effectively with instruments used in flow, pressure, temperature, and level control."
+  ],
+  image: require("./coursesImg/field instrumentation.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "PAI",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of process control principles",
+    "Familiarity with industrial plant operations",
+    "Knowledge of instrumentation terminology"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the purpose and interpretation of instrument symbols and documentation",
+    "Identify and apply suitable instruments for flow, pressure, level, and temperature measurement",
+    "Explain the working principles and configurations of control valves and their accessories",
+    "Calibrate and maintain field instruments using industry-standard procedures",
+    "Analyze and design basic and advanced control loops",
+    "Comprehend relevant codes and standards used in instrumentation systems",
+    "Evaluate and contribute to the development of safety instrumented systems",
+    "Apply knowledge through case studies to troubleshoot and optimize instrumentation in real-world scenarios"
+  ],
+  outline: [
+    "Module 1: Instrument Symbols",
+    "Module 2: Flow / Pressure measurement",
+    "Module 3: Control Valve",
+    "Module 4: Control Valve Accessories",
+    "Module 5: Temperature measurement",
+    "Module 6: Level measurement",
+    "Module 7: Control Loops",
+    "Module 8: Instruments Calibration",
+    "Module 9: Codes, standards & Specification",
+    "Module 10: Safety Instrumented Systems",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 96,
+  title: "Fire Protection Piping Systems",
+  date: "Present",
+  description: [
+    "Fire protection piping systems are critical for safeguarding life, property, and equipment in industrial, commercial, and residential facilities. These systems are designed to quickly detect and suppress fires using water, foam, gas, or chemical agents distributed through a network of specialized piping, valves, and discharge devices.",
+    "This course provides a comprehensive overview of fire protection piping systems used in industrial, commercial, and residential applications. It covers applicable codes and standards, types of piping systems, design methods, pressure loss calculations, material selection, and pump requirements. The course also focuses on sprinkler system configuration and performance, supported by real-world case studies to demonstrate best practices and lessons learned."
+  ],
+  image: require("./coursesImg/fire protection piping systems.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid dynamics and piping systems",
+    "Familiarity with building services or industrial facility layouts",
+    "Suitable for fire protection engineers, piping designers, facility managers, and safety compliance officers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand fire protection system requirements and relevant codes",
+    "Identify various types of fire protection piping and their applications",
+    "Design compliant piping layouts for effective fire suppression",
+    "Calculate pressure drops and optimize flow using hydraulic principles",
+    "Select appropriate materials based on fire system classification and building type",
+    "Determine pump specifications for adequate fire flow delivery",
+    "Configure sprinkler systems to meet coverage and hazard requirements",
+    "Apply case study insights to avoid design errors and improve safety",
+    "Integrate fire protection piping with building and utility systems",
+    "Support testing, inspection, and maintenance practices for long-term reliability"
+  ],
+  outline: [
+    "Module 1: Fire Protection Codes and Standards",
+    "Module 2: Types of Fire Protection Piping",
+    "Module 3: Design of Piping System",
+    "Module 4: Pressure Drop Due to Friction",
+    "Module 5: Pipe Materials",
+    "Module 6: Pumps",
+    "Module 7: Sprinkler System Design",
+    "Module 8: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 97,
+  title: "Cryogenic and Refrigeration Piping System",
+  date: "Present",
+  description: [
+    "Cryogenic and refrigeration piping systems are designed to transport fluids at extremely low temperatures, typically below -100°C for cryogenics and between -50°C and +10°C for refrigeration. These systems are essential in industries such as liquefied natural gas (LNG), air separation, food processing, pharmaceuticals, and industrial gas handling.",
+    "This course provides an essential foundation for designing and operating piping systems used in cryogenic and refrigeration applications. It covers industry codes and standards, fluid properties, material selection, and pressure drop considerations specific to low-temperature systems. The course is ideal for engineers involved in LNG, industrial gas, or refrigeration projects. Real-world case studies are included to illustrate design challenges, safety practices, and operational optimization."
+  ],
+  image: require("./coursesImg/cryogenic and refrigeration piping systems.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "1 Day",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with piping layouts and pressure systems",
+    "Ideal for mechanical, process, and pipeline engineers as well as plant operators and maintenance professionals"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the unique requirements of cryogenic and refrigeration piping systems",
+    "Apply industry codes and standards for safe and compliant system design",
+    "Identify the properties and hazards associated with cryogenic fluids and refrigerants",
+    "Perform accurate pressure drop and pipe sizing calculations for low-temperature systems",
+    "Select appropriate piping materials that maintain integrity at cryogenic temperatures",
+    "Design for thermal contraction, insulation, and flexibility in piping layout",
+    "Recognize key challenges in operation, maintenance, and safety of cryogenic systems",
+    "Analyze case studies to apply best practices and avoid common failures",
+    "Integrate cryogenic piping with storage tanks, compressors, and heat exchangers",
+    "Improve energy efficiency and reliability of refrigeration and cryogenic systems"
+  ],
+  outline: [
+    "Module 1: Codes and Standards",
+    "Module 2: Cryogenic Fluids and Refrigerants",
+    "Module 3: Pressure Drop and Pipe Sizing",
+    "Module 4: Piping Materials",
+    "Module 5: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦80,000 / $90",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 98,
+  title: "Compressed-Air Systems Piping",
+  date: "Present",
+  description: [
+    "Piping systems form the backbone of any industrial facility, enabling the safe and efficient transport of fluids (liquids, gases, or slurries). Within these, compressed-air systems piping is a specialized sub-system used to deliver compressed air—a critical utility in manufacturing plants, workshops, oil & gas operations, power plants, and many automated systems. Compressed air is often referred to as the 'fourth utility' (after electricity, water, and gas) due to its vital role in instrumentation, pneumatic tools, valve actuators, packaging, and control systems.",
+    "This course provides in-depth knowledge of compressed-air systems used in industrial piping networks. It covers the physical behavior of air, flow characteristics, and pressure drop considerations, along with equipment such as fans, blowers, and compressors. Participants will gain practical skills in designing efficient compressed-air piping layouts, calculating system losses, and optimizing air delivery through nozzles. Real-world case studies will reinforce learning and application."
+  ],
+  image: require("./coursesImg/compressed-air systems piping.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid mechanics and thermodynamics",
+    "Familiarity with piping systems and industrial equipment",
+    "Recommended for mechanical engineers, piping designers, and utility system specialists"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental principles behind fluid flow in piping systems",
+    "Understand the physical properties of compressed air and how they affect system behavior",
+    "Select appropriate equipment such as fans, blowers, and compressors based on system needs",
+    "Analyze airflow dynamics within industrial piping systems",
+    "Calculate pressure losses in compressed-air distribution networks",
+    "Identify and quantify minor losses due to fittings and changes in flow direction",
+    "Design efficient nozzle systems to control flow velocity and pressure",
+    "Optimize system design for energy efficiency and operational reliability",
+    "Evaluate real-world systems through case studies to identify best practices and improvement areas",
+    "Apply relevant engineering principles for troubleshooting and system upgrades",
+    "Support safe, efficient, and compliant compressed-air system operations"
+  ],
+  outline: [
+    "Module 1: Properties of Air",
+    "Module 2: Fans, Blowers, and Compressors",
+    "Module 3: Flow of Compressed Air",
+    "Module 4: Pressure Drop in Piping",
+    "Module 5: Minor Losses",
+    "Module 6: Flow of Air through Nozzles",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 99,
+  title: "Equipment Absorption Column Design",
+  date: "Present",
+  description: [
+    "An absorption column is a process equipment used to transfer a soluble component from a gas phase into a liquid phase through mass transfer. It is widely used in chemical, petrochemical, gas processing, and environmental applications such as removing CO₂, H₂S, or volatile organics from gas streams.",
+    "This course provides a comprehensive understanding of the design and engineering principles behind absorption columns used in industrial gas-liquid separation processes. Participants will explore each stage of the design process—from gathering project data to the detailed mechanical design in compliance with ASME codes. The course includes the design of column internals, nozzles, supports, and flanged joints, supported by practical case studies."
+  ],
+  image: require("./coursesImg/Equipment Absorption Column Design.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic knowledge of mass transfer and fluid mechanics",
+    "Familiarity with process equipment design concepts",
+    "Understanding of ASME Section VIII Division 1 & 2"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the operational purpose and structure of an absorption column",
+    "Interpret process data to inform column design",
+    "Apply a systematic design procedure for sizing and configuring absorption columns",
+    "Design and evaluate column internals for efficient mass transfer",
+    "Calculate nozzle diameters based on process and mechanical considerations",
+    "Perform mechanical design in compliance with ASME Section VIII Div.1/2",
+    "Design support structures to withstand operational and environmental loads",
+    "Ensure reliable sealing through properly designed flanged joints",
+    "Evaluate and reinforce nozzle designs for structural integrity",
+    "Learn from real-world case studies to avoid common design pitfalls"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Project data",
+    "Module 3: Design procedure",
+    "Module 4: Designing of internals",
+    "Module 5: Determination of Nozzles inside Diameters",
+    "Module 6: Mechanical Design of Absorption Column as per ASME S8. Di1/Di2",
+    "Module 7: Design of Support",
+    "Module 8: Design of Flanged Joints",
+    "Module 9: Design an Integral Radial Nozzle Centrally Located",
+    "Module 10: Check the Design of a Radial Nozzle in a Cylindrical Shell",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 100,
+  title: "API Crude Oil Characterization Measurement",
+  date: "Present",
+  description: [
+    "Crude oil characterization is essential for understanding its physical and chemical properties, which influence refining processes, transportation, storage, and commercial value. One of the most commonly used parameters is the API gravity, defined by the American Petroleum Institute (API) to express the density of petroleum liquids.",
+    "This course offers an in-depth exploration of methods used to characterize crude oil properties as outlined by the American Petroleum Institute (API). The program covers essential measurement techniques for distillation, vapor pressure, heat capacity, viscosity, thermal conductivity, and other physical and chemical characteristics necessary for crude oil evaluation and modeling in refining and upstream operations."
+  ],
+  image: require("./coursesImg/API Crude Oil Characterization Measurement.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of petroleum refining and production processes",
+    "Familiarity with chemical engineering or petroleum engineering principles",
+    "Ideal for process engineers, lab technicians, and petroleum analysts"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Explain the role and importance of crude oil characterization in process design and operations",
+    "Apply distillation and SimDist techniques to determine boiling range distributions",
+    "Collect and interpret general physical and chemical property data",
+    "Conduct vapor pressure measurements using ebulliometry",
+    "Measure heat capacity and pseudo-critical properties for crude mixtures",
+    "Analyze and apply thermal conductivity data for design calculations",
+    "Accurately determine and use viscosity values for flow and transport calculations",
+    "Understand the significance of gravity and molecular weight in refinery and reservoir engineering",
+    "Utilize data in process simulators to model and optimize operations",
+    "Evaluate real-world case studies and overcome common characterization challenges"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Distillation and Simulated Distillation",
+    "Module 3: General Physical Property Characterization Data",
+    "Module 4: Chemical Analysis Data",
+    "Module 5: Ebulliometric Vapor Pressure Measurements",
+    "Module 6: Two-Phase Heat Capacity and Pseudo-Critical Temperature Measurement",
+    "Module 7: Thermal Conductivity",
+    "Module 8: Viscosity",
+    "Module 9: Gravity",
+    "Module 10: Molecular Weight",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+
+{
+  id: 101,
+  title: "Design & Operation of Hydrocarbon Turboexpanders",
+  date: "Present",
+  description: [
+    "A turboexpander is a high-speed rotating device that extracts energy from a pressurized hydrocarbon gas stream by allowing it to expand and cool rapidly. It is commonly used in natural gas processing, NGL (natural gas liquids) recovery, and cryogenic separation processes.",
+    "This course explores the design principles, operational characteristics, and supporting systems of hydrocarbon turboexpanders used in gas processing and cryogenic applications. Participants will gain insights into design fundamentals, auxiliary components, operation procedures, and reliability management. The course also introduces modern features such as magnetic bearings and noise control strategies, with real-world case studies for contextual understanding."
+  ],
+  image: require("./coursesImg/Design & Operation of Hydrocarbon Turboexpanders.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and fluid mechanics",
+    "Familiarity with gas processing or petrochemical plant operations",
+    "Engineering background in mechanical, process, or instrumentation disciplines"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the function and importance of turboexpanders in hydrocarbon processes",
+    "Identify and describe key design considerations for turboexpanders",
+    "Explain the role of auxiliary systems in safe and efficient operation",
+    "Operate and monitor turboexpanders according to best practices",
+    "Conduct and interpret expander performance tests",
+    "Recognize the application and benefits of magnetic bearing technology",
+    "Integrate turboexpander/generator systems for energy recovery",
+    "Apply noise control techniques in turboexpander system design",
+    "Implement reliability-centered maintenance strategies",
+    "Analyze real-world turboexpander projects to draw practical insights"
+  ],
+  outline: [
+    "Module 1: Turboexpander General Information",
+    "Module 2: Design Fundamentals",
+    "Module 3: Auxiliaries",
+    "Module 4: Turboexpander/Compressor Operation",
+    "Module 5: Expander Testing",
+    "Module 6: Magnetic Bearings",
+    "Module 7: Turboexpander/Generator",
+    "Module 8: Noise Control",
+    "Module 9: Reliability / Maintenance",
+    "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 102,
+  title: "Expansion Tank Design (Chilled Water)",
+  date: "Present",
+  description: [
+    "An expansion tank in a chilled water system is designed to absorb the volume changes in the water due to temperature fluctuations. Though chilled water systems typically operate at lower temperatures, thermal expansion still occurs and must be accommodated to prevent pressure buildup, equipment stress, or system damage.",
+    "This course provides a focused study on the principles and practices of designing expansion tanks for chilled water systems. Participants will learn about the function of expansion tanks in managing system pressure changes, the various types of expansion tanks, and how to properly size and select them for different HVAC applications. Practical examples and calculator usage are included to enhance applied understanding."
+  ],
+  image: require("./coursesImg/Expansion Tank Design (Chilled Water).png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "process",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of HVAC or mechanical systems",
+    "Familiarity with chilled water system components and operations",
+    "Ideal for HVAC engineers, building services designers, and mechanical technicians"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify various types of fired heater designs and their applications",
+    "Explain the function and importance of expansion tanks in chilled water systems",
+    "Differentiate between the main types of expansion tanks and their use",
+    "Apply design equations to correctly size an expansion tank",
+    "Identify key factors affecting expansion tank selection and performance",
+    "Utilize calculator tools to streamline the design process",
+    "Recognize common design issues and how to prevent them",
+    "Assess system impacts of poorly sized or maintained expansion tanks",
+    "Apply case-based learning to real-world HVAC system designs"
+  ],
+  outline: [
+    "Module 1: Introduction",
+    "Module 2: Disclaimer",
+    "Module 3: Expansion Tank Types",
+    "Module 4: Sizing an Expansion Tank",
+    "Module 5: Expansion Tank Design Issues",
+    "Module 6: Expansion Tank Calculator",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $70",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 103,
+  title: "Exploration & Production Equipment Piping",
+  date: "Present",
+  description: [
+    "Piping systems in exploration and production (E&P) facilities are essential for transporting fluids—oil, gas, water, and drilling mud—between various pieces of equipment. These systems must be designed and installed to handle harsh environments, variable pressures, corrosive substances, and operational safety requirements.",
+    "This course outlines the total procedure covering the design, fabrication, installation, inspection, and commissioning of piping for upstream E&P equipment such as wellheads, separators, pumps, compressors, and storage units. It provides a comprehensive understanding of piping systems used in upstream oil and gas exploration and production operations. The course also addresses functional roles, piping components, data representation, operational practices, troubleshooting techniques, and real-world case studies."
+  ],
+  image: require("./coursesImg/Exploration & Production Equipment Piping.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "Petroleum",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of oil and gas production systems",
+    "Familiarity with mechanical or process engineering concepts",
+    "Understanding of piping terminology and symbols is advantageous"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the functional role of piping systems in exploration and production",
+    "Identify and describe essential piping components",
+    "Interpret standard piping diagrams and documents",
+    "Apply knowledge of piping operations in E&P environments",
+    "Recognize and resolve common piping issues through troubleshooting",
+    "Assess the impact of piping layout and design on system performance",
+    "Understand the materials and standards used in piping design",
+    "Apply lessons learned from real-world case studies to improve piping reliability"
+  ],
+  outline: [
+    "Module 1: Objectives",
+    "Module 2: The Functions of Piping",
+    "Module 3: Piping Components",
+    "Module 4: Representation and Data",
+    "Module 5: Piping Operations",
+    "Module 6: Troubleshooting",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 104,
+  title: "Fuel Gas Distribution Piping System",
+  date: "Present",
+  description: [
+    "A fuel gas distribution piping system is a specialized network within industrial and commercial facilities that safely transports combustible gases (like natural gas, LPG, or manufactured gases) from a central source to end-use equipment such as furnaces, turbines, boilers, burners, or engines.",
+    "This course delivers a comprehensive understanding of fuel gas distribution piping systems, focusing on the physical behavior of fuel gases, applicable codes and standards, system components, and sizing methodologies. It includes detailed modules on LPG systems—covering transportation, storage, and tank sizing. Through practical case studies, participants will develop the skills necessary to design, operate, and troubleshoot safe and efficient fuel gas piping systems across residential, commercial, and industrial applications."
+  ],
+  image: require("./coursesImg/fuel gas distribution piping system.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with piping layouts and pressure systems",
+    "Ideal for mechanical, process, and pipeline engineers as well as plant operators and maintenance professionals"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand and apply relevant fuel gas piping codes and standards",
+    "Differentiate between types of fuel gases and their properties",
+    "Design safe and compliant fuel gas distribution systems",
+    "Properly size pipes based on gas flow, system layout, and demand",
+    "Select suitable materials for various pressure and environmental conditions",
+    "Identify and use key components in fuel gas systems",
+    "Perform pressure testing to ensure system integrity and safety",
+    "Design and evaluate LPG transportation and storage systems",
+    "Calculate appropriate LPG tank and pipe sizes for various applications",
+    "Analyze real-world case studies to improve safety, reliability, and efficiency in gas systems"
+  ],
+  outline: [
+    "Module 1: Codes and Standards",
+    "Module 2: Types of Fuel Gas",
+    "Module 3: Gas Properties",
+    "Module 4: Fuel Gas System Pressures",
+    "Module 5: Fuel Gas System Components",
+    "Module 6: Fuel Gas Pipe Sizing",
+    "Module 7: Pipe Materials",
+    "Module 8: Pressure Testing",
+    "Module 9: LPG Transportation",
+    "Module 10: LPG Storage",
+    "Module 11: LPG Tank and Pipe Sizing",
+    "Module 12: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 105,
+  title: "Gas Piping System",
+  date: "Present",
+  description: [
+    "Piping systems are fundamental infrastructure in industrial, commercial, and residential facilities used to safely transport fluids — including liquids, gases, steam, and slurries. Within this broad category, the gas piping system is specifically designed to handle the transport and distribution of various gases such as natural gas, propane, hydrogen, oxygen, nitrogen, and process gases.",
+    "Due to the volatile and pressurized nature of gases, gas piping systems require precise engineering, strict safety measures, and compliance with codes and standards to prevent leaks, explosions, or operational hazards.",
+    "This course provides an in-depth understanding of gas transmission and distribution piping systems. It focuses on the physical properties of gases, pressure drop calculations, pipeline configurations, and the use of compressors to maintain flow and pressure. Participants will also gain insights into stress analysis and cost optimization strategies essential for safe, reliable, and economical gas pipeline operations. The course is reinforced with practical case studies from real industrial applications."
+  ],
+  image: require("./coursesImg/gas piping system.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with piping layouts and pressure systems",
+    "Ideal for mechanical, process, and pipeline engineers as well as plant operators and maintenance professionals"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the behavior and properties of gases relevant to piping systems",
+    "Calculate pressure drops and determine flow capacity for gas pipelines",
+    "Apply line packing concepts for operational flexibility",
+    "Analyze pipelines arranged in series and parallel to evaluate system performance",
+    "Design and evaluate looping pipelines to increase capacity and redundancy",
+    "Select appropriate compressors and integrate them into pipeline systems",
+    "Conduct basic pipe stress analysis for safe and compliant designs",
+    "Evaluate economic trade-offs in pipeline design and operation",
+    "Identify key considerations in gas pipeline reliability and efficiency",
+    "Learn from industry case studies to improve design, operation, and maintenance strategies"
+  ],
+  outline: [
+    "Module 1: Gas Properties",
+    "Module 2: Pressure Drop Due to Friction",
+    "Module 3: Line Pack in Gas Pipeline",
+    "Module 4: Pipes in Series",
+    "Module 5: Pipes in Parallel",
+    "Module 6: Looping Pipelines",
+    "Module 7: Gas Compressors",
+    "Module 8: Pipe Stress Analysis",
+    "Module 9: Pipeline Economics",
+    "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 106,
+  title: "Oil Systems Piping",
+  date: "Present",
+  description: [
+    "An oil piping system is a specialized segment of industrial piping infrastructure designed for the safe, reliable, and efficient transport of various oils—including crude oil, fuel oil, hydraulic oil, lubrication oil, and thermal oils. These systems are vital in petrochemical plants, refineries, offshore platforms, power plants, and industrial facilities.",
+    "Due to the flammable, viscous, and sometimes corrosive nature of oils, their piping systems must adhere to strict design, material selection, and safety protocols.",
+    "This course offers a complete guide to the design, analysis, and operation of oil piping systems, with an emphasis on the physical properties of oil, fluid dynamics, and hydraulic calculations. It addresses the key considerations for pressure drop, flow characteristics, pumping requirements, and mechanical integrity. Participants will also learn about valves, fittings, pipe stress, and economic evaluation through detailed theoretical insights and real-world case studies."
+  ],
+  image: require("./coursesImg/oil systems piping.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with industrial piping layouts and components",
+    "Ideal for piping engineers, mechanical engineers, process engineers, and plant operators"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental principles behind fluid flow in piping systems",
+    "Understand the physical properties of compressed air and how they affect system behavior",
+    "Select appropriate equipment such as fans, blowers, and compressors based on system needs",
+    "Analyze airflow dynamics within industrial piping systems",
+    "Calculate pressure losses in compressed-air distribution networks",
+    "Identify and quantify minor losses due to fittings and changes in flow direction",
+    "Design efficient nozzle systems to control flow velocity and pressure",
+    "Optimize system design for energy efficiency and operational reliability",
+    "Evaluate real-world systems through case studies to identify best practices and improvement areas",
+    "Apply relevant engineering principles for troubleshooting and system upgrades",
+    "Support safe, efficient, and compliant compressed-air system operations"
+  ],
+  outline: [
+    "Module 1: Density, Specific Weight, and Specific Gravity",
+    "Module 2: Specific Gravity of Blended Products",
+    "Module 3: Viscosity",
+    "Module 4: Viscosity of Blended Products",
+    "Module 5: Bulk Modulus",
+    "Module 6: Vapor Pressure",
+    "Module 7: Pressure",
+    "Module 8: Velocity",
+    "Module 9: Reynolds Number",
+    "Module 10: Types of Flow",
+    "Module 11: Pressure Drop Due to Friction",
+    "Module 12: Minor Losses",
+    "Module 13: Complex Piping Systems",
+    "Module 14: Total Pressure Required",
+    "Module 15: Hydraulic Gradient",
+    "Module 16: Pumping Horsepower",
+    "Module 17: Pumps",
+    "Module 18: Valves and Fittings",
+    "Module 19: Pipe Stress Analysis",
+    "Module 20: Pipeline Economics",
+    "Module 21: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 107,
+  title: "Piping Systems & Piping Calculation",
+  date: "Present",
+  description: [
+    "Piping systems are critical to industrial facilities, serving as the circulatory system for transporting fluids (liquids, gases, slurries, or steam) between equipment such as pumps, tanks, compressors, reactors, and heat exchangers. These systems must be carefully designed, sized, and analyzed to ensure safety, efficiency, and compliance with relevant codes and standards.",
+    "The Piping Calculation Manual provides a comprehensive reference for engineers, including equations, design methodologies, material selection, and layout principles necessary for reliable piping design and operation.",
+    "This course provides a practical and comprehensive guide to the design and calculation of industrial piping systems across various applications. It covers fluid flow principles, pipe sizing, material selection, and system-specific requirements, including water, steam, gas, oil, and cryogenic services. Through detailed modules and case studies, participants will gain both theoretical understanding and applied skills in designing efficient, safe, and compliant piping systems."
+  ],
+  image: require("./coursesImg/piping systems & piping calculation.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "1 Day",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with engineering drawings and industrial plant operations",
+    "Recommended for mechanical engineers, piping designers, and utility system specialists"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the fundamental principles behind fluid flow in piping systems",
+    "Perform pipe sizing and pressure loss calculations for various system types",
+    "Select appropriate materials for specific fluids and operating conditions",
+    "Apply design standards and safety codes relevant to each piping system",
+    "Design reliable systems for water, steam, air, gas, and oil services",
+    "Account for expansion, contraction, insulation, and support in piping layouts",
+    "Identify failure risks and apply strategies to improve system reliability",
+    "Interpret piping system schematics and calculation manuals",
+    "Analyze case studies to apply practical design and troubleshooting techniques"
+  ],
+  outline: [
+    "Module 1: Water Systems Piping",
+    "Module 2: Fire Protection Piping Systems",
+    "Module 3: Waste Water and Storm Water Piping",
+    "Module 4: Steam Systems Piping",
+    "Module 5: Compressed-Air Systems Piping",
+    "Module 6: Oil Systems Piping",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "FREE",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 108,
+  title: "Slurry and Sludge Piping System",
+  date: "Present",
+  description: [
+    "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow.",
+    "These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
+    "This course covers the design and analysis of piping systems for transporting slurry and sludge, focusing on the physical behavior of complex fluids—including Newtonian and non-Newtonian characteristics—pressure loss calculations, and flow regimes.",
+    "Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively, with practical insights provided through real-world case studies."
+  ],
+  image: require("./coursesImg/slurry and sludge piping system.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic knowledge of fluid mechanics and thermodynamics",
+    "Familiarity with piping layouts and pressure systems",
+    "Suitable for process, piping, and mechanical engineers working in heavy industry, mining, or wastewater sectors"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the physical properties of slurry and sludge and how they impact piping design",
+    "Distinguish between Newtonian and non-Newtonian fluids and identify appropriate flow models",
+    "Analyze the behavior of homogeneous and heterogeneous flows in piping systems",
+    "Perform pressure drop calculations for both Newtonian and non-Newtonian flow conditions",
+    "Evaluate the impact of flow regime on pipeline wear and maintenance needs",
+    "Select suitable materials and pumps for slurry and sludge transport",
+    "Design pipelines to minimize settling and ensure stable flow",
+    "Apply best practices in layout and operation to reduce energy consumption and downtime",
+    "Interpret real-world case studies for practical insights and design validation",
+    "Ensure system compliance with safety and operational standards in difficult service environments"
+
+  ],
+  outline: [
+    "Module 1: Physical Properties",
+    "Module 2: Newtonian and Non-Newtonian Fluids",
+    "Module 3: Flow of Newtonian Fluids",
+    "Module 4: Flow of Non-Newtonian Fluids",
+    "Module 5: Homogeneous and Heterogeneous Flow",
+    "Module 6: Pressure Loss in Slurry Pipelines with Heterogeneous Flow",
+    "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 109,
+  title: "Wastewater & Stormwater Piping",
+  date: "Present",
+  description: [
+    "Wastewater and stormwater piping systems are essential for collecting, transporting, and safely discharging used water and rainwater from industrial, commercial, and residential facilities.",
+    "These systems help prevent flooding, protect public health, and ensure compliance with environmental regulations.",
+    "This course provides a comprehensive study of piping systems used for transporting wastewater and stormwater in municipal, industrial, and commercial applications.",
+    "It covers hydraulic behavior, system design, material selection, energy considerations, and real-world case studies for practical application and problem-solving."
+  ],
+  image: require("./coursesImg/waste water and storm water piping.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid mechanics and environmental engineering",
+    "Familiarity with drainage or piping systems",
+    "Ideal for civil engineers, public works personnel, piping designers, and utility planners"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the unique properties of wastewater and stormwater and how they affect system design",
+    "Calculate flow velocity, pressure loss, and self-cleansing criteria for piping networks",
+    "Design both gravity and pressure-based sewer systems using accepted engineering methods",
+    "Evaluate and select suitable pipe materials for different site conditions",
+    "Apply hydraulic principles to size pipes, slopes, and pumping systems",
+    "Analyze the behavior of storm and sanitary flows under varying weather and loading conditions",
+    "Design complex and branched piping networks with proper flow distribution",
+    "Estimate energy needs and operational costs for pumping stations",
+    "Ensure structural stability of buried sewer pipes through correct load assessment",
+    "Learn from real-world projects to avoid common design and operational pitfalls"
+  ],
+  outline: [
+    "Module 1: Properties of Wastewater and Stormwater",
+    "Module 2: Pressure",
+    "Module 3: Velocity",
+    "Module 4: Reynolds Number",
+    "Module 5: Types of Flow",
+    "Module 6: Pressure Drop Due to Friction",
+    "Module 7: Minor Losses",
+    "Module 8: Sewer Piping Systems",
+    "Module 9: Sanitary Sewer System Design",
+    "Module 10: Self-Cleansing Velocity",
+    "Module 11: Storm Sewer Design",
+    "Module 12: Complex Piping Systems",
+    "Module 13: Total Pressure Required",
+    "Module 14: Hydraulic Gradient",
+    "Module 15: Gravity Flow",
+    "Module 16: Pumping Horsepower",
+    "Module 17: Pumps",
+    "Module 18: Pipe Materials",
+    "Module 19: Loads on Sewer Pipe",
+    "Module 20: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 110,
+  title: "Water Piping System",
+  date: "Present",
+  description: [
+    "Water piping systems are critical components in industrial, commercial, and residential infrastructure.",
+    "These systems are designed to transport water for cooling, process operations, fire protection, potable supply, and wastewater disposal.",
+    "This course offers a comprehensive understanding of water piping systems used in industrial, municipal, and building service applications.",
+    "It covers both fluid mechanics and practical piping design, including flow analysis, energy requirements, and real-world challenges through detailed case studies."
+  ],
+  image: require("./coursesImg/water piping system.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of fluid mechanics and thermodynamics",
+    "Familiarity with piping layouts or civil/industrial utility systems",
+    "Suitable for mechanical engineers, civil engineers, piping designers, and utility planners"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the physical properties of water and their effect on system design",
+    "Analyze fluid flow in piping networks using velocity, Reynolds number, and pressure loss equations",
+    "Design water piping systems with consideration for both frictional and minor losses",
+    "Evaluate pump selection and energy requirements using hydraulic principles",
+    "Interpret and design systems using hydraulic gradient and gravity flow considerations",
+    "Apply pipe stress analysis techniques to ensure mechanical integrity",
+    "Choose and place valves and fittings effectively within a system",
+    "Perform economic evaluation of piping systems based on material, pumping cost, and layout",
+    "Troubleshoot issues in complex piping layouts and flow distributions",
+    "Learn from real-world case studies to improve design efficiency and reliability"
+  ],
+  outline: [
+    "Module 1: Properties of Water",
+    "Module 2: Pressure",
+    "Module 3: Velocity",
+    "Module 4: Reynolds Number",
+    "Module 5: Types of Flow",
+    "Module 6: Pressure Drop Due to Friction",
+    "Module 7: Minor Losses",
+    "Module 8: Complex Piping System",
+    "Module 9: Total Pressure Required",
+    "Module 10: Hydraulic Gradient",
+    "Module 11: Gravity Flow",
+    "Module 12: Pumping Horsepower",
+    "Module 13: Pumps",
+    "Module 14: Flow Injections and Deliveries",
+    "Module 15: Valves and Fittings",
+    "Module 16: Pipe Stress Analysis",
+    "Module 17: Pipeline Economics",
+    "Module 18: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 111,
+  title: "Steam Piping System",
+  date: "Present",
+  description: [
+    "Steam piping systems are designed to transport steam generated in boilers to various end-use points, such as turbines, heat exchangers, reboilers, or process equipment.",
+    "These systems must be carefully engineered to handle high pressures, temperatures, and thermal expansion, ensuring efficient and safe operation.",
+    "This course provides a comprehensive introduction to the design, operation, and maintenance of steam piping systems used in industrial and utility applications.",
+    "Participants will learn the key principles governing steam behavior, pressure drop, sizing, and material selection. The course includes guidance on applicable codes and standards, component specification, and steam flow control—concluding with practical case studies from real installations."
+  ],
+  image: require("./coursesImg/steam piping system.png"),
+  tags: [
+    "Trainer: Engr. Okechukwu"
+  ],
+  category: "mechanical",
+  duration: "2 Days",
+  prerequisite: [
+    "Basic understanding of thermodynamics and fluid mechanics",
+    "Familiarity with industrial piping or mechanical systems",
+    "Suitable for piping engineers, plant designers, maintenance personnel, and energy managers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand the properties of steam and their relevance to piping design",
+    "Apply appropriate codes and standards to ensure safe and compliant systems",
+    "Select suitable piping materials based on temperature and pressure conditions",
+    "Calculate pressure drops and determine allowable velocity ranges",
+    "Design and size steam piping systems for optimal flow and energy efficiency",
+    "Specify pipe wall thickness based on operating pressure and system life",
+    "Integrate nozzles, valves, and fittings effectively into the piping layout",
+    "Identify operational risks such as water hammer, erosion, and heat loss",
+    "Conduct troubleshooting and performance analysis using case studies",
+    "Improve reliability and efficiency of existing steam piping networks"
+  ],
+  outline: [
+    "Module 1: Codes and Standards",
+    "Module 2: Types of Steam Systems Piping",
+    "Module 3: Properties of Steam",
+    "Module 4: Pipe Materials",
+    "Module 5: Velocity of Steam Flow in Pipes",
+    "Module 6: Pressure Drop",
+    "Module 7: Nozzles and Orifices",
+    "Module 8: Pipe Wall Thickness",
+    "Module 9: Determining Pipe Size",
+    "Module 10: Valves and Fittings",
+    "Module 11: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "#100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
   
   {
     id: 0,
@@ -11270,1829 +16282,23 @@ export const projects = [
   ],
   cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
-},
-
-{
-  id: 27,
-  title: "LPG SAFETY",
-  date: "Present",
-  description:
-  [
-      "LPG (Liquefied Petroleum Gas) Safety is a crucial consideration in the use, storage, transportation, and handling of LPG due to its flammable and potentially hazardous nature. LPG is commonly used for heating, cooking, and as fuel in both residential and industrial applications. Given its flammable properties, any leakage or mishandling can pose serious risks, including fires, explosions, and health hazards.",
-      "LPG is widely used in various industries and households, making safety a critical aspect of its handling, transportation, and usage. This course provides a comprehensive understanding of LPG safety measures, regulatory requirements, and risk management strategies. Participants will explore best practices in bulk storage, transportation, cylinder handling, and consumer installations. The course also covers emergency response planning and real-world case studies to enhance practical knowledge."
-  ],
-  image: require("./coursesImg/LPG Safety.jpg"),
-  tags: [
-      'Trainer: Engr. Adeyemi',
-  ],
-  category: "hazop hazid",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "2 Days",
-  prerequisite: [
-      "Basic knowledge of LPG properties and uses",
-      "Familiarity with industrial safety protocols",
-      "Understanding of regulatory compliance requirements"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Identify key responsibilities in LPG safety management",
-      "Apply national and international LPG safety regulations",
-      "Analyze safety hazards in trans-shipment terminals and inland transportation",
-      "Implement best practices in bulk storage and handling",
-      "Establish proper handling techniques for LPG cylinders",
-      "Understand safety measures for bulk distribution and consumer installations",
-      "Identify safety management techniques for LPG operations",
-      "Implement safety monitoring and control measures",
-      "Develop effective emergency response plans",
-      "Apply real-world case study insights to improve safety practices"
-  ],
-  outline: [
-      "Module 1: Key Responsibilities",
-      "Module 2: Regulatory Framework",
-      "Module 3: LPG Safety",
-      "Module 4: LPG Distribution Chain",
-      "Module 5: Trans-Shipment Terminal",
-      "Module 6: Inland Transportation",
-      "Module 7: Bulk Storage and Handling",
-      "Module 8: Cylinder Filling and Handling",
-      "Module 9: Distribution in Bulk",
-      "Module 10: Consumer Installation and Usage",
-      "Module 11: Managing Safety",
-      "Module 12: Emergency Planning and Response",
-      "Module 13: Case Studies and Real-World Examples"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦250,000 / $220",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 28,
-  title: "MECHANICAL ENGINEERING",
-  date: "Present",
-  description:
-  [
-      "Mechanical Engineering is one of the broadest and oldest branches of engineering that involves the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles of physics, mathematics, material science, thermodynamics, fluid mechanics, and control theory to create or improve machines, devices, and systems.",
-      "Mechanical engineering is a broad discipline that applies principles of physics, material science, and mathematics to design, analyze, manufacture, and maintain mechanical systems. This course provides an in-depth understanding of core mechanical engineering concepts, including thermodynamics, fluid mechanics, heat transfer, and machine design. Participants will also explore material science, manufacturing processes, and electromechanical devices, with practical applications in real-world case studies."
-  ],
-  image: require("./coursesImg/Mechanical Engineering.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "mechanical",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "4 Days",
-  prerequisite: [
-      "Basic knowledge of physics and mathematics",
-      "Understanding of fundamental engineering principles",
-      "Familiarity with mechanical systems and components"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Explain key concepts in thermodynamics, fluid mechanics, and heat transfer",
-      "Apply mechanical engineering principles in system design and analysis",
-      "Evaluate material properties and their impact on mechanical design",
-      "Understand the role of heat exchangers, pumps, and electromechanical devices in various applications",
-      "Explore different manufacturing processes and material selection techniques",
-      "Assess mechanical failures and improve design for durability and efficiency",
-      "Implement mechanical engineering concepts in practical applications",
-      "Analyze case studies to understand challenges and solutions in mechanical engineering"
-  ],
-  outline: [
-      "Module 1: Thermodynamics",
-      "Module 2: Fluid Mechanics",
-      "Module 3: Pumping Machinery",
-      "Module 4: Heat Transfer",
-      "Module 5: Heat Exchangers",
-      "Module 6: Material Science",
-      "Module 7: Manufacturing Processes",
-      "Module 8: Machine Design",
-      "Module 9: Electromechanical Devices",
-      "Module 10: Case Studies and Real-World Examples"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦250,000 / $220",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 29,
-  title: "Dye Penetrant Testing (DPT) Acceptance Criteria",
-  date: "Present",
-  description:
-  [
-      "Dye Penetrant Testing (DPT), also known as Liquid Penetrant Testing (LPT), is a widely used non-destructive testing (NDT) method to detect surface-breaking flaws in non-porous materials. Acceptance criteria for DPT are based on the evaluation of defects and their compliance with applicable standards or codes, depending on the type of material, application, and industry requirements.",
-      "This course provides an in-depth understanding of Dye Penetrant Testing (DPT) Acceptance Criteria and its application across various industry standards. Participants will learn to interpret and apply acceptance criteria for surface-breaking defects in metallic materials, welds, castings, and critical components. The course covers prominent industry standards and codes, focusing on their role in ensuring safety, compliance, and quality in diverse engineering sectors, including pressure vessels, storage tanks, piping systems, structural welding, and shipbuilding. Practical case studies will enhance the participants' ability to apply theoretical knowledge to real-world scenarios."
-  ],
-  image: require("./coursesImg/Dye Penetrant.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "mechanical",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "3 Days",
-  prerequisite: [
-      "Basic knowledge of non-destructive testing (NDT) methods, especially Dye Penetrant Testing",
-      "Familiarity with material properties, welding processes, and manufacturing techniques",
-      "An understanding of common industrial applications (e.g., pressure vessels, piping, tanks)",
-      "Knowledge of engineering drawings and technical documentation"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Understand the principles and processes of Dye Penetrant Testing (DPT)",
-      "Explain the role of DPT in quality control, defect detection, and safety assurance",
-      "Interpret and apply DPT acceptance criteria as per global standards such as: ASME, API, AWS, ISO, EN, and IACS standards",
-      "Differentiate between various codes and standards for specific applications (e.g., pressure vessels, storage tanks, piping systems)",
-      "Evaluate defects in components such as welds, castings, pipelines, and structures based on their intended application and standard requirements",
-      "Recognize industry-specific challenges, including those in shipbuilding, power generation, and bridge construction",
-      "Prepare accurate inspection reports detailing DPT findings and ensuring compliance with acceptance criteria",
-      "Understand the importance of traceability and quality assurance in engineering projects",
-      "Analyze real-world case studies to learn best practices, avoid common pitfalls, and implement effective inspection processes",
-      "Enhance decision-making skills for defect evaluation and disposition, including repair and re-inspection"
-  ],
-  outline: [
-      "Module 1: ASME BPVC for Pressure Vessel",
-      "Module 2: API 650 for Oil Storage Tanks",
-      "Module 3: API 620 for Low Pressure Storage Tanks",
-      "Module 4: ASME B 31.3 for Process Piping",
-      "Module 5: ASME B 31.1 for Power Piping",
-      "Module 6: AWS D 1.1 for Steel Structural Welding Inspection",
-      "Module 7: API 1104 for Welding of Pipelines and Related Facilities",
-      "Module 8: American Bureau of Shipping (ABS) for Hull Inspection",
-      "Module 9: ISO 23277 Metallic Materials Weld Inspection",
-      "Module 10: ISO 17635",
-      "Module 11: IACS for Shipbuilding Inspection",
-      "Module 12: AWS D1.5 for Bridge Welding Inspection",
-      "Module 13: BS EN ISO 10228-2 for Steel Casting Inspection",
-      "Module 14: EN 10228-2 for Steel Casting Inspection",
-      "Module 15: ISO 4987 for Steel Casting Inspection",
-      "Module 16: GE Standard for GE Turbine and GE Accessories Inspection",
-      "Module 17: Acceptance Criteria at Fluorescent Dye Penetrant Testing",
-      "Module 18: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦250,000 / $220",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 30,
-  title: "Motors and Generators",
-  date: "Present",
-  description:
-  [
-      "Motors and generators are both machines used to convert energy, but they work on opposite principles. Motors convert electrical energy into mechanical energy, while generators convert mechanical energy into electrical energy.",
-      "Motors work based on electromagnetic induction. When current flows through a conductor (usually a coil), it creates a magnetic field. This magnetic field interacts with the magnetic field of a permanent magnet (or another electromagnet) to produce a mechanical force that turns the motor's shaft. A generator is a device that converts mechanical energy into electrical energy. It works on the principle of electromagnetic induction, where mechanical motion induces a current in a conductor moving through a magnetic field.",
-      "This course provides a comprehensive understanding of electric machines, focusing on the principles, operation, and maintenance of motors and generators. Participants will learn about the generation of electric current, synchronous and asynchronous machines, alternator connections, protection mechanisms, and motor operations. The course will also cover generator synchronization, motor applications, and troubleshooting techniques, reinforced through real-world case studies."
-  ],
-  image: require("./coursesImg/Motors and Generators.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "mechanical",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "2 Days",
-  prerequisite: [
-      "Basic understanding of electricity and magnetism",
-      "Familiarity with electrical circuits and components",
-      "Knowledge of power systems"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Define key concepts related to motors and generators",
-      "Explain the generation and transformation of electrical energy",
-      "Understand alternator construction, connections, and protections",
-      "Analyze alternator operation, control mechanisms, and maintenance practices",
-      "Understand the importance of synchronizing generators in a power system",
-      "Learn techniques for safe and effective generator paralleling",
-      "Compare synchronous and asynchronous motors",
-      "Examine the characteristics and uses of three-phase and other motor types",
-      "Explore the working principles of asynchronous motors",
-      "Learn about motor performance, efficiency, and load handling",
-      "Recognize common faults in motors and generators",
-      "Develop preventive maintenance strategies for reliable operation",
-      "Analyze real-world scenarios of motor and generator applications",
-      "Evaluate best practices for troubleshooting and optimization"
-  ],
-  outline: [
-      "Module 1: Objectives",
-      "Module 2: Introduction to Electric Machines",
-      "Module 3: Generation of Electric Current",
-      "Module 4: Synchronous Machines – Alternators",
-      "Module 5: Alternator Connections and Protections",
-      "Module 6: Alternator Operation and Control",
-      "Module 7: Generator Paralleling and Synchronizing",
-      "Module 8: Alternator Maintenance",
-      "Module 9: Synchronous Motors",
-      "Module 10: Three-phase Asynchronous Motor",
-      "Module 11: Other Types of Motors",
-      "Module 12: Operation of Asynchronous Motors",
-      "Module 13: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦300,000 / $250",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 31,
-  title: "Steam Boilers",
-  date: "Present",
-  description:
-  [
-      "A steam boiler is a device used to generate steam by applying heat energy to water. Boilers are essential components in many industrial processes, power plants, and heating systems. The basic principle behind a steam boiler is converting water into steam through the application of heat from a fuel source, which then can be used for various purposes, such as power generation, heating, or driving engines.",
-      "This course provides an in-depth understanding of steam boiler systems, their applications, types, common operational challenges, and best practices for boiler water treatment. Participants will gain insights into optimizing boiler performance, preventing failures, and ensuring safe and efficient operations. Case studies will provide real-world examples to reinforce learning."
-  ],
-  image: require("./coursesImg/Steam Boilers.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "mechanical",
-  duration: "1 Day",
-  prerequisite: [
-      "Basic knowledge of thermodynamics and heat transfer",
-      "Understanding of industrial processes that require steam",
-      "Familiarity with fluid mechanics"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Identify key applications of steam in industries such as power generation, refining, and manufacturing",
-      "Explain the role of steam in heating, sterilization, and mechanical work",
-      "Describe the working principles of fire-tube and water-tube boilers",
-      "Understand the advantages and limitations of different boiler types",
-      "Recognize common operational issues such as scaling, corrosion, and carryover",
-      "Analyze the impact of poor water quality on boiler efficiency and lifespan",
-      "Explain the importance of water treatment in preventing scaling and corrosion",
-      "Explore chemical and mechanical treatment methods for maintaining boiler efficiency",
-      "Review real-world boiler system failures and their causes",
-      "Evaluate best practices for boiler maintenance and optimization"
-  ],
-  outline: [
-      "Module 1: Uses for Steam",
-      "Module 2: Types of Steam Boilers",
-      "Module 3: Problem Areas",
-      "Module 4: Principles of Boiler Water Treatment",
-      "Module 5: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦90,000 / $70",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 32,
-  title: "Oil & Gas Production",
-  date: "Present",
-  description:
-  [
-    "Oil and gas production involves the extraction of hydrocarbons from underground reservoirs and processing them into usable fuels.",
-    "The Oil & Gas Production course provides a detailed understanding of the key processes involved in extracting, processing, and handling hydrocarbons. This course covers fundamental principles, from reservoir dynamics and wellhead operations to processing systems and utility requirements. Participants will gain insights into industry best practices, operational challenges, and case studies from real-world applications.",
-    "Designed for engineers, technicians, and industry professionals, this course aims to bridge the gap between theoretical knowledge and practical field applications, equipping learners with the necessary skills to work effectively in oil and gas production operations."
-  ],
-  image: require("./coursesImg/Oil & Gas Production.jpg"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "Petroleum",
-  duration: "2 Days",
-  prerequisite: [
-    "A basic understanding of engineering principles",
-    "Familiarity with oil & gas industry operations",
-    "Knowledge of fluid mechanics and thermodynamics"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Explain the basic concepts, industry landscape, and key terminologies",
-    "Describe the stages of oil and gas processing from extraction to final product handling",
-    "Understand reservoir behavior, wellhead components, and their role in production efficiency",
-    "Identify the separation, treatment, and processing methods used in production facilities",
-    "Understand the role of power generation, water treatment, and gas compression in production operations",
-    "Learn from real-world examples, challenges, and problem-solving strategies in oil and gas production"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Process Overview",
-    "Module 3: Reservoir and Wellheads",
-    "Module 4: The Oil and Gas Process",
-    "Module 5: Utility Systems",
-    "Module 6: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦120,000 / $100",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 33,
-  title: "Commissioning",
-  date: "Present",
-  description:
-  [
-    "Commissioning is the structured process of planning, inspecting, testing, and validating systems and equipment to ensure they are installed correctly and operate according to design and safety standards before turning over to operations. It bridges the gap between construction completion and the start of commercial operations.",
-    "The Commissioning Course provides a complete understanding of the commissioning phase in project execution, with an emphasis on systematic planning, documentation, team coordination, and safe execution. This course walks participants through the commissioning process from engineering preparation to final handover, including systemization, progress tracking, data management, HSE compliance, and startup operations.",
-    "The course emphasizes practical tools and methodologies used across various industries (e.g., oil & gas, energy, infrastructure) to ensure systems are tested, verified, and transferred safely and efficiently from construction to operation."
-  ],
-  image: require("./coursesImg/Commissioning.jpg"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "commissioning",
-  duration: "3 Days",
-  prerequisite: [
-    "A background in engineering, project management, or construction",
-    "Basic understanding of industrial project execution phases",
-    "Familiarity with technical documentation and system-based thinking"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand what commissioning is, its objectives, phases, and integration into the project lifecycle",
-    "Analyze how commissioning fits within overall project frameworks and communicate its scope effectively",
-    "Break down complex projects into manageable systems and subsystems for structured commissioning",
-    "Develop and implement engineering procedures and readiness checklists for safe start-up",
-    "Utilize commissioning databases and tools for punch list management, tagging, and record-keeping",
-    "Monitor commissioning progress, understand KPIs, and apply status-reporting principles for control",
-    "Structure commissioning teams and clarify roles within a robust organizational setup",
-    "Manage handovers between construction, commissioning, and operations teams with clarity and documentation",
-    "Interpret contract structures, milestones, and responsibilities related to commissioning deliverables",
-    "Implement HSE Best Practices – Apply health, safety, and environmental measures throughout commissioning to ensure risk-free operations",
-    "Coordinate final start-up procedures and ensure seamless transition into operational phase"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Project Presentation",
-    "Module 3: System/Subsystem Methodology",
-    "Module 4: Pre‐commissioning/Commissioning Engineering",
-    "Module 5: Database",
-    "Module 6: Progress and Status Principles",
-    "Module 7: Organization",
-    "Module 8: Technical Transfer of Responsibilities",
-    "Module 9: Contract Structure",
-    "Module 10: HSE During Commissioning Operations",
-    "Module 11: Startup Operations"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦150,000 / $120",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 34,
-  title: "Commissioning Standards Documents",
-  date: "Present",
-  description:
-  [
-    "The Commissioning Standards Documents Course is designed to provide professionals with a comprehensive understanding of the standardized documentation, frameworks, and best practices that guide the commissioning process across industries. The course emphasizes the importance of clear planning, consistent terminology, defined responsibilities, risk management, and continuous improvement through lessons learned.",
-    "Participants will gain insights into the structured use of commissioning standards and documentation throughout all project phases—from engineering and manufacturing to construction completions, on-site testing, and system handover.",
-    "This course prepares participants to implement documentation frameworks that support efficiency, traceability, and safety in commissioning projects."
-  ],
-  image: require("./coursesImg/Commissioning Standards Documents.jpg"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "commissioning",
-  duration: "3 Days",
-  prerequisite: [
-    "A background in engineering, project management, or commissioning",
-    "Familiarity with basic commissioning and project execution principles",
-    "Understanding of industrial systems or facilities"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Explain the role of standardized documentation in ensuring quality, consistency, and safety",
-    "Distinguish between engineering, pre-commissioning, commissioning, and closeout phases",
-    "Apply industry-approved commissioning terms to promote clear communication and reduce ambiguity",
-    "Interpret documentation that outlines accountability and scope for all stakeholders in the commissioning team",
-    "Design structured commissioning plans using standardized formats and planning tools",
-    "Ensure alignment between design, fabrication, installation, and commissioning documentation",
-    "Follow standardized protocols for field tests, function checks, and performance verification",
-    "Complete and document the formal transfer of systems into operation, including punch list closure",
-    "Incorporate HSE documentation into commissioning workflows to mitigate operational risks",
-    "Document feedback, performance gaps, and improvements for ongoing standardization enhancement"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Phases of the Commissioning Process",
-    "Module 3: Terminology",
-    "Module 4: Roles & Responsibilities",
-    "Module 5: Commissioning Strategy & Planning",
-    "Module 6: Commissioning Engineering, Manufacturing, Construction Completions",
-    "Module 7: On-Site Testing",
-    "Module 8: Handover, In-Service, Closeout",
-    "Module 9: Safety & Risk Management",
-    "Module 10: Lessons Learned & Continuous Improvement"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦150,000 / $120",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 35,
-  title: "Pipeline Engineering",
-  date: "Present",
-  description:
-  [
-    "Pipeline engineering involves the design, construction, operation, and maintenance of pipelines used to transport fluids such as oil, gas, water, and chemicals.",
-    "The Pipeline Engineering course provides a comprehensive understanding of the principles, design, construction, operation, and maintenance of pipelines used in various industries such as oil & gas, water supply, and chemical transportation.",
-    "The course covers essential engineering concepts, safety standards, and industry best practices to equip professionals with the skills needed to design, construct, and manage pipeline infrastructure efficiently.",
-    "Participants will gain insights into risk assessment techniques, condition monitoring, and repair methods, ensuring pipelines operate safely and effectively throughout their lifecycle. The course also explores the latest industry developments and decommissioning strategies for aging pipelines."
-  ],
-  image: require("./coursesImg/Pipeline Engineering.jpg"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "mechanical",
-  duration: "3 Days",
-  prerequisite: [
-    "A background in engineering",
-    "Basic knowledge of fluid mechanics and material science",
-    "Familiarity with industry standards and regulations"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Explain the principles of pipeline design, material selection, and fluid dynamics considerations",
-    "Implement industry-standard pipeline design approaches, including stress analysis and route selection",
-    "Assess construction methods, risk mitigation techniques, and safety protocols",
-    "Perform hydrostatic testing, leak detection, and commissioning procedures",
-    "Understand operational challenges, flow assurance, and performance optimization",
-    "Develop preventive and corrective maintenance plans to enhance pipeline longevity",
-    "Apply condition monitoring tools and effective repair techniques",
-    "Learn decommissioning processes and explore emerging industry innovations",
-    "Gain insights from past pipeline projects, failures, and success stories to enhance decision-making"
-  ],
-  outline: [
-    "Module 1: Principles of Pipeline Design",
-    "Module 2: Design Approach",
-    "Module 3: Pipeline Construction and Risk Assessment Techniques",
-    "Module 4: Pressure Testing and Commissioning",
-    "Module 5: Pipeline Operation",
-    "Module 6: Pipeline Maintenance",
-    "Module 7: Pipeline Condition Monitoring and Repair Methods",
-    "Module 8: Pipeline Decommissioning and Industry Developments",
-    "Module 9: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦150,000 / $120",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 36,
-  title: "Power Plant Commissioning",
-  date: "Present",
-  description:
-  [
-    "Power plant commissioning is the systematic process of ensuring that all systems and components of a power plant are designed, installed, tested, operated, and maintained according to the operational requirements. It marks the final phase before a plant becomes fully operational.",
-    "The Power Plant Commissioning course is designed to provide a thorough understanding of the commissioning process for power generation facilities, with a strong focus on system readiness, performance validation, and safe integration of plant components.",
-    "This course covers the commissioning of major systems such as boilers, turbines, generators, and electrical equipment, as well as the management systems required to ensure a successful, safe, and efficient start-up.",
-    "Through this course, participants will gain practical and theoretical knowledge needed to manage, supervise, and execute the commissioning phases in thermal and combined-cycle power plants."
-  ],
-  image: require("./coursesImg/Power Plant Commissioning.jpg"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "commissioning",
-  duration: "3 Days",
-  prerequisite: [
-    "A background in electrical, mechanical, or power engineering",
-    "Basic knowledge of power plant operations and system components",
-    "Familiarity with project execution phases"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Define commissioning, its objectives, and its role in the power plant lifecycle",
-    "Apply structured procedures, checklists, and documentation tools for effective commissioning control",
-    "Understand start-up and operational readiness testing for boilers, burners, feedwater systems, and related components",
-    "Oversee functional checks and performance testing for steam or gas turbines, lube oil systems, and vibration monitoring",
-    "Conduct commissioning activities for generators including insulation tests, synchronization, and excitation systems",
-    "Ensure proper operation of switchgear, transformers, protection systems, cabling, and grounding systems"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Commissioning Management System",
-    "Module 3: Boiler & Auxiliaries",
-    "Module 4: Turbine & Auxiliaries",
-    "Module 5: Generators & Auxiliaries",
-    "Module 6: Electrical Equipment’s"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦200,000 / $180",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 37,
-  title: "Process Measurement",
-  date: "Present",
-  description:
-  [
-    "Process measurement is the method of quantifying physical parameters in industrial processes—such as pressure, temperature, flow, and level—using sensors and instruments. Accurate measurement is essential for effective monitoring, control, and optimization of industrial operations.",
-    "The Process Measurement course provides an in-depth exploration of the fundamental techniques and instruments used to measure key process variables in industrial operations. Accurate measurement of temperature, pressure, flow, and level is essential for effective process control, safety, efficiency, and product quality.",
-    "This course introduces participants to the core concepts of process measurement and progresses through the practical selection, installation, and protection of measurement instruments.",
-    "It also addresses critical environmental and operational considerations, including instrument heating and climate protection. Emphasis is placed on real-world application and industry standards to prepare participants for field or control room roles in various industries such as oil and gas, petrochemicals, power generation, and manufacturing."
-  ],
-  image: require("./coursesImg/process measurement.png"),
-  tags: [
-    'Trainer: Engr. Okechukwu',
-  ],
-  category: "process",
-  duration: "4 Days",
-  prerequisite: [
-    "Basic understanding of industrial processes and control systems",
-    "Familiarity with measurement principles (e.g., units, calibration, accuracy)",
-    "A background in instrumentation, electrical, mechanical, or process engineering"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the significance of process measurement in achieving control, safety, and operational objectives",
-    "Identify the basic principles and instruments used to measure temperature, pressure, flow, and level",
-    "Select appropriate measurement devices based on process characteristics and application requirements",
-    "Interpret specifications, datasheets, and installation guidelines for different measurement instruments",
-    "Understand best practices for the installation of process instruments to ensure accuracy and reliability",
-    "Apply methods to protect instruments from mechanical damage, corrosion, and environmental exposure",
-    "Implement heating and climate protection techniques to maintain instrument performance in harsh conditions",
-    "Troubleshoot common issues in process measurement and propose practical solutions",
-    "Ensure compliance with industry regulations and safety standards during instrument selection and deployment",
-    "Integrate measurement systems with control architectures and data acquisition systems for optimal plant performance"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: General",
-    "Module 3: Temperature",
-    "Module 4: Pressure",
-    "Module 5: Flow",
-    "Module 6: Level",
-    "Module 7: Instrument Installation",
-    "Module 8: Instrument Protection",
-    "Module 9: Instrument Heating & Climate Protection"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦150,000 / $120",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 38,
-  title: "Process P&ID",
-  date: "Present",
-  description:
-  [
-    "Process P&ID (Piping and Instrumentation Diagram) is a detailed engineering drawing that shows the piping and related components of a physical process flow. It’s used in the chemical, oil and gas, power, water treatment, and other process industries.",
-    "The Process P&ID course is designed to provide a comprehensive understanding of how to develop, interpret, manage, and review piping and instrumentation diagrams, which are critical for the design, operation, and maintenance of process facilities.",
-    "This course takes participants through the complete lifecycle of a P&ID — from its initial preparation to issue, review, and eventual change management.",
-    "Each module is structured to build a strong foundation and gradually develop practical skills, reinforced by real-world examples and case studies. By the end of this course, learners will be equipped to effectively participate in P&ID-related activities, ensuring compliance with engineering standards, operational safety, and project requirements."
-  ],
-  image: require("./coursesImg/Process P&ID Course.png"),
-  tags: [
-    'Trainer: Engr. Okechukwu',
-  ],
-  category: "process",
-  duration: "3 Days",
-  prerequisite: [
-    "A basic understanding of process engineering principles",
-    "Familiarity with process equipment and systems (e.g., pumps, vessels, valves)",
-    "Some exposure to industrial or plant operations is beneficial but not mandatory",
-    "Engineering background"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the purpose, scope, and importance of P&IDs in process industries",
-    "Identify the responsibilities associated with P&ID creation and management",
-    "Interpret standard symbols, formats, and content used in P&IDs",
-    "Accurately represent process equipment, piping systems, and instrumentation on a P&ID",
-    "Apply industry-standard references and guidelines in P&ID development",
-    "Follow structured procedures for the preparation, review, issuance, and change management of P&IDs",
-    "Analyze and critique P&IDs using a checklist-based review approach",
-    "Apply lessons learned from case studies to improve P&ID quality and project outcomes"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: References",
-    "Module 3: Process P&ID Responsibilities",
-    "Module 4: Format & Contents",
-    "Module 5: Equipment",
-    "Module 6: Piping",
-    "Module 7: Instrumentation & Controls",
-    "Module 8: P&ID Examples",
-    "Module 9: P&ID Development Procedures",
-    "Module 10: P&ID Issue",
-    "Module 11: Preparation of P&ID",
-    "Module 12: P&ID Review",
-    "Module 13: Management of Change",
-    "Module 14: Process P&ID Review Checklist",
-    "Module 15: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 39,
-  title: "Refinery Valves and Accessories for Control and Safety Instrumented Systems Course",
-  date: "Present",
-  description:
-  [
-    "In a refinery, valves and their accessories play a critical role in both process control and safety. While control valves regulate process variables (flow, pressure, temperature), safety valves are part of Safety Instrumented Systems (SIS) designed to prevent hazards and ensure safe shutdown.",
-    "This course provides a comprehensive insight into the selection, application, and maintenance of valves and related accessories used in control and safety instrumented systems (SIS) within refinery environments.",
-    "With safety, reliability, and precision being paramount in refinery operations, this course focuses on the critical role valves play in both process control and emergency scenarios.",
-    "Participants will explore various types of control and safety valves, including emergency block valves, SIS valves, vapor depressurizing valves, and hydraulic slide valve actuators. The course also covers specific selection criteria, installation best practices, and testing procedures to ensure compliance with industry standards and operational integrity."
-  ],
-  image: require("./coursesImg/Refinery Valves and Accessories.png"),
-  tags: [
-    'Trainer: Engr. Majid',
-  ],
-  category: "PAI",
-  duration: "4 Days",
-  prerequisite: [
-    "Basic foundational understanding of process instrumentation and control systems",
-    "Familiarity with refinery operations and industrial process equipment",
-    "Basic knowledge of valve types, functions, and instrumentation terminology"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the importance of valves and accessories in refinery control and safety instrumented systems",
-    "Identify different types of control valves and their functions in process regulation",
-    "Apply specific criteria for valve selection based on pressure, temperature, fluid characteristics, and process requirements",
-    "Perform and oversee proper installation, inspection, and testing procedures to ensure safe and effective valve operation",
-    "Analyze typical refinery applications of valves and understand their integration into process systems",
-    "Describe the role of emergency block valves in isolating systems during abnormal or hazardous conditions",
-    "Understand the function and criticality of SIS valves in maintaining process safety and meeting regulatory compliance",
-    "Explain vapor depressurizing valve operations and their importance in overpressure protection and process safety",
-    "Understand the function, configuration, and control of hydraulic slide valve actuators in refining applications",
-    "Integrate valve systems effectively into safety and control architectures for reliable refinery operation"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Control Valves",
-    "Module 3: Specific Criteria",
-    "Module 4: Installation/Inspecting/Testing",
-    "Module 5: Refinery Applications",
-    "Module 6: Emergency Block Valves",
-    "Module 7: Safety Instrumented Systems (SIS) Valves",
-    "Module 8: Vapor Depressurizing Valves",
-    "Module 9: Hydraulic Slide Valves Actuators"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦200,000 / $180",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 40,
-  title: "Refinery Instrumentation and Control Systems",
-  date: "Present",
-  description:
-  [
-    "Installing refinery instruments and control systems is a crucial part of setting up and commissioning a refinery. It ensures that the process can be monitored, controlled, and optimized safely and efficiently.",
-    "Process Instrumentation and Control (PIC) is the backbone of any industrial process, especially in refineries, chemical plants, power generation, and water treatment. It involves measuring, monitoring, and controlling process variables to ensure efficiency, safety, and product quality.",
-    "The Process Instrumentation and Control course provides in-depth knowledge and practical insights into the measurement and control of process variables essential for safe, efficient, and automated plant operations.",
-    "Participants will explore core instrumentation topics such as flow, level, temperature, and pressure measurements, as well as advanced topics including automatic control systems, control valves, transmission methods, and protective devices.",
-    "The course integrates basic knowledge of industrial instrumentation systems, power supply arrangements, and control center configurations."
-  ],
-  image: require("./coursesImg/Installation of Refinery Instruments and Control Systems.png"),
-  tags: [
-    'Trainer: Engr. Okechukwu',
-  ],
-  category: "PAI",
-  duration: "1 Day",
-  prerequisite: [
-    "Engineering Background",
-    "Understanding of process operations",
-    "Knowledge of process systems and control theory",
-    "Understanding of industrial automation and instrumentation"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the principles and methods of measuring key process variables — flow, level, temperature, and pressure",
-    "Gain knowledge of automatic controls, control valves & accessories, transmission systems, seals, purges & winterizing, air supply system, hydraulic system, electrical power supply, and instrument panels"
-  ],
-  outline: [
-    "Module 1: Flow",
-    "Module 2: Level",
-    "Module 3: Temperature",
-    "Module 4: Pressure",
-    "Module 5: Automatic Controls",
-    "Module 6: Control Valves & Accessories",
-    "Module 7: Transmission Systems",
-    "Module 8: Seals, Purges & Winterizing",
-    "Module 9: Air Supply System",
-    "Module 10: Hydraulic System",
-    "Module 11: Electrical Power Supply",
-    "Module 12: Instruments Panels"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "FREE",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 41,
-  title: "Process Instrumentation and Control (Air Supply System)",
-  date: "Present",
-  description: [
-    "An air supply system in process instrumentation provides compressed air for operating pneumatic instruments, actuators, control valves, and tools. It is a backbone utility in industries for reliable and clean power where electrical systems are not ideal.",
-    "This course offers a comprehensive introduction to the design, operation, and maintenance of instrument air supply systems, which are critical to the reliability of process instrumentation and automation.",
-    "Instrument air systems ensure the delivery of clean, dry, and pressurized air to pneumatic instruments and control valves used in a wide variety of industrial processes.",
-    "Participants will explore the fundamental components and considerations of air supply systems, including air compressors, drying and cleaning methods, distribution networks, and standby systems.",
-    "The course is structured to provide both theoretical understanding and practical insight, enabling learners to support safe and efficient process operations."
-  ],
-  image: require("./coursesImg/Process I & C(Air Supply System).png"),
-  tags: [
-    "Trainer: Engr. Majid"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of industrial instrumentation and control systems",
-    "General knowledge of fluid mechanics and compressed air principles",
-    "Technical or engineering background in instrumentation, mechanical, or process engineering (preferred)"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the importance and function of instrument air systems in process control and automation",
-    "Describe the general structure and components of air supply systems used in industrial environments",
-    "Evaluate the capacity requirements for instrument air based on system demands and process needs",
-    "Explain various methods of air drying and cleaning to maintain air quality standards suitable for instrumentation",
-    "Understand the design and layout principles of instrument air distribution systems",
-    "Identify the role and configuration of instrument air standby systems in ensuring system reliability and availability",
-    "Apply best practices in monitoring, maintaining, and troubleshooting air supply systems to prevent downtime and instrument failure"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: General",
-    "Module 3: Capacity",
-    "Module 4: Drying & Cleaning",
-    "Module 5: Distribution Systems",
-    "Module 6: Instrument Air Standby Systems"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦60,000 / $50",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 42,
-  title: "Process Instrumentation and Control (Control Valves & Accessories)",
-  date: "Present",
-  description: [
-    "Control valves regulate the flow, pressure, temperature, or level of fluids by varying the size of the flow passage. They are final control elements in a process loop and receive signals from controllers to maintain the desired set-point.",
-    "This course offers a comprehensive study of control valves and their associated accessories, which are vital components in regulating process variables such as flow, pressure, temperature, and level.",
-    "Control valves serve as the final control elements in an automation system, and their proper selection, installation, and maintenance directly impact process performance and efficiency.",
-    "The course covers various types of control valves, their actuators, manifolds, and the associated piping and wiring practices.",
-    "Participants will gain both theoretical knowledge and practical insights through case studies that reflect real-world industrial challenges and solutions.",
-    "The course is ideal for professionals seeking to deepen their understanding of how control valves function within a broader control system."
-  ],
-  image: require("./coursesImg/Process I & C(Control Valves & Accessories).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process control principles and instrumentation systems",
-    "Familiarity with fluid dynamics and process operations",
-    "Technical or Engineering background in instrumentation, mechanical, or process engineering"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role of control valves in process automation and their impact on system performance",
-    "Identify and compare different types of control valves, including their construction, functionality, and typical applications",
-    "Understand the function, types, and selection criteria of control valve actuators (pneumatic, electric, and hydraulic)",
-    "Explain the role and configuration of control valve manifolds in maintaining and isolating valve assemblies",
-    "Describe best practices for the piping and wiring of control valve actuators to ensure reliable and safe operation",
-    "Analyze real-life case studies to apply theoretical knowledge in troubleshooting, optimizing, and maintaining control valve systems",
-    "Select appropriate control valve and accessory configurations based on process requirements and environmental conditions"
-  ],
-  outline: [
-    "Module 1: General",
-    "Module 2: Control Valves Types",
-    "Module 3: Control Valves Actuators",
-    "Module 4: Control Valves Manifolds",
-    "Module 5: Piping & Wiring to Control Valves Actuators",
-    "Module 6: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 43,
-  title: "Process Instrumentation and Control (Flow)",
-  date: "Present",
-  description: [
-    "Flow is the movement of a fluid (liquid, gas, or steam) through a pipe or channel. In industrial process control, accurate flow measurement ensures proper material balance, energy efficiency, product quality, and system safety.",
-    "This course provides an in-depth exploration of flow measurement techniques and their application in industrial process control systems.",
-    "Flow measurement is critical to monitoring and managing fluids in industries such as oil and gas, chemical processing, water treatment, and power generation.",
-    "Participants will gain a solid understanding of the various types of flow meters, from traditional differential pressure devices to advanced technologies such as magnetic, turbine, and target flow transmitters.",
-    "The course also addresses proper installation practices, including connecting piping and instrument layout, to ensure accurate and reliable flow measurement.",
-    "Practical applications and case-based examples help reinforce theoretical concepts and industry best practices."
-  ],
-  image: require("./coursesImg/Process I & C(Flow).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process instrumentation and control systems",
-    "Foundational knowledge of fluid mechanics and flow behavior",
-    "Engineering, technical, or operations background in instrumentation, chemical, mechanical, or process industries"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role of flow measurement in industrial process control and automation",
-    "Identify suitable flow measurement technologies based on application needs and process conditions",
-    "Describe the working principles and use of differential primary elements (e.g., orifice plates, venturis, flow nozzles)",
-    "Understand the function and configuration of differential pressure measuring devices used with primary elements",
-    "Recognize best practices for piping and installation to minimize flow disturbances and ensure accurate readings",
-    "Explain the operation and application of area meters (e.g., rotameters) for variable-area flow measurement",
-    "Understand the construction, principle, and uses of target flow transmitters in specific process environments",
-    "Describe the characteristics and performance of turbine and propeller flow meters in measuring flow rates",
-    "Understand the advantages, limitations, and application criteria for magnetic flowmeters in conductive fluid systems",
-    "Apply theoretical knowledge to evaluate, select, and troubleshoot flow measurement systems in real-world scenarios"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Application",
-    "Module 3: Differential Primary Elements",
-    "Module 4: Differential Measuring Devices",
-    "Module 5: Connecting Piping",
-    "Module 6: Area Meters",
-    "Module 7: Target Flow Transmitters",
-    "Module 8: Turbine & Propeller Meters",
-    "Module 9: Magnetic Flowmeters"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 44,
-  title: "Process Instrumentation and Control (Electrical Power Supply)",
-  date: "Present",
-  description: [
-    "The electrical power supply in process instrumentation and control systems is responsible for providing the necessary power to operate the field instruments, sensors, controllers, actuators, and other electronic devices involved in process control.",
-    "A reliable and stable electrical power supply is essential for accurate measurements, control, and safety.",
-    "This course provides a detailed understanding of electrical power supply systems used in industrial process instrumentation and control.",
-    "The reliable supply of electrical power is crucial to the functioning of instrumentation systems, as it ensures the continuous operation of control devices, monitoring equipment, and other electrical loads.",
-    "The course covers essential principles, configurations, and strategies involved in supplying electrical power to process systems, with a focus on handling power dips, interruptions, and ensuring emergency power availability.",
-    "Participants will explore various aspects of electrical power supply, including circuit arrangements, load management, and solutions for maintaining power during interruptions.",
-    "The course will also delve into emergency power systems, backup solutions, and combination drives designed to mitigate power dips, ensuring uninterrupted operation of instrumentation systems."
-  ],
-  image: require("./coursesImg/Process I & C(Electrical Power Supply.png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of electrical systems and their role in industrial process control",
-    "Familiarity with electrical circuits, load calculations, and power distribution",
-    "Technical background in electrical engineering, instrumentation, or process control"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the importance of a reliable electrical power supply in industrial process control and instrumentation",
-    "Identify the key components of an electrical power supply system and how they interact with process instrumentation",
-    "Describe general electrical power supply principles, including voltage, current, and frequency management",
-    "Explain various power supply circuit arrangements and how to design them for optimal performance and safety",
-    "Learn how to manage power supply to loads in process systems, ensuring stability and reliability",
-    "Understand how to provide power to critical loads from two different sources to ensure system redundancy and reliability",
-    "Implement strategies to supply electricity during power dips and ensure continuous operation of instruments and equipment",
-    "Design and implement emergency power systems to provide backup power to instrumentation and associated loads during power outages",
-    "Explore combination drives that address both power dips and interruptions, ensuring minimal disruption in process control"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: General",
-    "Module 3: Power Supply Circuit Arrangement",
-    "Module 4: Power Supply to Loads",
-    "Module 5: Load Supply From Two Sources",
-    "Module 6: Supplying Electricity During Power Dips",
-    "Module 7: Supplying Emergency Power to Instruments & Associated Load",
-    "Module 8: Combination Drives for Power Dips & Interruption"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 45,
-  title: "Process Instrumentation and Control (Hydraulic System)",
-  date: "Present",
-  description: [
-    "A hydraulic system uses pressurized fluid to perform work. In industrial applications, hydraulic systems are commonly used to control heavy machinery, automate processes, and move mechanical components with high force.",
-    "Hydraulic systems in process instrumentation and control ensure that machines operate smoothly and efficiently, with precision in controlling force, speed, and movement.",
-    "This course offers a comprehensive introduction to hydraulic systems used in industrial process instrumentation and control.",
-    "Hydraulic systems play a vital role in controlling and transmitting power in various sectors, including manufacturing, oil & gas, and chemical processing.",
-    "The course covers the essential components of hydraulic systems, their design principles, and how to integrate them with control systems to ensure efficient operation.",
-    "Participants will explore key topics such as pumps, pressure regulation, safety mechanisms, alarms, fluid handling, and the importance of proper piping and strainers.",
-    "Additionally, the course addresses how to design hydraulic systems that meet operational requirements and adhere to safety standards, as well as how to maintain and troubleshoot hydraulic systems effectively."
-  ],
-  image: require("./coursesImg/Process I & C(Hydraulic System).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process instrumentation and control principles",
-    "General knowledge of fluid mechanics, pressure, and fluid dynamics",
-    "A technical background in instrumentation, mechanical engineering, or process control"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role and function of hydraulic systems in process control and instrumentation",
-    "Identify the fundamental design principles of hydraulic systems and the factors that influence system performance",
-    "Describe the different types of hydraulic pumps, their operation, and how to select them based on system requirements",
-    "Explain the purpose and functionality of hydraulic drums in the storage and management of hydraulic fluids",
-    "Understand the principles of pressure control and how hydraulic pressure is managed within a system",
-    "Recognize the function and importance of safety and relief valves in protecting hydraulic systems from overpressure",
-    "Learn about level alarms used to monitor hydraulic fluid levels and ensure optimal system performance",
-    "Understand pressure alarms and their role in monitoring system pressure to prevent damage and ensure safety",
-    "Describe the types and functions of pressure gauges and gauge glasses for accurate pressure measurement in hydraulic systems",
-    "Identify the role of pressure regulators in maintaining consistent system pressure and preventing pressure fluctuations",
-    "Explain the operation and importance of strainers in filtering hydraulic fluid to protect components from contaminants",
-    "Understand the role of piping in hydraulic systems and the best practices for ensuring leak-free, efficient fluid transmission",
-    "Gain insights into hydraulic fluid types, characteristics, and maintenance practices to ensure long-term system reliability"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Basis of Design",
-    "Module 3: Pumps",
-    "Module 4: Drums",
-    "Module 5: Pressure",
-    "Module 6: Safety and Relief Valves",
-    "Module 7: Level Alarms",
-    "Module 8: Pressure Alarms",
-    "Module 9: Pressure Gauges & Gauge Glasses",
-    "Module 10: Pressure Regulators",
-    "Module 11: Strainers",
-    "Module 12: Piping",
-    "Module 13: Fluid"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 46,
-  title: "Process Instrumentation and Control (Instruments Panels)",
-  date: "Present",
-  description: [
-    "Instrument panel is a central assembly housing instruments and control components that monitor and control industrial processes. It acts as the interface between operators and the process, enabling efficient monitoring, diagnostics, and control.",
-    "Instrument panels may include various instruments, controllers, relays, switches, and indicators in a neatly organized and accessible format.",
-    "This course is designed to provide a comprehensive understanding of the design, construction, and application of instrument panels in process control systems.",
-    "Instrument panels serve as the interface between operators and the process, housing instruments, controllers, indicators, and other control devices in a structured and user-friendly layout.",
-    "The course covers different types of panels including conventional, console-type control centers, and graphic panels.",
-    "Participants will explore key elements such as structural design, painting and finishing, electrical installations, and panel piping.",
-    "Participants will gain insight into how panels are configured, built, and maintained for both functionality and safety in industrial environments."
-  ],
-  image: require("./coursesImg/Process I & C(Instruments Panels).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process instrumentation and control principles",
-    "Basic knowledge of control devices such as transmitters, indicators, switches, and controllers",
-    "Technical or engineering background in instrumentation, electrical, or process systems"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role of instrument panels in process instrumentation and control systems",
-    "Describe the general requirements, components, and layout considerations of instrument panels",
-    "Differentiate between conventional panels, console-type control centers, and graphic panels based on design and application",
-    "Apply best practices in structural design to ensure the durability and stability of instrument panels in various industrial settings",
-    "Understand the importance of painting and surface treatment for corrosion resistance and aesthetic standards",
-    "Plan and implement electrical installations within instrument panels, ensuring proper wiring, grounding, and safety",
-    "Integrate piping into panel design for pneumatic or hydraulic signal transmission, considering layout and maintenance needs",
-    "Interpret panel drawings and specifications to support fabrication, installation, and troubleshooting",
-    "Collaborate with multidisciplinary teams (mechanical, electrical, instrumentation) during panel design and implementation phases"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: General",
-    "Module 3: Conventional Panel",
-    "Module 4: Console-Type Control Center",
-    "Module 5: Graphic Panel",
-    "Module 6: Structural",
-    "Module 7: Painting",
-    "Module 8: Electrical Installations",
-    "Module 9: Piping"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $70",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 47,
-  title: "Process Instrumentation and Control (Pressure)",
-  date: "Present",
-  description: [
-    "In industrial processes, pressure is a key process variable that needs to be accurately measured and controlled to ensure safety, efficiency, and product quality.",
-    "It is especially important in systems involving gases, liquids, steam, or chemical reactions.",
-    "This course is designed to provide participants with the understanding of pressure measurement and control in industrial processes.",
-    "Pressure is a key process variable, and its accurate measurement is critical to safety, efficiency, and quality control in various sectors such as oil & gas, chemical processing, pharmaceuticals, and manufacturing.",
-    "The course introduces the principles and practices of pressure instrumentation, covering essential components such as purging and sealing systems, piping considerations, pressure gauges, transmitters, switches, and local control devices.",
-    "Participants will also learn about best practices in installation, calibration, and maintenance to ensure optimal performance and reliability."
-  ],
-  image: require("./coursesImg/Process I & C(pressure).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process control systems and instrumentation",
-    "General knowledge of physics, especially pressure and fluid dynamics",
-    "Background in engineering, industrial technology, or a related technical field is advantageous",
-    "Familiarity with industrial environments or process systems is helpful but not mandatory"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role and significance of pressure measurement in process instrumentation and control",
-    "Describe common purging and sealing techniques used to protect pressure instruments from contamination and damage",
-    "Identify appropriate piping layouts and configurations that support accurate pressure measurement",
-    "Explain the types, operation, and applications of pressure gauges in various industrial settings",
-    "Understand the working principles, selection criteria, and calibration of pressure transmitters and switches",
-    "Describe the functionality and application of locally mounted pressure controllers and recorders",
-    "Apply knowledge of pressure instrumentation to improve process safety, efficiency, and reliability",
-    "Recognize common challenges in pressure measurement and learn troubleshooting and maintenance techniques"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Purging & Sealing",
-    "Module 3: Piping",
-    "Module 4: Pressure Gauges",
-    "Module 5: Pressure Transmitters, Switches, and Locally Mounted Controllers & Recorders"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦50,000 / $40",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 48,
-  title: "Process Instrumentation and Control (Level)",
-  date: "Present",
-  description: [
-    "Process Instrumentation and Control (Level), which is all about measuring and controlling the height of a fluid (liquid or sometimes solids like powders) in a vessel, tank, or column.",
-    "This specialized course focuses on level measurement and control as one of the most critical aspects of process instrumentation.",
-    "It provides a detailed exploration of the instruments, devices, and systems used to measure, indicate, transmit, control, and alarm process levels across various industrial applications.",
-    "Participants will gain knowledge of locally and remotely mounted instruments, controllers, and transmitters, as well as the accessories and system components that ensure accurate and reliable level control.",
-    "Through real-world case studies, the course also highlights best practices and troubleshooting techniques for effective level measurement in operational environments."
-  ],
-  image: require("./coursesImg/Process I & C(Level).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic knowledge of instrumentation, process control, or operations",
-    "Basic understanding of process systems and measurement principles",
-    "Basic knowledge of level measurement",
-    "Interpretation skills"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the fundamental concepts and importance of level measurement in process industries",
-    "Identify various types of locally mounted indicating gauges and understand their applications",
-    "Explain the working principles and selection criteria for level transmitters",
-    "Distinguish between locally mounted and remote/board-mounted control and indication devices",
-    "Understand how locally mounted controllers function and where they are typically applied",
-    "Evaluate the role and configuration of remote receivers and board-level interfaces",
-    "Design and implement effective level alarm systems to ensure process safety and operational continuity",
-    "Recognize the significance of instrument accessories in enhancing accuracy and protecting equipment",
-    "Apply knowledge to real-world scenarios through case studies, reinforcing correct selection, installation, and troubleshooting of level measurement systems"
-  ],
-  outline: [
-    "Module 1: Content",
-    "Module 2: General",
-    "Module 3: Locally Mounted Indicating Gauges",
-    "Module 4: Level Transmitters",
-    "Module 5: Locally Mounted Controllers",
-    "Module 6: Remote or Board Mounted Receivers",
-    "Module 7: Level Alarms",
-    "Module 8: Accessories",
-    "Module 9: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦60,000 / $50",
-  certification: "Certificate of Completion"
-},
+}
 
 
-{
-  id: 49,
-  title: "Process Instrumentation and Control (Seals, Purges & Wintering)",
-  date: "Present",
-  description: [
-    "Seals, Purges & Wintering are protective and maintenance measures used in process plants to ensure instrumentation functions properly, especially in harsh environments, hazardous materials, or cold climates.",
-    "This specialized course focuses on the critical practices of sealing, purging, and winterizing in process instrumentation systems.",
-    "These practices are essential to ensure the protection, reliability, and accurate operation of field instruments exposed to harsh environments, corrosive media, or extreme weather conditions.",
-    "Participants will gain an understanding of various seal systems used to isolate instruments from the process, purging techniques for maintaining clean and safe instrument environments, and winterization strategies to prevent freezing and operational issues in cold climates.",
-    "The course bridges engineering principles with field-level application, enabling learners to apply these protective techniques in real-world industrial scenarios."
-  ],
-  image: require("./coursesImg/Process I & C(Seals Purges & Wintering).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of process instrumentation and control systems",
-    "Basic knowledge of field instrumentation components and their environmental considerations",
-    "Technical background in instrumentation, mechanical, or process engineering"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the importance of seals, purges, and winterization in ensuring reliable instrument performance",
-    "Identify different types of seals (e.g., diaphragm seals, chemical seals) and their applications in isolating instruments from process media",
-    "Explain the purpose, setup, and best practices of purge systems for protecting measurement devices from contamination or hazardous gases",
-    "Understand the methods and materials used for winterizing instrumentation systems to prevent freezing and ensure functionality in cold environments",
-    "Evaluate instrumentation environments to determine the appropriate sealing, purging, or winterization strategies",
-    "Apply inspection, maintenance, and troubleshooting techniques for seal and purge systems",
-    "Implement winterization plans in accordance with safety and operational standards to reduce downtime and protect assets",
-    "Integrate protective practices into the design and maintenance of instrumentation systems for enhanced process safety and reliability"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Seals",
-    "Module 3: Purges",
-    "Module 4: Winterizing"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦60,000 / $50",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 50,
-  title: "Process Instrumentation and Control (Temperature)",
-  date: "Present",
-  description: [
-    "Process Instrumentation and Control involves the use of various instruments and devices to measure, monitor, and control process variables such as temperature, pressure, flow, and level in industrial systems.",
-    "Temperature control is one of the most critical aspects, especially in chemical, food, pharmaceutical, and energy industries.",
-    "This course provides a comprehensive understanding of temperature measurement and control in industrial process instrumentation.",
-    "It delves into the principles, construction, working mechanisms, and applications of various temperature sensing instruments and technologies.",
-    "Starting with the basics, the course explores key devices such as thermocouples, resistance temperature detectors (RTDs), thermometers, and advanced optical pyrometers.",
-    "It culminates with real-world case studies to reinforce learning and practical application.",
-    "Whether you're new to instrumentation or looking to deepen your expertise, this course equips you with the knowledge to select, install, and interpret temperature measurement instruments effectively in process environments."
-  ],
-  image: require("./coursesImg/Process I & C(Temperature).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of general process control principles",
-    "Basic knowledge of physics, particularly heat and temperature concepts",
-    "Familiarity with industrial process systems (not mandatory)",
-    "Engineering or technical background in instrumentation, electronics, or mechanical disciplines is beneficial"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role of temperature measurement in process instrumentation and control systems",
-    "Explain the working principles, construction, and applications of thermowells",
-    "Describe the operation, types, and advantages of thermocouples used in industrial settings",
-    "Identify resistance-type temperature sensors such as RTDs and thermistors, and their appropriate usage",
-    "Differentiate between various types of thermometers used for local temperature readings",
-    "Explain the working and application of filled-system temperature instruments",
-    "Understand the principles behind non-contact temperature measurement using radiation-type pyrometers",
-    "Gain insights into optical pyrometers and their usage in high-temperature and specialized environments",
-    "Analyze practical case studies to connect theoretical knowledge with real-world applications in process industries"
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: Thermowells",
-    "Module 3: Thermocouple Temperature Measurement",
-    "Module 4: Resistance-Type Temperature Measurement",
-    "Module 5: Thermometers for Local Temperature Measurement",
-    "Module 6: Filled-System Temperature Instrument",
-    "Module 7: Radiation Type Pyrometers",
-    "Module 8: Optical Pyrometers",
-    "Module 9: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦60,000 / $50",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 51,
-  title: "Process Instrumentation and Control (Transmission Systems)",
-  date: "Present",
-  description: [
-    "Transmission systems in process control are responsible for conveying measurement and control signals between field instruments (like sensors and actuators) and centralized control units (PLCs, DCS, or SCADA). Accurate and reliable transmission is essential for effective monitoring and control.",
-    "This course provides a foundational and practical understanding of flow systems used in process instrumentation and control, with a specific focus on the transmission methods that drive industrial automation.",
-    "It explores the essential components, configurations, and operational principles of pneumatic, electrical, and hydraulic systems used to measure, control, and transmit flow information across various industries.",
-    "Participants will learn how these systems function individually and within integrated control loops, along with industry-standard practices for inspection, testing, and maintenance.",
-    "The course aims to bridge theoretical concepts with field applications, preparing participants to evaluate, maintain, and troubleshoot flow control systems effectively."
-  ],
-  image: require("./coursesImg/Process I & C(Transmission Systems).png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "PAI",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic knowledge of process control and instrumentation fundamentals",
-    "Familiarity with physical principles of flow and fluid mechanics",
-    "Engineering or technical background in automation, instrumentation, mechanical, or electrical fields (preferred)"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the role and significance of flow systems in process instrumentation and control.",
-    "Identify general components and functions of flow control systems across various applications.",
-    "Explain the working principles and configuration of pneumatic systems used in flow control and actuation.",
-    "Understand electrical systems used in flow measurement and signal transmission, including wiring, sensors, and controllers.",
-    "Describe the operation, advantages, and limitations of hydraulic transmission systems used in industrial control applications.",
-    "Apply standard inspection and testing techniques to ensure performance, reliability, and safety of flow systems.",
-    "Troubleshoot common problems in pneumatic, electrical, and hydraulic systems within flow control environments.",
-    "Integrate knowledge of various transmission systems to support efficient and accurate process operations."
-  ],
-  outline: [
-    "Module 1: Introduction",
-    "Module 2: General",
-    "Module 3: Pneumatic Systems",
-    "Module 4: Electrical Systems",
-    "Module 5: Hydraulic Transmission Systems for Control",
-    "Module 6: Inspection & Test"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦60,000 / $50",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 52,
-  title: "ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS",
-  date: "Present",
-  description: [
-    "Assessment involves identifying, analyzing, and understanding the risks posed by natural hazards. The goal is to reduce vulnerability and prepare for effective response and recovery.",
-    "This course provides a structured approach to assessing and planning for natural hazards with a focus on minimizing risks to infrastructure, equipment, and operations.",
-    "It guides participants through the process of identifying potential hazards, collecting relevant data, evaluating the vulnerability of critical equipment, and comparing risks against design criteria.",
-    "The course also covers planning for recovery and recommissioning activities after an event."
-  ],
-  image: require("./coursesImg/ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "hazop hazid",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of risk assessment or disaster management concepts",
-    "Familiarity with fluid mechanics and heat exchanger operations.",
-    "Knowledge of material science, especially related to thermal conductivity and corrosion.",
-    "General knowledge of environmental and geotechnical factors"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Understand the importance of natural hazard assessment in protecting assets and operations.",
-    "Identify various types of natural hazards (e.g., earthquakes, floods, hurricanes) relevant to specific locations or facilities",
-    "Collect and interpret hazard-related data for informed decision-making.",
-    "Recognize critical equipment and systems that must be assessed for vulnerability",
-    "Evaluate current designs and installations against hazard-resistant criteria or standards",
-    "Design and evaluate the performance of shell-and-tube exchangers, incorporating baffles and tube bundles to improve efficiency.",
-    "Plan for effective recovery and recommissioning following a natural hazard event",
-    "Apply practical knowledge gained from case studies to improve facility preparedness and response."
-  ],
-  outline: [
-    "Module 1:    Introduction",
-    "Module 2:    Identifying Hazards",
-    "Module 3:    Gather Data",
-    "Module 4: Identify Equipment to be addressed In Natural Hazards Assessment",
-    "Module 5:    Evaluate against Design Criteria",
-    "Module 6:    Recovery",
-    "Module 7:    Recommissioning",
-    "Module 8:  Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 52,
-  title: "Bearings Failures, Causes & Remedies",
-  date: "Present",
-  description: [
-    "Bearings are critical components in rotating machinery, designed to support loads and reduce friction between moving parts. When bearings fail, they can lead to equipment breakdowns, reduced efficiency, safety hazards, and costly downtime. Understanding why bearings fail and how to prevent it is essential for reliable machine operation.",
-    "This course offers a comprehensive study of bearing systems, focusing on their construction, operation, and failure mechanisms.",
-    "Participants will explore the types of loads bearings endure, the influence of material selection, clearances, and design considerations, as well as the most common causes of bearing failures.",
-    "The course introduces diagnostic tools and techniques, including path pattern interpretation and TV-2 statistics.",
-    "Real-world examples and practical demonstrations are included to reinforce root cause analysis and best practices for failure prevention and corrective action."
-  ],
-  image: require("./coursesImg/Bearings Failures, Causes & Remedies.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "mechanical",
-  duration: "3 Days",
-  prerequisite: [
-    "Basic knowledge of mechanical components and rotating machinery",
-    "Familiarity with industrial maintenance practices.",
-    "Understanding of friction, lubrication, and material behavior."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together",
-    "Identify types of bearings and their working principles",
-    "Understand key components and their mechanical roles",
-    "Compare material properties and their impact on bearing performance",
-    "Recognize how material selection influences durability and failure risk",
-    "Understand how radial, axial, and combined loads affect bearing choice",
-    "Match bearing types to specific machine requirements",
-    "Learn how improper clearances contribute to wear and failure",
-    "Understand the impact of thermal expansion and misalignment",
-    "Explore issues such as lubrication problems, contamination, overloading, and fatigue",
-    "Analyze how poor installation and improper maintenance lead to failures",
-    "Study real-world failure examples and match symptoms to causes",
-    "Use path pattern analysis to determine failure modes",
-    "Learn how to apply statistical tools to assess bearing wear and reliability",
-    "Perform practical assessments and demonstrations of faulty bearings",
-    "Understand corrective actions and preventive maintenance measures",
-    "Analyze case histories of bearing failures in various industries",
-    "Apply lessons learned to improve reliability and reduce downtime"
-  ],
-  outline: [
-    "Module 1:     Concept",
-    "Module 2:     Construction",
-    "Module 3:     Bearing Materials",
-    "Module 4:     Types of Load and Bearings",
-    "Module 5:     Bearing Clearances",
-    "Module 6:     Why Bearing Fails",
-    "Module 7:     Failures, Causes, and Remedies: Few Examples",
-    "Module 8:     Path Pattern Interpretation",
-    "Module 9:     Other Important Points",
-    "Module 10:    TV-2 Statistic",
-    "Module 11:    Practical Demonstration",
-    "Module 12:    Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦120,000 / $100",
-  certification: "Certificate of Completion"
-},
-
-{
-  id: 53,
-  title: "Boiler System Failure",
-  date: "Present",
-  description: [
-    "A boiler system is a critical component in power plants, manufacturing industries, and heating systems. It works by heating water to produce steam, which is used for heating, power generation, or industrial processes.",
-    "Boiler system failures can lead to operational downtime, safety hazards, and costly repairs. These failures aren't limited to just the boiler tubes but include all parts of the system — such as feedwater systems, pressure vessels, burners, control systems, and more.",
-    "Understanding these failures is essential for maintaining efficiency, ensuring safety, and prolonging equipment life.",
-    "This course offers an in-depth exploration of boiler system failures, examining the causes, mechanisms, and prevention strategies across various boiler components.",
-    "Participants will gain knowledge about failure modes affecting economizers, deaerators, firetube and watertube boilers, steam and mud drums, and condensate systems.",
-    "The course will also address corrosion, deposits, and mechanical stresses that contribute to component degradation.",
-    "Through case studies, learners will analyze real-world failure incidents and apply corrective actions to enhance system reliability and performance."
-  ],
-  image: require("./coursesImg/Boiler System Failure.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "mechanical",
-  duration: "3 Days",
-  prerequisite: [
-    "Basic understanding of boiler design and operation",
-    "Familiarity with steam systems and water treatment processes.",
-    "Knowledge of materials, corrosion, and thermal stress concepts."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together.",
-    "Identify the role of economizers, deaerators, drums, and tubes in steam generation",
-    "Recognize how each component contributes to boiler performance and efficiency",
-    "Learn the typical causes of failures in firetube and watertube boilers",
-    "Analyze the impact of design, operation, and maintenance practices on failure risks",
-    "Understand how corrosion, scaling, and deposits affect system integrity",
-    "Examine failure patterns in steam lines, mud drums, and superheaters",
-    "Identify symptoms of impending failure and conduct inspections",
-    "Learn preventive strategies through proper operation and monitoring",
-    "Analyze actual boiler failure events and root cause investigations",
-    "Use case study insights to improve system performance and reduce downtime"
-  ],
-  outline: [
-    "Module 1:     Economizers",
-    "Module 2:     Deaerators",
-    "Module 3:     Firetube Boilers",
-    "Module 4:     Watertube Boilers",
-    "Module 5:     Steam Line Deposits",
-    "Module 6:     Mud Drum and Steam Drum Deposits",
-    "Module 7:     Boiler Drums and Tubes",
-    "Module 8:     Boiler Water Sight Glass Failure",
-    "Module 9:     Superheater Tubes Failures",
-    "Module 10:    Condensate Lines Corrosion",
-    "Module 11:    Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦150,000 / $120",
-  certification: "Certificate of Completion"
-},
 
 
-{
-  id: 54,
-  title: "Boiler Tube Failure",
-  date: "Present",
-  description: [
-    "Boiler tube failure is one of the most common and critical problems in steam-generating systems, particularly in power plants and heavy industries.",
-    "The boiler tubes are essential components that carry water or steam at high pressure and temperature. If these tubes fail, it can lead to forced shutdowns, loss of efficiency, costly repairs, and in severe cases, dangerous accidents.",
-    "Failures happen when the tube material can no longer withstand the mechanical stresses, temperatures, or corrosive environments inside the boiler.",
-    "Understanding the causes and types of failures is crucial for improving reliability, safety, and performance.",
-    "This course focuses on the causes, types, and prevention of boiler tube failures, which are one of the leading causes of forced outages in thermal power and industrial steam generation systems.",
-    "Participants will gain foundational knowledge of boiler components and accessories, followed by an in-depth look at failure mechanisms, detection methods, and corrective actions.",
-    "Real-world case studies will be used to demonstrate practical approaches to diagnosing and mitigating boiler tube failures in various industrial settings."
-  ],
-  image: require("./coursesImg/Boiler Tube Failure.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "mechanical",
-  duration: "3 Days",
-  prerequisite: [
-    "Basic understanding of steam generation principles.",
-    "Familiarity with industrial boiler systems and components.",
-    "Knowledge of materials and corrosion concepts."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together.",
-    "Recognize the importance of maintaining proper operating conditions.",
-    "Identify how accessory failures can contribute to tube damage.",
-    "Understand mechanisms such as corrosion, erosion, fatigue, overheating, and mechanical wear.",
-    "Detect early warning signs and use inspection techniques to assess tube condition.",
-    "Learn strategies for improving water chemistry, operational procedures, and material selection.",
-    "Plan maintenance and inspection routines to reduce failure frequency.",
-    "Examine documented failure incidents and root cause analysis.",
-    "Apply findings to improve the reliability and longevity of boiler systems."
-  ],
-  outline: [
-    "Module 1:    Boiler",
-    "Module 2:    Boiler Accessories",
-    "Module 3:    Boiler Tube Failures",
-    "Module 4:    Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
 
-{
-  id: 55,
-  title: "Fundamentals of Control Valve Engineering",
-  date: "Present",
-  description: [
-    "A control valve is a critical component in process control systems. It regulates the flow of fluids (liquids, gases, or steam) by varying the size of the flow passage. This ensures that process variables like pressure, temperature, and fluid level are maintained within desired ranges.",
-    "Control valves receive signals from controllers (like PLCs or DCS) and adjust their position accordingly to maintain process stability and efficiency.",
-    "This course provides a foundational understanding of control valve engineering, focusing on the selection, operation, and specification of control valves and associated components.",
-    "It covers essential topics such as actuators, positioners, severe service applications, treatment methods, industry standards, and documentation practices.",
-    "Participants will gain insight into how control valves regulate process variables and contribute to system efficiency and stability.",
-    "The course includes practical examples, sample specifications, and real-world case studies to enhance applied learning."
-  ],
-  image: require("./coursesImg/Fundamentals of Control Valve Engineering.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "mechanical",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of fluid mechanics and process control systems",
-    "Familiarity with instrumentation symbols and process flow diagrams",
-    "Awareness of industrial control systems and loop operations."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together.",
-    "Identify different types of industrial furnaces and their applications",
-    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
-    "Learn to calculate thermal efficiency and assess heat losses",
-    "Understand key parameters affecting furnace performance",
-    "Identify opportunities for improving fuel usage and reducing energy losses",
-    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
-    "Review examples of successful furnace optimization projects",
-    "Understand practical implementation challenges and solutions"
-  ],
-  outline: [
-    "Module 1:     Control Valve",
-    "Module 2:     Actuators",
-    "Module 3:     Positioners",
-    "Module 4:     Severe Service",
-    "Module 5:     Severe Service Treatments",
-    "Module 6:     Standards",
-    "Module 7:     Sample Specification",
-    "Module 8:     Sample Datasheet",
-    "Module 9:     Case Study"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
 
-{
-  id: 56,
-  title: "Gas Dehydration",
-  date: "Present",
-  description: [
-    "Gas dehydration is the process of removing water vapor from natural gas to prevent problems such as hydrate formation, pipeline corrosion, and freezing. It’s a critical step in natural gas processing to ensure gas meets pipeline specifications and remains safe for transport and use.",
-    "This course provides a detailed understanding of gas dehydration processes, which are essential for removing water vapor from natural gas to prevent hydrate formation, corrosion, and equipment damage.",
-    "Participants will explore the behavior of water in hydrocarbon systems, various dehydration technologies, and hydrate inhibition techniques in both processing plants and pipelines.",
-    "Special focus is given to glycol dehydration using liquid desiccants.",
-    "The course concludes with real-world case studies to highlight practical challenges and solutions in gas dehydration operations."
-  ],
-  image: require("./coursesImg/Gas Dehydration.png"),
-  tags: [
-    "Trainer: Engr. Okechukwu"
-  ],
-  category: "Petroleum",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic knowledge of natural gas composition and processing",
-    "Familiarity with thermodynamics and phase behavior",
-    "Understanding of gas plant operations and equipment."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together.",
-    "Recognize the need to remove water vapor from natural gas streams",
-    "Understand the impact of water on gas quality, pipeline integrity, and downstream equipment",
-    "Study the phase behavior of water in natural gas systems",
-    "Evaluate the conditions leading to condensation and hydrate formation",
-    "Identify various dehydration technologies and their operating principles",
-    "Compare absorption, adsorption, and refrigeration-based methods",
-    "Understand the use of triethylene glycol (TEG) and other desiccants",
-    "Analyze key equipment and parameters in a typical glycol dehydration unit",
-    "Explore chemical and mechanical methods to prevent hydrate formation",
-    "Learn about methanol and glycol injection strategies",
-    "Learn how to manage temperature and pressure to avoid hydrate risks",
-    "Apply hydrate inhibition strategies during transport and shutdown conditions",
-    "Analyze field examples of dehydration unit performance and failures",
-    "Learn from troubleshooting techniques and operational improvements"
-  ],
-  outline: [
-    "Module 1:     Overview",
-    "Module 2:     Water Hydrocarbon System Behaviors",
-    "Module 3:     Gas Dehydration Systems",
-    "Module 4:     Absorption Using Liquid Desiccants (Glycol Dehydration)",
-    "Module 5:     Hydrate Inhibition in Low Temperature Processing Plant",
-    "Module 6:     Hydrate Inhibition in Gas Pipeline",
-    "Module 7:     Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
 
-{
-  id: 57,
-  title: "Furnaces",
-  date: "Present",
-  description: [
-    "A furnace is an enclosed structure used to heat materials to high temperatures. In industries, furnaces are critical for processes such as metal melting, heat treatment, chemical reactions, and generating hot gases for boilers and other systems.",
-    "The main function of a furnace is to provide controlled heating, which can be direct (material is exposed to flame/gases) or indirect (heating elements or external heat sources).",
-    "This course offers a detailed understanding of industrial furnaces, focusing on their classification, performance evaluation, and fuel economy improvement techniques.",
-    "Participants will explore different furnace types, learn how to assess furnace efficiency, and identify practical energy-saving measures.",
-    "Real-world case studies will provide insight into best practices, common issues, and optimization strategies used across industries such as metallurgy, petrochemicals, ceramics, and manufacturing."
-  ],
-  image: require("./coursesImg/Furnaces.png"),
-  tags: [
-    "Trainer: Engr. Adeyemi"
-  ],
-  category: "mechanical",
-  duration: "2 Days",
-  prerequisite: [
-    "Basic understanding of thermodynamics and heat transfer",
-    "Familiarity with combustion processes and industrial heating systems",
-    "Awareness of energy efficiency principles."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-    "Identify major boiler components and how they function together.",
-    "Identify different types of industrial furnaces and their applications",
-    "Distinguish between batch, continuous, electric, fuel-fired, and other furnace types",
-    "Learn to calculate thermal efficiency and assess heat losses",
-    "Understand key parameters affecting furnace performance",
-    "Identify opportunities for improving fuel usage and reducing energy losses",
-    "Explore insulation, air-fuel ratio control, preheating, and automation techniques",
-    "Review examples of successful furnace optimization projects",
-    "Understand practical implementation challenges and solutions"
-  ],
-  outline: [
-    "Module 1:     Types and Classification of Different Furnaces",
-    "Module 2:     Performance Evaluation of a Typical Furnace",
-    "Module 3:     General Fuel Economy Measures in Furnaces",
-    "Module 4:     Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-    "Classroom-based training",
-    "Online courses",
-    "In-house workshops",
-    "On-the-job training"
-  ],
-  cost: "₦80,000 / $60",
-  certification: "Certificate of Completion"
-},
+
+
+
+
+
+
+
+
+
 
 
 
