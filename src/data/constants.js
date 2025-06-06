@@ -2228,12 +2228,9 @@ export const projects = [
   title: "Engineering Disciplines (Activities and Deliverables)",
   date: "Present",
   description: [
-    "In industrial and infrastructure projects, engineering disciplines work in coordination to deliver safe, functional, and cost-effective systems. Each discipline contributes through distinct phases of design, analysis, and documentation.",
-    "Their deliverables are essential for procurement, construction, commissioning, and operation.",
-    "This course provides a structured understanding of the roles, responsibilities, and key deliverables of each major engineering discipline in an industrial project environment.",
-    "It highlights the scope of work and interdependencies across process, mechanical, civil, piping, instrumentation, and electrical engineering, among others.",
-    "The course is designed to give participants clarity on typical outputs, coordination challenges, and quality expectations from each discipline, with practical reinforcement through case studies."
-  ],
+    "In industrial and infrastructure projects, engineering disciplines work in coordination to deliver safe, functional, and cost-effective systems. Each discipline contributes through distinct phases of design, analysis, and documentation. Their deliverables are essential for procurement, construction, commissioning, and operation.",
+    "This course provides a structured understanding of the roles, responsibilities, and key deliverables of each major engineering discipline in an industrial project environment. It highlights the scope of work and interdependencies across process, mechanical, civil, piping, instrumentation, and electrical engineering, among others. The course is designed to give participants clarity on typical outputs, coordination challenges, and quality expectations from each discipline, with practical reinforcement through case studies."
+],
   image: require("./coursesImg/Engineering disciplines (Activities and Deliverables).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2285,12 +2282,9 @@ export const projects = [
   title: "Heat Exchanger Inspection",
   date: "Present",
   description: [
-    "Heat exchangers are critical components in industrial systems, used to transfer heat between two or more fluids without mixing them.",
-    "Due to harsh operating environments, they are prone to issues like fouling, corrosion, erosion, cracking, and leaks, which can reduce efficiency and lead to unplanned shutdowns or safety hazards.",
-    "This course provides a comprehensive understanding of heat exchanger systems with a specific focus on inspection, testing, and maintenance practices.",
-    "It explores the different types of heat exchangers, deterioration mechanisms, and the importance of regular inspection to ensure safety, efficiency, and compliance.",
-    "Real-world case studies illustrate key learning points and industry best practices."
-  ],
+    "Heat exchangers are critical components in industrial systems, used to transfer heat between two or more fluids without mixing them. Over time, due to harsh operating environments, they are prone to issues like fouling, corrosion, erosion, cracking, and leaks, which can reduce efficiency and lead to unplanned shutdowns or safety hazards.",
+    "This course provides a comprehensive understanding of heat exchanger systems with a specific focus on inspection, testing, and maintenance practices. It explores the different types of heat exchangers, their functions, common deterioration mechanisms, and the importance of regular inspection to ensure safety, efficiency, and regulatory compliance. Participants will learn standard inspection procedures, testing methods, preservation practices during idle periods, and how to maintain accurate inspection documentation. The course includes real-world case studies to illustrate key learning points and industry practices. "
+],
   image: require("./coursesImg/heat exchanger inspection.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2350,11 +2344,10 @@ export const projects = [
   title: "Heat Exchanger Maintenance",
   date: "Present",
   description: [
-    "Heat exchangers are critical pieces of equipment used to transfer heat between two fluids without mixing them, common in power generation, oil & gas, chemical processing, HVAC, and food production.",
-    "Due to exposure to extreme temperatures, pressures, and corrosive materials, regular maintenance is crucial for efficient and safe operation.",
-    "This course provides technical and practical insights into maintenance and repair of heat exchangers, focusing on structure, types, and maintenance routines.",
-    "It includes specialized techniques for diaphragm-type exchangers and hands-on knowledge about re-tubing old bundles.",
-    "Case studies highlight common failures and best practices used in the field."
+    "Heat exchangers are critical pieces of equipment used to transfer heat between two fluids without mixing them. They’re widely used in industries like power generation, oil & gas, chemical processing, HVAC, and food production.",
+    "Because they handle extreme temperatures, pressures, and sometimes corrosive materials, they need regular maintenance to ensure efficient and safe operation.",
+    "This course offers practical and technical insights into the maintenance and repair of heat exchangers, which are critical components in process industries for energy transfer. It introduces participants to the basic structure and working of heat exchangers, explores various types and components, and provides step-by-step approaches for inspection, routine maintenance, and specialized repair methods. The course gives special attention to diaphragm-type heat exchangers and includes hands-on knowledge about re-tubing old bundles. Real-world case studies highlight common issues and effective solutions used in the field."
+
   ],
   image: require("./coursesImg/heat exchanger maintenance.png"),
   tags: [
@@ -2412,12 +2405,11 @@ export const projects = [
   title: "HVAC Domestic and Industrial Ventilation Systems",
   date: "Present",
   description: [
-    "HVAC (Heating, Ventilation, and Air Conditioning) systems are vital for maintaining indoor comfort, safety, and air quality in both residential and industrial settings.",
-    "Ventilation systems regulate air movement, remove contaminants, and control humidity and temperature, ensuring healthy environments.",
-    "This course introduces the fundamentals of ventilation systems, including types, components, and system design for both domestic and industrial applications.",
-    "It emphasizes air quality control, air change calculations, and compliance with international standards like ASHRAE and CIBSE.",
-    "Participants will explore real-life case studies to apply theoretical knowledge in practical contexts."
-  ],
+    "HVAC stands for Heating, Ventilation, and Air Conditioning.",
+    "Ventilation systems, a critical part of HVAC, are designed to move fresh air into spaces and remove stale air, controlling temperature, humidity, and air quality. Whether in homes (domestic) or factories (industrial), these systems ensure comfort, health, and safety. Both systems share basic principles but differ significantly in scale, complexity, and performance requirements.",
+    "This course offers a comprehensive introduction to ventilation systems within the HVAC (Heating, Ventilation, and Air Conditioning) field, focusing on both domestic and industrial applications. Participants will explore the types of ventilation systems, methods for improving indoor air quality, and techniques for estimating ventilation rates. The course also covers design considerations specific to industrial environments, providing insight into the functional and regulatory requirements of ventilation systems. Real-world case studies will be used to reinforce theoretical knowledge and practical application."
+
+],
   image: require("./coursesImg/HVAC Domestic and Industrial Ventilation Systems.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2472,11 +2464,9 @@ export const projects = [
   title: "Inspection of Pressure Vessels",
   date: "Present",
   description: [
-    "ASME Section VIII Division 1 of the Boiler and Pressure Vessel Code (BPVC) sets the standard for the design, testing, inspection, and certification of pressure vessels.",
-    "Due to the high-pressure and hazardous nature of pressure vessel contents, inspection is a critical aspect of ensuring safety and compliance.",
-    "This course covers inspection processes, code provisions, and the role of authorized inspectors according to ASME Section VIII Div. 1.",
-    "Participants will explore stamping procedures, inspection responsibilities, material traceability, and pressure testing.",
-    "Real-world case studies will help reinforce key lessons in compliance, fabrication oversight, and code interpretation."
+    "ASME Section VIII Division 1 of the Boiler and Pressure Vessel Code (BPVC) governs the design, fabrication, testing, inspection, and certification of pressure vessels. Inspection is a crucial part of this process because pressure vessels operate under high pressure and hold potentially hazardous substances — so failures can be catastrophic.",
+    "This course provides a comprehensive understanding of the inspection requirements for pressure vessels in accordance with ASME Section VIII Division 1. It covers the role of authorized inspection, relevant ASME code provisions, the scope and organization of Section VIII, and the responsibilities of both manufacturers and authorized inspectors. Through detailed exploration of code stamps, inspection processes, and real-world case studies, participants will gain practical knowledge to ensure compliance, safety, and reliability in pressure vessel fabrication and operation."
+
   ],
   image: require("./coursesImg/inspection of pressure vessels.png"),
   tags: [
@@ -2534,12 +2524,10 @@ export const projects = [
   title: "Instrumentation Project Engineering Documents",
   date: "Present",
   description: [
-    "Instrumentation projects involve specifying, selecting, installing, and integrating instruments and control systems across various industries such as oil & gas, power, and manufacturing.",
-    "A structured set of engineering documents ensures accurate design, proper installation, and safe, reliable operation of these systems.",
-    "This course offers a deep dive into the essential documents used in process and industrial automation instrumentation projects.",
-    "Participants will understand the purpose, sequence, and interrelationships of documents such as P&IDs, datasheets, loop diagrams, and logic diagrams.",
-    "Real-world case studies will highlight the importance of document accuracy, coordination, and lifecycle management for safe and efficient project execution."
-  ],
+    "Instrumentation projects involve specifying, selecting, installing, and integrating instruments and control systems in industrial plants (oil & gas, power, chemical, manufacturing, etc.).  ",
+    "To manage this efficiently, a well-defined set of engineering documents is required. These documents ensure that all design requirements are met, the installation is done properly, and the system operates safely and reliably.",
+    "This course provides an in-depth understanding of the key engineering documents used in instrumentation projects, particularly in process and industrial automation. These documents are essential for planning, designing, executing, and maintaining instrumentation systems in complex projects. Participants will explore the purpose, structure, interrelationships, and development sequence of documents such as P&IDs, datasheets, loop diagrams, hook-ups, and logic diagrams. Real-world case studies will illustrate the importance of accuracy and coordination in documentation to ensure safety, functionality, and compliance. "
+],
   image: require("./coursesImg/Instrumentation Project Engineering Documents.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2600,12 +2588,12 @@ export const projects = [
   title: "Instruments Symbols",
   date: "Present",
   description: [
-    "Instrument symbols serve as the universal language in engineering drawings, especially in industries like oil & gas, power, chemicals, and manufacturing.",
-    "These symbols appear in P&IDs to communicate how systems are measured, monitored, and controlled, aiding engineers and technicians in system design and troubleshooting.",
-    "This course provides a comprehensive understanding of instrumentation symbols used in technical drawings and control system documentation.",
-    "Participants will explore standard conventions, their applications in various measurements, and how symbols represent different instrument types and functions.",
-    "The course includes real-world case studies and references to international standards, enhancing interpretation skills and accuracy in design reviews."
-  ],
+    "Instrument symbols are a universal language used in engineering, especially in process industries like oil & gas, chemical plants, power plants, and manufacturing. They appear mainly in technical drawings called P&ID (Piping and Instrumentation Diagrams). These symbols help engineers, operators, and technicians understand how systems are measured, monitored, and controlled.",
+
+    "The purpose of these symbols is to represent: What physical quantity is being measured (like flow, temperature, pressure, or level). The type of instrument or function it performs (like indicating, recording, transmitting, controlling). Its role in the process loop (such as measurement, control action, or alarm).",
+
+    "This course provides a detailed understanding of instrumentation symbols as used in engineering drawings and control systems documentation. It focuses on standard symbol conventions, their application in various types of measurements (flow, pressure, temperature, level), and their use in control systems, control valves, calibration, and safety systems. Participants will become familiar with how to read, interpret, and use instrumentation symbols in process diagrams like P&IDs. The course also includes reference to international codes, standards, and real-world case studies to reinforce practical application."
+],
   image: require("./coursesImg/instruments symbols.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2668,12 +2656,9 @@ export const projects = [
   title: "Introduction to Steam Turbines",
   date: "Present",
   description: [
-    "Steam turbines convert thermal energy from pressurized steam into mechanical energy used to power generators, compressors, and pumps in critical industries like power generation, petrochemicals, and marine propulsion.",
-    "This course introduces the fundamentals of steam turbines, their configurations, and their integration with boilers and nuclear steam systems.",
-    "Participants will explore turbine components, steam flow mechanics, impulse vs. reaction turbines, and the role of turbines in different plant types.",
-    "Real-world case studies provide practical insights into turbine operation, performance, and troubleshooting within modern power plants.",
-    "The course prepares engineers and technicians for effective steam turbine design understanding and system optimization."
-  ],
+    "A steam turbine is a mechanical device that converts thermal energy from high-pressure steam into rotational mechanical energy. This mechanical energy is often used to drive: Generators, Pumps, Compressors, or other rotating equipment in industrial processes. Steam turbines are critical components in power plants (thermal, nuclear), petrochemical industries, refineries, and marine propulsion.",
+    "This course offers a foundational introduction to steam turbines, focusing on their role within power generation systems. Participants will learn about the arrangement and internal components of steam turbines, as well as the types of turbines used across various plant configurations. The course also explores the integration of steam turbines with pulverized coal-fired boilers and nuclear steam supply systems. Through real-world case studies, learners will gain practical insights into turbine operation, system efficiency, and reliability considerations in modern power plants." 
+],
   image: require("./coursesImg/introduction to steam turbines.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2728,12 +2713,12 @@ export const projects = [
   title: "Pinch Technology",
   date: "Present",
   description: [
-    "Pinch Technology is a process integration technique used to maximize energy efficiency by optimizing heat recovery between process streams.",
-    "It identifies minimum energy requirements and guides the design of heat exchanger networks to recover waste heat and reduce utility consumption such as steam, cooling water, and fuel.",
-    "Widely applied in refineries, chemical plants, and energy-intensive industries, pinch analysis helps improve energy use, reduce emissions, and lower operating costs.",
-    "This course covers both theory and practical applications of pinch technology, including exergy analysis, capital-energy trade-offs, and total site integration with real-world case studies.",
-    "Participants will learn to set energy targets, design heat exchanger networks, and apply pinch concepts to optimize existing and new processes."
-  ],
+    "Pinch Technology is a process integration technique used to maximize energy efficiency in industrial systems by optimizing heat recovery between process streams. It helps identify the minimum energy requirement of a process and guides the design of heat exchanger networks (HEN) to recover waste heat and reduce utility consumption (steam, cooling water, fuel, etc.).",
+
+    "Developed in the 1970s, pinch analysis is now widely applied in refineries, chemical plants, food processing, and energy-intensive industries for improving energy use, reducing emissions, and lowering operating costs.",
+
+    "This course introduces the principles and practical applications of Pinch Technology — a powerful method for optimizing energy use in process industries. Participants will learn how to identify energy-saving opportunities, set energy targets, design heat exchanger networks, and evaluate capital-energy trade-offs. The course covers both theoretical fundamentals and practical tools for implementation, including exergy analysis and total site integration, supported by real-world case studies."
+],
   image: require("./coursesImg/pinch technology.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2789,12 +2774,12 @@ export const projects = [
   title: "Pipeline Flow Pigging",
   date: "Present",
   description: [
-    "Pigging is a process used in pipeline systems to clean, inspect, or separate different products within the line without stopping the flow.",
-    "It involves inserting a device known as a 'pig' into the pipeline, which travels with the fluid flow to perform various functions.",
-    "Widely used in oil and gas, petrochemicals, food and beverage, and water treatment industries, pigging improves pipeline efficiency, reduces contamination, and helps maintain flow by removing build-up or debris.",
-    "This course covers routine cleaning and advanced inline inspection techniques, pig selection, pig trap design, and operational procedures for various pipeline fluids.",
-    "Participants will gain practical insights from real-world case studies to improve pipeline operations and integrity management."
-  ],
+    "Pigging is a process used in pipeline systems to clean, inspect, or separate different products within the line without stopping the flow. It involves inserting a device known as a “pig” into the pipeline, which travels with the fluid flow to perform various functions. Pigging is widely used in oil and gas, petrochemicals, food and beverage, and water treatment industries.",
+
+    "Pigging improves pipeline efficiency, reduces contamination between products, and helps maintain flow by removing build-up, debris, or scale. It is also used for inline inspection, dewatering, and system commissioning or decommissioning.",
+
+    "This course provides a complete understanding of pipeline pigging operations, covering both routine cleaning and advanced inline inspection techniques. Participants will explore the principles of pigging, design considerations, pig trap configuration, pig selection, and operational procedures for various pipeline systems. With detailed insights into new construction pigging and onstream pigging for different fluid types, the course also addresses maintenance and storage of pigging components, supported by real-world case studies."
+],
   image: require("./coursesImg/pipeline flow pigging.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2847,11 +2832,8 @@ export const projects = [
   title: "Post Combustion CO₂ Capture (Hysys Software)",
   date: "Present",
   description: [
-    "This course offers a comprehensive exploration of post-combustion carbon dioxide (CO₂) capture technologies, focusing on the MEA-based absorption method and its implementation using Aspen HYSYS simulation software.",
-    "Participants will gain a strong understanding of the thermodynamics, process flow, equipment design, and simulation practices related to CO₂ capture from flue gases.",
-    "Economic evaluation and future considerations of Carbon Capture and Storage (CCS) systems are also discussed.",
-    "The course integrates theoretical concepts with hands-on process simulation and real-life case studies to prepare participants for industry-relevant CCS applications."
-  ],
+    "This course offers a comprehensive exploration of post-combustion carbon dioxide (CO₂) capture technologies, focusing on the MEA-based absorption method and its implementation using Aspen HYSYS simulation software. Participants will gain a strong understanding of the thermodynamics, process flow, equipment design, and simulation practices related to CO₂ capture from flue gases. Economic evaluation and future considerations of Carbon Capture and Storage (CCS) systems are also discussed. This course integrates theoretical concepts with hands-on process simulation and real-life case studies to prepare participants for industry-relevant CCS applications."
+    ],
   image: require("./coursesImg/Post Combustion CO₂ Capture (Hysys Software).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2899,11 +2881,9 @@ export const projects = [
   title: "Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange",
   date: "Present",
   description: [
-    "This course provides an in-depth understanding of the design principles and code requirements for pressure vessels, focusing on the shell, head, nozzle, and basic flange design.",
-    "Using the ASME Boiler and Pressure Vessel Code (BPVC) Section VIII, Division 1, participants will learn how to interpret and apply design rules to ensure safe and efficient vessel design.",
-    "The course combines theoretical foundations with practical insights and case studies to equip engineers and inspectors with the skills needed for pressure vessel design and evaluation.",
-    "Pressure vessels are critical in many industries such as Oil & Gas, Chemical Processing, Power Generation, Pharmaceuticals, Food and Beverage, where operating under pressure demands rigorous design and compliance with standards like ASME Section VIII and PED."
-  ],
+    "This course provides an in-depth understanding of the design principles and code requirements for pressure vessels, focusing on the shell, head, nozzle, and basic flange design. Using the ASME Boiler and Pressure Vessel Code (BPVC) Section VIII, Division 1, participants will learn how to interpret and apply design rules to ensure safe and efficient vessel design. The course combines theoretical foundations with practical insights and case studies to equip engineers and inspectors with the skills needed for pressure vessel design and evaluation.",
+    "A pressure vessel is a closed container designed to hold gases or liquids at a pressure significantly different (usually higher) from the surrounding atmosphere. Pressure vessels are critical in many industries such as Oil & Gas, Chemical Processing, Power Generation, Pharmaceuticals, Food and Beverage because they operate under pressure, even small failures can be catastrophic — that’s why design is highly regulated and must follow standards like ASME Section VIII, PED, etc."
+],
   image: require("./coursesImg/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -2955,11 +2935,9 @@ export const projects = [
   title: "Introduction to Process Control for Chemical Engineers",
   date: "Present",
   description: [
-    "Process control is the science of keeping industrial processes running within desired conditions. It’s essential for safety, efficiency, quality, and productivity in process industries like oil and gas, food processing, power plants, or chemical manufacturing.",
-    "This course provides a solid foundation in process control principles, focusing on the essential components and functions that keep industrial processes stable, safe, and efficient.",
-    "Participants will understand how sensors, transmitters, controllers, and final control elements interact within feedback control loops, exploring different control modes and system responses.",
-    "Designed for engineers, technicians, and technical personnel, the course equips learners to interpret control loop behavior and apply best practices in monitoring and troubleshooting."
-  ],
+    "Process control is the science of keeping industrial processes running within desired conditions. It’s essential for safety, efficiency, quality, and productivity in any process industry like oil and gas, food processing, power plants, or chemical manufacturing.",
+    "This course provides a solid foundation in process control principles, focusing on the essential components and functions that keep industrial processes stable, safe, and efficient. Learners will gain an understanding of how sensors, transmitters, controllers, and final control elements interact within feedback control loops. The course explores different control modes and system responses, equipping participants with the ability to interpret control loop behavior and apply best practices in monitoring and troubleshooting. It is designed for engineers, technicians, and technical personnel working in process industries."
+],
   image: require("./coursesImg/Introduction to Process Control for Chemical Engineers.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3013,11 +2991,8 @@ export const projects = [
   date: "Present",
   description: [
     "Process control is all about keeping industrial processes running smoothly, safely, and efficiently. As an operator, you play a key role in monitoring and adjusting the process to maintain optimal performance.",
-    "This course introduces plant operators and technical personnel to the fundamentals of process control systems used in industrial operations.",
-    "It explains the principles, measurements, and control techniques necessary for maintaining stable, efficient, and safe operations.",
-    "Topics include measurement of temperature, pressure, level, and flow, as well as analytical parameters and control system components like actuators and controllers.",
-    "The course bridges theory and practice, empowering operators to understand and interact effectively with control systems in real-time environments.",
-    "Case studies help contextualize learning with real-world examples."
+    "This course introduces plant operators and technical personnel to the fundamentals of process control systems used in industrial operations. It explains the principles, measurements, and control techniques necessary for maintaining stable, efficient, and safe operations. Topics include measurement of temperature, pressure, level, and flow, as well as analytical parameters and control system components like actuators and controllers. The course bridges theory and practice, empowering operators to understand and interact effectively with control systems in real-time environments. Case studies help contextualize learning with real-world examples. "
+
   ],
   image: require("./coursesImg/process control for operators.png"),
   tags: [
@@ -3081,14 +3056,9 @@ export const projects = [
   title: "Process Engineering (Introduction)",
   date: "Present",
   description: [
-    "Process Engineering is a branch of engineering that focuses on designing, operating, controlling, and optimizing chemical, physical, and biological processes.",
-    "It plays a crucial role in industries such as chemicals, oil and gas, pharmaceuticals, food and beverage, water treatment, and many more.",
-    "At its core, process engineering is about transforming raw materials into valuable products efficiently, safely, and sustainably.",
-    "This course provides a comprehensive introduction to Process Engineering, focusing on its role within industrial projects, particularly in the oil & gas sector.",
-    "It covers the scope of process engineering across project phases from FEED (Front-End Engineering Design) to detailed design and EPC (Engineering, Procurement, and Construction) proposals.",
-    "Learners will explore essential design documents, calculations, equipment sizing, and simulation tools.",
-    "The course combines theoretical knowledge with practical applications and real-world case studies to build a strong foundation for aspiring process engineers and related professionals."
-  ],
+    "Process Engineering is a branch of engineering that focuses on designing, operating, controlling, and optimizing chemical, physical, and biological processes. It plays a crucial role in industries such as chemicals, oil and gas, pharmaceuticals, food and beverage, water treatment, and many more. At its core, process engineering is about transforming raw materials into valuable products efficiently, safely, and sustainably.",
+    "This course provides a comprehensive introduction to Process Engineering, focusing on its role within industrial projects, particularly in the oil & gas sector. It covers the scope of process engineering across project phases from FEED (Front-End Engineering Design) to detailed design and EPC (Engineering, Procurement, and Construction) proposals. Through a structured module sequence, learners will explore essential design documents, calculations, equipment sizing, and simulation tools. The course combines theoretical knowledge with practical applications and real-world case studies to build a strong foundation for aspiring process engineers and related professionals."
+],
   image: require("./coursesImg/process engineering (introduction).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3164,13 +3134,9 @@ export const projects = [
   title: "Process Loop Checking",
   date: "Present",
   description: [
-    "Process loop checking is the final verification activity conducted before commissioning a control system.",
-    "It ensures that all instruments, wiring, signals, and control logic from the field device to the control system and back operate correctly as designed.",
-    "This critical step confirms the integrity and functionality of the entire control loop, reducing the risk of startup delays or process upsets.",
-    "This course provides a comprehensive understanding of process loop checking — a critical activity in commissioning and startup phases of industrial automation and control systems.",
-    "It covers the full loop verification process, from field instrument to control system, ensuring functionality, safety, and readiness for operation.",
-    "Participants will learn how to document loop checks, conduct factory acceptance tests, and benchmark system performance, with real-world examples for practical context."
-  ],
+    "Process loop checking is the final verification activity conducted before commissioning a control system. It ensures that all instruments, wiring, signals, and control logic from the field device to the control system and back operate correctly as designed. This critical step confirms the integrity and functionality of the entire control loop. The goal is to confirm that each control or monitoring loop—from sensor to controller to final control element—is properly installed, configured, calibrated, and ready for operational use. It reduces the risk of startup delays or process upsets.",
+    "This course provides a comprehensive understanding of process loop checking — a critical activity in commissioning and startup phases of industrial automation and control systems. It covers the full loop verification process, from field instrument to control system, ensuring functionality, safety, and readiness for operation. Participants will also learn how to document loop checks, conduct factory acceptance tests, and benchmark system performance, with real-world examples for practical context."
+],
   image: require("./coursesImg/process loop checking.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3219,13 +3185,9 @@ export const projects = [
   title: "Process Safety Incident Case Studies",
   date: "Present",
   description: [
-    "Studying real-world process safety incidents helps engineers and operators understand the root causes of failures and implement better safety systems.",
-    "These case studies highlight the importance of proper design, hazard identification, operational discipline, and compliance with safety regulations.",
-    "Most major incidents are preventable and often result from a combination of human error, design flaws, poor maintenance, or inadequate procedures.",
-    "This course offers an in-depth examination of major industrial incidents across various sectors, focusing on process safety failures and lessons learned.",
-    "Through real-world case studies from chemical plants, refineries, and manufacturing facilities, participants will explore root causes, contributing factors, and corrective actions.",
-    "The course emphasizes proactive risk identification, safety management system improvement, and incident prevention strategies."
-  ],
+    "Studying real-world process safety incidents helps engineers and operators understand the root causes of failures and implement better safety systems. These case studies highlight the importance of proper design, hazard identification, operational discipline, and compliance with safety regulations. Most major incidents are preventable and often result from a combination of human error, design flaws, poor maintenance, or inadequate procedures.",
+    "This course offers an in-depth examination of major industrial incidents across various sectors, focusing on process safety failures and lessons learned. Through real-world case studies from chemical plants, refineries, and manufacturing facilities, participants will explore root causes, contributing factors, and corrective actions. The course emphasizes proactive risk identification, safety management system improvement, and incident prevention strategies."
+],
   image: require("./coursesImg/process safety incident case studies.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3296,12 +3258,9 @@ export const projects = [
   title: "Process Safety Management",
   date: "Present",
   description: [
-    "Process Safety Management (PSM) is a systematic framework used to prevent the unintended release of hazardous chemicals, especially in industries dealing with high-risk processes such as oil & gas, chemical manufacturing, and petrochemicals.",
-    "PSM focuses on managing the integrity of operating systems and processes handling dangerous substances through disciplined design, operation, and maintenance practices.",
-    "This course introduces the fundamental concepts and practical applications of Process Safety Management (PSM) for managing hazardous processes in industrial settings.",
-    "It focuses on risk identification, hazard control, and fire/explosion prevention.",
-    "By combining theoretical foundations with real-world examples, the course equips participants with tools to implement and sustain effective PSM systems in compliance with regulatory standards and best practices."
-  ],
+    "Process Safety Management (PSM) is a systematic framework used to prevent the unintended release of hazardous chemicals, especially in industries dealing with high-risk processes such as oil & gas, chemical manufacturing, and petrochemicals. PSM focuses on managing the integrity of operating systems and processes handling dangerous substances through disciplined design, operation, and maintenance practices. ",
+    "This course introduces the fundamental concepts and practical applications of Process Safety Management (PSM) for managing hazardous processes in industrial settings. It focuses on risk identification, hazard control, and fire/explosion prevention. By combining theoretical foundations with real-world examples, the course equips participants with tools to implement and sustain effective PSM systems in compliance with regulatory standards and best practices."
+],
   image: require("./coursesImg/process safety management.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3349,13 +3308,9 @@ export const projects = [
   title: "Process Safety Management for Petroleum Refineries",
   date: "Present",
   description: [
-    "Process Safety Management (PSM) is a disciplined framework for managing the integrity of operating systems and processes handling hazardous substances in petroleum refineries.",
-    "Its primary goal is to prevent incidents such as fires, explosions, toxic releases, and environmental harm by systematically identifying, evaluating, and controlling process hazards.",
-    "This course provides a practical and structured understanding of Process Safety Management (PSM) tailored specifically for petroleum refinery operations.",
-    "Emphasizing both regulatory compliance and operational excellence, the course explores key elements such as process safety information, hazard analysis, operating procedures, mechanical integrity, and management of change.",
-    "Learners will also examine the role of PSM in preventing catastrophic incidents through proactive system design and effective risk management.",
-    "Case studies from real refinery operations will reinforce theoretical knowledge with real-world context."
-  ],
+    "Process Safety Management (PSM) is a disciplined framework for managing the integrity of operating systems and processes handling hazardous substances in petroleum refineries. Its primary goal is to prevent incidents such as fires, explosions, toxic releases, and environmental harm by systematically identifying, evaluating, and controlling process hazards.",
+    "This course provides a practical and structured understanding of Process Safety Management (PSM) tailored specifically for petroleum refinery operations. Emphasizing both regulatory compliance and operational excellence, the course explores key elements such as process safety information, hazard analysis, operating procedures, mechanical integrity, and management of change. Learners will also examine the role of PSM in preventing catastrophic incidents through proactive system design and effective risk management. Case studies from real refinery operations will reinforce theoretical knowledge with real-world context."
+],
   image: require("./coursesImg/Process Safety Management for Petroleum Refineries.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3403,13 +3358,10 @@ export const projects = [
   title: "Project Control Deliverables",
   date: "Present",
   description: [
-    "Project Control Deliverables are the critical outputs produced by the project controls team to plan, monitor, and manage project performance effectively.",
-    "These deliverables ensure that the project is completed on time, within budget, and according to the required quality standards.",
-    "In engineering and construction projects, especially in complex sectors like oil & gas, energy, and infrastructure, project controls serve as the backbone of project management.",
-    "They provide the necessary tools and information for decision-making across all project phases — from feasibility studies to project close-out.",
-    "These deliverables typically include a mix of planning documents, cost reports, progress tracking tools, risk assessments, and forecasting models.",
-    "This course provides a comprehensive guide to the key documents, registers, procedures, and analytical tools required for effective project control in engineering and construction projects."
-  ],
+    "Project Control Deliverables are the critical outputs produced by the project controls team to plan, monitor, and manage project performance effectively. These deliverables ensure that the project is completed on time, within budget, and according to the required quality standards.",
+    "In engineering and construction projects, especially in complex sectors like oil & gas, energy, and infrastructure, project controls serve as the backbone of project management. They provide the necessary tools and information for decision-making across all project phases — from feasibility studies to project close-out. These deliverables typically include a mix of planning documents, cost reports, progress tracking tools, risk assessments, and forecasting models, all of which enable proactive management and control of the project lifecycle.",
+    "This course provides a comprehensive guide to the key documents, registers, procedures, and analytical tools required for effective project control in engineering and construction projects. Participants will gain practical knowledge of planning, scheduling, cost control, progress monitoring, and reporting systems that support project execution from initiation through completion. Emphasis is placed on aligning deliverables with best practices, ensuring timely execution, budget management, and risk mitigation. "
+],
   image: require("./coursesImg/project control deliverables.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3484,13 +3436,9 @@ export const projects = [
   title: "Project Execution Plan",
   date: "Present",
   description: [
-    "The Project Execution Plan (PEP) defines the strategy, scope, and approach for successfully executing a project, acting as a roadmap from initiation to close-out.",
-    "It ensures alignment across stakeholders, efficient resource use, and adherence to safety, quality, and schedule commitments.",
-    "The PEP outlines roles, responsibilities, procedures, milestones, and deliverables for all project phases.",
-    "This course offers a detailed guide on developing and implementing a PEP to ensure project delivery within time, budget, and quality constraints.",
-    "Topics include project governance, risk management, stakeholder engagement, procurement, quality assurance, operations readiness, and technology deployment.",
-    "Case studies offer practical insights into how well-structured PEPs lead to successful project outcomes."
-  ],
+    "The purpose of this Project Execution Plan (PEP) is to define the strategy, scope, and approach for successfully executing the project. It serves as the roadmap for all project phases from initiation and design to implementation and close-out ensuring alignment across all stakeholders, efficient resource utilization, and adherence to safety, quality, and schedule commitments. The PEP outlines how the project will be managed and delivered, providing clarity on roles, responsibilities, procedures, milestones, and deliverables.",
+    "This course offers a comprehensive guide to developing and implementing a Project Execution Plan (PEP), a foundational document that outlines how a project will be delivered safely, efficiently, and within budget and schedule constraints. Through detailed modules, learners will understand how to structure a PEP to align with organizational goals and stakeholder expectations. The course integrates key topics such as project governance, risk management, stakeholder engagement, procurement, quality assurance, operations readiness, and technology deployment. Case studies will provide practical insights into how effective PEPs lead to project success. "
+],
   image: require("./coursesImg/project execution plan.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3558,12 +3506,9 @@ export const projects = [
   title: "Quality Control Plan of Construction Project",
   date: "Present",
   description: [
-    "A Quality Control Plan (QCP) is a vital document that outlines procedures, standards, responsibilities, and methods to ensure construction activities meet project specifications, codes, and client expectations.",
-    "Maintaining high construction quality is essential for safety, compliance, and long-term structural performance.",
-    "The QCP provides a systematic approach to control and verify quality across materials, workmanship, and processes during the construction lifecycle.",
-    "This course provides participants with the knowledge and tools to develop and implement an effective QCP.",
-    "Participants will explore quality control procedures, team responsibilities, submittals, materials handling, and document management through real-world case studies."
-  ],
+    "A Quality Control Plan (QCP) is an essential document that outlines the procedures, standards, responsibilities, and methods for ensuring that construction activities meet project specifications, codes, and client expectations. In construction projects, maintaining high quality is critical not only for safety and regulatory compliance but also for the longevity and performance of the finished structure. The QCP provides a systematic approach to control and verify the quality of materials, workmanship, and processes throughout the construction lifecycle.",
+    "This course equips participants with the knowledge and practical tools to develop and implement an effective Quality Control Plan (QCP) for construction projects. It focuses on maintaining high standards of workmanship, complying with contract specifications, and managing documentation throughout the construction lifecycle. Participants will explore quality procedures, team responsibilities, handling of submittals and materials, and managing revisions to work through real-world case studies."
+],
   image: require("./coursesImg/Quality Control Plan of Construction Project.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3612,12 +3557,10 @@ export const projects = [
   title: "Relief Valve Sizing (Aspen HYSYS)",
   date: "Present",
   description: [
-    "Relief valves, or pressure safety valves (PSVs), are essential for maintaining the safety of process plants by preventing equipment overpressure failures.",
-    "Relief valve sizing involves calculating the correct valve discharge area to safely release excess pressure during overpressure events.",
-    "This course teaches participants how to use Aspen HYSYS to simulate process scenarios and accurately size relief valves in accordance with industry standards such as API 520, API 521, and ASME.",
-    "Participants will learn to estimate relief loads, size valves and piping, generate datasheets, and integrate Aspen HYSYS with Aspen Flare System Analyzer.",
-    "Hands-on simulations and real-world case studies provide practical skills in designing safe and compliant relief systems."
-  ],
+    "Relief valves (also known as pressure safety valves, PSVs) are critical safety devices in process plants. They protect equipment and pipelines from overpressure by safely venting excess pressure to flare systems or the atmosphere, preventing equipment failure or catastrophic accidents.",
+    "Relief Valve Sizing is a precise engineering task. It involves calculating the required discharge area of the valve to ensure it can relieve excess pressure quickly and safely during different overpressure scenarios. Aspen HYSYS, a powerful process simulation software, provides tools to simulate process conditions and accurately size relief valves based on recognized engineering standards (e.g., API 520, API 521, ASME). Using Aspen HYSYS allows process engineers to model the worst-case scenarios, predict relief loads, and determine appropriate valve sizes efficiently and accurately.",
+    "This course provides a comprehensive guide to relief valve sizing using Aspen HYSYS. Participants will learn to estimate relief loads, size relief valves and their associated piping, and develop proper datasheets for documentation. The course also covers integration with Aspen Flare System Analyzer for a complete safety system analysis. Through practical simulations and case studies, learners gain hands-on experience in ensuring the safe and compliant design of pressure relief systems in process plants."
+],
   image: require("./coursesImg/Relief valve sizing (aspen hysys).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3667,12 +3610,10 @@ export const projects = [
   title: "Risk-Based Inspection",
   date: "Present",
   description: [
-    "Risk-Based Inspection (RBI) is a strategic approach to inspection planning that prioritizes resources based on equipment risk levels, improving safety and reliability while reducing costs.",
-    "Unlike traditional time-based inspections, RBI evaluates both the probability and consequences of failure to determine inspection frequency and scope.",
-    "This course follows API Recommended Practice 580 and provides participants with the knowledge to assess and manage risks in petrochemical and refining environments.",
-    "Learners will explore RBI methodology, deterioration mechanisms, failure modes, and risk assessments to optimize inspection planning.",
-    "Real-world case studies help reinforce the practical application of RBI principles and tools for maintaining asset integrity."
-  ],
+    "Risk-Based Inspection (RBI) is a proactive and systematic approach to inspection planning, aimed at optimizing inspection resources by focusing efforts on equipment that poses the highest risk.",
+    "The methodology is guided by API Recommended Practice 580, which provides a framework for identifying, assessing, and managing risks associated with fixed equipment and piping in the refining, petrochemical, and process industries. Unlike traditional time-based inspections, RBI evaluates both the probability and consequence of failure to prioritize inspection activities. This ensures that high-risk equipment is inspected more frequently, while low-risk items are monitored at optimized intervals — improving plant safety, reliability, and cost-effectiveness.",
+    "This course introduces participants to the principles and methodology of Risk-Based Inspection (RBI) as outlined in API Recommended Practice 580. It focuses on identifying, assessing, and managing risk through inspection planning and execution. Participants will gain the technical understanding needed to implement RBI in an industrial setting, especially within petrochemical and refinery operations, thereby ensuring asset integrity while optimizing inspection resources and reducing operational risks."
+],
   image: require("./coursesImg/risk-based inspection (api 580).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3732,12 +3673,10 @@ export const projects = [
   title: "Well Testing",
   date: "Present",
   description: [
-    "Well testing is a vital process in the oil and gas industry used to evaluate well performance and reservoir behavior by analyzing the controlled flow of reservoir fluids to the surface.",
-    "It plays a key role in reservoir evaluation, well commissioning, production optimization, and performance monitoring throughout a well's lifecycle.",
-    "This course introduces the fundamental principles and applications of well testing, including data acquisition, test execution, and interpretation.",
-    "Participants will explore test types, required surface and downhole equipment, and industry-standard analysis techniques.",
-    "Through practical examples and case studies, the course equips engineers and field professionals with skills to make informed decisions on reservoir development and well management."
-  ],
+    "Well testing is a critical process in the oil and gas industry used to evaluate the performance and characteristics of a well. It involves the controlled flow of reservoir fluids (oil, gas, water) to the surface so that engineers can analyze production potential, reservoir properties, and overall well behavior.",
+    "The data gathered from well testing helps determine reservoir capacity, fluid properties, pressure behavior, and production optimization strategies. It is an essential step during well commissioning, reservoir evaluation, and even during the life of a well for performance monitoring. Well testing provides insights for decision-making on field development, enhanced recovery methods, well interventions, and economic viability of the reservoir.",
+    "This course provides a comprehensive introduction to well testing in oil and gas operations, covering both theoretical foundations and practical applications. It is designed to equip engineers and field professionals with the knowledge and tools to plan, execute, and interpret well tests effectively. The course explores the types of tests used to evaluate reservoir characteristics, production potential, and flow behavior, emphasizing surface and downhole equipment and data analysis methods."
+],
   image: require("./coursesImg/well testing.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3787,12 +3726,9 @@ export const projects = [
   title: "Well Logging (Part-1: Open Hole Logging)",
   date: "Present",
   description: [
-    "Open hole logging is the process of measuring and recording the physical, chemical, and structural properties of subsurface formations through an uncased wellbore before completion or casing.",
-    "This essential technique supports reservoir characterization, drilling decisions, and completion strategies by offering continuous and detailed formation data.",
-    "The course delivers a comprehensive introduction to conventional and advanced open hole logging practices, tools, and interpretation techniques.",
-    "It includes practical logging procedures at the wellsite, interpretation of lithology, porosity, and saturation, and challenges in horizontal wells.",
-    "Participants will build competence in data acquisition, evaluation, and integration with core, seismic, and test data for improved operational decision-making."
-  ],
+    "Open hole logging is the process of recording physical, chemical, and structural properties of the subsurface formations in a wellbore before casing or completion. It involves lowering measurement tools into an uncased (open) borehole to gather continuous data, which helps characterize the reservoir and guide drilling, completion, and production decisions. ",
+    "This course offers a thorough introduction to open hole well logging, a critical technique for evaluating subsurface formations during drilling operations. The curriculum covers conventional logging tools, advanced interpretation methods, procedural workflows at the wellsite, and the application of high-tech logs, especially in horizontal wells. Through detailed modules and real-world case studies, participants will gain the skills to interpret log data and make informed reservoir decisions."
+],
   image: require("./coursesImg/Well Logging (Part-1_ Open Hole Logging).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3843,12 +3779,9 @@ export const projects = [
   title: "Well Logging (Part-2: Cased Hole Logging)",
   date: "Present",
   description: [
-    "Cased hole logging involves measuring well and reservoir parameters after casing has been installed and cemented, allowing engineers to assess well integrity, production performance, and reservoir behavior.",
-    "Unlike open hole logging, this method uses specialized tools to obtain data through steel casing and cement layers, making it essential for post-completion diagnostics.",
-    "This course covers the principles and application of cased hole tools such as cement evaluation logs, casing inspection logs, spectral noise tools, and production logging instruments.",
-    "Participants will gain practical knowledge in selecting the right tools, interpreting results, and integrating logs with production history to guide field operations and enhance well performance.",
-    "The training includes real-world case studies to develop analytical skills and improve strategies for well intervention and reservoir management."
-  ],
+    "Cased hole logging refers to logging operations conducted after the well has been completed and the casing has been installed and cemented in place. These logs provide valuable data for reservoir monitoring, production evaluation, well integrity assessment, and secondary recovery planning. Unlike open hole logging, cased hole logging tools are specifically designed to measure through steel casing and cement. ",
+    "This course introduces the principles, tools, and applications of cased hole logging, a crucial method used to evaluate well integrity, production performance, and reservoir characteristics after casing has been installed. Participants will explore a wide range of cased hole tools including cement evaluation logs, casing inspection logs, and production logging tools. The course also covers advanced acoustic and nuclear tools and provides practical insights through case studies."
+],
   image: require("./coursesImg/Well Logging (Part-2_ Cased Hole Logging).png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3897,12 +3830,9 @@ export const projects = [
   title: "Well Completion and Stimulation",
   date: "Present",
   description: [
-    "Well completion prepares a drilled well for production or injection by installing necessary downhole and surface equipment to ensure safe and efficient operations.",
-    "Stimulation enhances well productivity by improving flow paths between the reservoir and wellbore, especially when natural reservoir drive is insufficient or damaged.",
-    "This course provides a comprehensive overview of both completion and stimulation processes, exploring equipment, techniques, and operational decisions from casing to production optimization.",
-    "Participants will gain knowledge on different completion systems, perforation methods, stimulation techniques, and production control strategies to boost efficiency and well longevity.",
-    "Through real-world case studies, attendees will develop practical skills in planning, execution, and evaluation of well completion and stimulation programs."
-  ],
+    "Well completion is the process of making a drilled well ready for production (or injection). It involves installing the necessary equipment and systems inside the wellbore to ensure safe and efficient extraction of hydrocarbons. Completion design depends on reservoir characteristics, well type, production goals, and operational constraints. Well stimulation, on the other hand, involves techniques used to enhance well productivity by improving flow paths between the reservoir and the wellbore. Stimulation can be required when natural reservoir drive is insufficient, or when damage has restricted flow capacity.",
+    "This course offers a detailed exploration of the techniques, equipment, and decisions involved in completing and stimulating oil and gas wells. It guides participants through each phase of the well completion process — from casing and tubing installation to stimulation methods such as perforating and fracturing. The course emphasizes practical knowledge for optimizing well performance and ensuring safe, efficient production operations."
+],
   image: require("./coursesImg/Well Completion and Stimulation.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -3956,12 +3886,9 @@ export const projects = [
   title: "Water Treatment",
   date: "Present",
   description: [
-    "Water treatment involves improving the quality of water to meet specific end-use requirements such as drinking, industrial use, irrigation, or environmental discharge.",
-    "This process includes removing or reducing contaminants from raw water sources like rivers, lakes, groundwater, or industrial effluents.",
-    "In industrial settings, water treatment is essential for protecting human health, ensuring the efficiency of equipment, and complying with environmental regulations.",
-    "This course covers the full water treatment cycle—from raw water intake to wastewater discharge—exploring technologies, equipment, and chemical processes involved in treatment systems.",
-    "Participants will gain practical knowledge through case studies, enabling them to troubleshoot problems, improve system reliability, and ensure sustainable water use in various operations."
-  ],
+    "Water treatment is the process of improving the quality of water to make it suitable for a specific end-use, such as drinking, industrial processes, irrigation, or disposal into the environment. The goal is to remove or reduce contaminants and undesirable components from raw water sources — like rivers, lakes, groundwater, or industrial effluents. In both municipal and industrial settings, water treatment plays a vital role in protecting human health, ensuring equipment reliability, and meeting environmental regulations. ",
+    "This course provides a comprehensive understanding of water treatment processes across industrial settings, covering the full cycle from raw water intake to wastewater discharge. Participants will explore the technologies, equipment, and chemical treatments involved in ensuring water quality for various plant operations, including cooling towers and boilers. Real-world case studies offer practical insights into system design, operation, and troubleshooting. "
+],
   image: require("./coursesImg/water treatment.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -4010,12 +3937,10 @@ export const projects = [
   title: "Waste Heat Recovery",
   date: "Present",
   description: [
-    "Waste Heat Recovery (WHR) involves capturing and reusing heat that is typically lost in industrial processes, such as in exhaust gases, cooling water, or flue gases.",
-    "By reusing this waste heat, industries can significantly reduce fuel consumption, improve energy efficiency, and lower greenhouse gas emissions.",
-    "Recovered heat can be repurposed for preheating, steam generation, or even power production using technologies like Organic Rankine Cycle (ORC) or thermoelectric generators.",
-    "This course equips participants with the knowledge to identify, assess, and implement effective WHR systems within industrial settings.",
-    "Through real-world case studies and practical examples, participants will learn to optimize energy use and reduce operational costs in sectors such as cement, steel, petrochemicals, and power generation."
-  ],
+    "Waste Heat Recovery (WHR) is the process of capturing and reusing the heat that is generated in industrial processes but typically lost to the environment. This “waste” heat can be found in exhaust gases, cooling water, furnace flue gases, and other heat streams from processing operations.",
+    "By recovering this energy, industrial plants can reduce fuel consumption, lower emissions, and improve overall energy efficiency. Waste heat can be reused in various forms — for preheating combustion air, generating steam, or even producing electricity through technologies like ORC (Organic Rankine Cycle) or thermoelectric generators. WHR is a key strategy in achieving sustainable industrial operations and is widely implemented in industries such as cement, steel, glass, petrochemicals, and power generation.",
+    "This course explores the principles, technologies, and practices involved in recovering waste heat from industrial processes. Designed for engineers, energy managers, and plant operators, it emphasizes how to identify sources of heat loss and turn them into valuable energy savings. Participants will gain insights into feasibility assessment, technology selection, and implementation of waste heat recovery systems to improve energy efficiency and reduce operational costs."
+],
   image: require("./coursesImg/waste heat recovery.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -4888,7 +4813,8 @@ export const projects = [
   date: "Present",
   description: [
     "Piping systems in exploration and production (E&P) facilities are essential for transporting fluids—oil, gas, water, and drilling mud—between various pieces of equipment. These systems must be designed and installed to handle harsh environments, variable pressures, corrosive substances, and operational safety requirements.",
-    "This course outlines the total procedure covering the design, fabrication, installation, inspection, and commissioning of piping for upstream E&P equipment such as wellheads, separators, pumps, compressors, and storage units. It provides a comprehensive understanding of piping systems used in upstream oil and gas exploration and production operations. The course also addresses functional roles, piping components, data representation, operational practices, troubleshooting techniques, and real-world case studies."
+    "This course outlines the total procedure covering the design, fabrication, installation, inspection, and commissioning of piping for upstream E&P equipment such as wellheads, separators, pumps, compressors, and storage units.",
+    "This course provides a comprehensive understanding of piping systems used in upstream oil and gas exploration and production operations. It covers functional roles, piping components, data representation, and operational practices. The course also addresses common troubleshooting techniques and real-world case studies to reinforce practical knowledge."
   ],
   image: require("./coursesImg/Exploration & Production Equipment Piping.png"),
   tags: [
@@ -4937,9 +4863,9 @@ export const projects = [
   title: "Fuel Gas Distribution Piping System",
   date: "Present",
   description: [
-    "A fuel gas distribution piping system is a specialized network within industrial and commercial facilities that safely transports combustible gases (like natural gas, LPG, or manufactured gases) from a central source to end-use equipment such as furnaces, turbines, boilers, burners, or engines.",
+    "A fuel gas distribution piping system is a specialized network within industrial and commercial facilities that safely transports combustible gases (like natural gas, LPG, or manufactured gases) from a central source (e.g., a gas manifold, bulk tank, or pipeline) to end-use equipment such as furnaces, turbines, boilers, burners, or engines. These systems are crucial for industries where reliable, safe, and regulated gas supply is essential for continuous operation and energy efficiency.",
     "This course delivers a comprehensive understanding of fuel gas distribution piping systems, focusing on the physical behavior of fuel gases, applicable codes and standards, system components, and sizing methodologies. It includes detailed modules on LPG systems—covering transportation, storage, and tank sizing. Through practical case studies, participants will develop the skills necessary to design, operate, and troubleshoot safe and efficient fuel gas piping systems across residential, commercial, and industrial applications."
-  ],
+],
   image: require("./coursesImg/fuel gas distribution piping system.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -5173,7 +5099,7 @@ export const projects = [
     "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow.",
     "These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
     "This course covers the design and analysis of piping systems for transporting slurry and sludge, focusing on the physical behavior of complex fluids—including Newtonian and non-Newtonian characteristics—pressure loss calculations, and flow regimes.",
-    "Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively, with practical insights provided through real-world case studies."
+    "Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively. Case studies illustrate practical design challenges and solutions."
   ],
   image: require("./coursesImg/slurry and sludge piping system.png"),
   tags: [
@@ -5225,10 +5151,8 @@ export const projects = [
   title: "Wastewater & Stormwater Piping",
   date: "Present",
   description: [
-    "Wastewater and stormwater piping systems are essential for collecting, transporting, and safely discharging used water and rainwater from industrial, commercial, and residential facilities.",
-    "These systems help prevent flooding, protect public health, and ensure compliance with environmental regulations.",
-    "This course provides a comprehensive study of piping systems used for transporting wastewater and stormwater in municipal, industrial, and commercial applications.",
-    "It covers hydraulic behavior, system design, material selection, energy considerations, and real-world case studies for practical application and problem-solving."
+    "Wastewater and stormwater piping systems are essential for collecting, transporting, and safely discharging used water and rainwater from industrial, commercial, and residential facilities. These systems help prevent flooding, protect public health, and ensure compliance with environmental regulations.",
+    "This course provides a comprehensive study of piping systems used for transporting wastewater and stormwater in municipal, industrial, and commercial applications. Covering the hydraulic behavior of these fluids, system design principles, materials, and energy considerations, this course is ideal for engineers and technicians involved in designing, operating, or maintaining sewer infrastructure. Case studies reinforce practical application and real-world problem-solving."
   ],
   image: require("./coursesImg/waste water and storm water piping.png"),
   tags: [
@@ -5292,11 +5216,9 @@ export const projects = [
   title: "Water Piping System",
   date: "Present",
   description: [
-    "Water piping systems are critical components in industrial, commercial, and residential infrastructure.",
-    "These systems are designed to transport water for cooling, process operations, fire protection, potable supply, and wastewater disposal.",
-    "This course offers a comprehensive understanding of water piping systems used in industrial, municipal, and building service applications.",
-    "It covers both fluid mechanics and practical piping design, including flow analysis, energy requirements, and real-world challenges through detailed case studies."
-  ],
+    "Water piping systems are critical components in industrial, commercial, and residential infrastructure. These systems are designed to transport water for various purposes such as cooling, process operations, fire protection, potable supply, and wastewater disposal. A well-designed water piping system ensures reliable flow, adequate pressure, safety, and compliance with applicable codes.",
+    "This course offers a comprehensive understanding of water piping systems used in industrial, municipal, and building service applications. Covering both fundamental fluid mechanics and practical piping design, it walks participants through system components, flow analysis, energy requirements, and economic considerations. The course also explores real-world applications and challenges through detailed case studies."
+],
   image: require("./coursesImg/water piping system.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
