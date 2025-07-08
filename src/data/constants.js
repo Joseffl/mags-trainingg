@@ -4650,8 +4650,10 @@ export const projects = [
   date: "Present",
   description: [
     "Crude oil characterization is essential for understanding its physical and chemical properties, which influence refining processes, transportation, storage, and commercial value. One of the most commonly used parameters is the API gravity, defined by the American Petroleum Institute (API) to express the density of petroleum liquids.",
+    
+
     "This course offers an in-depth exploration of methods used to characterize crude oil properties as outlined by the American Petroleum Institute (API). The program covers essential measurement techniques for distillation, vapor pressure, heat capacity, viscosity, thermal conductivity, and other physical and chemical characteristics necessary for crude oil evaluation and modeling in refining and upstream operations."
-  ],
+],
   image: require("./coursesImg/API Crude Oil Characterization Measurement.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -5044,8 +5046,7 @@ export const projects = [
   title: "Piping Systems & Piping Calculation",
   date: "Present",
   description: [
-    "Piping systems are critical to industrial facilities, serving as the circulatory system for transporting fluids (liquids, gases, slurries, or steam) between equipment such as pumps, tanks, compressors, reactors, and heat exchangers. These systems must be carefully designed, sized, and analyzed to ensure safety, efficiency, and compliance with relevant codes and standards.",
-    "The Piping Calculation Manual provides a comprehensive reference for engineers, including equations, design methodologies, material selection, and layout principles necessary for reliable piping design and operation.",
+    "Piping systems are critical to industrial facilities, serving as the circulatory system for transporting fluids (liquids, gases, slurries, or steam) between equipment such as pumps, tanks, compressors, reactors, and heat exchangers. These systems must be carefully designed, sized, and analyzed to ensure safety, efficiency, and compliance with relevant codes and standards. The Piping Calculation Manual provides a comprehensive reference for engineers, including equations, design methodologies, material selection, and layout principles necessary for reliable piping design and operation.",
     "This course provides a practical and comprehensive guide to the design and calculation of industrial piping systems across various applications. It covers fluid flow principles, pipe sizing, material selection, and system-specific requirements, including water, steam, gas, oil, and cryogenic services. Through detailed modules and case studies, participants will gain both theoretical understanding and applied skills in designing efficient, safe, and compliant piping systems."
   ],
   image: require("./coursesImg/piping systems & piping calculation.png"),
@@ -5096,11 +5097,9 @@ export const projects = [
   title: "Slurry and Sludge Piping System",
   date: "Present",
   description: [
-    "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow.",
-    "These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
-    "This course covers the design and analysis of piping systems for transporting slurry and sludge, focusing on the physical behavior of complex fluids—including Newtonian and non-Newtonian characteristics—pressure loss calculations, and flow regimes.",
-    "Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively. Case studies illustrate practical design challenges and solutions."
-  ],
+    "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow. These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
+    "This course covers the design and analysis of piping systems for transporting slurry and sludge, which are commonly found in mining, wastewater treatment, and process industries. It focuses on the physical behavior of complex fluids, including Newtonian and non-Newtonian characteristics, pressure loss calculations, and flow regimes. Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively. Case studies illustrate practical design challenges and solutions."
+],
   image: require("./coursesImg/slurry and sludge piping system.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
@@ -5279,11 +5278,9 @@ export const projects = [
   title: "Steam Piping System",
   date: "Present",
   description: [
-    "Steam piping systems are designed to transport steam generated in boilers to various end-use points, such as turbines, heat exchangers, reboilers, or process equipment.",
-    "These systems must be carefully engineered to handle high pressures, temperatures, and thermal expansion, ensuring efficient and safe operation.",
-    "This course provides a comprehensive introduction to the design, operation, and maintenance of steam piping systems used in industrial and utility applications.",
-    "Participants will learn the key principles governing steam behavior, pressure drop, sizing, and material selection. The course includes guidance on applicable codes and standards, component specification, and steam flow control—concluding with practical case studies from real installations."
-  ],
+    "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow. These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
+    "This course covers the design and analysis of piping systems for transporting slurry and sludge, which are commonly found in mining, wastewater treatment, and process industries. It focuses on the physical behavior of complex fluids, including Newtonian and non-Newtonian characteristics, pressure loss calculations, and flow regimes. Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively. Case studies illustrate practical design challenges and solutions."
+],
   image: require("./coursesImg/steam piping system.png"),
   tags: [
     "Trainer: Engr. Okechukwu"
