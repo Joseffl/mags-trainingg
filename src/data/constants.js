@@ -2579,7 +2579,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "₦150,000 / $50",
+  cost: "₦150,000 / $120",
   certification: "Certificate of Completion"
 },
 
@@ -5278,8 +5278,8 @@ export const projects = [
   title: "Steam Piping System",
   date: "Present",
   description: [
-    "Slurry and sludge piping systems are designed to transport mixtures of solids suspended in liquids, often under challenging conditions such as high abrasion, variable viscosity, and intermittent flow. These systems are commonly used in mining, mineral processing, wastewater treatment, dredging, and heavy industry.",
-    "This course covers the design and analysis of piping systems for transporting slurry and sludge, which are commonly found in mining, wastewater treatment, and process industries. It focuses on the physical behavior of complex fluids, including Newtonian and non-Newtonian characteristics, pressure loss calculations, and flow regimes. Participants will gain the technical knowledge needed to manage abrasive, viscous, and multiphase flow conditions effectively. Case studies illustrate practical design challenges and solutions."
+    "SSteam piping systems are designed to transport steam generated in boilers to various end-use points, such as turbines, heat exchangers, reboilers, or process equipment. These systems must be carefully engineered to handle high pressures, temperatures, and thermal expansion, ensuring efficient and safe operation.",
+    "This course provides a comprehensive introduction to the design, operation, and maintenance of steam piping systems used in industrial and utility applications. Participants will learn the key principles governing steam behavior, pressure drop, sizing, and material selection. The course includes guidance on applicable codes and standards, component specification, and steam flow control—concluding with practical case studies from real installations."
 ],
   image: require("./coursesImg/steam piping system.png"),
   tags: [
