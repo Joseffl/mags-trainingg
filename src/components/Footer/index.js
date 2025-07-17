@@ -6,6 +6,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import PhoneIcon from '@mui/icons-material/Phone';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import EmailIcon from '@mui/icons-material/Email';
+import HomeIcon from '@mui/icons-material/Home';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -104,6 +105,13 @@ function Footer() {
           </ContactItem>
           <ContactItem href="mailto:contact@magsengineeringlimited.com">
             <EmailIcon /> contact@magsengineeringlimited.com
+          </ContactItem>
+          
+        </ContactDetails>
+
+        <ContactDetails>
+        <ContactItem>
+            <HomeIcon /> 10, Wals Close, Trans-Amadi Industrial Layout, Rivers State.
           </ContactItem>
         </ContactDetails>
         

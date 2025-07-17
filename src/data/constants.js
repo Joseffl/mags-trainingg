@@ -3522,16 +3522,15 @@ export const projects = [
   ],
   methodology: "Theoretical",
   objectives: [
-    "Understand the role and importance of pressure relief systems in process safety",
-    "Identify different types of relief scenarios and determine appropriate relief loads",
-    "Use Aspen HYSYS to calculate and size relief valves for various fluid conditions",
-    "Properly size inlet and outlet piping to comply with API 520 and 521 standards",
-    "Generate and interpret detailed relief valve datasheets",
-    "Confidently transfer data from Aspen HYSYS to Aspen Flare System Analyzer",
-    "Evaluate real-life industrial case studies to reinforce sizing practice",
-    "Avoid common pitfalls and ensure safety and compliance in valve sizing",
-    "Integrate relief valve design with the overall process safety management strategy",
-    "Communicate effectively with safety teams and vendors regarding relief system specifications"
+    "Understand the fundamental principles and importance of a Quality Control Plan (QCP) in construction projects",
+    "Identify the key elements and structure of a comprehensive QCP",
+    "Examine the roles and responsibilities within the project organization for quality assurance",
+    "Develop effective procedures for monitoring, verifying, and documenting construction quality",
+    "Analyze the submittal process and manage material compliance efficiently",
+    "Evaluate the impact of revisions and changes on project quality control",
+    "Apply best practices for inspection, testing, and corrective action processes",
+    "Learn from real-world case studies to improve the implementation and effectiveness of QCPs"
+
   ],
   outline: [
     "Module 1: Background Information of The Project",
@@ -3548,7 +3547,8 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "₦120,000 / $100",
+  cost: "₦100,000 / $80",
+  
   certification: "Certificate of Completion"
 },
 
