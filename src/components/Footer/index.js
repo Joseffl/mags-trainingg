@@ -65,7 +65,7 @@ const ContactDetails = styled.div`
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: 500px; /* Limit width */
+  max-width: 520px; /* Limit width */
   gap: 2px; /* Increase spacing */
   margin-top: 1rem;
 
@@ -111,7 +111,7 @@ function Footer() {
 
         <ContactDetails>
         <ContactItem>
-            <HomeIcon /> 10, Wals Close, Trans-Amadi Industrial Layout, Rivers State.
+            <HomeIcon /> 10, Wals Close, Trans-Amadi Industrial Layout, Rivers State, Nigeria.
           </ContactItem>
         </ContactDetails>
         
