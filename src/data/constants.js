@@ -352,7 +352,7 @@ export const projects = [
     description:
       "The Commissioning and Start-Up Course is designed to equip participants with essential knowledge and practical skills needed to effectively manage the commissioning and start-up phases of projects, particularly in engineering and industrial settings. This course covers the entire process from initial planning to final handover, ensuring that systems operate efficiently, safely, and in compliance with industry standards.",
     image:
-      require("./coursesImg/COMMISIONING.png"),
+      "https://i.ibb.co/n8nYTfbZ/COMMISIONING-efc4b6513b7435a130af.png",
     tags: ["Trainer: Engr. Lateef"
   ],
     duration: "2 Days",
@@ -526,7 +526,7 @@ export const projects = [
       "Dye Penetrant Testing (DPT), also known as Liquid Penetrant Testing (LPT), is a widely used non-destructive testing (NDT) method to detect surface-breaking flaws in non-porous materials. Acceptance criteria for DPT are based on the evaluation of defects and their compliance with applicable standards or codes, depending on the type of material, application, and industry requirements.",
       "This course provides an in-depth understanding of Dye Penetrant Testing (DPT) Acceptance Criteria and its application across various industry standards. Participants will learn to interpret and apply acceptance criteria for surface-breaking defects in metallic materials, welds, castings, and critical components. The course covers prominent industry standards and codes, focusing on their role in ensuring safety, compliance, and quality in diverse engineering sectors, including pressure vessels, storage tanks, piping systems, structural welding, and shipbuilding. Practical case studies will enhance the participants' ability to apply theoretical knowledge to real-world scenarios."
   ],
-  image: require("./coursesImg/Dye Penetrant.jpg"),
+  image: "https://i.ibb.co/qLLdMmFv/Dye-Penetrant-51a4a8ca3aa9b5b2e930.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -760,7 +760,7 @@ export const projects = [
     "The Commissioning Course provides a complete understanding of the commissioning phase in project execution, with an emphasis on systematic planning, documentation, team coordination, and safe execution. This course walks participants through the commissioning process from engineering preparation to final handover, including systemization, progress tracking, data management, HSE compliance, and startup operations.",
     "The course emphasizes practical tools and methodologies used across various industries (e.g., oil & gas, energy, infrastructure) to ensure systems are tested, verified, and transferred safely and efficiently from construction to operation."
   ],
-  image: require("./coursesImg/Commissioning.jpg"),
+  image: "https://i.ibb.co/tTH5KZP8/Commissioning-a99821d3465b9b91abc8.jpg",
   tags: [
     'Trainer: Engr. Majid',
   ],
@@ -819,7 +819,7 @@ export const projects = [
     "Participants will gain insights into the structured use of commissioning standards and documentation throughout all project phases—from engineering and manufacturing to construction completions, on-site testing, and system handover.",
     "This course prepares participants to implement documentation frameworks that support efficiency, traceability, and safety in commissioning projects."
   ],
-  image: require("./coursesImg/Commissioning Standards Documents.jpg"),
+  image: "https://i.ibb.co/9HgJvWdc/Commissioning-Standards-Documents-e0c937539b6ba0934934.jpg",
   tags: [
     'Trainer: Engr. Majid',
   ],
@@ -1826,7 +1826,7 @@ export const projects = [
     "It guides participants through the process of identifying potential hazards, collecting relevant data, evaluating the vulnerability of critical equipment, and comparing risks against design criteria.",
     "The course also covers planning for recovery and recommissioning activities after an event."
   ],
-  image: require("./coursesImg/ASSESSMENT OF AND PLANNING FOR NATURAL HAZARDS.png"),
+  image: "https://i.ibb.co/HLmhsV1s/ASSESSMENT-OF-AND-PLANNING-FOR-NATURAL-HAZARDS-43a85a97518d9c2e7ec1.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -1881,7 +1881,7 @@ export const projects = [
     "The course introduces diagnostic tools and techniques, including path pattern interpretation and TV-2 statistics.",
     "Real-world examples and practical demonstrations are included to reinforce root cause analysis and best practices for failure prevention and corrective action."
   ],
-  image: require("./coursesImg/Bearings Failures, Causes & Remedies.png"),
+  image: "https://i.ibb.co/zTqjn8LS/Bearings-Failures-Causes-Remedies-05397a51ad4ecaa8cec6.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -1951,7 +1951,7 @@ export const projects = [
     "The course will also address corrosion, deposits, and mechanical stresses that contribute to component degradation.",
     "Through case studies, learners will analyze real-world failure incidents and apply corrective actions to enhance system reliability and performance."
   ],
-  image: require("./coursesImg/Boiler System Failure.png"),
+  image: "https://i.ibb.co/KjvCP3rW/Boiler-System-Failure-125ed46c34cbe6329fe1.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -2014,7 +2014,7 @@ export const projects = [
     "Participants will gain foundational knowledge of boiler components and accessories, followed by an in-depth look at failure mechanisms, detection methods, and corrective actions.",
     "Real-world case studies will be used to demonstrate practical approaches to diagnosing and mitigating boiler tube failures in various industrial settings."
   ],
-  image: require("./coursesImg/Boiler Tube Failure.png"),
+  image: "https://i.ibb.co/7dJCwzkN/Boiler-Tube-Failure-90a3e29406c9b91d7f92.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -2066,7 +2066,7 @@ export const projects = [
     "Participants will gain insight into how control valves regulate process variables and contribute to system efficiency and stability.",
     "The course includes practical examples, sample specifications, and real-world case studies to enhance applied learning."
   ],
-  image: require("./coursesImg/Fundamentals of Control Valve Engineering.png"),
+  image: "https://i.ibb.co/wFj1KgJR/Fundamentals-of-Control-Valve-Engineering-70877eb488ccea471af0.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -2122,7 +2122,7 @@ export const projects = [
     "Special focus is given to glycol dehydration using liquid desiccants.",
     "The course concludes with real-world case studies to highlight practical challenges and solutions in gas dehydration operations."
   ],
-  image: require("./coursesImg/Gas Dehydration.png"),
+  image: "https://i.ibb.co/GfR1Bgpm/Gas-Dehydration-4ab1e42d224e7d9a335e.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -2182,7 +2182,7 @@ export const projects = [
     "Participants will explore different furnace types, learn how to assess furnace efficiency, and identify practical energy-saving measures.",
     "Real-world case studies will provide insight into best practices, common issues, and optimization strategies used across industries such as metallurgy, petrochemicals, ceramics, and manufacturing."
   ],
-  image: require("./coursesImg/Furnaces.png"),
+  image: "https://i.ibb.co/TGd6JWG/Furnaces-46c00bc0e4ebe04adfab.png",
   tags: [
     "Trainer: Engr. Adeyemi"
   ],
@@ -2231,7 +2231,7 @@ export const projects = [
     "In industrial and infrastructure projects, engineering disciplines work in coordination to deliver safe, functional, and cost-effective systems. Each discipline contributes through distinct phases of design, analysis, and documentation. Their deliverables are essential for procurement, construction, commissioning, and operation.",
     "This course provides a structured understanding of the roles, responsibilities, and key deliverables of each major engineering discipline in an industrial project environment. It highlights the scope of work and interdependencies across process, mechanical, civil, piping, instrumentation, and electrical engineering, among others. The course is designed to give participants clarity on typical outputs, coordination challenges, and quality expectations from each discipline, with practical reinforcement through case studies."
 ],
-  image: require("./coursesImg/Engineering disciplines (Activities and Deliverables).png"),
+  image: "https://i.ibb.co/sJ5hmGQb/Engineering-disciplines-Activities-and-Deliverables-60909887a190f08b1d90.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -3677,7 +3677,7 @@ export const projects = [
     "The data gathered from well testing helps determine reservoir capacity, fluid properties, pressure behavior, and production optimization strategies. It is an essential step during well commissioning, reservoir evaluation, and even during the life of a well for performance monitoring. Well testing provides insights for decision-making on field development, enhanced recovery methods, well interventions, and economic viability of the reservoir.",
     "This course provides a comprehensive introduction to well testing in oil and gas operations, covering both theoretical foundations and practical applications. It is designed to equip engineers and field professionals with the knowledge and tools to plan, execute, and interpret well tests effectively. The course explores the types of tests used to evaluate reservoir characteristics, production potential, and flow behavior, emphasizing surface and downhole equipment and data analysis methods."
 ],
-  image: require("./coursesImg/well testing.png"),
+  image: "https://i.ibb.co/8L9Sk71w/well-testing-36c825136b6b16850511.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -3729,7 +3729,7 @@ export const projects = [
     "Open hole logging is the process of recording physical, chemical, and structural properties of the subsurface formations in a wellbore before casing or completion. It involves lowering measurement tools into an uncased (open) borehole to gather continuous data, which helps characterize the reservoir and guide drilling, completion, and production decisions. ",
     "This course offers a thorough introduction to open hole well logging, a critical technique for evaluating subsurface formations during drilling operations. The curriculum covers conventional logging tools, advanced interpretation methods, procedural workflows at the wellsite, and the application of high-tech logs, especially in horizontal wells. Through detailed modules and real-world case studies, participants will gain the skills to interpret log data and make informed reservoir decisions."
 ],
-  image: require("./coursesImg/Well Logging (Part-1_ Open Hole Logging).png"),
+  image: "https://i.ibb.co/1tjbxMrt/Well-Logging-Part-1-Open-Hole-Logging-144186eb90cfd1915b1d.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -3782,7 +3782,7 @@ export const projects = [
     "Cased hole logging refers to logging operations conducted after the well has been completed and the casing has been installed and cemented in place. These logs provide valuable data for reservoir monitoring, production evaluation, well integrity assessment, and secondary recovery planning. Unlike open hole logging, cased hole logging tools are specifically designed to measure through steel casing and cement. ",
     "This course introduces the principles, tools, and applications of cased hole logging, a crucial method used to evaluate well integrity, production performance, and reservoir characteristics after casing has been installed. Participants will explore a wide range of cased hole tools including cement evaluation logs, casing inspection logs, and production logging tools. The course also covers advanced acoustic and nuclear tools and provides practical insights through case studies."
 ],
-  image: require("./coursesImg/Well Logging (Part-2_ Cased Hole Logging).png"),
+  image: "https://i.ibb.co/4RT7b4p2/Well-Logging-Part-2-Cased-Hole-Logging-214c3c7c0d07e9afde20.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4338,7 +4338,7 @@ export const projects = [
     "Fired heaters are critical equipment in refineries, petrochemical plants, and gas processing facilities. They supply the necessary heat to process fluids through direct combustion of fuel, typically used in applications such as crude preheating, reforming, or thermal cracking.",
     "This course introduces the fundamental principles, design considerations, and operational practices of fired heaters used in industrial process systems—especially in refineries and petrochemical plants. Participants will explore different fired heater configurations, performance monitoring techniques, common operational challenges, and troubleshooting methods. The course includes practical case studies to connect theory with real-world applications."
   ],
-  image: require("./coursesImg/fired heaters.png"),
+  image: "https://i.ibb.co/xKmyq2dS/fired-heaters-874b32ba15aebbaffa40.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4386,7 +4386,7 @@ export const projects = [
     "Field instrumentation refers to the measurement and control devices installed in process plants and industrial facilities to monitor and regulate variables such as pressure, temperature, flow, level, and composition. These instruments are installed directly in the field (at or near process equipment) and are essential for safe, efficient, and automated operation of process systems.",
     "This course offers a practical and technical foundation in the core elements of field instrumentation used in industrial process control. It covers the fundamental principles, types of measurements, calibration techniques, control loop configurations, safety systems, and international standards. The course prepares participants to work effectively with instruments used in flow, pressure, temperature, and level control."
   ],
-  image: require("./coursesImg/field instrumentation.png"),
+  image: "https://i.ibb.co/9kKgfcYW/field-instrumentation-310e86f5f88cac1a1803.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4440,7 +4440,7 @@ export const projects = [
     "Fire protection piping systems are critical for safeguarding life, property, and equipment in industrial, commercial, and residential facilities. These systems are designed to quickly detect and suppress fires using water, foam, gas, or chemical agents distributed through a network of specialized piping, valves, and discharge devices.",
     "This course provides a comprehensive overview of fire protection piping systems used in industrial, commercial, and residential applications. It covers applicable codes and standards, types of piping systems, design methods, pressure loss calculations, material selection, and pump requirements. The course also focuses on sprinkler system configuration and performance, supported by real-world case studies to demonstrate best practices and lessons learned."
   ],
-  image: require("./coursesImg/fire protection piping systems.png"),
+  image: "https://i.ibb.co/r2L7zJ1Y/fire-protection-piping-systems-7a63eee6920a74371519.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4493,7 +4493,7 @@ export const projects = [
     "Cryogenic and refrigeration piping systems are designed to transport fluids at extremely low temperatures, typically below -100°C for cryogenics and between -50°C and +10°C for refrigeration. These systems are essential in industries such as liquefied natural gas (LNG), air separation, food processing, pharmaceuticals, and industrial gas handling.",
     "This course provides an essential foundation for designing and operating piping systems used in cryogenic and refrigeration applications. It covers industry codes and standards, fluid properties, material selection, and pressure drop considerations specific to low-temperature systems. The course is ideal for engineers involved in LNG, industrial gas, or refrigeration projects. Real-world case studies are included to illustrate design challenges, safety practices, and operational optimization."
   ],
-  image: require("./coursesImg/cryogenic and refrigeration piping systems.png"),
+  image: "https://i.ibb.co/DPwwXzKr/cryogenic-and-refrigeration-piping-systems-1de7d650d2d290b7cd94.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4543,7 +4543,7 @@ export const projects = [
     "Piping systems form the backbone of any industrial facility, enabling the safe and efficient transport of fluids (liquids, gases, or slurries). Within these, compressed-air systems piping is a specialized sub-system used to deliver compressed air—a critical utility in manufacturing plants, workshops, oil & gas operations, power plants, and many automated systems. Compressed air is often referred to as the 'fourth utility' (after electricity, water, and gas) due to its vital role in instrumentation, pneumatic tools, valve actuators, packaging, and control systems.",
     "This course provides in-depth knowledge of compressed-air systems used in industrial piping networks. It covers the physical behavior of air, flow characteristics, and pressure drop considerations, along with equipment such as fans, blowers, and compressors. Participants will gain practical skills in designing efficient compressed-air piping layouts, calculating system losses, and optimizing air delivery through nozzles. Real-world case studies will reinforce learning and application."
   ],
-  image: require("./coursesImg/compressed-air systems piping.png"),
+  image: "https://i.ibb.co/N2s2GRWr/compressed-air-systems-piping-f4873e3f71ff94f59506.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4596,7 +4596,7 @@ export const projects = [
     "An absorption column is a process equipment used to transfer a soluble component from a gas phase into a liquid phase through mass transfer. It is widely used in chemical, petrochemical, gas processing, and environmental applications such as removing CO₂, H₂S, or volatile organics from gas streams.",
     "This course provides a comprehensive understanding of the design and engineering principles behind absorption columns used in industrial gas-liquid separation processes. Participants will explore each stage of the design process—from gathering project data to the detailed mechanical design in compliance with ASME codes. The course includes the design of column internals, nozzles, supports, and flanged joints, supported by practical case studies."
   ],
-  image: require("./coursesImg/Equipment Absorption Column Design.png"),
+  image: "https://i.ibb.co/bhQ0jG1/Equipment-Absorption-Column-Design-6f8d6a85951bd6e2ddf9.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4654,7 +4654,7 @@ export const projects = [
 
     "This course offers an in-depth exploration of methods used to characterize crude oil properties as outlined by the American Petroleum Institute (API). The program covers essential measurement techniques for distillation, vapor pressure, heat capacity, viscosity, thermal conductivity, and other physical and chemical characteristics necessary for crude oil evaluation and modeling in refining and upstream operations."
 ],
-  image: require("./coursesImg/API Crude Oil Characterization Measurement.png"),
+  image: "https://i.ibb.co/Z1Y36Rkp/API-Crude-Oil-Characterization-Measurement-45209e704584927852d1.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4711,7 +4711,7 @@ export const projects = [
     "A turboexpander is a high-speed rotating device that extracts energy from a pressurized hydrocarbon gas stream by allowing it to expand and cool rapidly. It is commonly used in natural gas processing, NGL (natural gas liquids) recovery, and cryogenic separation processes.",
     "This course explores the design principles, operational characteristics, and supporting systems of hydrocarbon turboexpanders used in gas processing and cryogenic applications. Participants will gain insights into design fundamentals, auxiliary components, operation procedures, and reliability management. The course also introduces modern features such as magnetic bearings and noise control strategies, with real-world case studies for contextual understanding."
   ],
-  image: require("./coursesImg/Design & Operation of Hydrocarbon Turboexpanders.png"),
+  image: "https://i.ibb.co/G4CsBTkG/Design-Operation-of-Hydrocarbon-Turboexpanders-15229129a4f4e7d3231f.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4766,7 +4766,7 @@ export const projects = [
     "An expansion tank in a chilled water system is designed to absorb the volume changes in the water due to temperature fluctuations. Though chilled water systems typically operate at lower temperatures, thermal expansion still occurs and must be accommodated to prevent pressure buildup, equipment stress, or system damage.",
     "This course provides a focused study on the principles and practices of designing expansion tanks for chilled water systems. Participants will learn about the function of expansion tanks in managing system pressure changes, the various types of expansion tanks, and how to properly size and select them for different HVAC applications. Practical examples and calculator usage are included to enhance applied understanding."
   ],
-  image: require("./coursesImg/Expansion Tank Design (Chilled Water).png"),
+  image: "https://i.ibb.co/nsfY0XCV/Expansion-Tank-Design-Chilled-Water-dad8556c1e9a2b566a0e.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4818,7 +4818,7 @@ export const projects = [
     "This course outlines the total procedure covering the design, fabrication, installation, inspection, and commissioning of piping for upstream E&P equipment such as wellheads, separators, pumps, compressors, and storage units.",
     "This course provides a comprehensive understanding of piping systems used in upstream oil and gas exploration and production operations. It covers functional roles, piping components, data representation, and operational practices. The course also addresses common troubleshooting techniques and real-world case studies to reinforce practical knowledge."
   ],
-  image: require("./coursesImg/Exploration & Production Equipment Piping.png"),
+  image: "https://i.ibb.co/k2b0JH3n/Exploration-Production-Equipment-Piping-70d5347724311c5a4a41.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4868,7 +4868,7 @@ export const projects = [
     "A fuel gas distribution piping system is a specialized network within industrial and commercial facilities that safely transports combustible gases (like natural gas, LPG, or manufactured gases) from a central source (e.g., a gas manifold, bulk tank, or pipeline) to end-use equipment such as furnaces, turbines, boilers, burners, or engines. These systems are crucial for industries where reliable, safe, and regulated gas supply is essential for continuous operation and energy efficiency.",
     "This course delivers a comprehensive understanding of fuel gas distribution piping systems, focusing on the physical behavior of fuel gases, applicable codes and standards, system components, and sizing methodologies. It includes detailed modules on LPG systems—covering transportation, storage, and tank sizing. Through practical case studies, participants will develop the skills necessary to design, operate, and troubleshoot safe and efficient fuel gas piping systems across residential, commercial, and industrial applications."
 ],
-  image: require("./coursesImg/fuel gas distribution piping system.png"),
+  image: "https://i.ibb.co/5XvgRLHb/fuel-gas-distribution-piping-system-f48f6c649b55c249e5a5.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -4926,7 +4926,7 @@ export const projects = [
     "Due to the volatile and pressurized nature of gases, gas piping systems require precise engineering, strict safety measures, and compliance with codes and standards to prevent leaks, explosions, or operational hazards.",
     "This course provides an in-depth understanding of gas transmission and distribution piping systems. It focuses on the physical properties of gases, pressure drop calculations, pipeline configurations, and the use of compressors to maintain flow and pressure. Participants will also gain insights into stress analysis and cost optimization strategies essential for safe, reliable, and economical gas pipeline operations. The course is reinforced with practical case studies from real industrial applications."
   ],
-  image: require("./coursesImg/gas piping system.png"),
+  image: "https://i.ibb.co/0yBw8817/gas-piping-system-e8abb3a11017a4e90abf.png",
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
@@ -5337,7 +5337,7 @@ export const projects = [
     description:
       "A Basic Line Sizing course typically aims to equip students with the fundamental knowledge and skills required to determine the appropriate size of pipes or lines for fluid transportation systems.",
     image:
-    require("./coursesImg/Basic line.png"),
+    "https://i.ibb.co/JwZmfkvB/Basic-line-85d1dc18a0677b69c28e.png",
     tags: ['Trainer: Engr. Okechukwu'],
     category: "process",
 
@@ -5430,7 +5430,7 @@ export const projects = [
       "A control valve sizing course aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size of control valves for various industrial applications.",
       "Either ISA 75.01.01, IEC 60534-2-1, API 609, DEP.32.36.01.17-GEN, AWWA C504 codes standard will be use for the sizing."],
       image:
-      require("./coursesImg/CONTROL VALVE SIZING.png"),
+      "https://i.ibb.co/MDMVGWGH/CONTROL-VALVE-SIZING-9e913fc4d55572dd10a7.png",
     tags: ["Trainer: Engr. Magnus"],
     category: "process",
     github: "https://github.com/Joseffl/ai_summarizer",
@@ -5479,7 +5479,7 @@ export const projects = [
     description:
       "A gas line sizing course typically aims to equip participants with the knowledge and skills necessary to accurately determine the appropriate size for gas lines in various industrial applications. Either API Rp 14e, IS0 13075 or P001 codes standard will be use for the sizing.",
       image:
-      require("./coursesImg/gas line sizing.png"),
+      "https://i.ibb.co/WTzqk80/gas-line-sizing-354b3c6b8f0ad972ada4.png",
       tags: [
       'Trainer: Engr. Okechukwu',
     ],
@@ -5537,7 +5537,7 @@ export const projects = [
     description:
       "A Hazard Identification (HAZID) course is a comprehensive program designed to equip individuals with the essential knowledge and skills to proactively identify, assess, and manage potential hazards within their workplace or projects. This course is crucial for ensuring workplace safety, regulatory compliance, and minimizing the risk of accidents or incidents.",
       image:
-      require("./coursesImg/hazid.png"),
+      "https://i.ibb.co/Kz9mmz9S/hazid-07dad38530b00db64cf5.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -5661,7 +5661,7 @@ export const projects = [
     description:
       "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector. This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives.",
     image:
-    require("./coursesImg/change management.png"),
+    "https://i.ibb.co/PvQJdY5m/change-management-773c716fc19181d78097.png",
     tags: [
       'Trainer: Engr. Magnus',
     ],
@@ -6901,7 +6901,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/ATMOSPHERIC AND LOW-PRESSURE STORAGE TANK VENTING.png"),
+      "https://i.ibb.co/3mg5pYxw/ATMOSPHERIC-AND-LOW-PRESSURE-STORAGE-TANK-VENTING-2c6bb4c7755892091651.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7151,7 +7151,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/ABSORPTION AND STRIPPING.png"),
+      "https://i.ibb.co/p6RjFsvF/ABSORPTION-AND-STRIPPING-dffcb2e377c4796877bd.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -7237,7 +7237,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/BASIC OPERATION AND FUNCTION OF CONTROL VALVES.png"),
+      "https://i.ibb.co/270mC6x5/BASIC-OPERATION-AND-FUNCTION-OF-CONTROL-VALVES-a325b8d8ebff3e414d30.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7336,7 +7336,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/BOILER EMERGENCIES.png"),
+      "https://i.ibb.co/pjBmVWd8/BOILER-EMERGENCIES-6f5a6da598dc633b79a2.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7445,7 +7445,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/AUXILLARY SYSTEM OF THE GAS TURBINE.png"),
+      "https://i.ibb.co/Kj5ntCD3/AUXILLARY-SYSTEM-OF-THE-GAS-TURBINE-66cd4fd713262cee18aa.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -7535,7 +7535,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/api centrifugal pump.png"),
+      "https://i.ibb.co/hxxTLds8/api-centrifugal-pump.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -7624,7 +7624,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/AUTOMATION AND PLC.png"),
+      "https://i.ibb.co/r2tZrkmN/AUTOMATION-AND-PLC-ae23e0cfed5f0b2b8dc8.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -7715,7 +7715,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/CARBON STEEL.png"),
+      "https://i.ibb.co/Hp4VnGpN/CARBON-STEEL-a8c7516bd0d01687fb70.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -7814,7 +7814,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/CALIBRATION - TECHNICIANS GUIDE.png"),
+      "https://i.ibb.co/nqB0hmX2/CALIBRATION-TECHNICIANS-GUIDE-ebe28aed563c8ad6c14f.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -7910,7 +7910,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/CAUSES OF DELAYS IN EPC, PM.png"),
+      "https://i.ibb.co/Kpp1hQsR/CAUSES-OF-DELAYS-IN-EPC-PM-196c448bbedbd84a84c9.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -8004,7 +8004,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/COMPRESSOR.png"),
+      "https://i.ibb.co/0RQx3djW/COMPRESSOR-28d17c48f9d9c07a337b.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -8117,7 +8117,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/Centrifugal.png"),
+      "https://i.ibb.co/vCSNRQT3/Centrifugal-3797efb49e19a5863975.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -8212,7 +8212,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/API 653- sTORAGE TANK INSPECTION.png"),
+      "https://i.ibb.co/XnfnwyZ/API-653-s-TORAGE-TANK-INSPECTION-fb1b69744ad3efbdf724.png",
     tags: [
       'Trainer: Engr. Okechuckwu',
     ],
@@ -8316,7 +8316,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/DISTILLATION.png"),
+      "https://i.ibb.co/PZFL72kZ/DISTILLATION-861790fb45f9b577826f.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -8432,7 +8432,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/distillation column.png"),
+      "https://i.ibb.co/VcZMCt2k/distillation-column-cb1aa93f0c9b3dd7475d.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -8773,7 +8773,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/basic drafting.png"),
+      "https://i.ibb.co/PsmNv0vb/basic-drafting-45b61c50e3368c7eeb03.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -8897,7 +8897,7 @@ export const projects = [
 
     ],
       image:
-      require("./coursesImg/gas processing.png"),
+      "https://i.ibb.co/fG9PNsZk/gas-processing-f34fd991b24cd32874ad.png",
     tags: [
       'Trainer: Engr. Magnus',
     ],
@@ -9107,7 +9107,7 @@ export const projects = [
       "Electrical Drafting (Microsoft Visio) Engineering course is designed to teach individuals how to use Microsoft Visio for creating electrical schematics, wiring diagrams, circuit layouts, and other types of electrical drawings. This course is suitable for electrical engineers, designers, and technicians looking to develop skills in visualizing and documenting electrical systems using Visio."
     ],
       image:
-      require("./coursesImg/electrical drafting.png"),
+      "https://i.ibb.co/4RCgpbdY/electrical-drafting-7aa412a803e5480784d4.png",
     tags: [
       'Trainer: Engr. Adeyemi',
     ],
@@ -9682,7 +9682,7 @@ export const projects = [
       "The Well Servicing and Workover course is designed to provide a comprehensive understanding of the techniques, equipment, and procedures used in well maintenance, repair, and enhancement. Well servicing and workover operations are essential to ensure that oil and gas wells maintain optimal production rates throughout their lifespan. The course covers a range of operations, from light and heavy workovers on live wells to servicing killed wells. Participants will also explore special cases that require unique approaches, along with detailed case studies to highlight real-world challenges and solutions. This course equips participants with the knowledge and skills necessary to safely and efficiently manage well servicing and workover operations."
     ],
       image:
-      require("./coursesImg/Well Servicing and Workover.png"),
+      "https://i.ibb.co/gF6JQVfr/Well-Servicing-and-Workover-a64598162d8161eac24c.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -9760,7 +9760,7 @@ export const projects = [
       "The Artificial Lift course focuses on the various methods and technologies used to enhance the production of oil and gas from wells where natural reservoir pressure is insufficient to lift fluids to the surface. Artificial lift systems are essential for maintaining production rates and optimizing well performance over time. This course covers key artificial lift methods such as pumping systems and gas lift, providing participants with the knowledge to choose and apply the right artificial lift method based on well conditions and reservoir characteristics. Through practical case studies, participants will also learn how to evaluate, troubleshoot, and optimize artificial lift systems to ensure efficient and cost-effective operations."
     ],
       image:
-      require("./coursesImg/Artificial Lift.png"),
+      "https://i.ibb.co/Mkwh2hKp/Artificial-Lift-ff0b7d16ad0bd6dea0b0.png",
     tags: [
       'Trainer: Engr. Okechukwu',
     ],
@@ -9982,7 +9982,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/connecting the payzone.png"),
+      "https://i.ibb.co/Kz50QJF1/connecting-the-payzone-e9e3e587c406fe6425da.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -10736,7 +10736,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/conceptual stage.png"),
+      "https://i.ibb.co/KxdBgbh1/conceptual-stage-15a8249ee56c1e67ac22.png",
     tags: [
       'Trainer: Engr. Okechukwu',
     ],
@@ -10811,7 +10811,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/contract admin.png"),
+      "https://i.ibb.co/PZ9HNCpf/contract-admin-a8367424bb0016d4e36e.png",
     tags: [
       'Trainer: Engr. Okechukwu',
     ],
@@ -10888,7 +10888,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/cost estimating.png"),
+      "https://i.ibb.co/P82kD35/cost-estimating-7fe6efbff445021b6384.png",
     tags: [
       'Trainer: Engr. Magnus',
     ],
@@ -10964,7 +10964,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/eng safety checklist.png"),
+      "https://i.ibb.co/WjZtgGS/eng-safety-checklist-7ee72e015a7d9deb6c00.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -11054,7 +11054,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/air receiver sizing.png"),
+      "https://i.ibb.co/LD4nMQ4v/air-receiver-sizing-22424599ed97ff846349.png",
     tags: [
       'Trainer: Engr. Lateef',
     ],
@@ -11424,7 +11424,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/cause and effect.png"),
+      "https://i.ibb.co/WvtPqBzj/cause-and-effect-c8968c8623f65c544f5c.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -11510,7 +11510,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Air dryer.png"),
+      "https://i.ibb.co/DHDXVvKL/Air-dryer-9a49b5690ccbe8dc8d08.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -11821,7 +11821,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/fundamentals.png"),
+      "https://i.ibb.co/JF8QCxjd/fundamentals-b8df2714f79ffbaebd6a.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -12765,7 +12765,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Basic Production.png"),
+      "https://i.ibb.co/zV8gVkpX/Basic-Production-9cf8098dbe2d52852f23.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -12845,7 +12845,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Chemical Process.png"),
+      "https://i.ibb.co/xSGFpP3r/Chemical-Process-0caa2c2fd711276f6ccd.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -12935,7 +12935,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Decision Making.png"),
+      "https://i.ibb.co/9k81QV1N/Decision-Making-440e89025f1fb56ec9a0.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13019,7 +13019,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Depressuring Blowdown.png"),
+      "https://i.ibb.co/Ng0r6Gxv/Depressuring-Blowdown-8b3a1b3f54f8b77b10e4.png",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13101,7 +13101,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Axial.jpg"),
+      "https://i.ibb.co/vxYxdGCs/Axial-7e96ac8423111d975ba0.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13191,7 +13191,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Axial.jpg"),
+      "https://i.ibb.co/vxYxdGCs/Axial-7e96ac8423111d975ba0.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13468,7 +13468,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/EPC contract.jpg"),
+      "https://i.ibb.co/JwMJF2ts/EPC-contract-7458e17669f848bce020.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13565,7 +13565,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Fabrication installation.jpg"),
+      "https://i.ibb.co/4hswn5p/Fabrication-installation-c91b13b990b40e8f3554.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13676,7 +13676,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Air-cooled.jpg"),
+      "https://i.ibb.co/xt83xxFV/Air-cooled-560db2c1758e12c47f07.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13789,7 +13789,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Air conditioning.jpg"),
+      "https://i.ibb.co/zV7HcDx4/Air-conditioning-67cfdf062a9e556b03f3.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -13889,7 +13889,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Compact.jpg"),
+      "https://i.ibb.co/TDqGPXZj/Compact-735a8d90115d7fd1f386.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -14004,7 +14004,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Cryogenic processes.jpg"),
+      "https://i.ibb.co/spzS8zBt/Cryogenic-processes-dde6b5f66e83d2a03675.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -14098,7 +14098,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Hairpin.jpg"),
+      "https://i.ibb.co/5gpwwXHK/Hairpin-664b51ce2d0ce5f9a213.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -14676,7 +14676,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/Guidance on Valves Selection.jpg"),
+      "https://i.ibb.co/0VZXCJNC/Guidance-on-Valves-Selection-6cd0ef17db8a2f501ff1.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -14897,7 +14897,7 @@ export const projects = [
     
     ],
       image:
-      require("./coursesImg/guidelines for auditing.jpg"),
+      "https://i.ibb.co/tM766rD8/guidelines-for-auditing-a842ec00054a4b770255.jpg",
     tags: [
       'Trainer: Engr. Majid',
     ],
@@ -15408,7 +15408,7 @@ export const projects = [
       "An Effluent Treatment Plant (ETP) involves a series of physical, chemical, and biological processes to treat wastewater generated from industrial activities, including manufacturing, chemical processing, food production, and more. The effluent may contain a wide variety of pollutants such as organic compounds, suspended solids, oils, heavy metals, and other harmful substances. The treatment process helps to purify the effluent and make it safe for discharge or reuse.",
       "This course provides a comprehensive understanding of Effluent Treatment Plants (ETPs), essential for professionals working in industries that deal with wastewater treatment. It covers the fundamental concepts, necessity, design, operational aspects, and mechanisms involved in ETPs. By exploring real-world case studies, participants will gain insights into practical challenges and solutions in wastewater management. The course emphasizes the importance of sustainable practices, compliance with environmental regulations, and advanced treatment technologies to ensure the effective handling of industrial effluents."
   ],
-  image: require("./coursesImg/effluent treatment.jpg"),
+  image: "https://i.ibb.co/bghKDCQx/effluent-treatment-1550837d1d2a03323c9f.jpg",
   tags: [
       'Trainer: Engr. Adeyemi',
   ],
@@ -15602,7 +15602,7 @@ export const projects = [
       "A catalyst is a substance that increases the rate of a chemical reaction without being consumed or altered in the process. Catalysts provide an alternative reaction pathway with a lower activation energy, making it easier for reactions to occur at a given temperature.",
       "This course provides an in-depth exploration of catalysts used in various industrial processes, including hydrotreating, desulfurization, reforming, shift conversion, and methanation. Participants will gain an understanding of catalyst properties, thermodynamics, design principles, and operational best practices. The course also covers troubleshooting strategies and case studies, enabling learners to apply theoretical knowledge to real-world challenges in catalytic processes."
   ],
-  image: require("./coursesImg/CATALYST.jpg"),
+  image: "https://i.ibb.co/XxxhBSJ8/CATALYST-b25428ac25deb21303f8.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -15663,7 +15663,7 @@ export const projects = [
       "DWSIM is an open-source process simulator designed for the modeling, simulation, and optimization of chemical processes. It is a powerful tool that allows engineers to create flow sheets, simulate chemical processes, perform calculations, and optimize the design of systems.",
       "This course provides a hands-on introduction to DWSIM, a powerful open-source process simulation software used for modeling, simulation, and optimization in chemical and process engineering. Participants will learn to build and configure process simulations, perform sensitivity analyses, optimize process flowsheets, and model chemical reactions. The course also covers advanced features, including handling hypothetical components, characterizing petroleum fractions, and utilizing component databases. Through interactive case studies, participants will gain practical experience in applying DWSIM to solve real-world engineering challenges."
   ],
-  image: require("./coursesImg/DWSIM.jpg"),
+  image: "https://i.ibb.co/q3y8XgSf/DWSIM-53e0b30819d8026fdc1d.jpg",
   tags: [
       'Trainer: Engr. Adeyemi',
   ],
@@ -15728,7 +15728,7 @@ export const projects = [
       "Firefighting Design refers to the systematic approach and engineering design principles used to implement fire safety systems in various facilities or industrial plants. Proper firefighting design ensures that potential fire hazards are controlled, and in case of a fire emergency, effective systems are in place to suppress or contain the fire, minimize damage, and protect lives and property.",
       "This course provides a comprehensive understanding of firefighting system design, focusing on NFPA standards applicable to sprinkler systems, fire hydrants, fire pumps, standpipes, foam systems, and smoke control. Participants will gain insights into the principles of fire protection engineering, system layout, flow requirements, and performance criteria essential for designing effective fire suppression and smoke control systems. The course also includes real-world case studies to help learners apply NFPA standards to practical fire safety scenarios."
   ],
-  image: require("./coursesImg/Firefighting.jpg"),
+  image: "https://i.ibb.co/XxXWqHBh/Firefighting-149d85c251ba4a2fc6ca.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -15789,7 +15789,7 @@ export const projects = [
       "Flowmeters are devices used to measure the flow rate or quantity of a gas or liquid moving through a pipe or duct. Accurate flow measurement is critical in many industries, such as oil and gas, water treatment, chemical processing, and HVAC systems, as it helps ensure proper system functioning, efficiency, and safety.",
       "This course provides a comprehensive understanding of flow measurement technologies, focusing on different types of flowmeters and their applications in industrial processes. Participants will learn about volumetric flowmeters, direct force measurement techniques, frequency-based and mass flowmeters, as well as other specialized types. The course will cover selection criteria, industry-specific applications, and troubleshooting common flow measurement challenges. Real-world case studies will offer practical insights into choosing and optimizing flowmeters for various operating conditions."
   ],
-  image: require("./coursesImg/Flowmeters.jpg"),
+  image: "https://i.ibb.co/fd82pn98/Flowmeters-75ef4fa33868bf3d1c63.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -15848,7 +15848,7 @@ export const projects = [
       "The Project Definition Phase in engineering and design projects is the stage where the groundwork for the project is laid out. During this phase, a significant portion of the project's planning, scope, and design is defined, and drawings and symbols play an essential role in communicating technical information. They are used to represent concepts, systems, equipment, and infrastructure in a standardized, clear, and accurate manner.",
       "This course provides a structured understanding of drawings, symbols, and presentation principles used in the project definition phase of engineering and industrial projects. Participants will gain insights into standards, graphical representations, CAD software applications, and system settings to ensure consistency and clarity in technical documentation. The course also covers equipment visualization, deliverables, and case studies to provide real-world examples of best practices in technical drawing and symbol usage."
   ],
-  image: require("./coursesImg/Drawings and symbols.jpg"),
+  image: "https://i.ibb.co/67qCJvJ0/Drawings-and-symbols-f55e96a5d8c0956c3839.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -15911,7 +15911,7 @@ export const projects = [
       "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
       "This course provides a detailed understanding of the design solutions required to prevent and mitigate process equipment failures. Participants will learn techniques for selecting design bases for process safety systems, along with design considerations for vessels, reactors, mass transfer equipment, and heat transfer equipment. The course also includes real-world case studies to illustrate common failure mechanisms and effective engineering solutions for ensuring safe and reliable operations in industrial settings."
   ],
-  image: require("./coursesImg/guidelines 1.jpg"),
+  image: "https://i.ibb.co/LDPggcX4/guidelines-1-4ee6fe35622bedcbcffb.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
@@ -15970,7 +15970,7 @@ export const projects = [
       "Designing solutions for process equipment failures is a critical task in ensuring the safety, reliability, and efficiency of industrial operations. Failures in equipment can lead to accidents, unplanned downtime, and increased operational costs. Proper design solutions should mitigate the risks associated with such failures and enhance the system's overall resilience.",
       "This course provides a structured approach to understanding design solutions for process equipment failures, focusing on preventing operational disruptions, ensuring process safety, and optimizing equipment reliability. Participants will explore failure mechanisms, root causes, and design improvements for various types of process equipment, including dryers, fluid transfer equipment, solid-fluid separators, solids handling equipment, fired equipment, and piping systems. Real-world case studies will be analyzed to demonstrate best practices for mitigating failures and improving equipment performance."
   ],
-  image: require("./coursesImg/guidelines 2.jpg"),
+  image: "https://i.ibb.co/M5hdpKBn/guidelines-2-09e069a6240095322ed7.jpg",
   tags: [
       'Trainer: Engr. Majid',
   ],
