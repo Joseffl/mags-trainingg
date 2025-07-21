@@ -335,6 +335,19 @@ export const experiences = [
   
 ];
 
+export const privacypolicy = [
+  {
+    id: 0,
+    subtitle: "Use of Services",
+    items: [
+      "You must be at least 18 years old or have parental consent to register for any of our training programs.",
+      "You agree to provide accurate and up-to-date information during registration.",
+      "Course content is for personal educational use only and may not be copied, distributed, or resold."       
+    ],
+   
+  },
+]
+
 const slugify = (text) =>
   text
     .toLowerCase()

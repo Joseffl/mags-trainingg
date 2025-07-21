@@ -18,6 +18,9 @@ import RoleDetailsPage from './components/RoleDetailsPage';
 import SkillDetail from "./components/SkillDetails/index.js";
 import Index from "./components/Experience";
 import CoursePage from "./pages/CoursePage/index.js";
+import Terms from "./components/Terms/index.js";
+import Privacy from "./components/PrivacyPolicy/index.js";
+import Refund from "./components/Refund/index.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -74,6 +77,9 @@ function App() {
             <Route path="/services/:id" element={<SkillDetail openModal={openModal} setOpenModal={setOpenModal}/>} />
             {/* <Route path="/" element={<ServicesPage />} /> */}
             <Route path="/courses/:slug" element={<CoursePage />} />
+            <Route path="/T&C" element={<Terms />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/refund" element={<Refund />} />
 
             <Route 
               path="/role/:id" 
@@ -86,6 +92,7 @@ function App() {
             />
           </Routes>
           <Footer />
+          
           
           {/* Handle modals */}
           {openModal.state && (

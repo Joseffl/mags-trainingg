@@ -8,6 +8,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import EmailIcon from '@mui/icons-material/Email';
 import HomeIcon from '@mui/icons-material/Home';
 import { Bio } from '../../data/constants';
+import { Link } from 'react-router-dom';
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -90,6 +91,21 @@ const ContactItem = styled.a`
   }
 `;
 
+const FootLink = styled.a`
+  display: flex;
+  align-items: center;
+  max-width: 520px; /* Limit width */
+  gap: 10px;
+  font-size: 0.9rem;
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #d4ffd8; /* Light green for hover effect */
+  }
+`;
+
 
 
 function Footer() {
@@ -112,6 +128,14 @@ function Footer() {
         <ContactDetails>
         <ContactItem>
             <HomeIcon /> 10, Wals Close, Trans-Amadi Industrial Layout, Rivers State, Nigeria.
+          </ContactItem>
+        </ContactDetails>
+
+        <ContactDetails>
+        <ContactItem>
+            <FootLink as={Link} to="/T&C">Terms and Conditions</FootLink>
+            <FootLink as={Link} to="/Privacy">Privacy Policy</FootLink>
+            <FootLink as={Link} to="/Refund">Refund Policy</FootLink>
           </ContactItem>
         </ContactDetails>
         
