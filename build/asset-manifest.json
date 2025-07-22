@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c1add93.css",
-    "main.js": "/static/js/main.e69bb826.js",
+    "main.js": "/static/js/main.b2be3326.js",
     "static/media/piping systems & piping calculation.png": "/static/media/piping systems & piping calculation.932826f0057007093f38.png",
     "static/media/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.png": "/static/media/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.755ae8491fd59507826a.png",
     "static/media/Process I & C(Transmission Systems).png": "/static/media/Process I & C(Transmission Systems).5b9ad87ad4af3748690b.png",
@@ -100,6 +100,7 @@
     "static/media/psv1.png": "/static/media/psv1.c1a388b4d86fd51e8bdb.png",
     "static/media/liquid line sizing.png": "/static/media/liquid line sizing.fb62316d64307857e0e8.png",
     "static/media/vert.png": "/static/media/vert.c330cfa7afa18ed4b1f1.png",
+    "static/media/Piping Inspection Code_ In-service Inspection, Rating, Repair, and Alteration of Piping Systems.jpg": "/static/media/Piping Inspection Code_ In-service Inspection, Rating, Repair, and Alteration of Piping Systems.d26c6bb982dcb8f8d2ff.jpg",
     "static/media/Axial.jpg": "/static/media/Axial.7e96ac8423111d975ba0.jpg",
     "static/media/Project Schedule.jpg": "/static/media/Project Schedule.e0c87def3a7fc9f0db92.jpg",
     "static/media/Pipeline Engineering.jpg": "/static/media/Pipeline Engineering.ad523cd6d01b1898c066.jpg",
@@ -109,17 +110,26 @@
     "static/media/Heat Transfer Equipment Course.jpg": "/static/media/Heat Transfer Equipment Course.757d48e605775cbea231.jpg",
     "static/media/liquid gas.jpg": "/static/media/liquid gas.91a7757700035c0067ad.jpg",
     "static/media/Natural Gas.jpg": "/static/media/Natural Gas.55905fefc20c1a3e9efe.jpg",
+    "static/media/Hydrogen System Code, Standards and Guidelines.jpg": "/static/media/Hydrogen System Code, Standards and Guidelines.a3ae6b557d6e49809ce2.jpg",
     "static/media/Heat Exchangers for Solids.jpg": "/static/media/Heat Exchangers for Solids.0aebf45fdb7965e13901.jpg",
+    "static/media/Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries.jpg": "/static/media/Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries.06c8ee777be2ca9657e4.jpg",
     "static/media/Power Plant Commissioning.jpg": "/static/media/Power Plant Commissioning.dfdbc3dc2a2d800f416b.jpg",
+    "static/media/Process Piping Fundamentals, Codes and Standards.jpg": "/static/media/Process Piping Fundamentals, Codes and Standards.74e1d206f1ddea1e5578.jpg",
     "static/media/tema.jpg": "/static/media/tema.def88325a8f4a7a0d5f8.jpg",
     "static/media/lean.jpg": "/static/media/lean.306f11b3a0891a9cfc39.jpg",
     "static/media/Thermal Insulation.jpg": "/static/media/Thermal Insulation.3bfd675fbf9b823fcaaf.jpg",
+    "static/media/Process Control Fundamentals.jpg": "/static/media/Process Control Fundamentals.6ec8e26abfebae367666.jpg",
+    "static/media/HAZOP (International Standard).jpg": "/static/media/HAZOP (International Standard).94e596ce49a712fda7a1.jpg",
     "static/media/pressure control oil.jpg": "/static/media/pressure control oil.07aba20bb16fa5b498c7.jpg",
     "static/media/Mechanical Engineering.jpg": "/static/media/Mechanical Engineering.7079d88d79347f8ac196.jpg",
     "static/media/refrigeration.jpg": "/static/media/refrigeration.89780bd4e7265199c239.jpg",
+    "static/media/Process Engineering Design Basis.jpg": "/static/media/Process Engineering Design Basis.41e405dd40ea5be7439c.jpg",
+    "static/media/HAZOP (ichemi procedure).jpg": "/static/media/HAZOP (ichemi procedure).403ccc0052cd6d27b553.jpg",
     "static/media/Oil & Gas Production.jpg": "/static/media/Oil & Gas Production.e062a52a34d3d16e7ec4.jpg",
+    "static/media/HAZOP (Bp procedure).jpg": "/static/media/HAZOP (Bp procedure).65174b34879caf5cc96e.jpg",
     "static/media/HAZOP Guidelines for ARAMCO standards.jpg": "/static/media/HAZOP Guidelines for ARAMCO standards.3931d90287c5d49a7194.jpg",
     "static/media/Steam Boilers.jpg": "/static/media/Steam Boilers.ef03d2101471c58f532e.jpg",
+    "static/media/Centrifugal Compressor Surge.jpg": "/static/media/Centrifugal Compressor Surge.10e4eb4570d3e996e45d.jpg",
     "static/media/Temperature Measurement.jpg": "/static/media/Temperature Measurement.9ca833ec572590bb46b3.jpg",
     "static/media/Liquid Pipeline Hydraulics.jpg": "/static/media/Liquid Pipeline Hydraulics.85a939ff4ae449892bdf.jpg",
     "static/media/Quality assurance.jpg": "/static/media/Quality assurance.82d48b09d73fa14afe91.jpg",
@@ -128,10 +138,10 @@
     "static/media/HeroBanner.jpg": "/static/media/HeroBanner.31154bfc10cd2e406099.jpg",
     "index.html": "/index.html",
     "main.8c1add93.css.map": "/static/css/main.8c1add93.css.map",
-    "main.e69bb826.js.map": "/static/js/main.e69bb826.js.map"
+    "main.b2be3326.js.map": "/static/js/main.b2be3326.js.map"
   },
   "entrypoints": [
     "static/css/main.8c1add93.css",
-    "static/js/main.e69bb826.js"
+    "static/js/main.b2be3326.js"
   ]
 }
