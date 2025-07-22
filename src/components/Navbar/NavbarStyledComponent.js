@@ -31,6 +31,7 @@ export const NavbarContainer = styled.div`
 export const NavLogo = styled(LinkR)`
     width: 80%;    
     padding: 0 6px;
+
     display: flex;
     justify-content: start;
     align-items: center;
@@ -39,11 +40,24 @@ export const NavLogo = styled(LinkR)`
       padding: 0 0px;
   }
 `;
-export const Span = styled.div`
+export const Title = styled.div`
     padding: 0 4px;
     font-weight: bold;
     font-size: 25px;
-    text-decoration: none;
+    text-decoration: none !important; 
+    //kfk
+    font-size: 28px;
+    // font-weight: 700;
+    color: #28ac30; /* Primary green color */
+    // background: linear-gradient(90deg, #28ac30, #85d67f);
+    background: linear-gradient(90deg, #28ac30;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    // text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15);
+
+    // @media (max-width: 768px) {
+    //   font-size: 36px;
+    // }
 `;
 export const NavItems = styled.ul`
     width: 100%;

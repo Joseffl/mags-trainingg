@@ -16214,10 +16214,1032 @@ export const projects = [
   ],
   cost: "₦80,000 / $60",
   certification: "Certificate of Completion"
-}
+},
+
+//resume images from here
+
+{
+  id: 27,
+  title: "Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries",
+  date: "Present",
+  description:
+  [
+      "Centrifugal compressor is a type of dynamic compressor commonly used in petroleum, chemical, and gas service industries due to its high efficiency, reliability, and ability to handle large volumes of gases. These industries rely on centrifugal compressors to boost the pressure of gases for various applications, including refining, natural gas transportation, and chemical processing.",
+      "Centrifugal Compressor for Petroleum, Chemical, and Gas Service Industries course typically focuses on the principles, design, operation, and maintenance of centrifugal compressors used in various industrial applications. These compressors are widely used in the petroleum, chemical, and gas industries for tasks such as gas compression, air handling, and refrigeration. Below is an outline of the key topics often covered in such a course:"
+  ],
+  image: require("./coursesImg/Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "The prerequisites typically focus on foundational knowledge in mechanical and chemical engineering principles, as well as an understanding of fluid mechanics, thermodynamics, and industrial systems."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "In-depth understanding of centrifugal compressor technology and its applications.",
+      "Knowledge of design, operation, and troubleshooting techniques for maintaining high-performance compressors.",
+      "Ability to identify and resolve common issues related to compressor systems.",
+      "Familiarity with safety, maintenance, and regulatory considerations specific to the petroleum, chemical, and gas industries"
+  ],
+  outline: [
+      "Module 1: Introduction to Centrifugal Compressors",
+      "Module 2: Applications in Petroleum, Chemical, and Gas Industries.",
+      "Module 3: Basic Design",
+      "Module 4: Accessories",
+      "Module 5: inspection. Testing. And preparation for shipment",
+      "Module 6: Vendors data",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 28,
+  title: "Centrifugal Compressor Surge",
+  date: "Present",
+  description:
+  [
+      "Compressor surge is a dynamic instability phenomenon that occurs in centrifugal compressors when the flow through the compressor drops below a critical limit. This condition causes flow reversal, pressure oscillations, and severe mechanical vibrations, potentially leading to equipment damage and process interruptions. It is one of the most serious operational issues in centrifugal compressors and must be properly understood and prevented.",
+      "This course provides a systematic approach to identifying, assessing, and planning for natural hazards that can impact critical infrastructure, equipment, and operations. It covers hazard recognition, data gathering, risk evaluation, and the development of mitigation, recovery, and recommissioning plans. Through case studies, participants will explore real-world applications of best practices in natural hazard preparedness and response."
+  ],
+  image: require("./coursesImg/Centrifugal Compressor Surge.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic understanding of thermodynamics and fluid dynamics",
+      "Familiarity with compressor operation and process equipment",
+      "Prior exposure to process control or rotating machinery"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Explain the concept of surge and its implications on centrifugal compressor operations",
+      "Develop and apply theoretical models to predict surge in compression systems",
+      "Evaluate the dynamic interaction between compressors and connected piping",
+      "Analyze system stability and recognize early indicators of surge",
+      "Design effective surge control systems tailored to specific applications",
+      "Implement real-time monitoring techniques to enhance surge detection",
+      "Understand recommissioning steps for compressors after a shutdown or incident",
+      "Apply lessons from case studies to prevent surge and improve equipment reliability"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Theoretical modeling of centrifugal compression systems",
+      "Module 3: Centrifugal Compression System Model",
+      "Module 4: Dynamic Compressor Model Including Piping Acoustics",
+      "Module 5: Analysis of Compressor Dynamics",
+      "Module 6: Stability Parameter Identification",
+      "Module 7: Surge Control Design and Evaluation",
+      "Module 8: Recommissioning",
+      "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 29,
+  title: "HAZOP (B)",
+  date: "Present",
+  description:
+  [
+      "HAZOP (Hazard and Operability Study) is a structured and systematic risk management technique used to identify potential hazards and operational issues in industrial processes.",
+      "It’s widely used in the design, construction, and operation of complex facilities like chemical plants, oil and gas facilities, power stations, etc. HAZOP examines process deviations from the intended design and evaluates their possible consequences, causes, and safeguards.",
+      "This course provides a comprehensive introduction to Hazard and Operability Studies (HAZOP), a structured and systematic technique for identifying potential hazards and operational issues in process systems. Participants will learn how HAZOPs are conducted, the rationale behind them, and how to interpret and document findings effectively. The course covers the full process—from preparation and team selection to guideword application, consequence analysis, and action follow-up—reinforced through real-world case studies."
+  ],
+  image: require("./coursesImg/HAZOP (Bp procedure).jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Day",
+  prerequisite: [
+      "Basic understanding of process engineering or chemical/process plant operations",
+      "Familiarity with Piping and Instrumentation Diagrams (P&IDs) and process flow diagrams (PFDs)",
+      "General awareness of industrial safety and hazard identification techniques."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Define what a HAZOP is and how it fits into broader risk management practices",
+      "Explain the value of HAZOPs in preventing incidents and ensuring safe operations",
+      "Understand the lifecycle stages of projects where HAZOPs are typically conducted",
+      "Recognize regulatory, legal, and operational drivers for HAZOP implementation",
+      "Define the scope and terms of reference",
+      "Gather and review the required documentation",
+      "Identify roles and responsibilities of HAZOP team members",
+      "Learn how to initiate and facilitate HAZOP sessions",
+      "Break down systems into nodes for evaluation",
+      "Identify relevant process parameters to be assessed",
+      "Use standard guidewords to explore what could go wrong",
+      "Link deviations to possible causes and consequences",
+      "Evaluate existing safety systems and controls",
+      "Propose appropriate follow-up actions to address identified risks",
+      "Understand the importance of structured documentation",
+      "Learn how to communicate results clearly and concisely",
+      "Support continuous improvement in process safety",
+      "Apply concepts through real-world case studies",
+      "Learn from past incidents and well-documented HAZOP sessions",
+      "Improve problem-solving and hazard identification skills"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: What is a Hazop?",
+      "Module 3: Why do we do Hazop’s?",
+      "Module 4: Terms of Reference & Scope of Work",
+      "Module 5: Timing",
+      "Module 6: Documents Required",
+      "Module 7: Team Membership",
+      "Module 8: Study Initiation",
+      "Module 9: Process Element Selection",
+      "Module 10: Process Parameters",
+      "Module 11: Guidewords",
+      "Module 12: Causes",
+      "Module 13: Consequences",
+      "Module 14: Existing safeguards",
+      "Module 15: Recommended Actions",
+      "Module 16: Recording and Reporting",
+      "Module 17: Follow-up",
+      "Module 18: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 30,
+  title: "HAZOP (I)",
+  date: "Present",
+  description:
+  [
+      "IChemE formalized the HAZOP procedure to ensure a rigorous, consistent, and auditable way of conducting hazard and operability studies, especially for chemical and process industries. The IChemE approach emphasizes: A systematic study of process deviations, Use of specific guide words, Multidisciplinary team reviews, Thorough documentation.",
+      "This course provides a structured and detailed approach to conducting Hazard and Operability (HAZOP) studies based on the IChemE (Institution of Chemical Engineers) methodology. The course covers foundational concepts in process hazard analysis, introduces the HAZOP method, and guides participants through planning, executing, and auditing HAZOP studies. Emphasis is placed on team roles, documentation, company-specific practices, and advanced applications. Real-world case studies and examples help participants understand how to apply the IChemE procedure effectively in various industrial contexts."
+  ],
+  image: require("./coursesImg/HAZOP (ichemi procedure).jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Day",
+  prerequisite: [
+      "Basic understanding of process engineering or chemical/process plant operations",
+      "Familiarity with Piping and Instrumentation Diagrams (P&IDs) and process flow diagrams (PFDs)",
+      "General knowledge of risk assessment or process safety methods."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Learn how the IChemE methodology formalizes hazard identification and operability review",
+      "Recognize the importance of structured hazard analysis in process safety management",
+      "Identify types of process hazards and when HAZOP is most applicable",
+      "Apply guidewords and parameters to identify deviations from design intent",
+      "Understand the step-by-step IChemE approach for initiating and completing a study",
+      "Implement effective preparation, facilitation, and documentation practices",
+      "Define team composition, responsibilities, and study scope",
+      "Schedule and resource HAZOP studies efficiently",
+      "Facilitate structured discussions to identify risks and recommend safeguards",
+      "Use questioning techniques and guidewords effectively",
+      "Record, report, and audit HAZOP outcomes",
+      "Ensure accurate documentation and traceability of findings",
+      "Develop audit-ready records and ensure closure of recommendations",
+      "Integrate organizational standards and practices into the HAZOP process",
+      "Align with internal safety and quality assurance systems",
+      "Apply HAZOP to batch processes, non-routine operations, and control systems",
+      "Understand its use in non-process environments (e.g., utilities, laboratories)",
+      "Learn key behaviors and strategies that contribute to study success",
+      "Avoid common pitfalls and challenges in study execution",
+      "Review real-world examples to reinforce learning",
+      "Analyze past incidents and evaluate how HAZOP contributed to risk reduction"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Process Hazard Studies",
+      "Module 3: The HAZOP Study Method",
+      "Module 4: The Detailed HAZOP Study Procedure",
+      "Module 5: Organizing a HAZOP Study",
+      "Module 6: Carrying Out a Study",
+      "Module 7: Recording and Auditing",
+      "Module 8: Training",
+      "Module 9: Company Procedures for HAZOP Study",
+      "Module 10: Advanced Aspects of HAZOP Study",
+      "Module 11: Specific Applications of HAZOP",
+      "Module 12: Factors for a Successful HAZOP Study",
+      "Module 13: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 31,
+  title: "HAZOP (IE)",
+  date: "Present",
+  description:
+  [
+      "This is the globally recognized standard for conducting HAZOP studies, and it aligns with international best practices used across industries such as oil & gas, chemicals, pharmaceuticals, power generation, and more.",
+      "This course provides a structured understanding of the Hazard and Operability (HAZOP) study methodology based on the international standard. It outlines the scope, terminology, key features, and standardized procedures for conducting effective HAZOP studies. Participants will gain knowledge of when and how to apply HAZOP in process industries and other systems requiring risk assessment. The course emphasizes globally recognized best practices and includes case studies to reinforce real-world application of the IEC framework."
+  ],
+  image: require("./coursesImg/HAZOP (International Standard).jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic understanding of process engineering or chemical/process plant operations",
+      "Familiarity with Piping and Instrumentation Diagrams (P&IDs) and process flow diagrams (PFDs)",
+      "General understanding of process operations and hazard identification techniques."
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Recognize how the standard formalizes HAZOP methodology",
+      "Identify where and when HAZOP is applicable in project and operational lifecycles",
+      "Understand how international standard connects with other safety and risk management standards",
+      "Apply referenced documents to support compliance and consistency",
+      "Communicate effectively during HAZOP studies using recognized terms",
+      "Understand the structured approach, guideword methodology, and team-based analysis",
+      "Recognize the importance of systematic deviation analysis",
+      "Explore the flexibility of HAZOP across chemical, oil & gas, energy, and non-process systems",
+      "Adapt the methodology to continuous, batch, and utility operations",
+      "Follow the standardized HAZOP procedure step by step",
+      "Document findings, assign actions, and ensure follow-through",
+      "Analyze real-world case studies to reinforce learning",
+      "Learn from previous applications to improve future study quality and effectiveness"
+  ],
+  outline: [
+      "Module 1: Scope",
+      "Module 2: Normative references",
+      "Module 3: Terms, definitions and abbreviations",
+      "Module 4: Key features of HAZOP",
+      "Module 5: Applications of HAZOP",
+      "Module 6: The HAZOP study procedure",
+      "Module 7: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦120,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 32,
+  title: "Process Engineering Design Basis",
+  date: "Present",
+  description:
+  [
+      "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector.",
+      "This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives."
+  ],
+  image: require("./coursesImg/Process Engineering Design Basis.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Background of EPC (Engineering, Procurement, and Construction) projects"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "Define the concept of change and change management.",
+      "Understand key roles in the change management process.",
+      "Determine the phases of change management.",
+      "Learn to formulate an effective plan for the change process.",
+      "Deeply understand the reasons for resistance to change.",
+      "Find out about effective methods of preventing and eliminating resistance to change.",
+      "Gain the ability to design fruitful communication related to the change process.",
+      "Learn techniques for effective implementation of change.",
+      "Develop skills associated with controlling the change process.",
+      "Build proficiency in shaping a change-oriented organizational culture."
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Scope.",
+      "Module 3: Procedure",
+      "Module 4: Authorization",
+      "Module 5: Cost of Trend Preparation",
+      "Module 6: Cost Effects",
+      "Module 7: Schedule Effects",
+      "Module 8: Trend meetings",
+      "Module 9: Contract Amendments",
+      "Module 10: Final Settlement",
+      "Module 11: Document Update",
+      "Module 12: Roles and Responsibilities",
+      "Module 13: Tools and Techniques",
+      "Module 14: Communication Plan",
+      "Module 15: Monitoring and Continuous Improvement",
+      "Module 16: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 33,
+  title: "Process Piping Fundamentals, Codes and Standards",
+  date: "Present",
+  description:
+  [
+      "Process piping refers to the system of pipes, valves, fittings, and related components used to transport fluids (gases, liquids, slurries, and vapors) in industrial facilities such as refineries, chemical plants, power stations, and manufacturing plants. It is distinct from utility piping or plumbing, as it is directly involved in core process operations.",
+      "Understanding the fundamentals of process piping and the associated codes and standards is essential for designing, constructing, and maintaining safe, efficient, and compliant piping systems.",
+      "This course introduces the foundational principles of process piping systems, with a focus on design codes, standards, terminology, and compliance. It explains how various codes govern design, fabrication, inspection, and maintenance of piping systems in industries such as oil & gas, power, and chemical processing. The course also covers the roles of international standards organizations and helps participants distinguish between codes and standards. Real-world case studies reinforce application and best practices."
+  ],
+  image: require("./coursesImg/Process Piping Fundamentals, Codes and Standards.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "Basic knowledge of mechanical or process engineering",
+      "Familiarity with industrial piping or plant systems",
+      "Suitable for piping designers, mechanical engineers, QA/QC inspectors, and project engineers"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Understand the purpose and structure of industrial piping systems",
+      "Define and apply essential terminology and symbols in piping design",
+      "Identify key codes and standards relevant to process piping",
+      "Distinguish between design codes, material standards, and recommended practices",
+      "Navigate the structure and content of piping codes such as ASME B31.3",
+      "Recognize the role of major organizations in setting global piping standards",
+      "Apply code-compliant design principles to real-world projects",
+      "Interpret material specifications and ensure proper documentation",
+      "Align piping system development with industry best practices",
+      "Analyze case studies to avoid common compliance and safety issues"
+  ],
+  outline: [
+      "Module 1: The Basics of Piping System",
+      "Module 2: Definitions, Terminology and Essential Vocabulary",
+      "Module 3: Design Codes and Standards",
+      "Module 4: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦80,000 / $60",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 34,
+  title: "Process Control Fundamentals",
+  date: "Present",
+  description:
+  [
+      "Process control is the science of keeping industrial processes running within desired conditions. It’s essential for safety, efficiency, quality, and productivity in any process industry like oil and gas, food processing, power plants, or chemical manufacturing.",
+      "This course provides a solid foundation in process control principles, focusing on the essential components and functions that keep industrial processes stable, safe, and efficient. Learners will gain an understanding of how sensors, transmitters, controllers, and final control elements interact within feedback control loops. The course explores different control modes and system responses, equipping participants with the ability to interpret control loop behavior and apply best practices in monitoring and troubleshooting. It is designed for engineers, technicians, and technical personnel working in process industries."
+  ],
+  image: require("./coursesImg/Process Control Fundamentals.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "2 Days",
+  prerequisite: [
+      "A basic understanding of industrial processes or plant operations",
+      "Familiarity with general instrumentation concepts is helpful but not mandatory",
+      "An Engineering, technical, or operator-level background in manufacturing or process industries"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Understand the fundamental purpose and components of process control systems",
+      "Differentiate between open-loop and closed-loop control strategies",
+      "Identify key components in a feedback control loop and explain their roles",
+      "Select appropriate sensors and transmitters for different process applications",
+      "Understand signal transmission methods and how they affect control accuracy",
+      "Explain the function and tuning of controllers, particularly PID controllers",
+      "Describe the role and types of final control elements in a process loop",
+      "Analyze different control loop modes and their use in specific process conditions",
+      "Apply theoretical knowledge to real-life problems using case studies",
+      "Recognize the impact of control strategy on process safety, quality, and efficiency"
+  ],
+  outline: [
+      "Module 1: Introduction",
+      "Module 2: Control Concepts",
+      "Module 3: Feedback Control Loops",
+      "Module 4: Sensors",
+      "Module 5: Signal Transmitters",
+      "Module 6: Controllers",
+      "Module 7: Final Control Elements",
+      "Module 8: Control Loops Mode",
+      "Module 9: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 35,
+  title: "Process Engineering Design Basis",
+  date: "Present",
+  description:
+  [
+      "The Design Basis is a critical document (or set of guidelines) that defines the foundation for developing any engineering process design.",
+      "It answers the essential question: What are we designing, and under what conditions? Before any detailed design, simulations, or equipment selection happens, the design basis ensures that everyone — engineers, operators, clients, and contractors are aligned.",
+      "This course provides in-depth knowledge of the core philosophies, assumptions, and technical foundations that govern process engineering design. It focuses on developing a well-structured Design Basis Document (DBD), a critical component of any engineering project. Through real-world scenarios and design philosophies, learners will explore the standards and rationale behind decisions such as P&ID development, equipment sizing, pressure relief, sparing, utility design, and safety provisions. This course is essential for engineers involved in FEED (Front-End Engineering Design), detailed design, or process engineering documentation."
+  ],
+  image: require("./coursesImg/Process Engineering Design Basis.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "A foundational understanding of process engineering or plant operations",
+      "Familiarity with P&ID and general process design documents",
+      "Experience in EPC, FEED, or plant engineering projects"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Understand the structure and content of a Process Design Basis document",
+      "Apply sound engineering philosophies in P&ID development",
+      "Define equipment and utility requirements based on process needs",
+      "Implement appropriate sparing, duty margins, and isolation strategies",
+      "Establish safe and effective pressure relief and insulation philosophies",
+      "Specify instrumentation connections in line with industry practices",
+      "Incorporate regulatory and safety compliance such as IBR and corrosion allowances",
+      "Recognize the rationale behind noise control, aromatic handling, and utility condition definition",
+      "Develop a coherent design basis that supports project execution from FEED to commissioning",
+      "Analyze real-world case studies to reinforce theoretical understanding and practical application"
+  ],
+  outline: [
+      "Module 1: P&ID Engineering and Philosophy",
+      "Module 2: Utility Battery Limit and Utility Header & Block Valves",
+      "Module 3: Connection for Instruments",
+      "Module 4: Equipment Sparing Philosophy",
+      "Module 5: Equipment Duty Margin",
+      "Module 6: Pressure Relief Philosophy",
+      "Module 7: Insulation and Tracing Philosophy",
+      "Module 8: Process Block Valves Philosophy",
+      "Module 9: Utility Station Location Philosophy",
+      "Module 10: Isolation Blinds / Spading Philosophy",
+      "Module 11: Tank Fittings and Accessories Philosophy",
+      "Module 12: Equipment Design Philosophy",
+      "Module 13: Minimum Liquid Surge Requirement",
+      "Module 14: Utility Conditions",
+      "Module 15: Noise Control",
+      "Module 16: Aromatics Handling",
+      "Module 17: Corrosion Allowance",
+      "Module 18: IBR requirements",
+      "Module 19: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦150,000 / $100",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 36,
+  title: "Piping Inspection Code: In-service Inspection, Rating, Repair, and Alteration of Piping Systems",
+  date: "Present",
+  description:
+  [
+      "ASME Section VIII Division 1 of the Boiler and Pressure Vessel Code (BPVC) governs the design, fabrication, testing, inspection, and certification of pressure vessels. Inspection is a crucial part of this process because pressure vessels operate under high pressure and hold potentially hazardous substances — so failures can be catastrophic.",
+      "This course provides comprehensive training on the principles and practices outlined in the Piping Inspection Code, typically referencing API 570. It focuses on in-service inspection, evaluation, repair, alteration, and rerating of process piping systems. Participants will gain practical insights into organizing inspection programs, conducting examinations, and ensuring regulatory and safety compliance. The course also covers buried piping inspection and includes case studies to connect theory with field practices."
+  ],
+  image: require("./coursesImg/Piping Inspection Code_ In-service Inspection, Rating, Repair, and Alteration of Piping Systems.jpg"),
+  tags: [
+      'Trainer: Engr. Majid',
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+      "Basic understanding of piping systems and industrial processes",
+      "Familiarity with materials, corrosion mechanisms, and inspection techniques",
+      "Awareness of relevant industry codes and standards (e.g., ASME B31.3, API 570)"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+      "By the end of the course, participants will be able to:",
+      "Identify major boiler components and how they function together.",
+      "Recognize what systems, materials, and services fall under the code’s jurisdiction",
+      "Apply inspection requirements to various process environments",
+      "Understand how API, ASME, and other standards complement one another",
+      "Use cross-referenced documents to enhance code compliance",
+      "Ensure clear communication and documentation",
+      "Apply proper terminology in inspection reports and procedures",
+      "Establish roles, responsibilities, and qualifications for inspection personnel",
+      "Apply inspection, examination, and pressure testing practices",
+      "Implement visual, ultrasonic, radiographic, and pressure testing procedures",
+      "Determine inspection intervals and extent of examination",
+      "Calculate recommended inspection frequencies based on service history and risk",
+      "Evaluate inspection data and record findings appropriately",
+      "Analyze wall thickness, corrosion rates, and fitness-for-service data",
+      "Maintain inspection records in compliance with documentation standards",
+      "Understand requirements for code-compliant modifications",
+      "Apply rules for weld repairs, temporary repairs, and pressure rerating",
+      "Apply suitable techniques such as excavation, external corrosion assessment, and NDT",
+      "Identify signs of degradation in underground lines",
+      "Review real-world piping integrity challenges and resolutions",
+      "Improve decision-making through lessons learned from field experience"
+  ],
+  outline: [
+      "Module 1: Scope",
+      "Module 2: Normative References",
+      "Module 3: Terms, Definitions, Acronyms, and Abbreviations",
+      "Module 4: Owner-Operator Inspection Organization",
+      "Module 5: Inspection, Examination, and Pressure Testing Practices",
+      "Module 6: Interval/Frequency and Extent of Inspection",
+      "Module 7: Inspection Data Evaluation, Analysis, and Recording",
+      "Module 8: Repairs, Alterations, and Rerating of Piping Systems",
+      "Module 9: Inspection of Buried Piping",
+      "Module 10: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+  ],
+  cost: "₦100,000 / $80",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 37,
+  title: "Hydrogen System Code, Standards and Guidelines",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course provides a comprehensive guide to international codes, standards, and best practices for hydrogen systems. With increasing global interest in hydrogen as a clean energy carrier, understanding the regulatory and safety framework is crucial. Participants will explore ISO and EIGA documents covering hydrogen production, storage, distribution, and mechanical integrity requirements for various systems and installations."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of chemical and process engineering principles",
+    "Familiarity with hydrogen technologies and fuel systems",
+    "General knowledge of piping systems and pressure equipment"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify and apply international standards relevant to hydrogen systems",
+    "Understand design, safety, and testing requirements for hydrogen generators",
+    "Evaluate piping systems for hydrogen transport in accordance with ISO 15649",
+    "Interpret electrolysis system guidelines for various scale applications",
+    "Assess installation and safety needs for gaseous hydrogen systems",
+    "Ensure mechanical integrity of hydrogen PSA units using EIGA DOC 210",
+    "Compare hydrogen production technologies and associated regulatory frameworks",
+    "Apply lessons from case studies to ensure compliance and optimize safety in hydrogen projects",
+    "Review successful and problematic ventilation installations"
+  ],
+  outline: [
+    "Module 1: Hydrogen generators using fuel processing technologies (ISO 16110)",
+    "Module 2: Petroleum and natural gas industries — Piping (ISO 15649)",
+    "Module 3: Hydrogen generators using water electrolysis — Industrial, commercial, and residential applications (ISO 22734)",
+    "Module 4: Gaseous Hydrogen Installations (EIGA DOC 15)",
+    "Module 5: Hydrogen Pressure Swing Adsorber (PSA) Mechanical Integrity Requirements (EIGA DOC 210)",
+    "Module 6: Overview of Hydrogen Production Methods (EIGA DOC 251)",
+    "Module 7: Hydrogen Vent Systems for Customer Applications (EIGA DOC 211)",
+    "Module 8: Safe Start Up and Shutdown Practices for Steam Reformers (EIGA DOC 185)",
+    "Module 9: Guideline for Small Scale Hydrogen Production (EIGA DOC 246)",
+    "Module 10: Best Available Techniques for Hydrogen Production by Steam Methane Reforming (EIGA DOC 155)",
+    "Module 11: Combustion Safety for Steam Reformer Operation (CGA H-10)"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 38,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 2)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course presents a detailed guide to the codes, standards, and best practices surrounding hydrogen infrastructure across its value chain—storage, distribution, and utilization. Participants will explore key EIGA documents and ISO standards governing welded storage vessels, underground hydrogen storage, pipeline systems, land vehicle fuel containers, cylinder design, and compatibility. The course is critical for engineers, safety professionals, and project developers working in hydrogen-based energy systems."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of hydrogen properties and industrial gas systems",
+    "Familiarity with pressure vessels, pipeline systems, and fluid mechanics",
+    "Prior knowledge of safety and quality standards in process industries"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand and apply EIGA and ISO standards to hydrogen storage and distribution systems",
+    "Evaluate design requirements for hydrogen-compatible pressure vessels and pipelines",
+    "Identify key safety considerations in hydrogen compression and filling systems",
+    "Assess material compatibility with hydrogen for safe long-term usage",
+    "Design compliant hydrogen transport and fueling systems for land vehicles",
+    "Conduct safety audits and apply integrity management practices to hydrogen infrastructure",
+    "Understand underground hydrogen storage requirements and associated risks",
+    "Interpret and apply lessons from real-world hydrogen project case studies"
+  ],
+  outline: [
+    "Module 1: Hydrogen Overview - Distribution-Storage-Applications (EIGA DOC 247)",
+    "Module 2: Welded Gaseous Storage Vessels and Hydrogen Compatibility (EIGA TB 42)",
+    "Module 3: Industrial Gas Pipeline Integrity Management (EIGA DOC 235)",
+    "Module 4: Safety Audit / Assessment Tool – Hydrogen Compression, Purification and Cylinder Filling (EIGA DOC 10207)",
+    "Module 5: Storage of Hydrogen in Systems Located Underground (EIGA DOC 171)",
+    "Module 6: Hydrogen Pipeline Systems (EIGA Doc 121)",
+    "Module 7: Hydrogen Cylinders and Transport Vessels (EIGA DOC 100)",
+    "Module 8: Gas cylinders — Design, construction and testing of refillable seamless steel gas cylinders and tubes (ISO 9809)",
+    "Module 9: Gaseous hydrogen — Land vehicle fuel containers (ISO 19881)",
+    "Module 10: Liquid hydrogen — Land vehicle fuel tanks (ISO 13985)",
+    "Module 11: Gas cylinders — Compatibility of cylinder and valve materials with gas contents (ISO 11114)",
+    "Module 12: Case Studies"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 39,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 3)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course provides comprehensive training on the key international standards, codes, and practices guiding the safe design, fabrication, installation, and operation of hydrogen systems. Covering ISO, ASME, and CGA standards, it equips professionals with the necessary knowledge to manage high-pressure hydrogen systems, pressure vessels, piping, and storage technologies including metal hydrides and cryogenics. It is ideal for engineers, project designers, and safety managers working in hydrogen infrastructure and energy systems."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Fundamental understanding of mechanical or chemical engineering principles",
+    "Basic knowledge of hydrogen technologies or industrial gas systems",
+    "Prior exposure to pressure vessel and piping codes is beneficial"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Apply relevant ISO, ASME, and CGA codes in hydrogen infrastructure projects",
+    "Design safe and compliant hydrogen piping and vessel systems",
+    "Differentiate between metallic, composite, and cryogenic storage system requirements",
+    "Evaluate mechanical integrity procedures for PSA and reformer operations",
+    "Select appropriate materials and stress allowances for hydrogen system components",
+    "Interpret and apply startup/shutdown safety practices from CGA H-13",
+    "Conduct safety checks, audits, and design evaluations against established standards",
+    "Leverage real-world case studies to identify risks and best practices in hydrogen deployment"
+  ],
+  outline: [
+    "Module 1: Gas cylinders — Refillable seamless aluminium alloy gas cylinders — Design, construction and testing (ISO 7866)",
+    "Module 2: Transportable gas storage devices — Hydrogen absorbed in reversible metal hydride (ISO 16111)",
+    "Module 3: Gas cylinders — Design, construction and testing of refillable composite gas cylinders and tubes (ISO 11119)",
+    "Module 4: ASME Section VIII Division 3, Article KD-10 (ASME)",
+    "Module 5: Hydrogen Piping and Pipeline (ASME B31.12)",
+    "Module 6: Process Piping (ASME B31.3)",
+    "Module 7: Rules for Construction of Pressure Vessels (ASME Section VIII)",
+    "Module 8: Safe Startup and Shutdown Practices for Steam Reformers Hydrogen Pressure Swing Adsorber (PSA) Mechanical Integrity Requirements (CGA H-13)",
+    "Module 9: Design Factor Guidelines for High-Pressure Composite Hydrogen Tanks (ASME STP-PT-005-2006)",
+    "Module 10: Hydrogen System Requirements (CGA G-5 series)",
+    "Module 11: Cryogenic Hydrogen Storage (CGA H-3)"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 40,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 4)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course delivers a focused exploration of the codes, standards, and practices relevant to hydrogen system safety and compliance. It provides insights into the safe design, installation, operation, and inspection of hydrogen storage systems, bulk supply networks, compressors, and associated components. Covering CGA and API guidelines, the course is essential for engineers, project managers, and safety officers working in hydrogen production, storage, and distribution."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Foundational knowledge of industrial hydrogen systems or gas engineering",
+    "Familiarity with gas compression, piping, or storage systems",
+    "Basic understanding of safety and regulatory frameworks for hazardous gases"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Apply CGA and API standards to design safe hydrogen systems",
+    "Implement standard procedures for hydrogen storage and delivery",
+    "Identify proper installation techniques for both above-ground and buried systems",
+    "Assess compressor selection and sealing technologies for hydrogen applications",
+    "Understand the classification and labeling of metal hydride systems",
+    "Inspect and evaluate gas cylinders for integrity and compliance",
+    "Ensure compatibility and separation when storing hydrogen with other gases",
+    "Evaluate lessons learned from past hydrogen system failures and best practices"
+  ],
+  outline: [
+    "Module 1: Safe Design, Installation, and Use of Bulk Hydrogen Supply Systems (CGA H-5)",
+    "Module 2: Position Statement On The Direct Burial Of Gaseous Hydrogen Storage Tanks (CGA PS-20)",
+    "Module 3: Standard Procedures for Hydrogen Supply Systems (CGA H-7)",
+    "Module 4: Position Statement on Adjacent Storage of Compressed Hydrogen and Other Flammable Gases (CGA PS-21)",
+    "Module 5: Design, Qualification and Testing for Pressure Vessels for Portable, Reversible Metal Hydride Systems (CGA C-21)",
+    "Module 6: Service Conditions for Portable, Reversible Metal Hydride Systems (CGA H-1)",
+    "Module 7: Guidelines for the Classification and Labeling of Hydrogen Storage Systems with Hydrogen Absorbed in Reversible Metal Hydrides (CGA H-2)",
+    "Module 8: Publication Series Guides the Inspection of Compressed Gas Cylinders for Safe Filling, Transport, and End Use (CGA’s C-6)",
+    "Module 9: Dry Gas Sealing Systems for Axial, Centrifugal, and Rotary Screw Compressors and Expanders (API STD 692)",
+    "Module 10: Reciprocating Compressors for Petroleum, Chemical, and Gas Industry Services (API STD 618)",
+    "Module 11: Axial and Centrifugal Compressors and Expander-compressors (API Standard 617)"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
 
 
+{
+  id: 41,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 5)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course focuses on the international standards and best practices governing hydrogen fueling systems, hydrogen-powered vehicles, and associated infrastructure. It emphasizes critical technical regulations for hydrogen purity, pump design, storage interface, and fueling protocols. Ideal for professionals in hydrogen mobility, fuel cell technologies, and energy infrastructure."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of hydrogen properties and applications",
+    "Familiarity with fuel systems or alternative energy vehicles",
+    "Engineering background in mechanical, chemical, or energy systems is recommended"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Interpret and apply key ISO, EIGA, IEC, and UN regulations for hydrogen vehicle systems",
+    "Identify safety and design requirements for gaseous and liquid hydrogen fueling stations",
+    "Ensure compliance with fuel purity standards for hydrogen applications",
+    "Understand connection standards and prevent misfuelling at dispensers",
+    "Evaluate component specifications for hydrogen vehicle integration",
+    "Recognize the certification and type-approval process for hydrogen-powered vehicles",
+    "Design and install compliant stationary hydrogen fuel cell systems",
+    "Learn from industry case studies to enhance safe and efficient system implementation"
+  ],
+  outline: [
+    "Module 1: Reciprocating Cryogenic Pumps and Pump Installations for Hydrogen and Liquified Natural Gas (EIGA DOC 244)",
+    "Module 2: Road vehicles — Compressed gaseous hydrogen (CGH2) and hydrogen/natural gas blends fuel system components (ISO 12619)",
+    "Module 3: Hydrogen fuel quality — Product specification (ISO 14687)",
+    "Module 4: Fuel cell road vehicles — Energy consumption measurement — Vehicles fuelled with compressed hydrogen (ISO 23828)",
+    "Module 5: Gaseous hydrogen — Fuelling stations (ISO 19880 series)",
+    "Module 6: Liquid hydrogen — Land vehicle fuelling system interface (ISO 13984)",
+    "Module 7: Gaseous hydrogen land vehicle refuelling connection devices (ISO 17268)",
+    "Module 8: Secondary Identification of H2 Vehicle at Dispenser (EIGA TB 43)",
+    "Module 9: Hydrogen-powered vehicles. type-approval of hydrogen-powered motor vehicles (REGULATION (EC) No 79)",
+    "Module 10: Hydrogen and Fuel Cell Vehicles (UN Technical Regulation No. 13)",
+    "Module 11: Fuel cell technologies - Part 3-300: Stationary fuel cell power systems - Installation (IEC 62282-3-300)"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
 
+{
+  id: 42,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 6)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course provides a comprehensive look into the global codes, standards, and best practices governing hydrogen systems for refueling infrastructure and vehicle integration. Covering both technical and safety aspects, it equips engineers, regulators, and designers with the knowledge needed to implement hydrogen fueling systems that meet rigorous international and national standards."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Understanding of basic hydrogen properties and applications",
+    "Familiarity with fuel cells, energy systems, or gas distribution infrastructure",
+    "Technical background in mechanical, chemical, or electrical engineering is beneficial"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Identify and apply international standards governing hydrogen fuel quality and delivery",
+    "Evaluate safety protocols for hydrogen storage, dispensing, and transportation",
+    "Understand design and performance requirements for hydrogen vehicle refueling connections",
+    "Implement fueling protocols that ensure efficiency and safety",
+    "Analyze and interpret quality assurance procedures for hydrogen used in PEM fuel cells",
+    "Assess facility electrical and hazard zoning requirements per NFPA codes",
+    "Determine compliance paths for vehicle certification and station installation",
+    "Learn from case studies to understand real-world applications and pitfalls"
+  ],
+  outline: [
+    "Module 1: Fuel cell technologies - Part 3-100: Stationary fuel cell power systems - Safety (IEC 62282-3-100)",
+    "Module 2: Hydrogen fuel - Product specification and quality assurance for hydrogen refueling points dispensing gaseous hydrogen - PEM fuel cell applications (DIN EN 17124)",
+    "Module 3: Gaseous Hydrogen Land Vehicle Refueling Connection Devices (DIN EN 17268)",
+    "Module 4: Hydrogen Fuel Quality for Fuel Cell Vehicles (SAE J2719)",
+    "Module 5: Fueling Protocols for Light Duty Gaseous Hydrogen Surface Vehicles (SAE J2601)",
+    "Module 6: Standard for Fittings for Use in Compressed Gaseous Hydrogen Fueling Stations (CSA/ANSI HGV 4.10)",
+    "Module 7: Safety in Storage, Handling and Distribution of Liquid Hydrogen (EIGA DOC 06)",
+    "Module 8: National Electrical Code® (NFPA 70)",
+    "Module 9: Hydrogen Technologies Code (NFPA 2)",
+    "Module 10: Compressed Gases and Cryogenic Fluids Code (NFPA 55)",
+    "Module 11: UN ECE R134: Safety-related performance of hydrogen-fueled vehicles"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
+
+{
+  id: 43,
+  title: "Hydrogen System Code, Standards and Guidelines (COURSE 7)",
+  date: "Present",
+  description: [
+    "Hydrogen systems involve the production, storage, distribution, and use of hydrogen in various forms (gaseous or liquid), often under high pressure and/or cryogenic conditions. Due to its flammability, diffusivity, and potential for explosive mixtures, hydrogen requires strict adherence to established codes, standards, and safety practices. These frameworks ensure safe system design, material compatibility, and proper operation in industrial, commercial, and energy applications.",
+    "This course explores critical international and regional codes, standards, and best practices for hydrogen safety across detection, separation, purification, and vehicular applications. Participants will gain deep insights into system classification, occupational safety requirements, hazard zone designations, and explosive atmosphere control measures applicable to hydrogen facilities and transport systems."
+  ],
+  image: require("./coursesImg/Hydrogen System Code, Standards and Guidelines.jpg"),
+  tags: [
+    "Trainer: Engr. Majid"
+  ],
+  category: "PAI",
+  github: "https://github.com/Joseffl/react-todo-app",
+  webapp: "https://bit.ly/47GF1It",
+  duration: "3 Days",
+  prerequisite: [
+    "Basic understanding of hydrogen properties and fuel cell systems",
+    "Background in chemical or mechanical engineering is beneficial",
+    "Familiarity with gas safety systems, industrial health standards, or explosive atmosphere classification is advantageous"
+  ],
+  methodology: "Theoretical",
+  objectives: [
+    "Understand hydrogen detection technologies and deployment standards",
+    "Apply international safety regulations to hydrogen storage and separation systems",
+    "Classify explosive atmospheres and identify appropriate zone protections",
+    "Ensure hydrogen systems meet the occupational safety standards of OSHA and IEC",
+    "Evaluate the structural and procedural safety measures in hydrogen-powered vehicles",
+    "Implement purification systems compliant with ISO safety requirements",
+    "Analyze and respond to real-world incidents through safety-focused case studies",
+    "Navigate and integrate standards from ISO, OSHA, CGA, OISD, and IEC into hydrogen project designs"
+  ],
+  outline: [
+    "Module 1: Hydrogen detection apparatus — Stationary applications (ISO 26142)",
+    "Module 2: Safety of pressure swing adsorption systems for hydrogen separation and purification (ISO 19883)",
+    "Module 3: Basic considerations for the safety of hydrogen systems (ISO/TR 15916)",
+    "Module 4: Fuel cell road vehicles — Safety specifications (ISO 23273)",
+    "Module 5: Hydrogen, Occupational Safety and Health Administration (OSHA 1910.103)",
+    "Module 6: Explosive atmospheres - Classification of areas - Explosive gas atmospheres (IEC 60079-10-1)",
+    "Module 7: Hydrogen Safety (OISD-STD-241)",
+    "Module 8: Commodity Specification for Hydrogen (CGA G-5.3)"
+  ],
+  assessment: "Online Written Exam",
+  cdf: [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  cost: "₦150,000 / $120",
+  certification: "Certificate of Completion"
+},
 
 
 

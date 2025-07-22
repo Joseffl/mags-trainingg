@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavLink, StyledHashLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink } from './NavbarStyledComponent';
+import { Nav, NavLink, StyledHashLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink, Title } from './NavbarStyledComponent';
 import { FaBars } from 'react-icons/fa';
 import LogoImg from '../../images/LogoImg.png';
 import { useTheme } from 'styled-components';
@@ -14,9 +14,9 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo>
-          <Link to="/" style={{ display: "flex", alignItems: "center", color: "#28ac30", cursor: 'pointer' }}>
+          <Link to="/" style={{ display: "flex", alignItems: "center", color: "#28ac30", cursor: 'pointer', textDecoration: 'none' }}>
             <img src={LogoImg} style={{ height: "4rem", width: "4rem" }} alt="Logo" /> 
-            <Span style={{ textDecoration: 'none' }}>MAGS</Span>
+            <Title style={{ textDecoration: 'none' }}>MAGS</Title> 
           </Link>
         </NavLogo>
         <MobileIcon>
