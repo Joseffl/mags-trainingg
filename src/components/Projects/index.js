@@ -5,7 +5,7 @@ import ProjectCard from '../Cards/ProjectCards'
 import { projects } from '../../data/constants'
 
 
-const Projects = ({openModal,setOpenModal}) => {
+const Projects = ({ openModal, setOpenModal }) => {
   const [toggle, setToggle] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
 
@@ -46,7 +46,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="project management" onClick={() => setToggle('project management')}>Project Management Consultancy</ToggleButton>
           }
-          
+
           <Divider />
           {toggle === 'commissioning' ?
             <ToggleButton active value="commissioning" onClick={() => setToggle('commissioning')}>Precommissioning & Commissioning</ToggleButton>
@@ -81,7 +81,38 @@ const Projects = ({openModal,setOpenModal}) => {
         />
 
         <CardContainer>
-        {projects
+          {projects
+            .filter((item) =>
+              toggle === 'all' ||
+              item.category.trim().toLowerCase() === toggle.trim().toLowerCase()
+            )
+            .filter((item) =>
+              item.title.toLowerCase().includes(searchTerm.toLowerCase())
+            )
+            .map((project) => (
+              <ProjectCard
+                key={project.title}
+                project={project}
+                openModal={openModal}
+                setOpenModal={setOpenModal}
+              />
+            ))}
+
+          {/* {projects
+            .filter((item) => toggle === 'all' || item.category.toLowerCase() === toggle.toLowerCase())
+            .filter((item) =>
+              item.title.toLowerCase().includes(searchTerm.toLowerCase())
+            )
+            .map((project) => (
+              <ProjectCard
+                key={project.title}
+                project={project}
+                openModal={openModal}
+                setOpenModal={setOpenModal}
+              />
+            ))} */}
+
+          {/* {projects
           .filter((item) => toggle === 'all' || item.category === toggle)
           .filter((item) =>
             item.title.toLowerCase().includes(searchTerm.toLowerCase())
@@ -93,7 +124,7 @@ const Projects = ({openModal,setOpenModal}) => {
               openModal={openModal}
               setOpenModal={setOpenModal}
             />
-        ))}
+        ))} */}
 
         </CardContainer>
       </Wrapper>

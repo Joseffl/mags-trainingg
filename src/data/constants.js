@@ -16218,52 +16218,52 @@ export const projects = [
 
 //resume images from here
 
-{
-  id: 27,
-  title: "Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries",
-  date: "Present",
-  description:
-  [
-      "Centrifugal compressor is a type of dynamic compressor commonly used in petroleum, chemical, and gas service industries due to its high efficiency, reliability, and ability to handle large volumes of gases. These industries rely on centrifugal compressors to boost the pressure of gases for various applications, including refining, natural gas transportation, and chemical processing.",
-      "Centrifugal Compressor for Petroleum, Chemical, and Gas Service Industries course typically focuses on the principles, design, operation, and maintenance of centrifugal compressors used in various industrial applications. These compressors are widely used in the petroleum, chemical, and gas industries for tasks such as gas compression, air handling, and refrigeration. Below is an outline of the key topics often covered in such a course:"
-  ],
-  image: require("./coursesImg/Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "PAI",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "2 Days",
-  prerequisite: [
-      "The prerequisites typically focus on foundational knowledge in mechanical and chemical engineering principles, as well as an understanding of fluid mechanics, thermodynamics, and industrial systems."
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "In-depth understanding of centrifugal compressor technology and its applications.",
-      "Knowledge of design, operation, and troubleshooting techniques for maintaining high-performance compressors.",
-      "Ability to identify and resolve common issues related to compressor systems.",
-      "Familiarity with safety, maintenance, and regulatory considerations specific to the petroleum, chemical, and gas industries"
-  ],
-  outline: [
-      "Module 1: Introduction to Centrifugal Compressors",
-      "Module 2: Applications in Petroleum, Chemical, and Gas Industries.",
-      "Module 3: Basic Design",
-      "Module 4: Accessories",
-      "Module 5: inspection. Testing. And preparation for shipment",
-      "Module 6: Vendors data",
-      "Module 7: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
+// {
+//   id: 27,
+//   title: "Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries",
+//   date: "Present",
+//   description:
+//   [
+//       "Centrifugal compressor is a type of dynamic compressor commonly used in petroleum, chemical, and gas service industries due to its high efficiency, reliability, and ability to handle large volumes of gases. These industries rely on centrifugal compressors to boost the pressure of gases for various applications, including refining, natural gas transportation, and chemical processing.",
+//       "Centrifugal Compressor for Petroleum, Chemical, and Gas Service Industries course typically focuses on the principles, design, operation, and maintenance of centrifugal compressors used in various industrial applications. These compressors are widely used in the petroleum, chemical, and gas industries for tasks such as gas compression, air handling, and refrigeration. Below is an outline of the key topics often covered in such a course:"
+//   ],
+//   image: require("./coursesImg/Centrifugal Compressor for Petroleum, Chemical and Gas Service Industries.jpg"),
+//   tags: [
+//       'Trainer: Engr. Majid',
+//   ],
+//   category: "process",
+//   github: "https://github.com/Joseffl/react-todo-app",
+//   webapp: "https://bit.ly/47GF1It",
+//   duration: "2 Days",
+//   prerequisite: [
+//       "The prerequisites typically focus on foundational knowledge in mechanical and chemical engineering principles, as well as an understanding of fluid mechanics, thermodynamics, and industrial systems."
+//   ],
+//   methodology: "Theoretical",
+//   objectives: [
+//       "In-depth understanding of centrifugal compressor technology and its applications.",
+//       "Knowledge of design, operation, and troubleshooting techniques for maintaining high-performance compressors.",
+//       "Ability to identify and resolve common issues related to compressor systems.",
+//       "Familiarity with safety, maintenance, and regulatory considerations specific to the petroleum, chemical, and gas industries"
+//   ],
+//   outline: [
+//       "Module 1: Introduction to Centrifugal Compressors",
+//       "Module 2: Applications in Petroleum, Chemical, and Gas Industries.",
+//       "Module 3: Basic Design",
+//       "Module 4: Accessories",
+//       "Module 5: inspection. Testing. And preparation for shipment",
+//       "Module 6: Vendors data",
+//       "Module 7: Case Studies"
+//   ],
+//   assessment: "Online Written Exam",
+//   cdf: [
+//       "Classroom-based training",
+//       "Online courses",
+//       "In-house workshops",
+//       "On-the-job training"
+//   ],
+//   cost: "₦100,000 / $80",
+//   certification: "Certificate of Completion"
+// },
 
 {
   id: 28,
@@ -16278,7 +16278,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "2 Days",
@@ -16335,7 +16335,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "hazop hazid",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Day",
@@ -16413,7 +16413,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "hazop hazid",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Day",
@@ -16487,7 +16487,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "hazop hazid",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -16534,67 +16534,67 @@ export const projects = [
   certification: "Certificate of Completion"
 },
 
-{
-  id: 32,
-  title: "Process Engineering Design Basis",
-  date: "Present",
-  description:
-  [
-      "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector.",
-      "This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives."
-  ],
-  image: require("./coursesImg/Process Engineering Design Basis.jpg"),
-  tags: [
-      'Trainer: Engr. Majid',
-  ],
-  category: "PAI",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
-  duration: "3 Days",
-  prerequisite: [
-      "Background of EPC (Engineering, Procurement, and Construction) projects"
-  ],
-  methodology: "Theoretical",
-  objectives: [
-      "Define the concept of change and change management.",
-      "Understand key roles in the change management process.",
-      "Determine the phases of change management.",
-      "Learn to formulate an effective plan for the change process.",
-      "Deeply understand the reasons for resistance to change.",
-      "Find out about effective methods of preventing and eliminating resistance to change.",
-      "Gain the ability to design fruitful communication related to the change process.",
-      "Learn techniques for effective implementation of change.",
-      "Develop skills associated with controlling the change process.",
-      "Build proficiency in shaping a change-oriented organizational culture."
-  ],
-  outline: [
-      "Module 1: Introduction",
-      "Module 2: Scope.",
-      "Module 3: Procedure",
-      "Module 4: Authorization",
-      "Module 5: Cost of Trend Preparation",
-      "Module 6: Cost Effects",
-      "Module 7: Schedule Effects",
-      "Module 8: Trend meetings",
-      "Module 9: Contract Amendments",
-      "Module 10: Final Settlement",
-      "Module 11: Document Update",
-      "Module 12: Roles and Responsibilities",
-      "Module 13: Tools and Techniques",
-      "Module 14: Communication Plan",
-      "Module 15: Monitoring and Continuous Improvement",
-      "Module 16: Case Studies"
-  ],
-  assessment: "Online Written Exam",
-  cdf: [
-      "Classroom-based training",
-      "Online courses",
-      "In-house workshops",
-      "On-the-job training"
-  ],
-  cost: "₦100,000 / $80",
-  certification: "Certificate of Completion"
-},
+// {
+//   id: 32,
+//   title: "Process Engineering Design Basis",
+//   date: "Present",
+//   description:
+//   [
+//       "A Change Management Procedure course tailored for the oil and gas industry focuses on the unique challenges and complexities associated with change in this sector.",
+//       "This course equips participants with the knowledge and skills to effectively manage change in the oil and gas industry, ensuring that transitions are smooth, safe, and aligned with organizational goals. By focusing on industry-specific challenges and solutions, attendees will be better prepared to lead their teams through successful change initiatives."
+//   ],
+//   image: require("./coursesImg/Process Engineering Design Basis.jpg"),
+//   tags: [
+//       'Trainer: Engr. Majid',
+//   ],
+//   category: "process",
+//   github: "https://github.com/Joseffl/react-todo-app",
+//   webapp: "https://bit.ly/47GF1It",
+//   duration: "3 Days",
+//   prerequisite: [
+//       "Background of EPC (Engineering, Procurement, and Construction) projects"
+//   ],
+//   methodology: "Theoretical",
+//   objectives: [
+//       "Define the concept of change and change management.",
+//       "Understand key roles in the change management process.",
+//       "Determine the phases of change management.",
+//       "Learn to formulate an effective plan for the change process.",
+//       "Deeply understand the reasons for resistance to change.",
+//       "Find out about effective methods of preventing and eliminating resistance to change.",
+//       "Gain the ability to design fruitful communication related to the change process.",
+//       "Learn techniques for effective implementation of change.",
+//       "Develop skills associated with controlling the change process.",
+//       "Build proficiency in shaping a change-oriented organizational culture."
+//   ],
+//   outline: [
+//       "Module 1: Introduction",
+//       "Module 2: Scope.",
+//       "Module 3: Procedure",
+//       "Module 4: Authorization",
+//       "Module 5: Cost of Trend Preparation",
+//       "Module 6: Cost Effects",
+//       "Module 7: Schedule Effects",
+//       "Module 8: Trend meetings",
+//       "Module 9: Contract Amendments",
+//       "Module 10: Final Settlement",
+//       "Module 11: Document Update",
+//       "Module 12: Roles and Responsibilities",
+//       "Module 13: Tools and Techniques",
+//       "Module 14: Communication Plan",
+//       "Module 15: Monitoring and Continuous Improvement",
+//       "Module 16: Case Studies"
+//   ],
+//   assessment: "Online Written Exam",
+//   cdf: [
+//       "Classroom-based training",
+//       "Online courses",
+//       "In-house workshops",
+//       "On-the-job training"
+//   ],
+//   cost: "₦100,000 / $80",
+//   certification: "Certificate of Completion"
+// },
 
 {
   id: 33,
@@ -16610,7 +16610,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "2 Days",
@@ -16723,7 +16723,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -16792,7 +16792,7 @@ export const projects = [
   tags: [
       'Trainer: Engr. Majid',
   ],
-  category: "PAI",
+  category: "mechanical",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -16861,7 +16861,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -16918,7 +16918,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -16975,7 +16975,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -17031,7 +17031,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -17088,7 +17088,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -17144,7 +17144,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
@@ -17200,7 +17200,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Majid"
   ],
-  category: "PAI",
+  category: "process",
   github: "https://github.com/Joseffl/react-todo-app",
   webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
