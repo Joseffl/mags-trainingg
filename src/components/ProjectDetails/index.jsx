@@ -220,7 +220,7 @@ const FormButton = styled.button`
   }
 `;
 
-const index = ({ openModal, setOpenModal }) => {
+const Index = ({ openModal, setOpenModal }) => {
   const project = openModal?.project;
   const [formOpen, setFormOpen] = useState(false);
   const [formData, setFormData] = useState({
@@ -402,4 +402,4 @@ const handleFormSubmit = (e) => {
   );
 };
 
-export default index;
+export default Index;
