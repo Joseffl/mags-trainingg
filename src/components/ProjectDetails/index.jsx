@@ -3,6 +3,8 @@ import { Modal } from '@mui/material';
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import { HashLink } from 'react-router-hash-link';
+import { useFlutterwave, closePaymentModal } from 'flutterwave-react-v3';
+
 
 const Container = styled.div`
   width: 100%;
@@ -234,29 +236,119 @@ const Index = ({ openModal, setOpenModal }) => {
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-const handleFormSubmit = (e) => {
+  // const amount = parseFloat(project?.cost.replace(/[^0-9.]/g, '')) || 0;
+
+  // const config = {
+  //   public_key: "FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X", // make sure this is valid
+  //   tx_ref: `tx_${Date.now()}`,
+  //   amount,
+  //   currency: 'NGN',
+  //   payment_options: 'card, banktransfer, ussd',
+  //   customer: {
+  //     email: formData?.email || '',
+  //     name: formData?.fullName || '',
+  //   },
+  //   customizations: {
+  //     title: `${project?.title} Enrollment`,
+  //     description: `Payment for ${project?.title}`,
+  //     logo: '/your-logo.png',
+  //   },
+  // };
+
+  // const handleFlutterPayment = useFlutterwave(config);
+
+// Auto-detect currency from cost string
+const detectCurrencyAndAmount = (costString) => {
+  const costParts = costString.split('/');
+  let amount, currency;
+
+  // If user has selected or entered a preferred currency, check it
+  // Otherwise detect based on string symbol
+  if (formData.currency) {
+    // Use the user-selected currency from formData
+    if (formData.currency === 'NGN') {
+      amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
+      currency = 'NGN';
+    } else {
+      amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
+      currency = 'USD';
+    }
+  } else {
+    // Detect from string if no explicit choice
+    if (costParts[0].includes('₦')) {
+      amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
+      currency = 'NGN';
+    } else {
+      amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
+      currency = 'USD';
+    }
+  }
+
+  return { amount, currency };
+};
+
+const { amount, currency } = detectCurrencyAndAmount(project?.cost);
+
+const config = {
+  public_key: 'FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X', // ✅ sandbox public key
+  tx_ref: `tx_${Date.now()}`,
+  amount: amount,
+  currency: currency,
+  payment_options: 'card, banktransfer, ussd',
+  customer: {
+    email: formData.email,
+    name: formData.fullName,
+  },
+  customizations: {
+    title: `${project?.title} Enrollment`,
+    description: `Payment for ${project?.title}`,
+    logo: '/your-logo.png',
+  },
+};
+
+const handleFlutterPayment = useFlutterwave(config);
+
+  // const handleFormSubmit = (e) => {
+  //   e.preventDefault();
+
+  //   // Extract cost as a number (assuming cost is stored as a string like "₦50,000")
+  //   const amount = parseFloat(project?.cost.replace(/[^0-9.]/g, '')) * 100; // Convert to kobo for Flutterwave
+
+  //   // Construct sandbox payment URL with query parameters
+  //   const paymentLink = new URL('https://sandbox.flutterwave.com/pay/xaxarm6lstz9');
+  //   paymentLink.searchParams.append('customer_email', formData.email);
+  //   paymentLink.searchParams.append('customer_firstname', formData.fullName.split(' ')[0] || ''); // First name from full name
+  //   paymentLink.searchParams.append('customer_lastname', formData.fullName.split(' ').slice(1).join(' ') || ''); // Last name from full name
+  //   paymentLink.searchParams.append('title', `${project?.title} Enrollment`);
+  //   paymentLink.searchParams.append('description', `Payment for ${project?.title}`);
+  //   paymentLink.searchParams.append('amount', amount);
+  //   paymentLink.searchParams.append('currency', 'NGN');
+  //   paymentLink.searchParams.append('tx_ref', `tx_${Date.now()}`);
+
+  //   // Open the sandbox payment page in a new tab
+  //   window.open(paymentLink.toString(), '_blank');
+
+  //   // Optionally close modals after opening the new tab
+  //   setFormOpen(false);
+  //   setOpenModal({ state: false, project: null });
+  // };
+
+
+  const handleFormSubmit = (e) => {
   e.preventDefault();
+  console.log('Proceeding to Flutterwave payment...');
 
-  // Extract cost as a number (assuming cost is stored as a string like "₦50,000")
-  const amount = parseFloat(project?.cost.replace(/[^0-9.]/g, '')) * 100; // Convert to kobo for Flutterwave
-
-  // Construct sandbox payment URL with query parameters
-  const paymentLink = new URL('https://sandbox.flutterwave.com/pay/xaxarm6lstz9');
-  paymentLink.searchParams.append('customer_email', formData.email);
-  paymentLink.searchParams.append('customer_firstname', formData.fullName.split(' ')[0] || ''); // First name from full name
-  paymentLink.searchParams.append('customer_lastname', formData.fullName.split(' ').slice(1).join(' ') || ''); // Last name from full name
-  paymentLink.searchParams.append('title', `${project?.title} Enrollment`);
-  paymentLink.searchParams.append('description', `Payment for ${project?.title}`);
-  paymentLink.searchParams.append('amount', amount);
-  paymentLink.searchParams.append('currency', 'NGN');
-  paymentLink.searchParams.append('tx_ref', `tx_${Date.now()}`);
-
-  // Open the sandbox payment page in a new tab
-  window.open(paymentLink.toString(), '_blank');
-
-  // Optionally close modals after opening the new tab
-  setFormOpen(false);
-  setOpenModal({ state: false, project: null });
+  handleFlutterPayment({
+    callback: (response) => {
+      console.log('Payment Response:', response);
+      closePaymentModal();
+      setFormOpen(false);
+      setOpenModal({ state: false, project: null });
+    },
+    onClose: () => {
+      console.log('Payment closed');
+    },
+  });
 };
 
   return (
@@ -394,6 +486,7 @@ const handleFormSubmit = (e) => {
                 <option value={project?.title}>{project?.title}</option>
               </Select>
               <FormButton type="submit">Proceed to Payment</FormButton>
+              {/* <button type="submit">Proceed to Payment</button> */}
             </Form>
           </FormContainer>
         </Container>

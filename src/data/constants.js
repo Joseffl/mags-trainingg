@@ -407,7 +407,7 @@ export const projects = [
       "Online courses", 
       "In-house workshops"
     ],
-    cost: "₦100,000 or $80",
+    cost: "₦100,000 / $80",
     paymentLink: "",
     
   },
