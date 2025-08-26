@@ -1,9 +1,10 @@
 import { CloseRounded } from '@mui/icons-material';
 import { Modal } from '@mui/material';
 import React, { useState } from 'react';
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
 import { HashLink } from 'react-router-hash-link';
 import { useFlutterwave, closePaymentModal } from 'flutterwave-react-v3';
+import emailjs from '@emailjs/browser';
 
 
 const Container = styled.div`
@@ -222,6 +223,22 @@ const FormButton = styled.button`
   }
 `;
 
+const spin = keyframes`
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+`;
+
+const Spinner = styled.div`
+  border: 2px solid ${({ theme }) => theme.text_primary};
+  border-top: 2px solid transparent;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  margin: 0 auto;
+  animation: ${spin} 1s linear infinite;
+`;
+
+
 const Index = ({ openModal, setOpenModal }) => {
   const project = openModal?.project;
   const [formOpen, setFormOpen] = useState(false);
@@ -231,125 +248,141 @@ const Index = ({ openModal, setOpenModal }) => {
     course: project?.title || '',
   });
 
+  const [isLoading, setIsLoading] = useState(false);
+
   const handleInputChange = (e) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-  // const amount = parseFloat(project?.cost.replace(/[^0-9.]/g, '')) || 0;
 
-  // const config = {
-  //   public_key: "FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X", // make sure this is valid
-  //   tx_ref: `tx_${Date.now()}`,
-  //   amount,
-  //   currency: 'NGN',
-  //   payment_options: 'card, banktransfer, ussd',
-  //   customer: {
-  //     email: formData?.email || '',
-  //     name: formData?.fullName || '',
-  //   },
-  //   customizations: {
-  //     title: `${project?.title} Enrollment`,
-  //     description: `Payment for ${project?.title}`,
-  //     logo: '/your-logo.png',
-  //   },
-  // };
 
-  // const handleFlutterPayment = useFlutterwave(config);
+  const detectCurrencyAndAmount = (costString) => {
+    if (!costString) return { amount: 0, currency: 'NGN' };
+    const costParts = costString.split('/');
 
-// Auto-detect currency from cost string
-const detectCurrencyAndAmount = (costString) => {
-  const costParts = costString.split('/');
-  let amount, currency;
-
-  // If user has selected or entered a preferred currency, check it
-  // Otherwise detect based on string symbol
-  if (formData.currency) {
-    // Use the user-selected currency from formData
-    if (formData.currency === 'NGN') {
-      amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
-      currency = 'NGN';
-    } else {
-      amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
-      currency = 'USD';
+    if (costParts.length === 1) {
+      const cleaned = parseFloat(costParts[0].replace(/[^0-9.]/g, '')) || 0;
+      // Guess currency based on symbol
+      const isNGN = costString.includes('₦') || costString.toLowerCase().includes('ngn');
+      return { amount: cleaned, currency: isNGN ? 'NGN' : 'USD' };
     }
-  } else {
-    // Detect from string if no explicit choice
-    if (costParts[0].includes('₦')) {
-      amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
-      currency = 'NGN';
+
+    let amount, currency;
+
+    // If user has selected or entered a preferred currency, check it
+    // Otherwise detect based on string symbol
+    if (formData.currency) {
+      // Use the user-selected currency from formData
+      if (formData.currency === 'NGN') {
+        amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
+        currency = 'NGN';
+      } else {
+        amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
+        currency = 'USD';
+      }
     } else {
-      amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
-      currency = 'USD';
+      // Detect from string if no explicit choice
+      if (costParts[0].includes('₦')) {
+        amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
+        currency = 'NGN';
+      } else {
+        amount = parseFloat(costParts[1].replace(/[^0-9.]/g, ''));
+        currency = 'USD';
+      }
     }
-  }
 
-  return { amount, currency };
-};
+    return { amount, currency };
+  };
 
-const { amount, currency } = detectCurrencyAndAmount(project?.cost);
+  const { amount, currency } = detectCurrencyAndAmount(project?.cost || "0");
 
-const config = {
-  public_key: 'FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X', // ✅ sandbox public key
-  tx_ref: `tx_${Date.now()}`,
-  amount: amount,
-  currency: currency,
-  payment_options: 'card, banktransfer, ussd',
-  customer: {
-    email: formData.email,
-    name: formData.fullName,
-  },
-  customizations: {
-    title: `${project?.title} Enrollment`,
-    description: `Payment for ${project?.title}`,
-    logo: '/your-logo.png',
-  },
-};
+  const config = {
+    public_key: 'FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X', // ✅ sandbox public key
+    tx_ref: `tx_${Date.now()}`,
+    amount: amount,
+    currency: currency,
+    payment_options: 'card, banktransfer, ussd',
+    customer: {
+      email: formData.email,
+      name: formData.fullName,
+    },
+    customizations: {
+      title: `${project?.title} Enrollment`,
+      description: `Payment for ${project?.title}`,
+      logo: '/your-logo.png',
+    },
+  };
 
-const handleFlutterPayment = useFlutterwave(config);
+  const handleFlutterPayment = useFlutterwave(config);
 
-  // const handleFormSubmit = (e) => {
+  //   const handleFormSubmit = (e) => {
   //   e.preventDefault();
+  //   console.log('Proceeding to Flutterwave payment...');
 
-  //   // Extract cost as a number (assuming cost is stored as a string like "₦50,000")
-  //   const amount = parseFloat(project?.cost.replace(/[^0-9.]/g, '')) * 100; // Convert to kobo for Flutterwave
-
-  //   // Construct sandbox payment URL with query parameters
-  //   const paymentLink = new URL('https://sandbox.flutterwave.com/pay/xaxarm6lstz9');
-  //   paymentLink.searchParams.append('customer_email', formData.email);
-  //   paymentLink.searchParams.append('customer_firstname', formData.fullName.split(' ')[0] || ''); // First name from full name
-  //   paymentLink.searchParams.append('customer_lastname', formData.fullName.split(' ').slice(1).join(' ') || ''); // Last name from full name
-  //   paymentLink.searchParams.append('title', `${project?.title} Enrollment`);
-  //   paymentLink.searchParams.append('description', `Payment for ${project?.title}`);
-  //   paymentLink.searchParams.append('amount', amount);
-  //   paymentLink.searchParams.append('currency', 'NGN');
-  //   paymentLink.searchParams.append('tx_ref', `tx_${Date.now()}`);
-
-  //   // Open the sandbox payment page in a new tab
-  //   window.open(paymentLink.toString(), '_blank');
-
-  //   // Optionally close modals after opening the new tab
-  //   setFormOpen(false);
-  //   setOpenModal({ state: false, project: null });
+  //   handleFlutterPayment({
+  //     callback: (response) => {
+  //       console.log('Payment Response:', response);
+  //       closePaymentModal();
+  //       setFormOpen(false);
+  //       setOpenModal({ state: false, project: null });
+  //     },
+  //     onClose: () => {
+  //       console.log('Payment closed');
+  //     },
+  //   });
   // };
-
 
   const handleFormSubmit = (e) => {
-  e.preventDefault();
-  console.log('Proceeding to Flutterwave payment...');
+    e.preventDefault();
+    setIsLoading(true);
 
-  handleFlutterPayment({
-    callback: (response) => {
-      console.log('Payment Response:', response);
-      closePaymentModal();
-      setFormOpen(false);
-      setOpenModal({ state: false, project: null });
-    },
-    onClose: () => {
-      console.log('Payment closed');
-    },
-  });
-};
+    const rawCost = project?.cost ?? '';
+    const isFree =
+      rawCost.toString().toLowerCase().includes("free") ||
+      parseFloat(rawCost.replace(/[^0-9.]/g, '')) === 0;
+
+    emailjs.send(
+      'service_f1hf2ku',
+      'template_q6iinar',
+      {
+        fullName: formData.fullName,
+        email: formData.email,
+        course: formData.course,
+      },
+      'hWAiFxCtIcUV1ChT2'
+    )
+      .then((result) => {
+        console.log('Email sent successfully >>> ', result.text);
+
+        if (isFree) {
+          alert("Enrollment successful! We'll reach out to you shortly.");
+          setIsLoading(false);
+          setFormOpen(false);
+          setOpenModal({ state: false, project: null });
+        } else {
+          handleFlutterPayment({
+            callback: (response) => {
+              console.log('Payment Response:', response);
+              closePaymentModal();
+              setIsLoading(false);
+              setFormOpen(false);
+              setOpenModal({ state: false, project: null });
+            },
+            onClose: () => {
+              console.log('Payment closed');
+              setIsLoading(false);
+            },
+          });
+        }
+      })
+      .catch((error) => {
+        console.log('Email error:', error.text);
+        alert("Could not submit your enrollment. Please try again.");
+        setIsLoading(false);
+      });
+  };
+
 
   return (
     <>
@@ -382,9 +415,9 @@ const handleFlutterPayment = useFlutterwave(config);
                 <p style={{ marginBottom: '1rem' }}>{project?.description || 'No description available'}</p>
               )}
             </div>
-            <Desc>
+            {/* <Desc>
               <h3> Duration </h3> {project?.duration}
-            </Desc>
+            </Desc> */}
             <Desc>
               <h3>Methodology </h3>
               {project?.methodology}
@@ -422,10 +455,13 @@ const handleFlutterPayment = useFlutterwave(config);
             <Desc>
               <h3>Course Delivery Formats</h3>
               <p>
+                  Online/Virtual
+              </p>
+              {/* <p>
                 {project?.cdf.map((cdf, index) => (
                   <li key={index}>{cdf}</li>
                 ))}
-              </p>
+              </p> */}
             </Desc>
             <Desc>
               <h3>Cost </h3>
@@ -446,7 +482,6 @@ const handleFlutterPayment = useFlutterwave(config);
         </Container>
       </Modal>
 
-      {/* Enrollment Form Modal */}
       <Modal open={formOpen} onClose={() => setFormOpen(false)}>
         <Container>
           <FormContainer>
@@ -485,12 +520,13 @@ const handleFlutterPayment = useFlutterwave(config);
               >
                 <option value={project?.title}>{project?.title}</option>
               </Select>
-              <FormButton type="submit">Proceed to Payment</FormButton>
-              {/* <button type="submit">Proceed to Payment</button> */}
-            </Form>
+              <FormButton type="submit" disabled={isLoading}>
+                {isLoading ? <Spinner /> : 'Proceed to Payment'}
+              </FormButton>
+              </Form>
           </FormContainer>
         </Container>
-      </Modal>
+      </Modal> 
     </>
   );
 };

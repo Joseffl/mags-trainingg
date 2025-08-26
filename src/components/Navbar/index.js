@@ -53,6 +53,21 @@ const Navbar = () => {
             </HashLink>
           </NavLink>
           <NavLink as={Link} to="/training">Training</NavLink>
+
+          <NavLink>
+            <HashLink
+              smooth
+              to="/#testimonials"
+              style={{
+                color: "inherit",
+                fontWeight: "500",
+                cursor: "pointer",
+                textDecoration: "none",
+              }}
+            >
+              Testimonials
+            </HashLink>
+          </NavLink>
         </NavItems>
         <ButtonContainer>
         <GitHubButton>
@@ -95,6 +110,16 @@ const Navbar = () => {
             </MobileLink>
             
             <MobileLink as={Link} to="/training" onClick={() => setIsOpen(false)}>Training</MobileLink>
+
+            <MobileLink 
+              as={HashLink} 
+              smooth 
+              to="/#testimonials" 
+              onClick={() => setIsOpen(false)} 
+              style={{ textDecoration: 'none', color: 'inherit' }}
+            >
+              Testimonials
+            </MobileLink>
 
             <GitHubButton
               as={HashLink}

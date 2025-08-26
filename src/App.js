@@ -21,6 +21,7 @@ import CoursePage from "./pages/CoursePage/index.js";
 import Terms from "./components/Terms/index.js";
 import Privacy from "./components/PrivacyPolicy/index.js";
 import Refund from "./components/Refund/index.js";
+import Testimonials from "./components/Testimonial/index.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -46,7 +47,6 @@ function App() {
       <Router>
         <Navbar />
         <Body>
-          {/* Define main routes */}
           <Routes>
             <Route 
               path="/" 
@@ -58,6 +58,7 @@ function App() {
                     <Experience />
                   </Wrapper>
                   <Wrapper>
+                    <Testimonials />
                     <Contact />
                   </Wrapper>
                   
@@ -80,6 +81,7 @@ function App() {
             <Route path="/T&C" element={<Terms />} />
             <Route path="/privacy" element={<Privacy />} />
             <Route path="/refund" element={<Refund />} />
+            <Route path="/testimonials" element={<Testimonials />} />
 
             <Route 
               path="/role/:id" 
@@ -94,7 +96,6 @@ function App() {
           <Footer />
           
           
-          {/* Handle modals */}
           {openModal.state && (
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           )}

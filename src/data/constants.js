@@ -6453,18 +6453,6 @@ export const projects = [
           "Explore various materials commonly used in the industry, including metals, polymers, and composites."
 
 
-
-
-
-
-
-
-
-
-
-
-
-                  
     ],
     outline: [
         "Module 1:  Introduction to Material Selection",
@@ -6482,17 +6470,6 @@ export const projects = [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
     ],
     assessment: "	Online Written  Exam ",
     cdf: [
@@ -6503,7 +6480,7 @@ export const projects = [
 
 ,
     ],
-    cost: "FREE"
+    cost: "0"
   },
   {
     id: 10,
@@ -16488,8 +16465,6 @@ export const projects = [
       'Trainer: Engr. Majid',
   ],
   category: "hazop hazid",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
   prerequisite: [
       "Basic understanding of process engineering or chemical/process plant operations",
@@ -17201,8 +17176,6 @@ export const projects = [
     "Trainer: Engr. Majid"
   ],
   category: "process",
-  github: "https://github.com/Joseffl/react-todo-app",
-  webapp: "https://bit.ly/47GF1It",
   duration: "3 Days",
   prerequisite: [
     "Basic understanding of hydrogen properties and fuel cell systems",
@@ -17240,6 +17213,1081 @@ export const projects = [
   cost: "₦150,000 / $120",
   certification: "Certificate of Completion"
 },
+
+{
+  "id": 44,
+  "title": "API 660 vs TEMA",
+  "date": "Present",
+  "description": [
+    "Shell-and-tube heat exchangers are essential components in industrial thermal systems. Their design and operation are governed by well-established standards to ensure safety, reliability, and performance. Two of the most widely used standards are API 660, tailored for the petroleum and chemical industries, and TEMA, which provides a broader framework for various industrial applications.",
+    "This course offers a comparative study of API 660 and TEMA, helping engineers, designers, and maintenance professionals understand how each standard approaches design philosophy, mechanical integrity, and operational efficiency. Through technical analysis, case studies, and practical examples, participants will gain the knowledge needed to make informed decisions in selecting and managing heat exchangers."
+  ],
+  "image": require("./coursesImg/API 660 vs TEMA.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "1 Day",
+  "prerequisite": [
+    "A basic understanding of heat exchanger principles and thermal systems.",
+    "Familiarity with industrial codes and standards (e.g., ASME, API).",
+    "Experience in equipment design, specification, procurement, or maintenance in industries such as oil & gas, petrochemical, or power generation.",
+    "Ability to interpret engineering drawings and technical documentation."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the scope, structure, and application of API 660 and TEMA standards.",
+    "Identify key differences in design, fabrication, inspection, and maintenance requirements.",
+    "Evaluate the implications of selecting either standard for specific industrial applications.",
+    "Apply best practices for specifying, maintaining, and troubleshooting shell-and-tube heat exchangers using both standards."
+  ],
+  "outline": [
+    "Module 1: Overview of Heat Exchanger Standards",
+    "Module 2: Design Philosophy and Requirements",
+    "Module 3: Fabrication and Construction",
+    "Module 4: Inspection, Testing, and Quality Control",
+    "Module 5: Maintenance and Troubleshooting",
+    "Module 6: Specification and Procurement",
+    "Module 7: Comparative Analysis and Decision-Making"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#40,000 / $50",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 45,
+  "title": "Flange And Pipes",
+  "date": "Present",
+  "description": [
+    "Flanges and pipes are essential components in piping systems, enabling secure, leak-tight connections for fluid and gas transportation across various industries, including oil & gas, petrochemical, power generation, and water treatment.",
+    "This course provides a detailed understanding of the role, design, classification, standards, and materials used for flanges and pipes. Participants will explore the functions and applications of different flange types, understand industry-standard dimensions and ratings, and review material selection criteria based on service conditions. Real-world case studies will illustrate common issues and best practices, ensuring participants gain both theoretical knowledge and practical insights for effective flange and pipe system design, installation, and maintenance."
+  ],
+  "image": require("./coursesImg/Flange And Pipes.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic knowledge of mechanical engineering or piping systems.",
+    "Exposure to plant operations, fabrication, or maintenance is beneficial but not mandatory.",
+    "Ability to read basic technical drawings (e.g., P&IDs, piping layout diagrams)."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain why flanges are used and their advantages in assembly, maintenance, and repair.",
+    "Select appropriate materials based on operating temperature, pressure, and media.",
+    "Recognize weld neck, slip-on, socket weld, lap joint, threaded, and blind flanges, and describe their specific applications.",
+    "Apply ASME, ANSI, DIN, and other relevant standards to ensure correct flange sizing and pressure class selection.",
+    "Choose suitable materials for pipes and flanges based on service requirements and corrosion resistance.",
+    "Categorize flanges based on pressure class, facing type, and manufacturing method.",
+    "Interpret and apply relevant codes and standards for flanges and piping in design and procurement.",
+    "Evaluate flange and pipe failures, identify root causes, and propose preventive measures."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Functions of Flanges",
+    "Module 3: Common Materials Used for Flange",
+    "Module 4: Types of Flanges & Their Use",
+    "Module 5: Standard Dimensions & Ratings",
+    "Module 6: Materials of Construction (MOC)",
+    "Module 7: Classifications",
+    "Module 8: Standards",
+    "Module 9: Case Studies"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#80,000 / $60",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 46,
+  "title": "Heat Exchangers; Design, Operation, Maintenance & Enhancement",
+  "date": "Present",
+  "description": [
+    "Heat exchangers are vital components in oil, gas, petrochemical, and power generation facilities, enabling efficient heat transfer between process fluids. Proper design, operation, and maintenance are essential to ensure their performance, safety, and longevity.",
+    "This course provides a comprehensive understanding of heat exchangers — from classification and design standards to troubleshooting and performance enhancement. Participants will learn how to apply industry codes, perform thermal design calculations, prepare and interpret specification sheets, and manage the complete lifecycle of heat exchangers, including storage, installation, operation, and maintenance. Special focus is given to practical challenges such as tube side repair/replacement, fouling, vibration, and unresolved design issues.",
+    "Combining theoretical knowledge with case-based examples, the course equips engineers, operators, and maintenance personnel with the skills to optimize heat exchanger performance and reliability in demanding industrial environments."
+  ],
+  "image": require("./coursesImg/Heat Exchangers; Design, Operation, Maintenance & Enhancement.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Degree/diploma in mechanical, chemical, process, or petroleum engineering (or equivalent industrial experience).",
+    "Basic understanding of thermodynamics, fluid mechanics, and process equipment operation.",
+    "Ability to read P&IDs, equipment datasheets, and mechanical drawings."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Describe the role, function, and applications of heat exchangers in industrial facilities.",
+    "Identify different configurations and their suitability for various process duties.",
+    "Interpret relevant design codes (e.g., TEMA, ASME) and their application in manufacturing and inspection.",
+    "Use fundamental heat transfer equations to size and evaluate heat exchangers.",
+    "Document and review key design parameters for procurement and installation.",
+    "Apply best practices to prevent damage and ensure long-term operational reliability.",
+    "Decide between tube repair and replacement based on condition assessment.",
+    "Diagnose common operational problems such as fouling, leakage, and vibration, and recommend corrective actions.",
+    "Understand limitations in current heat exchanger technology and explore potential performance enhancement strategies.",
+    "Apply design, operation, and maintenance principles to improve safety, efficiency, and lifecycle costs of heat exchangers."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Classification of heat exchangers",
+    "Module 3: Code and standards",
+    "Module 4: Basic Design Equations of Heat Exchangers",
+    "Module 5: Thermal Design",
+    "Module 6: Specification sheet",
+    "Module 7: Storage, Installation, Operation and Maintenance",
+    "Module 8: Heat exchanger tube side maintenance (Repair vs replacement)",
+    "Module 9: Troubleshooting",
+    "Module 10: Unresolved problems in the heat exchangers design"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#230,000 / $200",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 47,
+  "title": "Industrial Rotating Equipment Classification, Operations & Applications",
+  "date": "Present",
+  "description": [
+    "Rotating equipment forms the backbone of industrial operations in oil & gas, power generation, petrochemicals, and manufacturing sectors. From pumps, compressors, and turbines to gearboxes and couplings, these machines enable continuous production and safe plant operation.",
+    "This course introduces participants to the fundamentals of industrial rotating equipment, their classifications, prime movers (with a focus on steam turbines), and associated connectors. Emphasis is placed on operational principles, selection criteria, and practical applications. Participants will gain insight into performance optimization, reliability improvement, and maintenance considerations essential for minimizing downtime and enhancing efficiency.",
+    "Through structured modules, the program blends theory with case examples, preparing engineers and technicians to effectively specify, operate, and troubleshoot rotating equipment in diverse industrial environments."
+  ],
+  "image": require("./coursesImg/Industrial Rotating Equipment Classification, Operations & Applications.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Degree or diploma in mechanical, process, petroleum, or electrical engineering (or equivalent technical field).",
+    "Basic understanding of thermodynamics, fluid mechanics, and mechanical systems."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the significance of rotating machinery in industrial operations and process continuity.",
+    "Differentiate between pumps, compressors, turbines, and auxiliary rotating equipment.",
+    "Understand design features, operating principles, and applications of steam turbines as prime movers.",
+    "Assess performance characteristics, energy conversion efficiency, and reliability aspects.",
+    "Describe the function of couplings, gearboxes, and shaft alignments in ensuring safe power transmission.",
+    "Match equipment type to process requirements and operating conditions.",
+    "Recognize key factors affecting longevity and common failure mechanisms of rotating machinery.",
+    "Relate theoretical knowledge to real industrial applications through case studies and examples."
+  ],
+  "outline": [
+    "Module 1: Overview of rotating equipment",
+    "Module 2: Prime Movers – Steam Turbines",
+    "Module 3: Rotating Equipment",
+    "Module 4: Connectors"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#60,000 / $50",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 48,
+  "title": "Pipe Rack & Pipe Rack Piping",
+  "date": "Present",
+  "description": [
+    "Pipe racks are the backbone of industrial plants, providing structural support and safe routing for process, utility, and service pipelines. This course provides a comprehensive understanding of pipe rack design, layout, and piping considerations, covering both structural and piping engineering aspects. Participants will gain knowledge of industry standards, design criteria, spatial requirements, load distribution, and effective pipe routing strategies. Emphasis will also be placed on practical considerations such as thermal expansion, segregation of hot and cold lines, clearances, anchor bays, and provisions for future expansion.",
+    "By the end of the course, participants will be equipped with the skills to design, evaluate, and optimize pipe racks and associated piping systems for safe, efficient, and cost-effective plant operation."
+  ],
+  "image": require("./coursesImg/Pipe Rack & Pipe Rack Piping.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of piping design and layout.",
+    "Familiarity with process plant drawings (PFDs, P&IDs, and plot plans).",
+    "Understanding of mechanical, structural, or civil engineering principles.",
+    "Awareness of piping codes and standards (ASME B31.3, API, or equivalent) is helpful but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Define the purpose and function of pipe racks in process facilities.",
+    "Interpret design criteria and industry standards for pipe rack development.",
+    "Apply correct shapes, widths, and clearances in pipe rack design.",
+    "Allocate space for current and future piping requirements.",
+    "Identify loading considerations and structural constraints.",
+    "Differentiate between routing of process and utility lines.",
+    "Apply segregation principles for hot and cold lines.",
+    "Determine optimal routing for larger-sized lines and spacing requirements.",
+    "Design and position anchor bays to control thermal expansion.",
+    "Incorporate expansion loops and flexibility analysis in piping systems.",
+    "Plan pipe routes across unit battery limits.",
+    "Ensure effective use of trays for multilayer pipe arrangements.",
+    "Balance safety, accessibility, and maintainability in layout decisions.",
+    "Integrate provisions for future tie-ins and expansions.",
+    "Apply best practices for pipe rack maintenance and safety"
+  ],
+  "outline": [
+    "Module 1: Pipe Rack design Criteria",
+    "Module 2: Shapes",
+    "Module 3: Future Space",
+    "Module 4: Width of Pipe Rack",
+    "Module 5: Clearance",
+    "Module 6: Pipe Rack Loading",
+    "Module 7: Positions of Lines (Process & Utilities)",
+    "Module 8: Hot Lines & Cold Lines",
+    "Module 9: Bigger Size Lines",
+    "Module 10: Pipe Spacing",
+    "Module 11: Anchor Bay",
+    "Module 12: Unit Battery Limit",
+    "Module 13: Expansion Loops",
+    "Module 14: Pipe Route",
+    "Module 15: Trays"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 49,
+  "title": "PIPING & PIPE HANGER DESIGN & ENGINEERING",
+  "date": "Present",
+  "description": [
+    "This course provides an in-depth understanding of the principles, practices, and standards associated with the design and engineering of piping systems and pipe hangers. The training is designed to equip engineers and professionals with the technical knowledge needed to design, calculate, and select the appropriate support systems for piping under various operational conditions — including thermal expansion, seismic activity, and nuclear applications.",
+    "Participants will gain practical knowledge through theoretical modules, detailed calculation methods, specification guidance, and real-world application examples. The course also explores advanced considerations like seismic supports, nuclear piping requirements, and grooved piping systems."
+  ],
+  "image": require("./coursesImg/PIPING & PIPE HANGER DESIGN & ENGINEERING.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "A basic understanding of piping systems and components.",
+    "Fundamental knowledge of mechanical or civil engineering principles.",
+    "Familiarity with stress analysis, thermal expansion, and structural loads is advantageous.",
+    "Experience with industrial piping projects is helpful but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the design principles and standards for pipe hangers and supports.",
+    "Determine optimal hanger locations for various piping layouts.",
+    "Perform load calculations for hangers under static and dynamic conditions.",
+    "Evaluate and calculate thermal movements affecting piping systems.",
+    "Select proper hangers based on load, displacement, and environmental conditions.",
+    "Interpret and apply typical pipe support specifications used in industry.",
+    "Gain insight into nuclear pipe hanger design standards and practices.",
+    "Design seismic support systems in compliance with relevant codes.",
+    "Understand the design considerations for grooved piping systems.",
+    "Apply the learned principles through real-world case studies and examples.",
+    "Accurately use piping material weight data for support design.",
+    "Utilize charts and tables for efficient and standardized design processes."
+  ],
+  "outline": [
+    "Module 1: Design of Pipe Hangers",
+    "Module 2: Determination of Hanger Locations",
+    "Module 3: Hanger Load Calculations",
+    "Module 4: Thermal Movement Calculations",
+    "Module 5: Selection of the Proper Hangers",
+    "Module 6: Typical Pipe Support Specification",
+    "Module 7: Nuclear pipe Hangers",
+    "Module 8: Seismic Supports",
+    "Module 9: Supports for Grooved Piping",
+    "Module 10: Application Examples",
+    "Module 11: Weights of Piping Materials",
+    "Module 12: Charts and Tables"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 50,
+  "title": "Pump",
+  "date": "Present",
+  "description": [
+    "This course provides a comprehensive study of pumps and their applications in industrial facilities, particularly in oil & gas, petrochemical, and power plants. It covers the classification of pumps, fundamentals of centrifugal and positive displacement pumps, pump performance, corrosion challenges, piping design considerations, sealing systems, and couplings.",
+    "In addition, the course emphasizes operation, maintenance, and troubleshooting techniques to improve pump reliability, efficiency, and lifecycle management. Participants will gain both theoretical knowledge and practical insights needed for effective pump selection, system integration, and problem-solving in real-world applications."
+  ],
+  "image": require("./coursesImg/Pump.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of fluid mechanics and hydraulics.",
+    "Familiarity with process equipment in industrial facilities.",
+    "Understanding of piping and process flow diagrams (PFDs/P&IDs).",
+    "Some experience in plant operations or mechanical maintenance is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Differentiate between centrifugal, positive displacement, and other pump types.",
+    "Select pumps based on process requirements and fluid characteristics.",
+    "Understand principles of operation, head, flow, NPSH, and efficiency.",
+    "Interpret pump curves and evaluate pump performance.",
+    "Analyze performance parameters (flow, head, efficiency, power).",
+    "Assess system curves and pump operating points.",
+    "Identify common corrosion issues in pumps.",
+    "Select appropriate materials and coatings to enhance pump life.",
+    "Understand piping layout considerations for pump operation.",
+    "Manage suction/discharge piping and minimize hydraulic losses.",
+    "Learn about mechanical seals, packing, and sealing technologies.",
+    "Evaluate different coupling types and their applications.",
+    "Understand design, operation, and applications of reciprocating and rotary pumps.",
+    "Compare positive displacement vs. centrifugal pumps.",
+    "Detect common pump failures (cavitation, seal leakage, misalignment, and vibration).",
+    "Apply corrective and preventive maintenance techniques.",
+    "Implement condition monitoring for improved reliability."
+  ],
+  "outline": [
+    "Module 1: Classifications Of Pumps",
+    "Module 2: Centrifugal Pump Fundamentals",
+    "Module 3: Pump Performance",
+    "Module 4: Corrosion",
+    "Module 5: Piping Design",
+    "Module 6: Sealing",
+    "Module 7: Coupling",
+    "Module 8: Positive Displacement Pumps",
+    "Module 9: Maintenance & Troubleshooting"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 51,
+  "title": "Pump Repairs (API RP 697)",
+  "date": "Present",
+  "description": [
+    "This course provides in-depth knowledge and practical guidance on repairing and refurbishing pumps in compliance with API Recommended Practice 697. It covers the end-to-end repair process, starting from inspection of installed pumps, field repair activities, and shipment handling to detailed shop repair procedures such as disassembly, inspection, re-rates, rotor balancing, reassembly, and documentation.",
+    "The course emphasizes industry best practices, quality assurance, and safety standards to ensure pumps are restored to reliable operating conditions. Participants will learn how to properly manage pump repairs both in the field and in specialized repair shops, with a strong focus on compliance with API standards, equipment longevity, and operational safety."
+  ],
+  "image": require("./coursesImg/Pump Repairs (API RP 697).jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic knowledge of pump design and operation.",
+    "Familiarity with rotating equipment maintenance.",
+    "Understanding of plant safety standards and equipment handling.",
+    "Experience in mechanical maintenance, reliability, or rotating equipment is recommended but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Define the scope and purpose of pump repair standards.",
+    "Recognize key terms, definitions, and compliance requirements.",
+    "Conduct thorough inspections of installed pumps.",
+    "Apply safe methods for pump removal from baseplates.",
+    "Identify repairable conditions versus cases requiring shop repair.",
+    "Safely prepare and transport pumps or components to/from repair shops.",
+    "Ensure proper documentation and handling procedures.",
+    "Perform disassembly, cleaning, and inspection of pump components.",
+    "Apply repair techniques for casings, rotors, seals, and bearings.",
+    "Conduct modifications and re-rates as per process requirements.",
+    "Understand welding, machining, and replacement component manufacturing.",
+    "Ensure compliance with material and dimensional tolerances.",
+    "Conduct rotor assembly and dynamic balancing.",
+    "Assemble pumps in shop conditions with alignment and clearances verified.",
+    "Prepare inspection and repair documentation in line with API RP 697.",
+    "Review and verify shop reports before shipment.",
+    "Ensure proper handover and receipt of repaired equipment by the owner."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Terms and Definitions",
+    "Module 3: Inspection of Installed Pump and Removal from Baseplate",
+    "Module 4: Field Inspections (After the Pump Has Been Removed from Its Base)",
+    "Module 5: Field Repair",
+    "Module 6: Shipment of Equipment or Components to or from Repair Shop",
+    "Module 7: Receipt of Pump and Components by Repair Shop or Owner",
+    "Module 8: Disassembly and Cleaning of the Pump (in Repair Shop)",
+    "Module 9: Shop Inspection of Disassembled Pump, Components and Casing",
+    "Module 10: Pump Modifications and Re-Rates",
+    "Module 11: Repair Processes and New Component Manufacture",
+    "Module 12: Rotor Assembly and Balancing",
+    "Module 13: Shop Assembly of Pump",
+    "Module 14: Shipment of Equipment or Components from Repair Shop",
+    "Module 15: Documentation",
+    "Module 16: Receipt of Repaired Pump by Owner"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 52,
+  "title": "Safe Furnace & Boiler Firing",
+  "date": "Present",
+  "description": [
+    "Furnaces and boilers are critical pieces of equipment in the oil & gas, petrochemical, and power industries, but they also present significant safety risks if not properly operated. This course provides a comprehensive understanding of safe furnace and boiler firing practices, emphasizing operational safety, fuel system integrity, burner management, and proper lighting and shutdown procedures. Participants will learn how fired heaters work, the hazards associated with explosions, and the steps necessary to prevent accidents through safe operating procedures and correct maintenance practices.",
+    "By combining theory with practical safety principles, this course equips engineers, operators, and technicians with the skills required to ensure safe, efficient, and reliable operation of fired heaters and boilers."
+  ],
+  "image": require("./coursesImg/Safe Furnace & Boiler Firing.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "4 Days",
+  "prerequisite": [
+    "A basic understanding of process plant operations or utility systems.",
+    "Familiarity with combustion processes and fuel handling.",
+    "Some prior experience with boilers, furnaces, or fired equipment is preferred for better comprehension."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain how furnaces and boilers operate in industrial settings.",
+    "Identify major components and their functions.",
+    "Understand the causes and consequences of furnace and boiler explosions.",
+    "Learn preventive measures and safe operational practices.",
+    "Understand different fuel systems (gas, oil, dual-fuel).",
+    "Identify fuel safety requirements and safeguards against leaks or malfunctions.",
+    "Describe types of burners and their role in safe and efficient firing.",
+    "Apply correct maintenance and inspection techniques.",
+    "Carry out step-by-step safe furnace lighting practices.",
+    "Perform controlled and safe shutdown to prevent incidents.",
+    "Apply best practices in line with industry standards and regulatory requirements.",
+    "Promote operator awareness and adherence to furnace/boiler safety procedures."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: How fired heaters work",
+    "Module 3: Explosions",
+    "Module 4: Fuel systems",
+    "Module 5: Burners",
+    "Module 6: Furnace lighting and shutdown"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 53,
+  "title": "Common Process Safety Issues Identified During HAZOP Revalidation",
+  "date": "Present",
+  "description": [
+    "Hazard and Operability (HAZOP) studies are a cornerstone of process safety management, but their true value lies in periodic revalidation to capture changes in plant configuration, operation, and risk profile. This course focuses on the recurring and critical process safety issues often identified during HAZOP revalidation in oil, gas, and chemical facilities.",
+    "Participants will learn how to recognize and address risks associated with bypasses, plant modifications, changes in operating conditions, missing safety information, and inadequate isolation practices. Through real-world examples and case studies, the course equips attendees with practical strategies to close safety gaps, comply with regulatory requirements, and enhance operational integrity."
+  ],
+  "image": require("./coursesImg/Common Process Safety Issues Identified During HAZOP Revalidation.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic understanding of process engineering, operations, or safety management.",
+    "Exposure to plant operations, maintenance, or safety reviews is beneficial.",
+    "Ability to read and interpret P&IDs, process flow diagrams, and safety documentation."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain why periodic HAZOP revalidation is essential for ongoing process safety.",
+    "Identify the regulatory and industry standards driving revalidation requirements.",
+    "Identify risks associated with temporary and permanent bypasses of safety-critical equipment.",
+    "Apply best practices for bypass authorization, tracking, and removal.",
+    "Detect hazards introduced by equipment changes, process alterations, or layout modifications.",
+    "Apply Management of Change (MOC) principles to mitigate these risks.",
+    "Recognize how deviations in temperature, pressure, flow, or composition can introduce new hazards.",
+    "Recommend safeguards to control these risks.",
+    "Understand the importance of complete and up-to-date process safety data.",
+    "Develop strategies to close documentation and knowledge gaps.",
+    "Identify hazards arising from incomplete or ineffective isolation of equipment.",
+    "Recommend isolation methods that meet recognized safety standards.",
+    "Translate HAZOP revalidation findings into actionable recommendations.",
+    "Support continuous improvement in process safety culture and performance."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Bypass management",
+    "Module 3: Identification risk arises from modifications",
+    "Module 4: Identification risk arises from changes in operating conditions",
+    "Module 5: Missing process safety information and knowledge",
+    "Module 6: Less than adequate long-term isolation"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#80,000 / $60",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 54,
+  "title": "Fire and Explosion Guidance",
+  "date": "Present",
+  "description": [
+    "Fire and explosion hazards represent some of the most critical safety challenges in oil and gas facilities, both onshore and offshore. Effective prevention, mitigation, and response strategies are essential to protect life, assets, and the environment.",
+    "This course provides a structured understanding of fire and explosion hazard management in oil and gas operations. Participants will learn the underlying hazard management philosophy, methods for deriving fire and explosion loads, and the principles of risk-based assessment. Practical sessions cover incident response strategies, integration of hazard management into facility design, and alignment with international standards and best practices. Case-based discussions will reinforce the importance of proactive hazard identification and robust engineering controls."
+  ],
+  "image": require("./coursesImg/Fire and Explosion Guidance.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Basic knowledge of engineering, safety management, or oil and gas operations (preferred).",
+    "Experience in HSE, process safety, or facility design is advantageous.",
+    "Ability to interpret technical drawings (PFDs, P&IDs) and safety documentation."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Describe typical oil and gas facility layouts and operations in the context of fire and explosion risks.",
+    "Explain the hierarchy of prevention, detection, control, and mitigation strategies.",
+    "Calculate fire loads for different hydrocarbon scenarios.",
+    "Understand heat transfer principles and their relevance to fire exposure.",
+    "Identify sources of flammable gas clouds and overpressure events.",
+    "Apply methodologies for estimating explosion loadings.",
+    "Integrate quantitative and qualitative risk assessment methods into hazard management.",
+    "Prioritize hazards based on frequency and consequence analysis.",
+    "Describe fire suppression, containment, and evacuation procedures.",
+    "Evaluate the use of active and passive fire protection systems.",
+    "Outline immediate and follow-up actions to mitigate explosion consequences.",
+    "Incorporate fire and explosion safety principles into engineering and layout decisions.",
+    "Ensure compliance with international codes and industry standards."
+  ],
+  "outline": [
+    "Module 1: Introduction to Oil and Gas Facilities",
+    "Module 2: Fire and explosion hazard management philosophy",
+    "Module 3: Derivation of fire loadings and heat transfer",
+    "Module 4: Derivation of explosion load",
+    "Module 5: Risk based assessment",
+    "Module 6: Response to fires",
+    "Module 7: Response to explosions",
+    "Module 8: Fire and explosion hazard management in design"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 55,
+  "title": "Hazardous Area Classification (API 505)",
+  "date": "Present",
+  "description": [
+    "Hazardous Area Classification (HAC) is a critical process for identifying and managing locations where flammable gases, vapors, or liquids may be present, creating a risk of fire or explosion. The API 505 standard provides guidelines for classifying such areas using the Zone system, ensuring proper design, installation, and operation of electrical and mechanical equipment in oil, gas, and petrochemical environments.",
+    "This course equips participants with the knowledge and skills to apply API 505 recommendations across various facilities — including petroleum refineries, drilling rigs, LNG plants, offshore units, and pipeline stations. It covers key principles such as ignition conditions, classification criteria, extent of classified areas, and facility-specific application examples. By combining theoretical fundamentals with practical case scenarios, participants will gain the competence to perform and review hazardous area classification effectively and in compliance with industry best practices."
+  ],
+  "image": require("./coursesImg/Hazardous Area Classification (API 505).jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Basic knowledge of oil & gas processing, mechanical/electrical engineering, or safety engineering.",
+    "Understanding of process equipment and layouts in petroleum facilities is beneficial.",
+    "Familiarity with fire/explosion safety principles and ability to read facility layouts, PFDs, and P&IDs."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the role of API 505 in managing fire and explosion risks in oil & gas facilities.",
+    "Interpret the terms, definitions, and acronyms used in hazardous area classification according to API 505.",
+    "Recognize the basic conditions required for ignition and the properties of flammable/combustible liquids, gases, and vapors.",
+    "Apply zone-based classification principles to define the type and extent of hazardous areas.",
+    "Implement API 505 recommendations for various petroleum and gas installations, including:",
+    "Refineries",
+    "Onshore drilling rigs and production facilities",
+    "Offshore fixed platforms",
+    "Mobile Offshore Drilling Units (MODUs)",
+    "Floating Production Units",
+    "LNG facilities",
+    "Petroleum pipeline transformation facilities",
+    "Determine hazard boundaries using API 505 guidelines for common applications and complex layouts.",
+    "Understand how hazardous area classification impacts equipment selection, maintenance, and safety compliance.",
+    "Analyze and discuss example classifications from actual petroleum facilities to enhance application skills."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Terms, Definition & Acronym",
+    "Module 3: Basic conditions for a fire or explosion",
+    "Module 4: Flammable and Combustible liquids, gases and vapors",
+    "Module 5: Classification Criteria",
+    "Module 6: Extent of a classified location",
+    "Module 7: Recommendations for determining degree and Extent of a classified location – common applications",
+    "Module 8: Recommendations for determining degree and Extent of a classified location in petroleum refineries",
+    "Module 9: Recommendations for determining degree and Extent of a classified location at drilling rig and production facilities on land and on marine fixed platforms.",
+    "Module 10: Recommendations for determining degree and Extent of a classified location on mobile offshore drilling units (MODUs).",
+    "Module 11: Recommendations for determining degree and Extent of a classified location at drilling rig and production facilities on floating production units.",
+    "Module 12: Recommendations for determining degree and Extent of a classified location at petroleum pipeline transformation facilities.",
+    "Module 13: Recommendations for determining degree and Extent of a classified location at LNG facilities."
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 56,
+  "title": "PHA & WHAT-IF CHECKLIST QUESTIONS",
+  "date": "Present",
+  "description": [
+    "This course introduces participants to the systematic application of Process Hazard Analysis (PHA) methods with a focus on the What-If/Checklist technique. It equips participants with the knowledge and practical skills to identify, analyze, and mitigate potential hazards in oil, gas, petrochemical, and power facilities. Covering critical process equipment (piping, vessels, pumps, compressors, reactors, tanks, etc.) and human/organizational factors, the course provides a practical framework for conducting structured What-If studies to improve operational safety and regulatory compliance.",
+    "By the end, participants will be able to conduct What-If/Checklist sessions, document findings, and recommend safeguards to ensure safer facility operations."
+  ],
+  "image": require("./coursesImg/PHA & WHAT-IF CHECKLIST QUESTIONS.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of process engineering, mechanical equipment, or plant operations.",
+    "Familiarity with P&IDs, process flow diagrams (PFDs), and equipment datasheets.",
+    "General awareness of safety regulations (e.g., OSHA PSM, API, IEC 61511, or equivalent standards).",
+    "Prior exposure to hazard identification methods (HAZOP, risk assessment, or safety case studies) is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the purpose, regulatory requirements, and methodologies of PHA.",
+    "Differentiate between What-If, Checklist, HAZOP, and other PHA techniques.",
+    "Develop and structure What-If questions relevant to major process systems and equipment.",
+    "Use checklists to ensure thorough hazard coverage during analysis.",
+    "Apply systematic What-If questions to piping, valves, vessels, tanks, pumps, compressors, heat exchangers, and other critical equipment.",
+    "Consider potential deviations, failures, and human errors.",
+    "Evaluate the effectiveness of existing safety systems and controls.",
+    "Recommend additional safeguards or corrective actions.",
+    "Recognize human error modes, procedural gaps, and ergonomics in hazard identification.",
+    "Incorporate lessons learned from global industrial incidents into PHA sessions.",
+    "Facilitate or participate effectively in a What-If/Checklist PHA workshop.",
+    "Prepare structured documentation to support regulatory audits and safety cases."
+  ],
+  "outline": [
+    "Module 1: Piping",
+    "Module 2: Valves",
+    "Module 3: Vessels",
+    "Module 4: Tanks",
+    "Module 5: Pumps",
+    "Module 6: Compressors",
+    "Module 7: Heat Exchangers",
+    "Module 8: Reactors",
+    "Module 9: Columns (Towers)",
+    "Module 10: Flares",
+    "Module 11: Electrical Equipment",
+    "Module 12: Cooling Tower",
+    "Module 13: Utility Systems",
+    "Module 14: Human Factors",
+    "Module 15: Global Events"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 57,
+  "title": "PROCEDURE FOR PERMIT TO WORK",
+  "date": "Present",
+  "description": [
+    "The Permit to Work (PTW) system is a formalized safety management tool used in industrial environments to ensure that hazardous and high-risk tasks are carried out safely. This course provides participants with a detailed understanding of the PTW system, including its scope, application, roles, responsibilities, and procedural requirements.",
+    "It emphasizes how PTW helps prevent accidents by controlling work activities such as hot work, confined space entry, electrical isolation, working at height, and maintenance operations. The training also covers the auditing and training requirements that ensure ongoing compliance with company and industry standards.",
+    "This program equips participants with the skills needed to apply, issue, monitor, and close permits effectively, ensuring safe operations and regulatory compliance in industries such as oil & gas, power, chemical, and manufacturing."
+  ],
+  "image": require("./coursesImg/PROCEDURE FOR PERMIT TO WORK.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of industrial operations and workplace safety practices.",
+    "Familiarity with health, safety, and environmental (HSE) standards is beneficial.",
+    "Prior experience in operations, maintenance, or supervisory roles.",
+    "No prior PTW-specific training is required."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain when and why PTW is required in various industrial settings.",
+    "Identify tasks that require mandatory permits.",
+    "Interpret PTW terminology and definitions to ensure clarity in implementation.",
+    "Distinguish between different types of permits (e.g., hot work, confined space, electrical, excavation).",
+    "Describe the responsibilities of issuers, receivers, supervisors, and safety officers.",
+    "Promote accountability and communication within the PTW system.",
+    "Demonstrate the steps in preparing, issuing, monitoring, and closing permits.",
+    "Apply isolation and lockout/tagout (LOTO) practices.",
+    "Recognize common errors and implement corrective actions.",
+    "Identify training requirements for personnel involved in PTW.",
+    "Understand the role of audits in ensuring PTW compliance and continuous improvement."
+  ],
+  "outline": [
+    "Module 1: Scope and Application",
+    "Module 2: Definitions",
+    "Module 3: Responsibilities",
+    "Module 4: Procedure",
+    "Module 5: Training and Audit Requirements"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 58,
+  "title": "Dehydration Considerations",
+  "date": "Present",
+  "description": [
+    "This course provides an in-depth exploration of natural gas dehydration processes and considerations. It covers key dehydration technologies, system design, and operational factors influencing dehydration efficiency. The course also discusses special considerations such as mercury impacts, different glycol systems, pump options, and the physical properties of common glycols used in dehydration."
+  ],
+  "image": require("./coursesImg/Dehydration Considerations.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Fundamental understanding of natural gas processing, phase behavior",
+    "Basic chemical engineering principles.",
+    "Familiarity with fluid systems and process equipment."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "To understand the principles of adsorption and absorption in gas dehydration.",
+    "To explore glycol dehydration methods and system design considerations.",
+    "To analyze the impact of mercury and other contaminants on dehydration systems.",
+    "To evaluate different dehydration system configurations, including glycol-gas powered and electric-driven pumps.",
+    "To understand the characteristics and physical properties of common glycols used in dehydration processes.",
+    "To identify special glycol dehydration systems and nonregenerable dehydrators for specific applications."
+  ],
+  "outline": [
+    "Module 1: Overview",
+    "Module 2: Adsorption",
+    "Module 3: Absorption",
+    "Module 4: Glycol Dehydration",
+    "Module 5: System Design",
+    "Module 6: Mercury Considerations",
+    "Module 7: Special Glycol Dehydration Systems",
+    "Module 8: Systems Utilizing Glycol-Gas Powered Pumps",
+    "Module 9: Systems Utilizing Electric Driven Pumps",
+    "Module 10: Nonregenerable Dehydrator",
+    "Module 11: Physical Properties Of Common Glycols"
+  ],
+  "assessment": "Online Written Exam / AutoCAD Design Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#80,000 / $60",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 59,
+  "title": "Hydrate Prediction & Prevention",
+  "date": "Present",
+  "description": [
+    "This course offers a comprehensive understanding of hydrates in natural gas production and transportation. It covers the properties of water in gas systems, the formation and risks of gas hydrates, and effective prediction and prevention strategies.",
+    "Participants will learn to identify hydrate formation conditions and apply various correlations and methods to mitigate hydrate-related flow assurance issues."
+  ],
+  "image": require("./coursesImg/Hydrate Prediction & Prevention.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Fundamental understanding of petroleum engineering",
+    "Thermodynamics, fluid mechanics, and natural gas processing.",
+    "Prior knowledge of phase behavior, flow assurance, and basic chemistry will enhance the learning experience."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "To understand the water content in gas systems and its role in hydrate formation.",
+    "To explain the nature and formation of gas hydrates.",
+    "To develop skills for predicting hydrate formation conditions using temperature and pressure data.",
+    "To learn how to calculate temperature drops during flow and their impact on hydrate stability.",
+    "To explore various hydrate prediction correlations and their applications.",
+    "To identify and evaluate effective hydrate prevention and inhibition techniques.",
+    "To apply best practices for flow assurance in natural gas systems to minimize hydrate risks."
+  ],
+  "outline": [
+    "Module 1: Overview",
+    "Module 2: Water content of gas",
+    "Module 3: Gas hydrates",
+    "Module 4: Prediction of operating temperature and pressure",
+    "Module 5: Temperature drop determination",
+    "Module 6: Hydrate prediction correlations",
+    "Module 7: Hydrate prevention",
+    "Module 8: Hydrate inhibition"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#50,000 / $40",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 60,
+  "title": "Glycol Maintenance, Care & Troubleshooting",
+  "date": "Present",
+  "description": [
+    "Glycol-based systems are widely used in industrial and commercial applications for cooling, heating, and process control. Maintaining these systems is critical to ensuring operational efficiency, safety, and longevity. This course provides a comprehensive approach to glycol system care, focusing on proactive maintenance, problem-solving, filtration optimization, and advanced purification techniques.",
+    "Participants will explore real-world scenarios, learn diagnostic and corrective procedures, and gain hands-on insights into maintaining system integrity. Whether you're a technician, engineer, or facility manager, this course equips you with the knowledge and tools to keep glycol systems running smoothly and sustainably."
+  ],
+  "image": require("./coursesImg/Glycol Maintenance, Care & Troubleshooting.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "1 Day",
+  "prerequisite": [
+    "Basic understanding of HVAC or industrial fluid systems.",
+    "Familiarity with mechanical system components (pumps, filters, heat exchangers).",
+    "Experience with routine maintenance procedures or technical operations."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Perform preventative maintenance on glycol systems to extend lifespan and efficiency.",
+    "Identify and eliminate common operating problems in glycol systems.",
+    "Optimize glycol filtration processes to reduce contamination and improve performance.",
+    "Understand and apply carbon purification techniques for glycol system longevity."
+  ],
+  "outline": [
+    "Module 1: Preventative maintenance",
+    "Module 2: Eliminating Operating Problems",
+    "Module 3: Improving Glycol Filtration",
+    "Module 4: Use of Carbon Purification"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#50,000 / $40",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 61,
+  "title": "Basic of Corrosion in Oil & Gas Industry",
+  "date": "Present",
+  "description": [
+    "The oil and gas industry operates in some of the most challenging and corrosive environments, where equipment integrity is critical for safety, environmental protection, and profitability.",
+    "This course provides participants with a solid understanding of corrosion principles, types, and impacts in oil and gas operations. Through structured modules, the course covers the fundamentals of corrosion science, environmental influences, material selection, corrosion control techniques, inspection, and monitoring practices.",
+    "By the end, participants will be equipped with the knowledge to recognize corrosion threats, apply prevention strategies, and contribute to effective asset integrity management."
+  ],
+  "image": require("./coursesImg/Basic of Corrosion in Oil & Gas Industry.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of science or engineering principles.",
+    "Some exposure to oil & gas operations, maintenance, or engineering is beneficial.",
+    "Ability to understand technical concepts and interpret basic technical drawings or specifications."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Define corrosion and explain it’s economic and safety impacts in oil & gas operations.",
+    "Describe the electrochemical principles governing corrosion.",
+    "Identify how operational and environmental conditions affect corrosion rates.",
+    "Understand the role of water chemistry, gases, temperature, and pressure.",
+    "Recognize common engineering materials used in oil & gas.",
+    "Assess material suitability based on corrosion resistance.",
+    "Distinguish between uniform, localized, and environment-specific corrosion mechanisms.",
+    "Explain coating systems, cathodic protection, inhibitors, and process control measures.",
+    "Interpret common inspection techniques for detecting corrosion and associated failures.",
+    "Apply monitoring methods such as probes, coupons, and inline inspection tools to track corrosion activity.",
+    "Contribute to corrosion management plans that enhance asset reliability and safety."
+  ],
+  "outline": [
+    "Module 1: Corrosion Definition and cost",
+    "Module 2: Fundamentals of Electricity and Electrochemistry",
+    "Module 3: Environment",
+    "Module 4: Engineering Materials",
+    "Module 5: Forms of Corrosion",
+    "Module 6: Methods of corrosion control",
+    "Module 7: Corrosion and failure inspection",
+    "Module 8: Corrosion monitoring"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 62,
+  "title": "Catalytic Reforming",
+  "date": "Present",
+  "description": [
+    "Catalytic reforming is a critical refining process used to upgrade low-octane naphtha into high-octane reformate, a key blending component for gasoline, and to produce valuable hydrogen for refinery operations. This course provides a comprehensive understanding of catalytic reforming principles, process chemistry, catalyst technology, operating parameters, and design considerations.",
+    "Participants will gain insight into the chemical reactions, thermodynamics, and process conditions that drive reformer performance. The course also addresses hazard assessment, plant design, and optimization strategies to ensure safety, efficiency, and profitability. Real-world industry examples and case studies are used to connect theory with practical application."
+  ],
+  "image": require("./coursesImg/Catalytic Reforming.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic knowledge of chemical or petroleum engineering principles (preferred).",
+    "Prior exposure to refinery processes or petrochemical operations is beneficial.",
+    "Ability to interpret process flow diagrams (PFDs) and basic process calculations."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the basic principles of catalytic reforming and its role in refinery operations.",
+    "Identify the feedstock characteristics and desired product properties.",
+    "Outline process configurations such as continuous regeneration, semi-regenerative, and cyclic reformers.",
+    "Understand key reforming reactions, including dehydrogenation, isomerization, dehydrocyclization, and hydrocracking.",
+    "Apply thermodynamic principles to predict reaction direction and yield.",
+    "Identify catalyst compositions, functions, and preparation methods.",
+    "Explain catalyst deactivation mechanisms and regeneration methods.",
+    "Analyze the effect of temperature, pressure, hydrogen-to-hydrocarbon ratio, and space velocity on reformer performance.",
+    "Identify operational hazards related to high temperature, high pressure, and flammable gases.",
+    "Apply safety protocols and hazard mitigation strategies.",
+    "Recognize design factors for reactor configuration, heat integration, and catalyst loading.",
+    "Understand process control strategies to optimize operation.",
+    "Apply learned concepts to enhance yield, selectivity, and catalyst life while maintaining safety and compliance."
+  ],
+  "outline": [
+    "Module 1: Basic Principles",
+    "Module 2: The Catalytic Reforming Process",
+    "Module 3: Process Chemical Reactions and Thermodynamics",
+    "Module 4: Catalytic Reforming Catalyst",
+    "Module 5: Catalyst Reforming Parameters",
+    "Module 6: Hazard Assessment",
+    "Module 7: Plant Design",
+    "Module 8: Design"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 63,
+  "title": "Fundamentals of surface facilities in oil fields",
+  "date": "Present",
+  "description": [
+    "Surface facilities in oil fields play a critical role in the processing, handling, and transportation of hydrocarbons from the wellhead to downstream facilities. This course provides participants with a comprehensive introduction to the equipment, systems, and processes involved in oil field surface operations.",
+    "Covering essential components such as valves, piping, tanks, separators, pumps, compressors, heat exchangers, flares, and distillation units, the course explains their functions, operating principles, and interrelationships. Participants will gain a practical understanding of how these facilities are integrated to ensure safe, efficient, and environmentally compliant oil field operations. Real-world examples and process flow discussions will link theory to field applications, making the course relevant for both technical and operations staff."
+  ],
+  "image": require("./coursesImg/Fundamentals of surface facilities in oil fields.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of oil & gas production processes or mechanical/chemical engineering concepts.",
+    "Some exposure to upstream oil & gas facilities is beneficial but not mandatory.",
+    "Ability to understand simple process flow diagrams (PFDs) and piping & instrumentation diagrams (P&IDs) is advantageous."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the purpose and role of valves, pipes, tanks, separators, heaters, exchangers, and related components.",
+    "Explain how equipment such as separators, pumps, compressors, and distillation units operate within oil field processing systems.",
+    "Recognize how individual components work together to process, treat, and transport crude oil and associated gas.",
+    "Apply basic sizing, rating, and selection criteria for common oil field surface facility components.",
+    "Understand the impact of pressure, temperature, flow rate, and crude composition on equipment choice.",
+    "Identify safety features, flare systems, and environmental controls used in surface facilities.",
+    "Review practical case studies to understand typical operational challenges and solutions in oil field surface facilities.",
+    "Trace the flow of crude oil and gas through key surface facility stages, from separation to final treatment."
+  ],
+  "outline": [
+    "Module 1: Valves",
+    "Module 2: Pipes",
+    "Module 3: Tanks",
+    "Module 4: Separator, Dehydrator, Desalter",
+    "Module 5: Pumps & compressors",
+    "Module 6: Furnaces, Heaters, Heat Exchangers",
+    "Module 7: Flares",
+    "Module 8: Flow Meter",
+    "Module 9: Distillation Column",
+    "Module 10: Cooler",
+    "Module 11: Condenser",
+    "Module 12: Reboiler",
+    "Module 13: Absorber",
+    "Module 14: Crude Distillation Unit"
+  ],
+  "assessment": "Online Written Exam / AutoCAD Design Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
 
 
 
