@@ -5154,7 +5154,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#100,000 / $80",
+  cost: "₦100,000 / $80",
   certification: "Certificate of Completion"
 },
 
@@ -5219,7 +5219,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#100,000 / $80",
+  cost: "₦100,000 / $80",
   certification: "Certificate of Completion"
 },
 
@@ -5282,7 +5282,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#100,000 / $80",
+  cost: "₦100,000 / $80",
   certification: "Certificate of Completion"
 },
 
@@ -5338,7 +5338,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  cost: "#100,000 / $80",
+  cost: "₦100,000 / $80",
   certification: "Certificate of Completion"
 },
 
@@ -11955,7 +11955,7 @@ export const projects = [
           "Learn how to identify and apply relevant codes and standards (such as ASME, ASTM, and API) to select the right materials and components for a piping system.",
           "Master the procedures for creating, reviewing, and managing material specifications and their implementation throughout the lifecycle of a piping system.",
           "Understand how to select appropriate materials for various pipeline components, including pipes, fittings, flanges, gaskets, and valves, based on operational and environmental conditions.",
-          "Gain expertise in selecting and working with different pressure classes (PMS 150#, 300#, and 450#) for various pipeline applications.",
+          "Gain expertise in selecting and working with different pressure classes (PMS 150₦, 300₦, and 450₦) for various pipeline applications.",
           "Learn how to ensure quality control and safety standards through material specification, installation practices, and testing procedures.",
           "Apply theoretical knowledge to real-world scenarios through case studies that cover common challenges and solutions in piping material specification.",
           "Develop practical experience in choosing materials, designing components, and adhering to best practices for piping systems."
@@ -11980,9 +11980,9 @@ export const projects = [
         "Module 13:  Quick Opening End Closure",
         "Module 14:  Hydro-testing Vents & Drains",
         "Module 15:  Pipeline Security Items",
-        "Module 16:  PMS 150# Class",
-        "Module 14:  PMS 300# Class",
-        "Module 15:  PMS 450# Class",
+        "Module 16:  PMS 150₦ Class",
+        "Module 14:  PMS 300₦ Class",
+        "Module 15:  PMS 450₦ Class",
         "Module 16:  Case Studies"
 
 
@@ -17216,15 +17216,15 @@ export const projects = [
 
 {
   "id": 44,
-  "title": "API 660 vs TEMA",
+  "title": "API 660 vs TEMA for Shell and Tube Heat Exchanger",
   "date": "Present",
   "description": [
     "Shell-and-tube heat exchangers are essential components in industrial thermal systems. Their design and operation are governed by well-established standards to ensure safety, reliability, and performance. Two of the most widely used standards are API 660, tailored for the petroleum and chemical industries, and TEMA, which provides a broader framework for various industrial applications.",
     "This course offers a comparative study of API 660 and TEMA, helping engineers, designers, and maintenance professionals understand how each standard approaches design philosophy, mechanical integrity, and operational efficiency. Through technical analysis, case studies, and practical examples, participants will gain the knowledge needed to make informed decisions in selecting and managing heat exchangers."
   ],
-  "image": require("./coursesImg/API 660 vs TEMA.jpg"),
+  "image": 'https://i.ibb.co/4n3fGLVW/API-660-vs-TEMA-for-Shell-and-Tube-Heat-Exchanger.png',
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "1 Day",
   "prerequisite": [
     "A basic understanding of heat exchanger principles and thermal systems.",
@@ -17255,7 +17255,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#40,000 / $50",
+  "cost": "₦40,000 / $50",
   "certification": "Certificate of Completion"
 },
 
@@ -17267,9 +17267,9 @@ export const projects = [
     "Flanges and pipes are essential components in piping systems, enabling secure, leak-tight connections for fluid and gas transportation across various industries, including oil & gas, petrochemical, power generation, and water treatment.",
     "This course provides a detailed understanding of the role, design, classification, standards, and materials used for flanges and pipes. Participants will explore the functions and applications of different flange types, understand industry-standard dimensions and ratings, and review material selection criteria based on service conditions. Real-world case studies will illustrate common issues and best practices, ensuring participants gain both theoretical knowledge and practical insights for effective flange and pipe system design, installation, and maintenance."
   ],
-  "image": require("./coursesImg/Flange And Pipes.jpg"),
+  "image": "https://i.ibb.co/674Smhzf/Flange-And-Pipes.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "2 Days",
   "prerequisite": [
     "Basic knowledge of mechanical engineering or piping systems.",
@@ -17305,7 +17305,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#80,000 / $60",
+  "cost": "₦80,000 / $60",
   "certification": "Certificate of Completion"
 },
 
@@ -17318,9 +17318,9 @@ export const projects = [
     "This course provides a comprehensive understanding of heat exchangers — from classification and design standards to troubleshooting and performance enhancement. Participants will learn how to apply industry codes, perform thermal design calculations, prepare and interpret specification sheets, and manage the complete lifecycle of heat exchangers, including storage, installation, operation, and maintenance. Special focus is given to practical challenges such as tube side repair/replacement, fouling, vibration, and unresolved design issues.",
     "Combining theoretical knowledge with case-based examples, the course equips engineers, operators, and maintenance personnel with the skills to optimize heat exchanger performance and reliability in demanding industrial environments."
   ],
-  "image": require("./coursesImg/Heat Exchangers; Design, Operation, Maintenance & Enhancement.jpg"),
+  "image": "https://i.ibb.co/C5wvMVp9/Heat-Exchangers-Design-Operation-Maintenance-Enhancement.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "5 Days",
   "prerequisite": [
     "Degree/diploma in mechanical, chemical, process, or petroleum engineering (or equivalent industrial experience).",
@@ -17359,7 +17359,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#230,000 / $200",
+  "cost": "₦230,000 / $200",
   "certification": "Certificate of Completion"
 },
 
@@ -17372,9 +17372,9 @@ export const projects = [
     "This course introduces participants to the fundamentals of industrial rotating equipment, their classifications, prime movers (with a focus on steam turbines), and associated connectors. Emphasis is placed on operational principles, selection criteria, and practical applications. Participants will gain insight into performance optimization, reliability improvement, and maintenance considerations essential for minimizing downtime and enhancing efficiency.",
     "Through structured modules, the program blends theory with case examples, preparing engineers and technicians to effectively specify, operate, and troubleshoot rotating equipment in diverse industrial environments."
   ],
-  "image": require("./coursesImg/Industrial Rotating Equipment Classification, Operations & Applications.jpg"),
+  "image": "https://i.ibb.co/R4SGwx9P/Industrail-Rotating-Equipment-Classification-Operations-Applications-Course.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "2 Days",
   "prerequisite": [
     "Degree or diploma in mechanical, process, petroleum, or electrical engineering (or equivalent technical field).",
@@ -17404,7 +17404,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#60,000 / $50",
+  "cost": "₦60,000 / $50",
   "certification": "Certificate of Completion"
 },
 
@@ -17416,9 +17416,9 @@ export const projects = [
     "Pipe racks are the backbone of industrial plants, providing structural support and safe routing for process, utility, and service pipelines. This course provides a comprehensive understanding of pipe rack design, layout, and piping considerations, covering both structural and piping engineering aspects. Participants will gain knowledge of industry standards, design criteria, spatial requirements, load distribution, and effective pipe routing strategies. Emphasis will also be placed on practical considerations such as thermal expansion, segregation of hot and cold lines, clearances, anchor bays, and provisions for future expansion.",
     "By the end of the course, participants will be equipped with the skills to design, evaluate, and optimize pipe racks and associated piping systems for safe, efficient, and cost-effective plant operation."
   ],
-  "image": require("./coursesImg/Pipe Rack & Pipe Rack Piping.jpg"),
+  "image": "https://i.ibb.co/pvkKpfsZ/Pipe-Rack-Pipe-Rack-Piping.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of piping design and layout.",
@@ -17468,7 +17468,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#100,000 / $80",
+  "cost": "₦100,000 / $80",
   "certification": "Certificate of Completion"
 },
 
@@ -17480,9 +17480,9 @@ export const projects = [
     "This course provides an in-depth understanding of the principles, practices, and standards associated with the design and engineering of piping systems and pipe hangers. The training is designed to equip engineers and professionals with the technical knowledge needed to design, calculate, and select the appropriate support systems for piping under various operational conditions — including thermal expansion, seismic activity, and nuclear applications.",
     "Participants will gain practical knowledge through theoretical modules, detailed calculation methods, specification guidance, and real-world application examples. The course also explores advanced considerations like seismic supports, nuclear piping requirements, and grooved piping systems."
   ],
-  "image": require("./coursesImg/PIPING & PIPE HANGER DESIGN & ENGINEERING.jpg"),
+  "image": "https://i.ibb.co/LXSVWMzR/Piping-and-pipe-hanger-design-and-engineering.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "3 Days",
   "prerequisite": [
     "A basic understanding of piping systems and components.",
@@ -17526,7 +17526,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#150,000 / $120",
+  "cost": "₦150,000 / $120",
   "certification": "Certificate of Completion"
 },
 
@@ -17538,9 +17538,9 @@ export const projects = [
     "This course provides a comprehensive study of pumps and their applications in industrial facilities, particularly in oil & gas, petrochemical, and power plants. It covers the classification of pumps, fundamentals of centrifugal and positive displacement pumps, pump performance, corrosion challenges, piping design considerations, sealing systems, and couplings.",
     "In addition, the course emphasizes operation, maintenance, and troubleshooting techniques to improve pump reliability, efficiency, and lifecycle management. Participants will gain both theoretical knowledge and practical insights needed for effective pump selection, system integration, and problem-solving in real-world applications."
   ],
-  "image": require("./coursesImg/Pump.jpg"),
+  "image": "https://i.ibb.co/HL6Qs8by/Pump.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of fluid mechanics and hydraulics.",
@@ -17586,7 +17586,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#120,000 / $100",
+  "cost": "₦120,000 / $100",
   "certification": "Certificate of Completion"
 },
 
@@ -17598,9 +17598,9 @@ export const projects = [
     "This course provides in-depth knowledge and practical guidance on repairing and refurbishing pumps in compliance with API Recommended Practice 697. It covers the end-to-end repair process, starting from inspection of installed pumps, field repair activities, and shipment handling to detailed shop repair procedures such as disassembly, inspection, re-rates, rotor balancing, reassembly, and documentation.",
     "The course emphasizes industry best practices, quality assurance, and safety standards to ensure pumps are restored to reliable operating conditions. Participants will learn how to properly manage pump repairs both in the field and in specialized repair shops, with a strong focus on compliance with API standards, equipment longevity, and operational safety."
   ],
-  "image": require("./coursesImg/Pump Repairs (API RP 697).jpg"),
+  "image": "https://i.ibb.co/CZxNcX6/Pump-Repairs-API-RP-697.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "5 Days",
   "prerequisite": [
     "Basic knowledge of pump design and operation.",
@@ -17653,7 +17653,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $180",
+  "cost": "₦200,000 / $180",
   "certification": "Certificate of Completion"
 },
 
@@ -17665,9 +17665,9 @@ export const projects = [
     "Furnaces and boilers are critical pieces of equipment in the oil & gas, petrochemical, and power industries, but they also present significant safety risks if not properly operated. This course provides a comprehensive understanding of safe furnace and boiler firing practices, emphasizing operational safety, fuel system integrity, burner management, and proper lighting and shutdown procedures. Participants will learn how fired heaters work, the hazards associated with explosions, and the steps necessary to prevent accidents through safe operating procedures and correct maintenance practices.",
     "By combining theory with practical safety principles, this course equips engineers, operators, and technicians with the skills required to ensure safe, efficient, and reliable operation of fired heaters and boilers."
   ],
-  "image": require("./coursesImg/Safe Furnace & Boiler Firing.jpg"),
+  "image": "https://i.ibb.co/ZzZNH18c/Safe-Furnance-Boiler-Firing.png",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "4 Days",
   "prerequisite": [
     "A basic understanding of process plant operations or utility systems.",
@@ -17704,7 +17704,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#100,000 / $80",
+  "cost": "₦100,000 / $80",
   "certification": "Certificate of Completion"
 },
 
@@ -17716,9 +17716,9 @@ export const projects = [
     "Hazard and Operability (HAZOP) studies are a cornerstone of process safety management, but their true value lies in periodic revalidation to capture changes in plant configuration, operation, and risk profile. This course focuses on the recurring and critical process safety issues often identified during HAZOP revalidation in oil, gas, and chemical facilities.",
     "Participants will learn how to recognize and address risks associated with bypasses, plant modifications, changes in operating conditions, missing safety information, and inadequate isolation practices. Through real-world examples and case studies, the course equips attendees with practical strategies to close safety gaps, comply with regulatory requirements, and enhance operational integrity."
   ],
-  "image": require("./coursesImg/Common Process Safety Issues Identified During HAZOP Revalidation.jpg"),
+  "image": "https://i.ibb.co/prKyCkLx/Common-process-safety-issues-identified-during-HAZOP-revalidation-operational-stage.png",
   "tags": [],
-  "category": "process",
+  "category": "hazop hazid",
   "duration": "2 Days",
   "prerequisite": [
     "Basic understanding of process engineering, operations, or safety management.",
@@ -17757,7 +17757,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#80,000 / $60",
+  "cost": "₦80,000 / $60",
   "certification": "Certificate of Completion"
 },
 
@@ -17769,9 +17769,9 @@ export const projects = [
     "Fire and explosion hazards represent some of the most critical safety challenges in oil and gas facilities, both onshore and offshore. Effective prevention, mitigation, and response strategies are essential to protect life, assets, and the environment.",
     "This course provides a structured understanding of fire and explosion hazard management in oil and gas operations. Participants will learn the underlying hazard management philosophy, methods for deriving fire and explosion loads, and the principles of risk-based assessment. Practical sessions cover incident response strategies, integration of hazard management into facility design, and alignment with international standards and best practices. Case-based discussions will reinforce the importance of proactive hazard identification and robust engineering controls."
   ],
-  "image": require("./coursesImg/Fire and Explosion Guidance.jpg"),
+  "image": "https://i.ibb.co/HLChnFnh/Fire-Explosion-Guidance.png",
   "tags": [],
-  "category": "process",
+  "category": "hazop hazid",
   "duration": "4 Days",
   "prerequisite": [
     "Basic knowledge of engineering, safety management, or oil and gas operations (preferred).",
@@ -17811,7 +17811,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $150",
+  "cost": "₦200,000 / $150",
   "certification": "Certificate of Completion"
 },
 
@@ -17823,9 +17823,9 @@ export const projects = [
     "Hazardous Area Classification (HAC) is a critical process for identifying and managing locations where flammable gases, vapors, or liquids may be present, creating a risk of fire or explosion. The API 505 standard provides guidelines for classifying such areas using the Zone system, ensuring proper design, installation, and operation of electrical and mechanical equipment in oil, gas, and petrochemical environments.",
     "This course equips participants with the knowledge and skills to apply API 505 recommendations across various facilities — including petroleum refineries, drilling rigs, LNG plants, offshore units, and pipeline stations. It covers key principles such as ignition conditions, classification criteria, extent of classified areas, and facility-specific application examples. By combining theoretical fundamentals with practical case scenarios, participants will gain the competence to perform and review hazardous area classification effectively and in compliance with industry best practices."
   ],
-  "image": require("./coursesImg/Hazardous Area Classification (API 505).jpg"),
+  "image": "https://i.ibb.co/qLNJk495/Hazardous-Area-Classification-API-505.png",
   "tags": [],
-  "category": "process",
+  "category": "hazop hazid",
   "duration": "4 Days",
   "prerequisite": [
     "Basic knowledge of oil & gas processing, mechanical/electrical engineering, or safety engineering.",
@@ -17872,7 +17872,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $150",
+  "cost": "₦200,000 / $150",
   "certification": "Certificate of Completion"
 },
 
@@ -17884,9 +17884,9 @@ export const projects = [
     "This course introduces participants to the systematic application of Process Hazard Analysis (PHA) methods with a focus on the What-If/Checklist technique. It equips participants with the knowledge and practical skills to identify, analyze, and mitigate potential hazards in oil, gas, petrochemical, and power facilities. Covering critical process equipment (piping, vessels, pumps, compressors, reactors, tanks, etc.) and human/organizational factors, the course provides a practical framework for conducting structured What-If studies to improve operational safety and regulatory compliance.",
     "By the end, participants will be able to conduct What-If/Checklist sessions, document findings, and recommend safeguards to ensure safer facility operations."
   ],
-  "image": require("./coursesImg/PHA & WHAT-IF CHECKLIST QUESTIONS.jpg"),
+  "image": "https://i.ibb.co/TqL9D31N/PHA-What-if-Checklist-Questions.png",
   "tags": [],
-  "category": "process",
+  "category": "hazop hazid",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of process engineering, mechanical equipment, or plant operations.",
@@ -17933,7 +17933,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#150,000 / $120",
+  "cost": "₦150,000 / $120",
   "certification": "Certificate of Completion"
 },
 
@@ -17946,9 +17946,9 @@ export const projects = [
     "It emphasizes how PTW helps prevent accidents by controlling work activities such as hot work, confined space entry, electrical isolation, working at height, and maintenance operations. The training also covers the auditing and training requirements that ensure ongoing compliance with company and industry standards.",
     "This program equips participants with the skills needed to apply, issue, monitor, and close permits effectively, ensuring safe operations and regulatory compliance in industries such as oil & gas, power, chemical, and manufacturing."
   ],
-  "image": require("./coursesImg/PROCEDURE FOR PERMIT TO WORK.jpg"),
+  "image": "https://i.ibb.co/KzNhS1G8/Procedure-for-Permit-to-Work.png",
   "tags": [],
-  "category": "process",
+  "category": "hazop hazid",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of industrial operations and workplace safety practices.",
@@ -17984,7 +17984,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#100,000 / $80",
+  "cost": "₦100,000 / $80",
   "certification": "Certificate of Completion"
 },
 
@@ -17995,9 +17995,9 @@ export const projects = [
   "description": [
     "This course provides an in-depth exploration of natural gas dehydration processes and considerations. It covers key dehydration technologies, system design, and operational factors influencing dehydration efficiency. The course also discusses special considerations such as mercury impacts, different glycol systems, pump options, and the physical properties of common glycols used in dehydration."
   ],
-  "image": require("./coursesImg/Dehydration Considerations.jpg"),
+  "image": "https://i.ibb.co/H61qQYN/Dehydration-Considerations.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "2 Days",
   "prerequisite": [
     "Fundamental understanding of natural gas processing, phase behavior",
@@ -18033,7 +18033,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#80,000 / $60",
+  "cost": "₦80,000 / $60",
   "certification": "Certificate of Completion"
 },
 
@@ -18045,9 +18045,9 @@ export const projects = [
     "This course offers a comprehensive understanding of hydrates in natural gas production and transportation. It covers the properties of water in gas systems, the formation and risks of gas hydrates, and effective prediction and prevention strategies.",
     "Participants will learn to identify hydrate formation conditions and apply various correlations and methods to mitigate hydrate-related flow assurance issues."
   ],
-  "image": require("./coursesImg/Hydrate Prediction & Prevention.jpg"),
+  "image": "https://i.ibb.co/0Vqbj40X/Hydrate-Prediction-Prevention.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "2 Days",
   "prerequisite": [
     "Fundamental understanding of petroleum engineering",
@@ -18081,7 +18081,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#50,000 / $40",
+  "cost": "₦50,000 / $40",
   "certification": "Certificate of Completion"
 },
 
@@ -18093,9 +18093,9 @@ export const projects = [
     "Glycol-based systems are widely used in industrial and commercial applications for cooling, heating, and process control. Maintaining these systems is critical to ensuring operational efficiency, safety, and longevity. This course provides a comprehensive approach to glycol system care, focusing on proactive maintenance, problem-solving, filtration optimization, and advanced purification techniques.",
     "Participants will explore real-world scenarios, learn diagnostic and corrective procedures, and gain hands-on insights into maintaining system integrity. Whether you're a technician, engineer, or facility manager, this course equips you with the knowledge and tools to keep glycol systems running smoothly and sustainably."
   ],
-  "image": require("./coursesImg/Glycol Maintenance, Care & Troubleshooting.jpg"),
+  "image": "https://i.ibb.co/4RcDh9DD/Glycol-Maintenance-Care-Troubleshooting.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "1 Day",
   "prerequisite": [
     "Basic understanding of HVAC or industrial fluid systems.",
@@ -18122,22 +18122,22 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#50,000 / $40",
+  "cost": "₦50,000 / $40",
   "certification": "Certificate of Completion"
 },
 
 {
   "id": 61,
-  "title": "Basic of Corrosion in Oil & Gas Industry",
+  "title": "Basics of Corrosion in Oil & Gas Industry",
   "date": "Present",
   "description": [
     "The oil and gas industry operates in some of the most challenging and corrosive environments, where equipment integrity is critical for safety, environmental protection, and profitability.",
     "This course provides participants with a solid understanding of corrosion principles, types, and impacts in oil and gas operations. Through structured modules, the course covers the fundamentals of corrosion science, environmental influences, material selection, corrosion control techniques, inspection, and monitoring practices.",
     "By the end, participants will be equipped with the knowledge to recognize corrosion threats, apply prevention strategies, and contribute to effective asset integrity management."
   ],
-  "image": require("./coursesImg/Basic of Corrosion in Oil & Gas Industry.jpg"),
+  "image": "https://i.ibb.co/B5gSzRc8/Basics-of-Corrosion-in-Oil-and-Gas-Industry.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of science or engineering principles.",
@@ -18175,7 +18175,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#120,000 / $100",
+  "cost": "₦120,000 / $100",
   "certification": "Certificate of Completion"
 },
 
@@ -18187,9 +18187,9 @@ export const projects = [
     "Catalytic reforming is a critical refining process used to upgrade low-octane naphtha into high-octane reformate, a key blending component for gasoline, and to produce valuable hydrogen for refinery operations. This course provides a comprehensive understanding of catalytic reforming principles, process chemistry, catalyst technology, operating parameters, and design considerations.",
     "Participants will gain insight into the chemical reactions, thermodynamics, and process conditions that drive reformer performance. The course also addresses hazard assessment, plant design, and optimization strategies to ensure safety, efficiency, and profitability. Real-world industry examples and case studies are used to connect theory with practical application."
   ],
-  "image": require("./coursesImg/Catalytic Reforming.jpg"),
+  "image": "https://i.ibb.co/vxcqN4dF/Catalytic-Reforming.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "2 Days",
   "prerequisite": [
     "Basic knowledge of chemical or petroleum engineering principles (preferred).",
@@ -18229,7 +18229,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#120,000 / $100",
+  "cost": "₦120,000 / $100",
   "certification": "Certificate of Completion"
 },
 
@@ -18241,9 +18241,9 @@ export const projects = [
     "Surface facilities in oil fields play a critical role in the processing, handling, and transportation of hydrocarbons from the wellhead to downstream facilities. This course provides participants with a comprehensive introduction to the equipment, systems, and processes involved in oil field surface operations.",
     "Covering essential components such as valves, piping, tanks, separators, pumps, compressors, heat exchangers, flares, and distillation units, the course explains their functions, operating principles, and interrelationships. Participants will gain a practical understanding of how these facilities are integrated to ensure safe, efficient, and environmentally compliant oil field operations. Real-world examples and process flow discussions will link theory to field applications, making the course relevant for both technical and operations staff."
   ],
-  "image": require("./coursesImg/Fundamentals of surface facilities in oil fields.jpg"),
+  "image": "https://i.ibb.co/JjD3dLVG/Fundamentals-of-surface-facilities-in-oil-fields.png",
   "tags": [],
-  "category": "process",
+  "category": "Petroleum",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of oil & gas production processes or mechanical/chemical engineering concepts.",
@@ -18284,12 +18284,1013 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#120,000 / $100",
+  "cost": "₦120,000 / $100",
   "certification": "Certificate of Completion"
 },
 
 
+{
+  "id": 64,
+  "title": "Boiler Control System Engineering",
+  "date": "Present",
+  "description": [
+    "Boilers are critical components in power generation and industrial processes, and their efficient, safe, and reliable operation depends heavily on effective control systems. This course provides an in-depth understanding of boiler operation fundamentals and the principles of control engineering applied to steam generation systems.",
+    "Participants will learn about furnace draft, feedwater systems, fuel-air ratio control, steam temperature regulation, burner management systems, and environmental considerations. The course also covers control valve sizing principles to ensure precise and stable operation. Real-world examples and best practices from power plants and industrial facilities will be incorporated to bridge theory and practical application."
+  ],
+  "image": "https://i.ibb.co/NgwgGHCC/Boiler-Control-System-Engineering.png",
+  "tags": [],
+  "category": "PAI",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic knowledge of mechanical, electrical, or control engineering.",
+    "Exposure to boiler operations, power plant systems, or industrial process control is advantageous.",
+    "Ability to interpret P&IDs and familiarity with basic instrumentation concepts.",
+    "No advanced boiler control experience required"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the working principles, types, and major components of boilers.",
+    "Recognize boiler operating parameters and their importance to plant performance.",
+    "Describe common boiler control strategies and their impact on safety, efficiency, and reliability.",
+    "Explain furnace draft requirements and the control methods for maintaining optimal combustion conditions.",
+    "Understand feedwater flow regulation, level control, and the role of economizers.",
+    "Identify control challenges specific to coal-fired units and strategies to optimize performance.",
+    "Apply fuel-air ratio control for efficient combustion and reduced emissions.",
+    "Describe methods for superheat and reheat temperature control.",
+    "Understand BMS safety logic, interlocks, and startup/shutdown sequences.",
+    "Identify emissions control strategies and environmental compliance measures.",
+    "Apply valve sizing principles to ensure stable, accurate control of steam, feedwater, and fuel flows."
+  ],
+  "outline": [
+    "Module 1: Boiler Fundamentals",
+    "Module 2: Control of Boilers",
+    "Module 3: Furnace Draft",
+    "Module 4: Feedwater",
+    "Module 5: Coal Fired Boilers",
+    "Module 6: Fuel and Air Controls",
+    "Module 7: Steam Temperatures",
+    "Module 8: Burner Management System",
+    "Module 9: Environment",
+    "Module 10: Control Valve Sizing"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
 
+{
+  "id": 65,
+  "title": "INSTRUMENTATION AND CONTROL SYSTEMS",
+  "date": "Present",
+  "description": [
+    "Instrumentation and control systems are the backbone of modern industrial operations, ensuring safe, reliable, and efficient processes in oil & gas, petrochemicals, power generation, manufacturing, and other industries. This course provides a comprehensive introduction to measurement systems, instrumentation elements, and control principles, progressing toward advanced topics such as transfer functions, system modeling, frequency response, and Nyquist diagrams.",
+    "Participants will gain both theoretical knowledge and practical insights into how instruments measure process variables, how controllers maintain desired conditions, and how automated systems such as PLCs integrate into plant operations. The course also includes real-world case studies to bridge the gap between theory and industrial application."
+  ],
+  "image": "https://i.ibb.co/ZzgHFHp8/INSTRUMENTATION-AND-CONTROL-SYSTEM.png",
+  "tags": [],
+  "category": "PAI",
+  "duration": "8 Days",
+  "prerequisite": [
+    "Diploma or degree in engineering (electrical, electronics, mechanical, chemical, or process) or a related technical discipline.",
+    "Basic understanding of physics (mechanics, thermodynamics) and mathematics (algebra, calculus, Laplace transforms recommended).",
+    "Some exposure to industrial plant systems or process operations is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Describe the role and function of measurement systems in process industries.",
+    "Differentiate between types of sensors, transducers, and measurement methods.",
+    "Explain the function of primary elements, signal transmission, and final control elements.",
+    "Apply measurement and control concepts to real industrial problems and evaluate solutions.",
+    "Explain open-loop vs. closed-loop control and their relevance in industrial automation.",
+    "Understand the principles of PID controllers and their applications in maintaining process stability.",
+    "Explain how actuators, valves, and other final elements correct process deviations.",
+    "Understand PLC hardware, programming basics, and integration into control systems.",
+    "Use mathematical modeling techniques to represent dynamic process systems.",
+    "Derive and use transfer functions for control system analysis.",
+    "Evaluate time-domain responses such as transient and steady-state behavior.",
+    "Understand Bode plots and frequency domain analysis for system stability.",
+    "Use Nyquist stability criterion to evaluate control system performance.",
+    "Combine measurement, instrumentation, modeling, and control strategies to design effective industrial control systems."
+  ],
+  "outline": [
+    "Module 1: Measurement Systems",
+    "Module 2: Instrumentation System Elements",
+    "Module 3: Measurement Case Studies",
+    "Module 4: Control Systems",
+    "Module 5: Process Controllers",
+    "Module 6: Correction Elements",
+    "Module 7: PLC Systems",
+    "Module 8: System Models",
+    "Module 9: Transfer Function",
+    "Module 10: System Response",
+    "Module 11: Frequency Response",
+    "Module 12: Nyquist Diagrams",
+    "Module 13: Control Systems"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦500,000 / $450",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 66,
+  "title": "Instruments Training & Calibration Procedures",
+  "date": "Present",
+  "description": [
+    "Accurate measurement and reliable control are vital to the safe and efficient operation of power plants. Instruments such as pressure, flow, temperature, and level sensors, along with analyzers and transmitters, require proper installation, calibration, and maintenance to ensure plant performance and compliance with industry standards.",
+    "This course provides participants with a comprehensive understanding of various instruments used in power plants, the calibration instruments required, step-by-step calibration procedures for different field devices, and the integration of calibrated instruments within plant control systems. Combining theoretical knowledge with practical procedures, the program equips engineers and technicians with the skills needed to enhance accuracy, reliability, and safety in instrumentation."
+  ],
+  "image": "https://i.ibb.co/qF4NKzLt/Instruments-Training-Clibration-Training.png",
+  "tags": [],
+  "category": "PAI",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Diploma or degree in instrumentation, electrical, electronics, mechanical, or process engineering.",
+    "Basic understanding of measurement principles (pressure, flow, level, and temperature).",
+    "Some exposure to industrial instrumentation, control systems, or power plant operations is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Recognize the function of different field instruments (pressure, flow, temperature, level, and analyzers).",
+    "Understand their role in power plant monitoring and control.",
+    "Identify calibration equipment (deadweight testers, decade boxes, calibrators, simulators, etc.) used in power plants.",
+    "Match calibration tools to the type of instrument being tested.",
+    "Execute standard calibration procedures for various instruments (pressure transmitters, flow meters, temperature sensors, level transmitters, etc.).",
+    "Apply best practices for ensuring accuracy, repeatability, and compliance with international standards (e.g., ISA, ISO).",
+    "Record calibration data, tolerances, and adjustments in line with industry documentation practices.",
+    "Maintain calibration logs for regulatory compliance and plant audits.",
+    "Understand how calibrated instruments interact with Distributed Control Systems (DCS), Programmable Logic Controllers (PLC), and Safety Instrumented Systems (SIS).",
+    "Troubleshoot discrepancies between field instruments and control system readings.",
+    "Apply safety measures while calibrating instruments in a live plant environment.",
+    "Contribute to reliable and efficient plant operations through precise measurement and control."
+  ],
+  "outline": [
+    "Module 1: Different type of instruments in power plant",
+    "Module 2: Calibration Instruments Required In Power Plant",
+    "Module 3: Calibration Procedure For Different Type Of Field Instruments",
+    "Module 4: Femilization Of Control Systems"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 67,
+  "title": "Basics of PSV Sizing & Selection",
+  "date": "Present",
+  "description": [
+    "Pressure Safety Valves (PSVs) are critical protective devices in the oil, gas, and process industries, ensuring equipment safety and compliance with international codes. Incorrect sizing or selection can lead to equipment damage, unplanned shutdowns, or catastrophic failures.",
+    "This course provides participants with a foundational understanding of PSV functions, selection criteria, and sizing methodologies. It covers relief system fundamentals, overpressure causes, PSV types, operational challenges, and step-by-step sizing procedures according to recognized standards. Through practical examples, participants will gain the skills to ensure reliable, code-compliant PSV installations that safeguard both personnel and assets."
+  ],
+  "image": "https://i.ibb.co/d0yJL3jZ/Basics-of-PSV-Sizing-Selection.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic understanding of process engineering, mechanical engineering, or plant operations.",
+    "Experience in oil, gas, petrochemical, or industrial plant operations is advantageous.",
+    "Comfort with basic engineering calculations and reading P&IDs.",
+    "No prior PSV sizing experience required"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Describe the role and function of relief systems in protecting process equipment.",
+    "Explain the importance of compliance with codes and standards (API, ASME).",
+    "Identify common PSV designs and their appropriate service conditions.",
+    "Understand typical causes of overpressure and their impact on system design.",
+    "Recognize common PSV problems such as chattering, leakage, and excessive inlet pressure drop.",
+    "Follow step-by-step sizing procedures for liquid and vapor service.",
+    "Perform inlet and outlet pressure drop checks.",
+    "Distinguish between critical and subcritical flow and apply appropriate sizing equations.",
+    "Apply API/ASME sizing equations to determine required PSV orifice areas.",
+    "Select suitable PSV type, material, and set pressure for given process conditions."
+  ],
+  "outline": [
+    "Module 1: Relief System Overview",
+    "Module 2: Pressure Management in Vessel Systems",
+    "Module 3: Common types of PSVs",
+    "Module 4: Overpressure scenarios",
+    "Module 5: Problems in PSVs operation",
+    "Module 6: Addressing excessive inlet ΔP",
+    "Module 7: Steps for sizing",
+    "Module 8: Check for vapor flow regime",
+    "Module 9: Sizing Equations"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦50,000 / $40",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 68,
+  "title": "Boiler Sizing",
+  "date": "Present",
+  "description": [
+    "Boiler sizing is a critical engineering task to ensure safe, efficient, and reliable steam generation for industrial and power applications. This course provides a comprehensive, step-by-step approach to determining key boiler design and operational parameters, from fuel consumption to steam piping and insulation requirements.",
+    "Participants will learn practical calculation methods for coal and water consumption, flue gas generation, chimney dimensions, fan capacities, feedwater pump requirements, safety valve sizing, blowdown rates, and steam distribution systems. The course incorporates relevant standards such as IS 6533, IBR, and ASME to ensure compliance and industry best practices. By the end, participants will be equipped to perform accurate boiler sizing calculations for new installations or performance optimization of existing systems."
+  ],
+  "image": "https://i.ibb.co/R80x9Vn/Boiler-Sizing.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of thermodynamics, heat transfer, and fluid mechanics.",
+    "Exposure to boiler operation, steam systems, or power plant engineering is beneficial.",
+    "Ability to perform engineering calculations and interpret technical drawings.",
+    "No prior boiler sizing experience required"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Determine coal consumption based on boiler load and efficiency.",
+    "Estimate water consumption for steam generation processes.",
+    "Calculate flue gas generation rates.",
+    "Determine chimney height and diameter as per IS 6533 Part 2.",
+    "Size outlet (flue gas) ducts for optimal flow.",
+    "Calculate bag filter capacity for particulate control.",
+    "Calculate ID (Induced Draft) and FD (Forced Draft) fan capacities to maintain proper combustion air and flue gas flow.",
+    "Calculate feedwater pump capacity requirements.",
+    "Size safety valves as per IBR and ASME requirements for safe operation.",
+    "Determine blowdown rates to control dissolved solids and prevent scaling.",
+    "Calculate steam pipe sizes, pressure drops, and select suitable insulation types and thicknesses.",
+    "Apply relevant engineering codes and standards to ensure safety, efficiency, and compliance."
+  ],
+  "outline": [
+    "Module 1: Coal Consumption Calculation",
+    "Module 2: Water Consumption",
+    "Module 3: Flue Gas Generation",
+    "Module 4: Chimney Height Calculation (As Per IS 6533 Part 2)",
+    "Module 5: Chimney Diameter Calculation",
+    "Module 6: Outlet Duct Size (Flue Gas Duct)",
+    "Module 7: Bag Filter Capacity",
+    "Module 8: ID Fan Capacity",
+    "Module 9: FD Fan Capacity",
+    "Module 10: Feed Water Pump Capacity Calculation",
+    "Module 11: Safety Valve Sizing (As Per IBR / ASME)",
+    "Module 12: Boiler Blowdown",
+    "Module 13: Calculate Steam Pipe Size",
+    "Module 14: Estimate Pressure Drop in Pipe",
+    "Module 15: Steam Pipe Insulation Type Selection And Thickness Calculation"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 69,
+  "title": "Front End Engineering Design of Oil and Gas Projects",
+  "date": "Present",
+  "description": [
+    "Front End Engineering Design (FEED) is a critical phase in the oil and gas project lifecycle, bridging the gap between conceptual development and detailed engineering. High-quality FEED ensures accurate cost estimation, reduced execution risks, and alignment with project objectives.",
+    "This course provides a structured understanding of the FEED process within the overall project framework, from project identification and feasibility studies to definition, construction planning, and quality assurance. Participants will explore the decision-making process in gated project systems, learn how to prepare and assess statements of requirements, and identify overarching technical, commercial, and regulatory considerations. Real-world case studies and lessons learned will highlight best practices and common pitfalls in FEED for oil and gas developments."
+  ],
+  "image": "https://i.ibb.co/YTYrPTp2/FEED-of-Oil-and-Gas-Project.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic understanding of engineering principles, preferably in petroleum, mechanical, civil, or chemical engineering.",
+    "Experience in oil and gas operations, project management, or engineering design is beneficial.",
+    "Ability to interpret technical documentation such as PFDs, P&IDs, and project specifications."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Describe the stages of oil and gas project development from concept to decommissioning.",
+    "Explain the role of gated decision processes in risk and cost control.",
+    "Outline methods for project identification and initial screening.",
+    "Recognize the importance of early stakeholder engagement.",
+    "Develop and evaluate feasibility reports.",
+    "Translate business needs into clear technical requirements for FEED.",
+    "Explain the scope, deliverables, and activities involved in FEED.",
+    "Ensure FEED aligns with budget, schedule, and quality expectations.",
+    "Integrate construction considerations into FEED deliverables.",
+    "Understand interfaces between FEED and detailed engineering/construction teams.",
+    "Apply criteria and metrics to assess FEED completeness and accuracy.",
+    "Recognize the impact of FEED quality on EPC execution and cost certainty.",
+    "Identify cross-cutting concerns such as HSE, regulatory compliance, project risk, and technology selection.",
+    "Analyze real-world oil and gas FEED projects to identify success factors and avoid common pitfalls."
+  ],
+  "outline": [
+    "Module 1: Project Framework: Lifecycle and Gate system",
+    "Module 2: Identification",
+    "Module 3: Feasibility and Statement of requirement",
+    "Module 4: Project Definition / Front End Engineering Design",
+    "Module 5: Construction",
+    "Module 6: Quality of FEED",
+    "Module 7: Overarching Issues",
+    "Module 8: Case Studies and Lessons"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 70,
+  "title": "How to Prepare a Process Design Basis",
+  "date": "Present",
+  "description": [
+    "A Process Design Basis (PDB) is the foundational document that defines the technical, operational, environmental, and commercial requirements for a process plant. It sets the framework for all subsequent design, procurement, and construction activities, ensuring alignment between the owner, engineering team, and contractors.",
+    "This course offers a comprehensive guide to developing a robust Process Design Basis, covering every key element from defining the plant’s objectives and feed/product specifications to environmental, safety, and operational philosophies. Participants will learn how to integrate process technology selection, control strategies, project execution expectations, and communication protocols into a single cohesive document.",
+    "Through real-world case studies, attendees will gain insight into managing stakeholder expectations, coordinating multidisciplinary inputs, and ensuring the design basis meets both regulatory and business objectives. By the end, participants will have the skills to create a PDB that minimizes design changes, reduces project risk, and supports efficient project execution."
+  ],
+  "image": "https://i.ibb.co/4qgkn2L/How-to-Prepare-a-Process-Design-Basis.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Degree or diploma in chemical, mechanical, process, or petroleum engineering (or relevant industrial experience).",
+    "Familiarity with basic process engineering concepts, plant operations, and project execution phases.",
+    "Ability to read PFDs, P&IDs, and basic engineering documentation.",
+    "Prior experience in FEED or EPC projects is an advantage but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain how a PDB fits into the overall project lifecycle and why it is critical to project success.",
+    "Accurately describe plant purpose, feedstock characteristics, and product specifications.",
+    "Identify process options and justify the chosen technology based on technical, economic, and operational factors.",
+    "Develop a process control philosophy that aligns with plant safety, reliability, and efficiency goals.",
+    "Translate project management strategies and contractual obligations into design requirements.",
+    "Identify all documents, drawings, and reports that must be produced during the design phase.",
+    "Establish protocols for data sharing, approvals, and coordination between parties.",
+    "Integrate client/vendor preferences while ensuring technical compliance.",
+    "Assess environmental conditions, infrastructure availability, and brownfield compatibility.",
+    "Incorporate industry codes, permits, and standards into the PDB.",
+    "Define the long-term plant operation and maintenance philosophy.",
+    "Document working capital considerations, economic criteria, and project execution expectations.",
+    "Include systems for physical security, cybersecurity, and plant-wide communication.",
+    "Analyze real project examples to identify best practices and avoid common pitfalls."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Overall plant objective",
+    "Module 3: Plant Feed & Products",
+    "Module 4: Process technology",
+    "Module 5: Process control philosophy",
+    "Module 6: Management of the project",
+    "Module 7: Project contract",
+    "Module 8: Process design deliverables",
+    "Module 9: How information will flow between the parties during the project",
+    "Module 10: Preferred vendors",
+    "Module 11: Conduct of the process design engineers",
+    "Module 12: Nature of the plantsite",
+    "Module 13: Economic criteria",
+    "Module 14: Offsite facilities and infrastructure requirements",
+    "Module 15: Brownfield-site compatibility",
+    "Module 16: Environmental, safety and vessel and structural-design standards, permits and requirements",
+    "Module 17: Plant operation and maintenance philosophy",
+    "Module 18: Owner’s wishes regarding working capital",
+    "Module 19: Communication system for the completed plant",
+    "Module 20: Security of the project, and of the completed plant",
+    "Module 21: Project execution expectations",
+    "Module 22: Case Studies"
+  ],
+  "assessment": "Online Written Exam / AutoCAD Design Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 71,
+  "title": "Hydrogen Pipeline System: Design, Construction, and Operation",
+  "date": "Present",
+  "description": [
+    "Hydrogen is increasingly recognized as a clean energy carrier for the future, but its unique physical and chemical properties demand specialized considerations for safe and efficient transport through pipelines. This course provides a comprehensive understanding of the design, construction, operation, and maintenance of hydrogen pipeline systems in industrial and energy applications.",
+    "Covering key elements from design philosophy and material selection to cleaning, construction, and operational safety measures, the course addresses the challenges of hydrogen embrittlement, leakage prevention, and high-purity requirements. Participants will explore applicable codes, standards, and best practices, along with lessons learned from real-world projects.",
+    "By the end of the program, attendees will be equipped with the knowledge to plan, specify, and manage hydrogen pipeline projects that meet both technical and safety requirements while optimizing long-term reliability."
+  ],
+  "image": "https://i.ibb.co/3yLbg3tX/Hydrogen-Pipeline-System.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Degree or diploma in mechanical, chemical, process, petroleum, or pipeline engineering.",
+    "Familiarity with pipeline design principles, material selection, and basic fluid mechanics.",
+    "Ability to interpret P&IDs, pipeline alignment sheets, and engineering specifications.",
+    "Prior exposure to gas transmission/distribution projects is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain hydrogen’s properties, risks, and implications for pipeline transportation.",
+    "Establish technical, operational, and safety objectives at the planning stage.",
+    "Interpret industry terminology, applicable codes, and compliance requirements.",
+    "Integrate safety, reliability, operability, and maintainability into hydrogen pipeline design.",
+    "Choose components resistant to hydrogen embrittlement, leakage, and corrosion.",
+    "Ensure purity and readiness for hydrogen service using best-practice cleaning methods.",
+    "Apply safe construction practices for welding, coating, and laying hydrogen pipelines.",
+    "Specify requirements for compressor stations, metering stations, and valve stations.",
+    "Implement inspection, monitoring, and leak detection systems for ongoing safety.",
+    "Incorporate cathodic protection, overpressure protection, and emergency shutdown systems."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Scope and purpose",
+    "Module 3: Definitions",
+    "Module 4: Design philosophy",
+    "Module 5: Piping, valves and equipment.",
+    "Module 6: Cleaning",
+    "Module 7: Construction",
+    "Module 8: Design and construction of stations",
+    "Module 9: Operation and monitoring",
+    "Module 10: General protective measures"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 72,
+  "title": "Oil and Gas Facility Project",
+  "date": "Present",
+  "description": [
+    "The development of oil and gas facilities requires the integration of multiple engineering disciplines, rigorous project planning, and adherence to safety, environmental, and operational requirements. From conceptual design to commissioning and revamping, facility projects must balance technical, economic, and regulatory considerations.",
+    "This course provides participants with a comprehensive understanding of how oil and gas facility projects are conceived, designed, executed, and managed. Covering project engineering, design basis, process engineering, equipment, layout, safety, civil, piping, instrumentation, electrical, offshore considerations, and project management, the program offers both technical and managerial perspectives. Participants will also explore the phases of project execution—including Basic, FEED, and Detailed Design—while understanding how to align engineering deliverables with project schedules, cost, and operational goals.",
+    "By the end of this course, participants will be equipped to contribute effectively to facility projects in both onshore and offshore environments."
+  ],
+  "image": "https://i.ibb.co/dwqPCLZ9/Oil-and-Gas-Facility-Project.png",
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Degree or diploma in mechanical, chemical, petroleum, civil, electrical, instrumentation, or related engineering disciplines.",
+    "Prior exposure to oil and gas industry operations, projects, or engineering practices is beneficial but not mandatory.",
+    "Basic understanding of process plant equipment, safety principles, and project execution methodologies."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the role of project engineering in oil and gas facility development.",
+    "Describe the importance of design basis and its impact on project success.",
+    "Demonstrate knowledge of process, mechanical, civil, piping, electrical, instrumentation, and offshore engineering considerations in facility design.",
+    "Recognize the role of plant layout, materials, and corrosion protection in ensuring safe and efficient operations.",
+    "Identify environmental and safety factors that influence project design and execution.",
+    "Apply best practices for hazard mitigation, regulatory compliance, and sustainable facility design.",
+    "Differentiate between Basic Engineering, FEED, and Detailed Design phases.",
+    "Align engineering deliverables with project schedules and milestones.",
+    "Understand the application of plant modeling in optimizing design and construction.",
+    "Apply digital workflows for efficient multidisciplinary collaboration.",
+    "Apply principles of engineering management and field engineering.",
+    "Manage changes, revamping projects, and brownfield modifications.",
+    "Balance scope, cost, schedule, and quality in facility projects.",
+    "Understand the overall work process in facility project execution.",
+    "Improve communication and integration among engineering teams, contractors, and stakeholders."
+  ],
+  "outline": [
+    "Module 1: Project Engineering",
+    "Module 2: The design basis",
+    "Module 3: Process",
+    "Module 4: Equipment/Mechanical",
+    "Module 5: Plant Layout",
+    "Module 6: Safety & Environment",
+    "Module 7: Civil Engineering",
+    "Module 8: Materials & Corrosion",
+    "Module 9: Piping",
+    "Module 10: Plant model",
+    "Module 11: Instrumentation & Control",
+    "Module 12: Electrical",
+    "Module 13: Offshore",
+    "Module 14: The overall work process",
+    "Module 15: BASIC, FEED and Detail Design",
+    "Module 16: Matching the Project Schedule",
+    "Module 17: Engineering Management",
+    "Module 18: Field Engineering",
+    "Module 19: Revamping"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦250,000 / $200",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 73,
+  "title": "Principles of Water and Wastewater Treatment Processes",
+  "date": "Present",
+  "description": [
+    "The sustainable management of water resources is one of the most pressing challenges faced by industries and municipalities today. This course provides participants with a comprehensive understanding of the fundamental principles, technologies, and applications involved in modern water and wastewater treatment.",
+    "The program covers water quality fundamentals, flowsheeting techniques, and the major treatment processes, including physical, chemical, sorption, biological, and membrane-based systems. It also addresses sludge treatment, odor management, and resource recovery—critical elements for achieving regulatory compliance, environmental protection, and sustainable operations.",
+    "By combining theory with practical engineering applications, participants will gain the skills required to design, evaluate, and optimize treatment systems for industrial, municipal, and utility-scale water and wastewater facilities."
+  ],
+  "image": "https://i.ibb.co/Hf2LNNK7/Principles-of-Water-and-Wastewater-Treatment-Processes.png",
+  "tags": [],
+  "category": "process",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Basic knowledge of chemistry, biology, and physics.",
+    "Familiarity with engineering processes or environmental systems.",
+    "Background in civil, chemical, mechanical, or environmental engineering is beneficial.",
+    "No prior specialized training in water treatment is required."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain key water quality parameters and their significance for treatment design.",
+    "Interpret regulatory frameworks and compliance requirements.",
+    "Develop and analyze flowsheets for water and wastewater treatment systems.",
+    "Identify optimal process sequences for specific applications.",
+    "Physical: Sedimentation, screening, filtration, aeration.",
+    "Chemical: Coagulation, disinfection, advanced oxidation processes.",
+    "Sorption: Activated carbon and ion-exchange applications.",
+    "Biological: Aerobic and anaerobic processes, activated sludge, biofilm systems.",
+    "Membrane: Reverse osmosis, ultrafiltration, nanofiltration, membrane bioreactors.",
+    "Analyze sludge treatment methods and resource utilization options.",
+    "Explore energy recovery and biosolids applications.",
+    "Identify common odor sources and apply mitigation strategies.",
+    "Integrate odor management into overall plant operation.",
+    "Select suitable processes based on influent characteristics and effluent standards.",
+    "Troubleshoot operational challenges and improve treatment performance.",
+    "Incorporate sustainability and circular economy principles into water and wastewater projects."
+  ],
+  "outline": [
+    "Module 1: Water Quality",
+    "Module 2: Flowsheeting",
+    "Module 3: Physical Processes",
+    "Module 4: Chemical Processes",
+    "Module 5: Sorption Processes",
+    "Module 6: Biological Processes",
+    "Module 7: Membrane Processes",
+    "Module 8: Sludge Treatment & Utilization",
+    "Module 9: Odour management"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦180,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 74,
+  "title": "PROCESS DESIGN OF HEAT TRACING AND WINTERIZING",
+  "date": "Present",
+  "description": [
+    "Heat tracing and winterization are essential design practices in oil & gas, petrochemical, power, and process industries to ensure the reliability, safety, and efficiency of piping systems, instruments, and equipment exposed to low-temperature environments. This course provides a comprehensive understanding of the principles, applications, and design methods of heat tracing systems (electric and steam) and winterization strategies.",
+    "Through practical examples, participants will learn where and why heat tracing is required, conditions that necessitate winterization, applicable codes and standards, and design considerations for ensuring continuous operations in cold climates. The course builds competency in selecting the appropriate method, sizing, installation requirements, and integrating heat tracing into overall process design."
+  ],
+  "image": "https://i.ibb.co/wNM1fGsz/PROJECT-STANDARDS-AND-SPECIFICATIONS-FOR-HEAT-TRACING-AND-WINTERIZING-SYSTEMS.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "A basic understanding of process engineering and plant operations.",
+    "Familiarity with piping and instrumentation (P&IDs, line lists, etc.).",
+    "General knowledge of heat transfer and fluid properties is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Define heat tracing, winterization, and their role in process safety and operability.",
+    "Differentiate between electric, steam, and other heat tracing methods.",
+    "Determine equipment, piping, and instruments that require heat tracing.",
+    "Select suitable methods based on process conditions, cost, and safety considerations.",
+    "Analyze plant areas and process streams vulnerable to freezing or viscosity increase.",
+    "Apply design strategies to mitigate risks in cold environments.",
+    "Interpret industry codes, standards, and company specifications for heat tracing.",
+    "Define operational, maintenance, and reliability requirements.",
+    "Develop a step-by-step approach for heat tracing and winterization design.",
+    "Perform design calculations (heat loss, line sizing, and energy requirements).",
+    "Integrate heat tracing systems into plant layout, instrumentation, and utilities."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Application & Methods",
+    "Module 3: Conditions Requiring Winterization",
+    "Module 4: Requirements",
+    "Module 5: Design"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦80,000 / $60",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 75,
+  "title": "Process Simulation of multistage compressor process & Separator Sizing & Overpressure Study in Oil & Gas",
+  "date": "Present",
+  "description": [
+    "This course provides a practical and technical understanding of how to simulate, analyze, and design critical equipment and safety systems in oil & gas facilities. It focuses on the process simulation of multistage compressors, generation of heat and material balances (HMB), separator sizing, and overpressure protection studies through pressure safety valve (PSV) sizing.",
+    "Participants will gain hands-on experience in simulating multistage compressor processes, developing reliable HMBs for design and optimization, applying sizing methodologies for gas-liquid separators, and conducting overpressure protection studies for both blocked outlet and fire scenarios.",
+    "The course equips engineers with the skills needed to ensure process safety, equipment reliability, and compliance with international design standards in oil & gas projects."
+  ],
+  "image": "https://i.ibb.co/ksCj268n/Process-Simulation-of-multistage-compressor-process-Separator-Sizing-Overpressure-Study-in-Oil-Gas.png",
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of thermodynamics, fluid mechanics, and heat transfer.",
+    "Familiarity with process design documents (PFDs, P&IDs, line lists).",
+    "Working knowledge of oil & gas process operations (compression, separation, and safety systems).",
+    "Prior exposure to process simulation software (e.g., Aspen HYSYS, DWSIM, PRO/II)."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the fundamentals of gas compression and intercooling.",
+    "Perform multistage compressor simulations using process simulation tools.",
+    "Analyze compressor performance parameters (power, efficiency, discharge temperatures, etc.).",
+    "Develop reliable HMBs for compressor and separation systems.",
+    "Use HMBs as a basis for equipment design and plant optimization.",
+    "Validate HMB data against process simulation outputs.",
+    "Apply design principles for gas-liquid separation.",
+    "Size horizontal and vertical separators based on process requirements.",
+    "Evaluate performance under normal and upset conditions.",
+    "Identify overpressure scenarios (blocked outlet, fire, and thermal expansion).",
+    "Perform PSV sizing calculations in compliance with API 520/521 standards.",
+    "Ensure adequate relief system design for safe plant operations."
+  ],
+  "outline": [
+    "Module 1: Process Simulation of multistage compressor process",
+    "Module 2: Generate HMB",
+    "Module 3: Separator Sizing",
+    "Module 4: PSV Sizing (Blocked outlet and Fire Scenario)"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 76,
+  "title": "Reading Schematics and Symbols",
+  "date": "Present",
+  "description": [
+    "This course provides participants with the essential knowledge and skills to read, interpret, and apply engineering schematics and symbols used in piping systems. The training covers the fundamentals of piping design, fittings, flanges, valves, welding, and isometric piping drawings. Special emphasis is placed on understanding piping and welding symbols, enabling participants to correctly interpret technical drawings, communicate effectively with engineers and fabricators, and ensure proper installation and maintenance of piping systems.",
+    "By completing this course, participants will gain confidence in reading drawings, identifying components, and applying international standards in oil & gas, power, and process industries."
+  ],
+  "image": "https://i.ibb.co/gZsvHFHQ/Reading-Schematics-and-Symbols.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic knowledge of engineering principles (mechanical or process).",
+    "Familiarity with piping systems and plant operations (advantageous but not mandatory).",
+    "No prior drafting experience is required, but participants should have an interest in technical drawings and symbols."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Recognize basic piping layouts, materials, and flow paths.",
+    "Identify different types of pipe fittings, flanges, and valves.",
+    "Read and apply standard piping symbols on engineering drawings.",
+    "Understand welding symbols, their meanings, and application in fabrication.",
+    "Develop skills to read orthographic and isometric piping drawings.",
+    "Translate drawings into physical piping layouts.",
+    "Differentiate between schematic and fabrication drawings.",
+    "Use company, national, and international standards for schematics and symbols.",
+    "Ensure correct interpretation for safe and efficient installation.",
+    "Improve collaboration with engineers, fabricators, and construction teams through accurate interpretation of drawings.",
+    "Reduce errors caused by misinterpretation of schematics and symbols."
+  ],
+  "outline": [
+    "Module 1: Piping Fundamental",
+    "Module 2: Pipe Fittings",
+    "Module 3: Flanges",
+    "Module 4: Valves",
+    "Module 5: Piping symbols",
+    "Module 6: Isometric Piping",
+    "Module 7: Welding symbols",
+    "Module 8: Drawings basics"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦60,000 / $50",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 77,
+  "title": "Sulfur Recovery Unit - Claus Process with 2 Reactors",
+  "date": "Present",
+  "description": [
+    "Sulfur recovery is a critical process in the oil and gas, petrochemical, and refinery industries for both environmental compliance and resource utilization. The Claus process is the most widely used technology for converting hydrogen sulfide (H₂S)-rich gases into elemental sulfur, thereby minimizing SO₂ emissions and ensuring regulatory compliance.",
+    "This course provides participants with in-depth knowledge of the Claus Process with 2 catalytic reactors and practical training on how to simulate, analyze, and optimize the process using Aspen HYSYS. Learners will develop skills in process modeling, reactor configuration, material balance, and performance evaluation to ensure efficient sulfur recovery."
+  ],
+  "image": "https://i.ibb.co/SwvsWjBd/Simulation-of-Sulfur-Recovery-Unit-with-Tail-Gas-Treatment-using-Sulsim.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Basic knowledge of chemical/process engineering principles.",
+    "Familiarity with process simulation software (preferably Aspen HYSYS).",
+    "Understanding of refinery operations, particularly gas treating and acid gas removal (recommended).",
+    "Fundamental knowledge of chemical reactions, mass balance, and thermodynamics."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the role of SRU in oil & gas operations – explain why sulfur recovery is critical for environmental compliance and process economics.",
+    "Describe Claus process chemistry and reactor stages – differentiate between thermal and catalytic stages, and their functions.",
+    "Identify major SRU equipment – explain the function of furnaces, reactors, condensers, and tail gas treatment units.",
+    "Simulate Claus process in Aspen HYSYS – set up a process model with 2 reactors and generate heat & material balances.",
+    "Evaluate process efficiency – calculate sulfur recovery percentage and identify bottlenecks.",
+    "Optimize operating conditions – use HYSYS sensitivity analysis to improve SRU performance.",
+    "Apply troubleshooting techniques – recognize deviations in sulfur recovery and recommend corrective measures."
+  ],
+  "outline": [
+    "Module 1: Introduction to Sulfur Recovery",
+    "Module 2: Claus Process Fundamentals",
+    "Module 3: Process Flow and Equipment",
+    "Module 4: Simulation Setup in Aspen HYSYS",
+    "Module 5: Modeling Claus Process with 2 Reactors",
+    "Module 6: Generating Heat & Material Balance (HMB)",
+    "Module 7: Optimization & Sensitivity Analysis",
+    "Module 8: Case Study & Hands-On Simulation"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 78,
+  "title": "Sustainable Process Engineering Part A",
+  "date": "Present",
+  "description": [
+    "This course introduces the foundational principles and practical approaches of Sustainable Process Engineering, focusing on integrating sustainability into process industries. It is designed to help engineers and professionals in the chemical, energy, manufacturing, and related sectors understand how to assess, design, and implement processes that are environmentally responsible, economically viable, and socially beneficial.",
+    "Through a step-by-step exploration of core concepts, sustainability strategies, evaluation tools, and implementation practices, the course provides a structured pathway toward achieving sustainable development goals (SDGs) within engineering operations."
+  ],
+  "image": "https://i.ibb.co/F48ddHCj/Sustainable-Process-Engineering-Part-A.png",
+  "tags": [],
+  "category": "process",
+  "duration": "1 Day",
+  "prerequisite": [
+    "A basic understanding of process engineering, chemical engineering, or industrial systems.",
+    "Familiarity with engineering design principles and process analysis tools.",
+    "Awareness of environmental and energy issues in industrial contexts is beneficial but not mandatory.",
+    "Open to professionals, graduate students, and technical personnel involved in process design, operations, or sustainability planning."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Define the key concepts and principles of sustainable process engineering.",
+    "Understand the drivers of sustainability and how they apply to process industries.",
+    "Identify and apply strategies for reducing environmental impact, enhancing efficiency, and promoting circular economy models.",
+    "Use various evaluation techniques (e.g., life cycle assessment, carbon footprinting, and sustainability indicators) to assess process sustainability.",
+    "Develop approaches for the implementation of sustainable practices in real-world industrial settings.",
+    "Lay the groundwork for advanced study or application in Part B of the Sustainable Process Engineering series."
+  ],
+  "outline": [
+    "Module 1: Concepts",
+    "Module 2: Strategies",
+    "Module 3: Evaluation",
+    "Module 4: Implementation"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "FREE",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 79,
+  "title": "Sustainable Process Engineering Part B (Concepts)",
+  "date": "Present",
+  "description": [
+    "Building on the foundational knowledge established in Part A, Sustainable Process Engineering – Part B explores advanced topics in sustainable development within the context of engineering and industrial processes. This course focuses on three critical pillars: sustainability concepts, cleaner production, and industrial ecology, offering participants practical tools and frameworks to drive sustainable innovation across the value chain.",
+    "Emphasizing systems thinking, resource optimization, and environmental integration, this course equips professionals to reimagine processes, minimize waste, and close material loops — ultimately contributing to resilient, low-impact industrial operations."
+  ],
+  "image": "https://i.ibb.co/V0tK20KX/Sustainable-Process-Engineering-Part-B.png",
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "Completed Sustainable Process Engineering – Part A, or possess equivalent foundational knowledge.",
+    "A working understanding of process engineering, environmental impact, or sustainability in industry."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Deepen their understanding of advanced sustainability concepts and their application in complex engineering systems.",
+    "Apply the principles of cleaner production to identify and implement waste reduction, energy efficiency, and pollution prevention strategies.",
+    "Understand and utilize the framework of industrial ecology to develop closed-loop systems that mimic natural ecosystems.",
+    "Integrate systems-level thinking into the design and management of sustainable processes and supply chains.",
+    "Evaluate the long-term environmental and economic impacts of engineering decisions within the broader context of sustainable development.",
+    "Support organizations in transitioning to more sustainable and circular industrial models."
+  ],
+  "outline": [
+    "Module 1: Sustainability Concepts",
+    "Module 2: Cleaner Production",
+    "Module 3: Industrial Ecology"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦60,000 / $50",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 80,
+  "title": "Sustainable Process Engineering Part C (Strategies)",
+  "date": "Present",
+  "description": [
+    "Sustainable Process Engineering – Part C: Strategies focuses on the practical application of sustainability principles in process industries, with a strong emphasis on waste minimization and resource efficiency. This course addresses how to systematically identify, reduce, and recover waste and energy losses across various stages of chemical and industrial operations — including reactors, separation units, utility systems, and overall plant operations.",
+    "Participants will explore engineering strategies to optimize material use, conserve energy, and enhance circularity, all while improving environmental performance and operational economics. The course is ideal for professionals seeking actionable methods to implement sustainability in their day-to-day processes and plant operations."
+  ],
+  "image": "https://i.ibb.co/vxbZMHKH/Sustainable-Process-Engineering-Part-C.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Completed Sustainable Process Engineering – Part A and Part B, or have a working knowledge of sustainable engineering concepts.",
+    "A solid background in chemical/process engineering, including basic knowledge of reactors, separation processes, and utility systems.",
+    "Familiarity with process operations, mass/energy balances, and general plant systems is recommended."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand and apply strategies for waste minimization in chemical reactors, including process optimization and reaction efficiency improvements.",
+    "Identify sources of waste in separation processes (e.g., distillation, extraction) and implement strategies to reduce material and energy losses.",
+    "Analyze utility systems to pinpoint inefficiencies and recommend improvements in water, steam, compressed air, and other services.",
+    "Develop and implement energy conservation techniques across various process units to reduce environmental footprint and cost.",
+    "Explore methods for materials recycling and reuse, promoting circular economy practices within process plants.",
+    "Apply a systematic approach to waste minimization in operations, integrating sustainability into standard operating procedures and decision-making."
+  ],
+  "outline": [
+    "Module 1: Waste Minimization in Reactors",
+    "Module 2: Waste Minimization in Separation Processes",
+    "Module 3: Identification of Waste in Utility Systems",
+    "Module 4: Energy Conservation",
+    "Module 5: Materials Recycling",
+    "Module 6: Waste Minimization in Operations"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 81,
+  "title": "Sustainable Process Engineering Part D (Evaluation)",
+  "date": "Present",
+  "description": [
+    "Sustainable Process Engineering – Part D: Evaluation provides participants with the essential tools and methodologies to quantitatively and qualitatively evaluate the sustainability of engineering processes. This course focuses on the assessment phase of sustainable design and operation, teaching participants how to conduct Life Cycle Assessments (LCA), safety evaluations, and economic and environmental assessments.",
+    "Through a mix of theoretical grounding and practical case studies, learners will be equipped to make informed decisions that balance environmental impact, safety, and cost-efficiency. This course is critical for professionals aiming to integrate robust sustainability evaluation frameworks into process design, optimization, and operational strategies."
+  ],
+  "image": "https://i.ibb.co/1YSbKQ4R/Sustainable-Process-Engineering-Part-D.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Completed Sustainable Process Engineering – Parts A, B, and C, or have equivalent knowledge of sustainable design strategies and process operations.",
+    "A sound understanding of process engineering principles, including material/energy balances and plant operations.",
+    "Familiarity with basic sustainability concepts, cost analysis, and safety considerations in industrial systems."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the principles and methodology of Life Cycle Assessment (LCA) and how it applies to process engineering.",
+    "Interpret and analyze LCA case studies to evaluate real-world applications and outcomes.",
+    "Perform safety evaluations within the sustainability context, integrating risk assessment and prevention strategies.",
+    "Conduct economic assessments to evaluate the cost-effectiveness and financial feasibility of sustainable process alternatives.",
+    "Apply holistic sustainability assessment frameworks to guide decision-making in design, investment, and operational planning.",
+    "Integrate environmental, safety, and economic evaluation tools to support sustainable innovation in industrial processes."
+  ],
+  "outline": [
+    "Module 1: Life Cycle Assessment",
+    "Module 2: Life Cycle Assessment Case Studies",
+    "Module 3: Safety Evaluation",
+    "Module 4: Assessment of Costs and Economics",
+    "Module 5: Sustainability Assessment"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 82,
+  "title": "Sustainable Process Engineering Part E (Implementation)",
+  "date": "Present",
+  "description": [
+    "Sustainable Process Engineering – Part E: Implementation is the final part of the Sustainable Process Engineering series, focusing on the practical implementation of sustainability strategies within industrial settings. This course bridges the gap between theory and execution by addressing how to plan, design, and manage operations to embed sustainability into the core of process industries.",
+    "Participants will learn how to integrate sustainability principles into process planning, project development, and operational management, enabling them to drive organizational change and support long-term sustainable performance. Emphasis is placed on aligning engineering decisions with business strategy, regulatory compliance, and sustainability targets."
+  ],
+  "image": "https://i.ibb.co/qMdj807w/Sustainable-Process-Engineering-Part-E.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Completed Sustainable Process Engineering – Parts A through D, or possess a comprehensive understanding of sustainability principles, evaluation tools, and process engineering.",
+    "Background knowledge in process design, project management, and industrial operations.",
+    "Experience or familiarity with engineering projects or operations is advantageous."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Develop strategic plans for implementing sustainability within process industries, considering organizational goals and environmental regulations.",
+    "Integrate sustainability into process design and project development, from concept to execution, using structured methodologies and best practices.",
+    "Apply operations management principles to ensure ongoing sustainable performance, including monitoring, continuous improvement, and stakeholder engagement.",
+    "Align technical solutions with corporate sustainability goals, including carbon reduction, resource efficiency, and circular economy practices.",
+    "Lead or contribute to multidisciplinary teams working on sustainable engineering initiatives and industrial transformation projects.",
+    "Translate sustainability assessments and strategies into real-world actions and measurable results."
+  ],
+  "outline": [
+    "Module 1: Planning for Sustainable Process Industries",
+    "Module 2: Process Design and Project Development",
+    "Module 3: Operations Management"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦120,000 / $100",
+  "certification": "Certificate of Completion"
+}
 
 
 
