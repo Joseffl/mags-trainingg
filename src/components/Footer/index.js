@@ -61,13 +61,45 @@ const Copyright = styled.p`
 `;
 
 
+// const ContactDetails = styled.div`
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   width: 100%;
+//   max-width: 520px; /* Limit width */
+//   gap: 2px; /* Increase spacing */
+//   margin-top: 1rem;
+
+//   @media (max-width: 600px) {
+//     flex-direction: column;
+//     text-align: center;
+//     gap: 1rem;
+//   }
+// `;
+
+// const ContactItem = styled.a`
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   gap: 10px;
+//   font-size: 0.9rem;
+//   color: #ffffff;
+//   text-decoration: none;
+//   transition: color 0.3s ease;
+
+//   &:hover {
+//     color: #d4ffd8; /* Light green for hover effect */
+//   }
+// `;
+
+
 const ContactDetails = styled.div`
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
   width: 100%;
-  max-width: 520px; /* Limit width */
-  gap: 2px; /* Increase spacing */
+  max-width: 520px;
+  gap: 20px; /* Space between links */
   margin-top: 1rem;
 
   @media (max-width: 600px) {
@@ -77,19 +109,14 @@ const ContactDetails = styled.div`
   }
 `;
 
-const ContactItem = styled.a`
+const ContactItem = styled.div` /* Change from 'a' to 'div' since it wraps multiple links */
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
   font-size: 0.9rem;
-  color: #ffffff;
-  text-decoration: none;
-  transition: color 0.3s ease;
-
-  &:hover {
-    color: #d4ffd8; /* Light green for hover effect */
-  }
 `;
+
 
 const FootLink = styled.a`
   display: flex;
