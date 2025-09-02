@@ -198,7 +198,7 @@ const Testimonials = () => {
                 : <p>{testimonial.quote}</p>}
             </Quote>
             <AuthorBlock>
-              <Avatar>{getInitials(testimonial.author)}</Avatar>
+              {/* <Avatar>{getInitials(testimonial.author)}</Avatar> */}
               <AuthorInfo>
                 <Author>{testimonial.author}</Author>
                 {/* <Role>{testimonial.role}</Role> */}
