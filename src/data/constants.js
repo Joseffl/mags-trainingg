@@ -18925,9 +18925,59 @@ export const projects = [
   "certification": "Certificate of Completion"
 },
 
+// {
+//   "id": 75,
+//   "title": "Process Simulation of multistage compressor process & Separator Sizing & Overpressure Study in Oil & Gas",
+//   "date": "Present",
+//   "description": [
+//     "This course provides a practical and technical understanding of how to simulate, analyze, and design critical equipment and safety systems in oil & gas facilities. It focuses on the process simulation of multistage compressors, generation of heat and material balances (HMB), separator sizing, and overpressure protection studies through pressure safety valve (PSV) sizing.",
+//     "Participants will gain hands-on experience in simulating multistage compressor processes, developing reliable HMBs for design and optimization, applying sizing methodologies for gas-liquid separators, and conducting overpressure protection studies for both blocked outlet and fire scenarios.",
+//     "The course equips engineers with the skills needed to ensure process safety, equipment reliability, and compliance with international design standards in oil & gas projects."
+//   ],
+//   "image": "https://i.ibb.co/ksCj268n/Process-Simulation-of-multistage-compressor-process-Separator-Sizing-Overpressure-Study-in-Oil-Gas.png",
+//   "category": "process",
+//   "duration": "3 Days",
+//   "prerequisite": [
+//     "Basic knowledge of thermodynamics, fluid mechanics, and heat transfer.",
+//     "Familiarity with process design documents (PFDs, P&IDs, line lists).",
+//     "Working knowledge of oil & gas process operations (compression, separation, and safety systems).",
+//     "Prior exposure to process simulation software (e.g., Aspen HYSYS, DWSIM, PRO/II)."
+//   ],
+//   "methodology": "Theoretical/Practical",
+//   "objectives": [
+//     "Understand the fundamentals of gas compression and intercooling.",
+//     "Perform multistage compressor simulations using process simulation tools.",
+//     "Analyze compressor performance parameters (power, efficiency, discharge temperatures, etc.).",
+//     "Develop reliable HMBs for compressor and separation systems.",
+//     "Use HMBs as a basis for equipment design and plant optimization.",
+//     "Validate HMB data against process simulation outputs.",
+//     "Apply design principles for gas-liquid separation.",
+//     "Size horizontal and vertical separators based on process requirements.",
+//     "Evaluate performance under normal and upset conditions.",
+//     "Identify overpressure scenarios (blocked outlet, fire, and thermal expansion).",
+//     "Perform PSV sizing calculations in compliance with API 520/521 standards.",
+//     "Ensure adequate relief system design for safe plant operations."
+//   ],
+//   "outline": [
+//     "Module 1: Process Simulation of multistage compressor process",
+//     "Module 2: Generate HMB",
+//     "Module 3: Separator Sizing",
+//     "Module 4: PSV Sizing (Blocked outlet and Fire Scenario)"
+//   ],
+//   "assessment": "Online Written Exam",
+//   "cdf": [
+//     "Classroom-based training",
+//     "Online courses",
+//     "In-house workshops",
+//     "On-the-job training"
+//   ],
+//   "cost": "₦150,000 / $120",
+//   "certification": "Certificate of Completion"
+// },
+
 {
   "id": 75,
-  "title": "Process Simulation of multistage compressor process & Separator Sizing & Overpressure Study in Oil & Gas",
+  "title": "Process Simulation of Multistage Compressor Process and Separator Sizing and Overpressure Study in Oil and Gas",
   "date": "Present",
   "description": [
     "This course provides a practical and technical understanding of how to simulate, analyze, and design critical equipment and safety systems in oil & gas facilities. It focuses on the process simulation of multistage compressors, generation of heat and material balances (HMB), separator sizing, and overpressure protection studies through pressure safety valve (PSV) sizing.",
@@ -18935,6 +18985,7 @@ export const projects = [
     "The course equips engineers with the skills needed to ensure process safety, equipment reliability, and compliance with international design standards in oil & gas projects."
   ],
   "image": "https://i.ibb.co/ksCj268n/Process-Simulation-of-multistage-compressor-process-Separator-Sizing-Overpressure-Study-in-Oil-Gas.png",
+  "tags": [],
   "category": "process",
   "duration": "3 Days",
   "prerequisite": [
@@ -19289,6 +19340,63 @@ export const projects = [
     "On-the-job training"
   ],
   "cost": "₦120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 83,
+  "title": "Piping Joints",
+  "date": "Present",
+  "description": [
+    "Piping joints are critical to the integrity, safety, and efficiency of any industrial piping system. This course provides participants with a comprehensive understanding of the different types of piping joints, their standards, design considerations, and practical applications in oil & gas, petrochemical, power, and process industries.",
+    "The program covers flanges, gaskets, bolting, screwed connections, compression fittings, and elastomeric O-ring seals, as well as specialized practices like compound flanged joints and spading/blanking. Emphasis will be placed on company and national standards, ensuring compliance with industry codes while balancing reliability, safety, and cost-effectiveness.",
+    "Through case-based examples, learners will gain the skills required to select, assemble, and maintain piping joints to minimize leaks, improve performance, and extend the operational life of piping systems."
+  ],
+  "image": "https://i.ibb.co/vCHY7YF1/Piping-Joints.jpg",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of piping systems and components (pipes, valves, fittings).",
+    "Familiarity with engineering drawings such as P&IDs and isometrics.",
+    "Awareness of materials of construction (MOC) and corrosion principles is helpful.",
+    "No prior specialized piping joint training is required (course is beginner-to-intermediate level)."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Interpret company-specific and national standards governing piping joints.",
+    "Apply best practices to ensure regulatory and safety compliance.",
+    "Describe different flange types, their applications, and limitations.",
+    "Select appropriate gaskets based on pressure, temperature, and fluid properties.",
+    "Explain compound flanged joints and their industrial applications.",
+    "Apply correct bolting practices for flanges and covers to ensure leak-free joints.",
+    "Understand torque, preload, and tightening sequence requirements.",
+    "Perform spading and blanking of flanges safely during isolation or maintenance.",
+    "Identify proper use of screwed piping joints and compression fittings.",
+    "Evaluate the suitability of elastomeric O-ring seals for specific applications.",
+    "Select jointing methods based on process conditions (pressure, temperature, corrosive service).",
+    "Diagnose common joint failures (leakage, gasket blowout, bolt loosening) and recommend solutions.",
+    "Incorporate lessons learned into safe and reliable piping joint design."
+  ],
+  "outline": [
+    "Module 1: Company & National Standards",
+    "Module 2: Flanges",
+    "Module 3: Gasket",
+    "Module 4: Compound Flanged Joints",
+    "Module 5: Bolting for Flanges and Covers",
+    "Module 6: Spading and Blanking of Flanges",
+    "Module 7: Screwed Piping Joints",
+    "Module 8: Compression Fittings",
+    "Module 9: Elastomeric O-Ring Seals"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
   "certification": "Certificate of Completion"
 }
 

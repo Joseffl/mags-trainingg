@@ -142,13 +142,13 @@ const Testimonials = () => {
     {
       quote:
         "Mags Engineering Limited training greatly supported my process engineering journey. Thanks to his lessons in AutoCAD drafting and HYSYS simulation, I recently secured a job in an oil and gas firm.",
-      author: "Musa Kingsley",
+      author: "Musa Kingsley (Sterling Global)",
       role: "Process Engineering Trainee",
     },
     {
       quote:
         "I had the privilege of undergoing HYSYS simulation training with Mr. Abiodun Adeyemi of Magg’s Engineering Services, and it was truly full of learning. The program was well-structured, highly practical, and delivered with clarity. Mr. Abiodun took time to explain complex concepts in a simple and engaging way, making the sessions both insightful and impactful. I strongly recommend Mags Engineering Limited's Trainings to anyone seeking quality, professional, and impactful training in process simulation.",
-      author: "Usman Ismail",
+      author: "Usman Ismail (Lab Engineer, King Fahd University of Petroleum and Minerals)",
       role: "Petroleum & Gas Engineering Participant",
     },
     {
@@ -179,7 +179,6 @@ const Testimonials = () => {
     }
   ];
 
-  // Helper to get initials for avatar
   const getInitials = (name) =>
     name
       .split(" ")
