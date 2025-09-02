@@ -18925,56 +18925,6 @@ export const projects = [
   "certification": "Certificate of Completion"
 },
 
-// {
-//   "id": 75,
-//   "title": "Process Simulation of multistage compressor process & Separator Sizing & Overpressure Study in Oil & Gas",
-//   "date": "Present",
-//   "description": [
-//     "This course provides a practical and technical understanding of how to simulate, analyze, and design critical equipment and safety systems in oil & gas facilities. It focuses on the process simulation of multistage compressors, generation of heat and material balances (HMB), separator sizing, and overpressure protection studies through pressure safety valve (PSV) sizing.",
-//     "Participants will gain hands-on experience in simulating multistage compressor processes, developing reliable HMBs for design and optimization, applying sizing methodologies for gas-liquid separators, and conducting overpressure protection studies for both blocked outlet and fire scenarios.",
-//     "The course equips engineers with the skills needed to ensure process safety, equipment reliability, and compliance with international design standards in oil & gas projects."
-//   ],
-//   "image": "https://i.ibb.co/ksCj268n/Process-Simulation-of-multistage-compressor-process-Separator-Sizing-Overpressure-Study-in-Oil-Gas.png",
-//   "category": "process",
-//   "duration": "3 Days",
-//   "prerequisite": [
-//     "Basic knowledge of thermodynamics, fluid mechanics, and heat transfer.",
-//     "Familiarity with process design documents (PFDs, P&IDs, line lists).",
-//     "Working knowledge of oil & gas process operations (compression, separation, and safety systems).",
-//     "Prior exposure to process simulation software (e.g., Aspen HYSYS, DWSIM, PRO/II)."
-//   ],
-//   "methodology": "Theoretical/Practical",
-//   "objectives": [
-//     "Understand the fundamentals of gas compression and intercooling.",
-//     "Perform multistage compressor simulations using process simulation tools.",
-//     "Analyze compressor performance parameters (power, efficiency, discharge temperatures, etc.).",
-//     "Develop reliable HMBs for compressor and separation systems.",
-//     "Use HMBs as a basis for equipment design and plant optimization.",
-//     "Validate HMB data against process simulation outputs.",
-//     "Apply design principles for gas-liquid separation.",
-//     "Size horizontal and vertical separators based on process requirements.",
-//     "Evaluate performance under normal and upset conditions.",
-//     "Identify overpressure scenarios (blocked outlet, fire, and thermal expansion).",
-//     "Perform PSV sizing calculations in compliance with API 520/521 standards.",
-//     "Ensure adequate relief system design for safe plant operations."
-//   ],
-//   "outline": [
-//     "Module 1: Process Simulation of multistage compressor process",
-//     "Module 2: Generate HMB",
-//     "Module 3: Separator Sizing",
-//     "Module 4: PSV Sizing (Blocked outlet and Fire Scenario)"
-//   ],
-//   "assessment": "Online Written Exam",
-//   "cdf": [
-//     "Classroom-based training",
-//     "Online courses",
-//     "In-house workshops",
-//     "On-the-job training"
-//   ],
-//   "cost": "₦150,000 / $120",
-//   "certification": "Certificate of Completion"
-// },
-
 {
   "id": 75,
   "title": "Process Simulation of Multistage Compressor Process and Separator Sizing and Overpressure Study in Oil and Gas",
