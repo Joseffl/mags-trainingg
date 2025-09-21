@@ -67,9 +67,15 @@ const Projects = ({ openModal, setOpenModal }) => {
           }
           <Divider />
           {toggle === 'PAI' ?
-            <ToggleButton active value="PAI" onClick={() => setToggle('PAI')}>Process Control/Automation/Instrumentation</ToggleButton>
+            <ToggleButton active value="PAI" onClick={() => setToggle('PAI')}>Process Control/ Automation/ Instrumentation</ToggleButton>
             :
-            <ToggleButton value="PAI" onClick={() => setToggle('PAI')}>Process Control/Automation/Instrumentation</ToggleButton>
+            <ToggleButton value="PAI" onClick={() => setToggle('PAI')}>Process Control/ Automation/ Instrumentation</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'PC' ?
+            <ToggleButton active value="PC" onClick={() => setToggle('PC')}>Petrochemical Engineering/</ToggleButton>
+            :
+            <ToggleButton value="PC" onClick={() => setToggle('PC')}>Petrochemical Engineering</ToggleButton>
           }
         </ToggleButtonGroup>
 

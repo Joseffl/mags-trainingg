@@ -422,13 +422,31 @@ const Index = ({ openModal, setOpenModal }) => {
               <h3>Methodology </h3>
               {project?.methodology}
             </Desc>
-            <Desc>
+            {/* <Desc>
               <h3>Prerequisite</h3>
               <p>
                 {project?.prerequisite.map((prerequisite, index) => (
                   <li key={index}>{prerequisite}</li>
                 ))}
               </p>
+            </Desc> */}
+
+            <Desc>
+              <h3>Prerequisite</h3>
+              {project?.prerequisite?.length > 0 ? (
+                <div>
+                  {project.prerequisite[0].split('\n').map((line, index) => {
+                    // Check if the line is a heading (no bullet point)
+                    if (!line.startsWith('·')) {
+                      return <p key={index} style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>{line}</p>;
+                    }
+                    // Render bullet points as list items
+                    return <li key={index} style={{ marginLeft: '1rem' }}>{line.replace('· ', '')}</li>;
+                  })}
+                </div>
+              ) : (
+                <p>No prerequisites available</p>
+              )}
             </Desc>
             <SideBySideSections>
               <Section>
@@ -455,7 +473,7 @@ const Index = ({ openModal, setOpenModal }) => {
             <Desc>
               <h3>Course Delivery Formats</h3>
               <p>
-                  Online/Virtual
+                Online/Virtual
               </p>
               {/* <p>
                 {project?.cdf.map((cdf, index) => (
@@ -523,10 +541,10 @@ const Index = ({ openModal, setOpenModal }) => {
               <FormButton type="submit" disabled={isLoading}>
                 {isLoading ? <Spinner /> : 'Proceed to Payment'}
               </FormButton>
-              </Form>
+            </Form>
           </FormContainer>
         </Container>
-      </Modal> 
+      </Modal>
     </>
   );
 };

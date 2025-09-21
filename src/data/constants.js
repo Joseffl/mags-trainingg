@@ -1000,7 +1000,7 @@ export const projects = [
   tags: [
     'Trainer: Engr. Okechukwu',
   ],
-  category: "process",
+  category: "PAI",
   duration: "4 Days",
   prerequisite: [
     "Basic understanding of industrial processes and control systems",
@@ -2611,7 +2611,7 @@ export const projects = [
   tags: [
     "Trainer: Engr. Okechukwu"
   ],
-  category: "process",
+  category: "PAI",
   duration: "3 Days",
   prerequisite: [
     "Basic knowledge of process instrumentation and control systems",
@@ -9417,7 +9417,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Magnus',
     ],
-    category: "Petroleum",
+    category: "process",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -10882,7 +10882,7 @@ export const projects = [
     tags: [
       'Trainer: Engr. Magnus',
     ],
-    category: "process",
+    category: "project management",
     github: "https://github.com/Joseffl/react-todo-app",
     webapp: "https://bit.ly/47GF1It",
 
@@ -19304,7 +19304,7 @@ export const projects = [
   ],
   "image": "https://i.ibb.co/vCHY7YF1/Piping-Joints.jpg",
   "tags": [],
-  "category": "process",
+  "category": "mechanical",
   "duration": "3 Days",
   "prerequisite": [
     "Basic knowledge of piping systems and components (pipes, valves, fittings).",
@@ -19348,7 +19348,309 @@ export const projects = [
   ],
   "cost": "₦150,000 / $120",
   "certification": "Certificate of Completion"
-}
+},
+
+{
+  "id": 84,
+  "title": "Badger Cumene Technology Course",
+  "date": "Present",
+  "description": [
+    "Cumene (isopropylbenzene) is a critical intermediate in the petrochemical industry, primarily used for the production of phenol and acetone. The Badger Cumene Technology is a leading industrial process recognized for its efficiency, reliability, and use of modern zeolite catalysts.",
+    "This course provides participants with a comprehensive understanding of the cumene process, from fundamental chemistry to industrial-scale applications. It covers physical properties, process chemistry, catalyst technology, and process design, with a strong focus on simulation and performance evaluation using leading software tools such as HYSYS, DWSIM, ProMax, and Honeywell UniSim.",
+    "Participants will develop the skills required to understand process flow, troubleshoot operations, optimize performance, and evaluate catalyst life and contamination issues. By the end of the course, learners will gain a solid foundation in both the theoretical and practical aspects of Badger Cumene Technology."
+  ],
+  "image": require("./coursesImg/Badger cumene technology.jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "This course is intended for:\n· Process, chemical, and petrochemical engineers.\n· Plant operation and technical service engineers working in cumene, phenol, or acetone plants.\n· Researchers and students specializing in petrochemicals and industrial catalysis.\nParticipants should have:\n· A background in organic chemistry, reaction engineering, and process design.\n· Basic knowledge of simulation tools (HYSYS, DWSIM, ProMax, or UniSim) is recommended but not mandatory."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the role of cumene in the petrochemical value chain and its industrial applications.",
+    "Recall and apply the physical and chemical properties of cumene in process design and operation.",
+    "Explain the reaction chemistry and mechanism underlying cumene synthesis.",
+    "Analyze the performance of zeolite catalysts, including activity, selectivity, and sensitivity to contaminants.",
+    "Interpret the process flow description of the Badger Cumene Technology, including feed preparation, reactor design, and product recovery.",
+    "Simulate the cumene process using software tools (HYSYS, DWSIM, ProMax, UniSim), enabling design, optimization, and sensitivity studies.",
+    "Assess performance indicators such as yield, selectivity, conversion, and energy efficiency.",
+    "Identify and address common operational challenges related to catalyst contamination, process integration, and system performance.",
+    "Apply best practices in process monitoring and troubleshooting for improved reliability and efficiency of cumene plants."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Cumene Uses and Industry.",
+    "Module 3: Physical Properties",
+    "Module 4: Process Chemistry",
+    "Module 5: Catalyst Performance and Contaminations",
+    "Module 6: Process Description",
+    "Module 7: Process Simulation (Hysys/DWSIM/Promax/Honeywell Unisim, Plus etc)",
+    "Module 8: Performance"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 85,
+  "title": "Badger Ethylbenzene Technology",
+  "date": "Present",
+  "description": [
+    "Ethylbenzene (EB) is the key raw material for styrene monomer production, which is used in plastics, resins, and synthetic rubbers. The Badger Ethylbenzene Technology, particularly in collaboration with ExxonMobil’s EBMax catalyst, is an industry-leading process known for its high efficiency, low energy consumption, and superior catalyst performance.",
+    "This course provides participants with a comprehensive understanding of ethylbenzene production, including feedstock preparation, process chemistry, catalyst behavior, process design, simulation, and optimization techniques. Special emphasis is given to EBMax catalyst performance, process integration, and modern design using chemical-grade ethylene feedstocks.",
+    "Through theory and simulation exercises (HYSYS, DWSIM, ProMax, Honeywell UniSim, etc.), participants will gain the technical and practical expertise to design, operate, and optimize Badger Ethylbenzene plants while ensuring high product quality and cost efficiency."
+  ],
+  "image": require("./coursesImg/Badger ethylbenzene technology.jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "This course is designed for:\n· Process and chemical engineers in petrochemical, refining, and styrene industries.\n· Plant operations, technical service, and R&D staff working on ethylbenzene or styrene production.\n· Engineering students or researchers interested in industrial catalysis and petrochemical process design.\nParticipants should have:\n· A solid background in organic chemistry, catalysis, and reaction engineering.\n· Familiarity with heat and mass transfer principles.\n· Basic knowledge of simulation tools (HYSYS, DWSIM, ProMax, UniSim) is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the role of ethylbenzene in the petrochemical industry, especially as a precursor to styrene.",
+    "Identify suitable feedstocks for ethylbenzene production and their preparation.",
+    "Explain the chemistry of ethylbenzene production and the function of the ExxonMobil EBMax catalyst.",
+    "Evaluate EBMax catalyst performance, including activity, selectivity, and longevity.",
+    "Describe the Badger ethylbenzene process flow, including reactor system, separation units, and energy integration.",
+    "Simulate the ethylbenzene process using software tools (HYSYS, DWSIM, ProMax, UniSim) for design and performance analysis.",
+    "Apply process design optimization techniques to reduce energy consumption and maximize yield.",
+    "Understand the design approach for EBMax plants using chemical-grade ethylene feedstocks.",
+    "Assess ethylbenzene product quality parameters and their impact on downstream styrene production.",
+    "Estimate raw material, utility, and catalyst requirements for economic evaluations.",
+    "Integrate process design, catalyst performance, and operational strategies in EBMax plant design.Learn techniques for effective implementation of change."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Feedstocks for Ethylbenzene Production",
+    "Module 3: ExxonMobil EBMax Catalyst",
+    "Module 4: Process Chemistry and EBMax Catalyst Performance",
+    "Module 5: Process Description",
+    "Module 6: Process Simulation Hysys/DWSIM/Promax/Honeywell Unisim, Plus etc)",
+    "Module 7: Process Design Optimization",
+    "Module 8: EBMax Design Using Chemical-Grade Ethylene Feedstocks",
+    "Module 9: Ethylbenzene Product Quality",
+    "Module 10: Raw Materials, Utilities and Catalyst Requirements",
+    "Module 11: EBMax Plant Design"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 86,
+  "title": "Isomalk-3 (n-Butane Isomerization)",
+  "date": "Present",
+  "description": [
+    "The Isomalk-3 technology is a highly advanced process for the isomerization of normal butane (n-butane) into isobutane, a critical feedstock for alkylation units in modern refineries. Isomalk-3 offers exceptional catalyst stability, high activity, and minimal environmental footprint, making it one of the most competitive technologies in paraffin isomerization.",
+    "This course provides participants with a detailed understanding of process flow schemes, reaction mechanisms, catalyst regeneration, operating variables, and simulation approaches. Emphasis is given to the impact of contaminants, makeup gas quality, and nitrogen quality on catalyst performance.",
+    "The course also highlights the unique advantages of the Isomalk-3 catalyst over conventional isomerization technologies and provides practical insights into the design and operation of Isomalk-3 reactors. Participants will be equipped with both theoretical knowledge and hands-on process simulation skills, enabling them to optimize, troubleshoot, and sustain efficient Isomalk-3 operations."
+  ],
+  "image": require("./coursesImg/Isomalk-3  (n-Butane isomerization).jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "This course is designed for:\n· Process, chemical, and refinery engineers.\n· Plant operations and technical service engineers working in isomerization, alkylation, or catalytic processes.\n· R&D professionals and graduate students specializing in refining and petrochemicals.\nRecommended background:\n· Knowledge of organic chemistry, particularly hydrocarbon reactions.\n· Understanding of catalysis and reaction engineering principles.\n· Familiarity with refinery operations and process simulation tools (Aspen HYSYS, DWSIM, ProMax, Honeywell UniSim)."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Explain the importance of n-butane isomerization and its role in modern refining.",
+    "Interpret the process flow scheme of the Isomalk-3 technology.",
+    "Describe the reverse isomerization phenomenon and its implications.",
+    "Understand the reaction mechanism of the Isomalk-3 process.",
+    "Apply knowledge of catalyst regeneration techniques to extend catalyst life and maintain efficiency.",
+    "Analyze process variables and simulate isomerization reactions using process modeling tools.",
+    "Identify catalyst contaminants and evaluate their effect on Isomalk-3 performance.",
+    "Assess the impact of makeup gas quality and nitrogen purity on process reliability.",
+    "Compare the advantages of Isomalk-3 catalyst over conventional alternatives.",
+    "Understand the design and operation principles of Isomalk-3 reactors.",
+    "Apply best practices for process optimization, troubleshooting, and long-term reliability of Isomalk-3 units."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Process Flow Scheme.",
+    "Module 3: Reverse Isomerization",
+    "Module 4: Reaction Mechanism",
+    "Module 5: Catalyst Regeneration",
+    "Module 6: Process Variables and Simulation (Hysys/DWSIM/Promax/Honeywell Unisim, Plus etc)",
+    "Module 7: Isomalk-3 Catalyst Contaminants Variables",
+    "Module 8: Makeup Gas Quality",
+    "Module 9: Nitrogen Quality",
+    "Module 10: Advantages of Isomalk-3 Catalyst",
+    "Module 11: Isomalk-3 Reactors"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 87,
+  "title": "Modern Crystallization Technology for Para-Xylene Production",
+  "date": "Present",
+  "description": [
+    "Para-xylene (p-xylene) is a critical petrochemical used in the production of terephthalic acid (PTA) and dimethyl terephthalate (DMT), essential building blocks for polyester fibers, films, and resins. Achieving ultra-high purity para-xylene is crucial for efficient downstream processing and product quality.",
+    "This course introduces participants to modern crystallization technologies, focusing on the CrystPX process, a state-of-the-art method for producing high-purity para-xylene. It covers process chemistry, thermodynamics, detailed process description, simulation approaches, product and by-product specifications, and process economics.",
+    "By combining theoretical foundations with practical simulation exercises using Aspen HYSYS, DWSIM, ProMax, Honeywell UniSim, and other tools, the course equips participants with the knowledge and skills to design, simulate, optimize, and evaluate crystallization-based para-xylene production processes."
+  ],
+  "image": require("./coursesImg/Modern crystallization technology for para-xylene production.jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "This course is designed for:\n· Process and chemical engineers working in aromatic complexes and petrochemical industries.\n· Plant operations and technical staff involved in aromatics recovery, crystallization, or separation processes.\n· R&D professionals and graduate students focusing on crystallization technology or process design.\nRecommended background:\n· Solid knowledge of organic chemistry and separation processes.\n· Understanding of phase equilibria, heat & mass transfer, and thermodynamics.\n· Familiarity with process simulation software (HYSYS, DWSIM, ProMax, UniSim) is beneficial."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the importance of para-xylene and purity requirements in the petrochemical value chain.",
+    "Explain the fundamentals of modern crystallization technology for para-xylene production.",
+    "Describe the CrystPX process and its role in achieving high-purity para-xylene.",
+    "Apply process chemistry and thermodynamic principles to crystallization design and optimization.",
+    "Interpret the detailed process description, including unit operations and crystallizer design.",
+    "Simulate crystallization processes using software tools (HYSYS, DWSIM, ProMax, UniSim) for design and performance analysis.",
+    "Evaluate product and by-product specifications and their impact on downstream processes.",
+    "Analyze process economics, including capital, operating costs, and energy requirements.",
+    "Identify opportunities for optimization, energy efficiency, and environmental sustainability in para-xylene crystallization."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: CrystPX for High Purity Para-Xylene Production.",
+    "Module 3: Process Chemistry and Thermodynamics",
+    "Module 4: Detailed Process Description",
+    "Module 5: Process Simulation (Hysys/DWSIM/Promax/Honeywell Unisim, Plus etc)",
+    "Module 6: Product and By-Product Specifications",
+    "Module 7: Process Economics"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 88,
+  "title": "Para-Xylene Process",
+  "date": "Present",
+  "description": [
+    "Para-xylene (p-xylene) is one of the most important aromatic chemicals, primarily used as a feedstock for the production of terephthalic acid (PTA) and dimethyl terephthalate (DMT), which are critical precursors for polyester fibers, films, and plastics. This course provides a comprehensive overview of para-xylene production and recovery in an aromatic complex.",
+    "The program introduces participants to aromatic separation processes, crystallization development, and process fundamentals. Emphasis is placed on simulation and optimization techniques using process simulators such as Aspen HYSYS, DWSIM, ProMax, and Honeywell UniSim, enabling participants to model, analyze, and optimize para-xylene recovery processes.",
+    "The course also addresses environmental considerations, highlighting best practices for energy efficiency, emissions reduction, and sustainable operation in para-xylene production facilities."
+  ],
+  "image": require("./coursesImg/para-xylene process.jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "This course is designed for:\n· Process, chemical, and petrochemical engineers.\n· Plant operations and technical service staff working in aromatic complexes or polyester value chains.\n· R&D engineers and students specializing in chemical process design, aromatics, or crystallization technologies.\nParticipants should have:\n· A strong foundation in organic chemistry, reaction engineering, and separation processes.\n· Knowledge of heat & mass transfer principles.\n· Basic familiarity with process simulation tools (HYSYS, DWSIM, ProMax, UniSim)."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the importance of para-xylene in the petrochemical and polyester industry value chain.",
+    "Describe the process of para-xylene recovery within an aromatic complex.",
+    "Explain the development and application of crystallization processes in para-xylene production.",
+    "Apply the fundamental principles of para-xylene process design, including phase equilibrium, separation efficiency, and purity requirements.",
+    "Simulate para-xylene processes using process simulation software (HYSYS, DWSIM, ProMax, UniSim) for analysis and optimization.",
+    "Evaluate process performance and economics in para-xylene production.",
+    "Participate in technical discussions regarding process alternatives, recovery schemes, and plant optimization strategies.",
+    "Assess the environmental impact of para-xylene processes, including emissions, waste streams, and energy use.",
+    "Apply best practices for sustainable operation and compliance with environmental regulations."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Para-Xylene Process Recovery in an Aromatic Complex",
+    "Module 3: Development of Crystallization Process",
+    "Module 4: Process Fundamentals",
+    "Module 5: Process Simulation (Hysys/DWSIM/Promax/Honeywell Unisim, Plus etc)",
+    "Module 6: Process Discussion",
+    "Module 7: Environmental Impact"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 89,
+  "title": "Aspen Plus Methanol Synthesis Model",
+  "date": "Present",
+  "description": [
+    "The Aspen Plus Methanol Synthesis Model course is designed to equip participants with practical skills in simulating methanol production processes using Aspen Plus. The course introduces the fundamentals of methanol synthesis, including process components, physical properties, and reaction modeling.",
+    "It provides hands-on experience in building and analyzing methanol production models, with specific focus on two major industrial processes: the ICI Synetix (Johnson Matthey) Methanol Process and the Lurgi Two-Stage Methanol Synthesis Process. Participants will learn how to define system components, configure physical property methods, model reactions, and evaluate process performance.",
+    "By the end of the course, learners will gain the ability to model, analyze, and compare different methanol synthesis routes, applying Aspen Plus for process design, optimization, and decision-making."
+  ],
+  "image": require("./coursesImg/aspen plus methanol synthesis model.jpg"),
+  "tags": [],
+  "category": "PC",
+  "duration": "4 Days",
+  "prerequisite": [
+    "· Students and professionals in chemical, process, or energy engineering.\n· Participants with a basic understanding of chemical process operations (reaction, separation, heat integration).\n· Familiarity with thermodynamics and reaction engineering concepts.\n· Prior exposure to Aspen Plus or similar simulation tools is beneficial, but not required."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Explain the fundamentals of methanol synthesis and its industrial importance.",
+    "Define and configure key components (syngas, methanol, by-products) in Aspen Plus.",
+    "Select and apply appropriate physical property methods for methanol process modeling.",
+    "Build and analyze reaction models for methanol synthesis.",
+    "Simulate the ICI Synetix (Johnson Matthey) Methanol Process, understanding its process flow and reactor modeling.",
+    "Simulate the Lurgi Two-Stage Methanol Synthesis Process, capturing its unique features and advantages.",
+    "Compare different process configurations, highlighting trade-offs in efficiency, yield, and design complexity.",
+    "Summarize findings and apply Aspen Plus modeling techniques to optimize methanol production processes."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Components.",
+    "Module 3: Physical Properties",
+    "Module 4: Reaction Model",
+    "Module 5: ICI Synetix (Johnson Matthey) Methanol Process Model",
+    "Module 6: Lurgi Two-Stage Methanol Synthesis Process Model",
+    "Module 7: Summary"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "#200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+
 
 
 
