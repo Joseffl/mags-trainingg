@@ -19395,7 +19395,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#150,000 / $120",
+  "cost": "₦150,000 / $120",
   "certification": "Certificate of Completion"
 },
 
@@ -19449,7 +19449,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $180",
+  "cost": "₦200,000 / $180",
   "certification": "Certificate of Completion"
 },
 
@@ -19503,7 +19503,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $180",
+  "cost": "₦200,000 / $180",
   "certification": "Certificate of Completion"
 },
 
@@ -19551,7 +19551,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $180",
+  "cost": "₦200,000 / $180",
   "certification": "Certificate of Completion"
 },
 
@@ -19599,7 +19599,7 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $180",
+  "cost": "₦200,000 / $180",
   "certification": "Certificate of Completion"
 },
 
@@ -19646,9 +19646,1154 @@ export const projects = [
     "In-house workshops",
     "On-the-job training"
   ],
-  "cost": "#200,000 / $150",
+  "cost": "₦200,000 / $150",
   "certification": "Certificate of Completion"
 },
+
+{
+  "id": 90,
+  "title": "Practical Lubrication for Industrial Facilities",
+  "date": "Present",
+  "description": [
+    "This course provides participants with a practical and in-depth understanding of lubrication principles, lubricant types, and their applications in industrial facilities. It covers a wide spectrum of lubrication topics, including oils, greases, and synthetic lubricants, specialized lubricants for turbines, compressors, and paper machines, as well as environmentally friendly alternatives. Participants will gain knowledge of lubrication system design, contamination control, oil analysis, and best practices in storage and handling. The course emphasizes improving equipment reliability, extending asset life, and reducing downtime through effective lubrication strategies."
+  ],
+  "image": require("./coursesImg/Practical Lubrication for Industrial Facilities.jpg"),
+  "tags": [],
+  "category": "mechanical",
+  "duration": "5 Days",
+  "prerequisite": [
+    "· Basic knowledge of industrial equipment and rotating machinery.\n· Familiarity with maintenance practices in industrial plants.\n· Some background in mechanical engineering or plant operations."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the principles of lubrication and friction control in industrial systems.",
+    "Identify different lubricant categories, properties, and performance characteristics.",
+    "Apply lubricant testing methods to evaluate oil and grease quality.",
+    "Select suitable lubricants for different equipment, including bearings, gears, turbines, compressors, and gas engines.",
+    "Differentiate between mineral, synthetic, food-grade, and environmentally friendly lubricants.",
+    "Implement centralized and oil mist lubrication systems effectively.",
+    "Apply lubrication strategies tailored for specific applications such as paper machines, electric motors, and forest product industries.",
+    "Manage lube oil contamination and apply on-stream oil purification methods.",
+    "Establish best practices for lubricant storage, handling, and safety.",
+    "Conduct successful oil analysis programs to monitor equipment health and predict failures.",
+    "Develop cost-effective lubrication strategies to improve plant reliability and reduce maintenance downtime."
+  ],
+  "outline": [
+    "Module 1: Principles of Lubrication",
+    "Module 2: Lubricant Categories",
+    "Module 3: Lubricant Testing",
+    "Module 4: General Purpose R&O Oils",
+    "Module 5: Hydraulic Fluids",
+    "Module 6: Food Grade & Environmental Friendly Lubricant",
+    "Module 7: Synthetic Lubricant",
+    "Module 8: Lubricant for Forest Product & Paper Machines",
+    "Module 9: Lubricating Greases",
+    "Module 10: Pastes, Waxes & Tribosystems",
+    "Module 11: Centralized & Oil Mist Lubrication Systems",
+    "Module 12: Bearings & Other Machine Elements",
+    "Module 13: Lubrication Strategies for Electric Motor Bearings",
+    "Module 14: Gear Lubrication",
+    "Module 15: Compressors & Gas Engines",
+    "Module 16: Steam & Gas Turbines",
+    "Module 17: Lube Oil Contamination & On-Stream Oil Purification",
+    "Module 18: Storage Methods and Lubricant Handling",
+    "Module 19: Successful Oil Analysis Practices in the Industrial Plant"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦350,000 / $300",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 91,
+  "title": "Pump Characteristics & Applications",
+  "date": "Present",
+  "description": [
+    "Pumps are fundamental components of process industries, enabling the safe and efficient transfer of fluids in oil & gas, petrochemical, water treatment, and power generation facilities. Understanding pump characteristics, performance curves, selection criteria, and applications is essential for engineers and operators to ensure reliable plant operations.",
+    "This course provides a comprehensive study of pump principles, types, applications, and performance considerations. Participants will explore centrifugal pump hydraulics, sealing systems, energy efficiency, installation practices, and troubleshooting methods. Case studies will illustrate real-world challenges and solutions in pump operation and selection.",
+    "By the end of this training, participants will be equipped with the knowledge and skills to select, operate, and maintain pumps effectively, minimizing downtime and optimizing energy usage."
+  ],
+  "image": require("./coursesImg/Pump Characteristics & Applications.jpg"),
+  "tags": [],
+  "category": "mechanical",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Participants should have:\n· Basic knowledge of fluid mechanics and hydraulics.\n· Familiarity with process equipment used in industrial plants.\n· Awareness of piping systems and process operations.\n· Engineering background (mechanical, chemical, or process)"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the basic principles and functions of pumps in process industries.",
+    "Interpret pump performance curves and apply them in pump selection.",
+    "Evaluate special hydraulic considerations such as NPSH, cavitation, and system resistance.",
+    "Differentiate among centrifugal pump types and their industrial applications.",
+    "Understand sealing systems, sealless pumps, and mechanical seal applications.",
+    "Analyze pump systems for energy conservation, reliability, and life-cycle cost optimization.",
+    "Apply best practices in installation, operation, maintenance, and repair of pumps.",
+    "Troubleshoot common pump operational issues (vibration, leakage, overheating, etc.).",
+    "Study case-based applications to connect theoretical knowledge with real industry challenges.",
+    "Make informed decisions in pump specification, selection, and system integration."
+  ],
+  "outline": [
+    "Module 1: Introduction to Pumps",
+    "Module 2: Hydraulics, Selection, and Curves",
+    "Module 3: Special Hydraulic Considerations",
+    "Module 4: Centrifugal Pump Types and Applications",
+    "Module 5: Sealing Systems and Sealless Pumps",
+    "Module 6: Energy Conservation and Life-Cycle Costs",
+    "Module 7: Special Pump-Related Topics",
+    "Module 8: Installation, Operation, Maintenance, and Repair",
+    "Module 9: Case Studies"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 92,
+  "title": "Reciprocating Compressor",
+  "date": "Present",
+  "description": [
+    "This course introduces participants to the fundamentals of reciprocating compressors, widely used in oil, gas, petrochemical, and process industries for compressing gases. It covers the types of reciprocating compressors, their components and auxiliaries, and explores operational challenges with practical solutions. Emphasis is placed on understanding design, functionality, maintenance practices, and troubleshooting methods to ensure safe, reliable, and efficient operation."
+  ],
+  "image": require("./coursesImg/Reciprocating Compressor.jpg"),
+  "tags": [],
+  "category": "mechanical",
+  "duration": "2 Days",
+  "prerequisite": [
+    "· Basic knowledge of thermodynamics and fluid mechanics.\n· Familiarity with rotating equipment in industrial applications.\n· Understanding of general industrial safety practices."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the working principles of reciprocating compressors.",
+    "Identify and differentiate between various types of reciprocating compressors.",
+    "Recognize major components and auxiliary systems used in reciprocating compressors.",
+    "Understand operational challenges such as vibration, leakage, lubrication, and wear.",
+    "Apply practical solutions and maintenance practices to overcome operational issues.",
+    "Enhance efficiency, reliability, and safety of reciprocating compressor operations."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Types",
+    "Module 3: Component and Auxiliaries in Reciprocating Compressor",
+    "Module 4: Challenges and Solutions"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦60,000 / $50",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 93,
+  "title": "Tank Gauging",
+  "date": "Present",
+  "description": [
+    "This course provides an in-depth understanding of tank gauging systems and associated measurement technologies used in the storage and handling of liquids, including petroleum products and liquefied gases. Participants will learn about different gauging technologies, system architecture, and critical factors affecting measurement accuracy, such as temperature variations and density changes. The course also covers engineering standards, regulatory approvals, overfill prevention, and the integration of additional sensors for operational reliability. By the end of the course, learners will be able to evaluate, design, and manage tank gauging systems to ensure safe, accurate, and compliant operations."
+  ],
+  "image": require("./coursesImg/Tank Gauging.jpg"),
+  "tags": [],
+  "category": "mechanical",
+  "duration": "3 Days",
+  "prerequisite": [
+    "· Basic knowledge of process instrumentation and control systems.\n· Familiarity with storage tank operations and fluid handling.\n· Understanding of measurement units and industrial standards."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the principles and applications of tank gauging systems.",
+    "Compare different tank gauging technologies and select appropriate methods for specific applications.",
+    "Apply relevant engineering standards and approvals to tank gauging installations.",
+    "Accurately calculate volume and mass of stored products, considering density and temperature effects.",
+    "Assess measurement accuracies and uncertainties in tank gauging systems.",
+    "Understand temperature measurement techniques and their impact on volume calculations.",
+    "Apply gauging principles to liquefied gases and other specialized storage scenarios.",
+    "Integrate additional sensors and monitoring systems for enhanced tank management.",
+    "Design or evaluate tank gauging system architecture for operational reliability and data integration.",
+    "Implement overfill prevention strategies to ensure safety and regulatory compliance."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Tank Gauging Technologies.",
+    "Module 3: Engineering Standards and approvals",
+    "Module 4: Volume and Mass Assessment",
+    "Module 5: Accuracies and Uncertainties",
+    "Module 6: Temperature Measurement",
+    "Module 7: Liquefied Gases",
+    "Module 8: Additional Sensors",
+    "Module 9: System Architecture",
+    "Module 10: Overfill Prevention"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 94,
+  "title": "Aspen Plus Biodiesel Model",
+  "date": "Present",
+  "description": [
+    "The Aspen Plus Biodiesel Model course provides participants with the knowledge and practical skills to model biodiesel production processes using Aspen Plus, a leading process simulation software. The course covers the complete workflow of biodiesel simulation, from defining process components and physical properties to modeling chemical reactions, setting up simulation approaches, and analyzing results.",
+    "Participants will gain hands-on experience in simulating transesterification and related biodiesel production steps, developing a deeper understanding of both the biodiesel process and Aspen Plus simulation techniques. Real-life case studies are integrated to reinforce learning and provide insight into industrial applications, optimization, and process evaluation."
+  ],
+  "image": require("./coursesImg/Aspen Plus Biodiesel Model.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "· Engineering students and professionals in chemical, process, or energy engineering fields.\n· Individuals with basic knowledge of chemical process operations (reactors, separators, distillation, etc.).\n· Familiarity with thermodynamics and chemical reaction principles.\n· Basic understanding of Aspen Plus or other process simulation software."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the fundamentals of biodiesel production and the role of simulation in process design.",
+    "Define and configure biodiesel components (feedstocks, alcohols, esters, glycerol, etc.) within Aspen Plus.",
+    "Apply physical property methods relevant to biodiesel modeling.",
+    "Describe the process flow and unit operations in biodiesel production.",
+    "Model and simulate transesterification and side reactions accurately.",
+    "Develop a step-by-step simulation approach for biodiesel production using Aspen Plus.",
+    "Analyze simulation results for material balance, energy requirements, and yield.",
+    "Interpret case studies to evaluate process performance, optimization strategies, and sensitivity analysis in biodiesel production."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Components",
+    "Module 3: Process Description",
+    "Module 4: Physical Properties",
+    "Module 5: Reactions",
+    "Module 6: Simulation Approach",
+    "Module 7: Simulation Results",
+    "Module 8: Case Studies"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 95,
+  "title": "Chemical Process Equipment Design",
+  "date": "Present",
+  "description": [
+    "The Chemical Process Equipment Design course provides participants with the principles, methods, and practical approaches required to design and analyze key process equipment used in the chemical and process industries. The course covers essential aspects of fluid mechanics, heat transfer, separation processes, and chemical reaction engineering, while also introducing auxiliary equipment used to support plant operations.",
+    "Through a combination of theory, design methods, and case-based learning, participants will learn to select, size, and evaluate process equipment for safety, efficiency, and reliability. The course is intended to bridge the gap between process design concepts and actual equipment design practices used in industry."
+  ],
+  "image": require("./coursesImg/Chemical Process Equipment Design.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "· Undergraduate and graduate students in Chemical, Process, or Mechanical Engineering.\n· Process engineers and designers seeking to strengthen equipment design skills.\n· Professionals with a basic understanding of thermodynamics, transport phenomena, and chemical reaction engineering."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Apply fluid flow principles to the design of pipelines, pumps, compressors, and fittings.",
+    "Calculate pressure drops, flow regimes, and energy requirements for process fluids.",
+    "Analyze heat transfer modes relevant to chemical processes.",
+    "Design and evaluate heat exchangers, condensers, reboilers, and cooling equipment.",
+    "Understand the principles of distillation, absorption, extraction, and filtration.",
+    "Design key separation equipment such as distillation columns, absorbers, and membrane systems.",
+    "Apply reaction kinetics and thermodynamics to reactor design.",
+    "Design different types of reactors (batch, CSTR, PFR) for various chemical processes.",
+    "Gain familiarity with auxiliary equipment such as dryers, evaporators, furnaces, and storage tanks.",
+    "Incorporate safety, operability, and maintainability considerations into design.",
+    "Integrate process fundamentals with engineering design practices.",
+    "Perform preliminary equipment sizing and selection based on process data.",
+    "Apply design standards and codes for safe and efficient equipment design."
+  ],
+  "outline": [
+    "Module 1: Process Fluid Mechanics",
+    "Module 2: Process Heat Transfer",
+    "Module 3: Separation Equipment",
+    "Module 4: Reactors",
+    "Module 5: Other Equipment’s"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 96,
+  "title": "Cooling Tower Design",
+  "date": "Present",
+  "description": [
+    "The Cooling Tower Design course provides participants with in-depth knowledge of the principles, design considerations, and performance evaluation of cooling towers in process industries. The course begins with an introduction to cooling tower types and components before moving into advanced topics such as psychrometric concepts, heat and mass transfer fundamentals, NTU (Number of Transfer Units) analysis, KaV/L correlations, and performance calculations.",
+    "Participants will also learn practical aspects such as water treatment, drift loss control, pressure drop estimation, airflow arrangements, pumping head determination, and motor power sizing, enabling them to design, analyze, and optimize cooling towers for safe and efficient operation. Realistic examples and calculations reinforce the theoretical concepts, bridging the gap between classroom knowledge and industrial practice."
+  ],
+  "image": require("./coursesImg/Cooling Tower Design.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "· Students and professionals in Chemical, Mechanical, Process, or Power Engineering.\n· Engineers involved in plant design, utilities, operations, or energy optimization.\n· Participants with a basic understanding of thermodynamics, fluid mechanics, and heat & mass transfer.\n· Familiarity with process utilities and cooling systems is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the purpose, working principles, and types of cooling towers.",
+    "Identify key components and configurations of industrial cooling towers.",
+    "Apply psychrometric concepts to analyze cooling tower performance.",
+    "Evaluate key properties such as wet-bulb temperature, humidity, and enthalpy in cooling tower design.",
+    "Assess cooling tower performance using parameters like approach, range, and efficiency.",
+    "Analyze factors influencing cooling capacity such as water-to-air ratio, air flow arrangements, and drift losses.",
+    "Apply fundamental principles of heat and mass transfer in cooling tower design.",
+    "Perform NTU (Number of Transfer Units) calculations and determine KaV/L values for tower sizing.",
+    "Estimate cold water temperature, evaporation losses, pumping head, and motor power requirements.",
+    "Evaluate the effect of bypass water, pressure drops, and system hydraulics on tower operation.",
+    "Select the most appropriate cooling tower type for specific industrial applications.",
+    "Incorporate cooling water treatment practices to minimize fouling, scaling, and biological growth.",
+    "Perform basic design, rating, and optimization calculations for industrial cooling towers."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Cooling Tower Types",
+    "Module 3: Components of Cooling Towers",
+    "Module 4: Psychrometrics Concepts",
+    "Module 5: Main Properties of Psychrometrics",
+    "Module 6: Cooling Tower Performance",
+    "Module 7: Factors Affecting Cooling Tower Performance Capacity",
+    "Module 8: Approach and Flow",
+    "Module 9: Choosing a Cooling Tower",
+    "Module 10: Cooling Water Treatment",
+    "Module 11: Drift Loss in the Cooling Towers",
+    "Module 12: Basic Transfer Rate",
+    "Module 13: Heat & Mass Transfer Fundamental",
+    "Module 14: NTU (Number of Transfer Unit) Calculation",
+    "Module 15: Tower Demand & Tower Characteristic – KaV/L",
+    "Module 16: Consideration of By-Pass Wall Water",
+    "Module 17: Pressure Drops in Cooling Towers",
+    "Module 18: Air Flow Arrangements",
+    "Module 19: Motor Power Sizing",
+    "Module 20: Evaporation",
+    "Module 21: Estimation of Actual Cold Water Temperature",
+    "Module 22: Determination of L/G",
+    "Module 23: Determination of Pumping Head"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦180,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 97,
+  "title": "Distillation",
+  "date": "Present",
+  "description": [
+    "Distillation is one of the most widely used separation techniques in the chemical and process industries, applied in refining, petrochemicals, gas processing, and pharmaceuticals. This course provides participants with both theoretical and practical knowledge of distillation principles, process operations, equipment, and industrial applications. It covers different types of distillation, auxiliary equipment, key operating parameters, and advanced technologies. Special emphasis is placed on operating procedures, troubleshooting, and optimization of distillation columns to ensure safe, reliable, and efficient plant operations."
+  ],
+  "image": require("./coursesImg/Distillation.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "· A basic understanding of chemical engineering principles.\n· Knowledge of thermodynamics and phase equilibria.\n· Familiarity with process equipment and unit operations."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Explain the fundamental principles of distillation and its role in process industries.",
+    "Identify different types of distillation processes (simple, fractional, azeotropic, extractive, steam distillation).",
+    "Describe the design and function of distillation columns and associated auxiliary equipment.",
+    "Understand the concepts of stripping and fractionation and their applications.",
+    "Recognize key operating parameters that affect column performance (reflux ratio, pressure, temperature profiles, flooding, weeping, and entrainment).",
+    "Apply best practices for operating a distillation column safely and efficiently.",
+    "Perform step-by-step distillation processes in lab or pilot plant setups.",
+    "Troubleshoot common distillation problems such as flooding, foaming, entrainment, and maldistribution.",
+    "Evaluate different distillation technologies and select appropriate methods for given process requirements.",
+    "Integrate process knowledge to optimize separation efficiency, energy use, and product quality."
+  ],
+  "outline": [
+    "Module 1: Objectives",
+    "Module 2: Introduction to Distillation Principles.",
+    "Module 3: Distillation Process",
+    "Module 4: Types Distillations",
+    "Module 5: Stripping",
+    "Module 6: Fractionation",
+    "Module 7: Distillation Technologies",
+    "Module 8: Auxiliary Equipment",
+    "Module 9: Operating Parameters",
+    "Module 10: Operating a Distillation Column",
+    "Module 11: Performing Distillation",
+    "Module 12: Troubleshooting"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 98,
+  "title": "Drains & Flares: Design, Operation, and Troubleshooting",
+  "date": "Present",
+  "description": [
+    "Flares and drain systems are essential safety devices in oil, gas, and petrochemical facilities, providing controlled disposal of excess hydrocarbons and process fluids. This course gives participants a comprehensive understanding of the functions, design, operation, and troubleshooting of flare and drain systems.",
+    "Starting with the objectives and fundamental functions of flares, the course progresses to how flares work, types of flare systems, and the representation of flare data in process documentation. It also examines the relationship between flares and process systems, operating parameters, and best practices for operation. Special focus is given to troubleshooting techniques and ensuring compliance with environmental and safety standards.",
+    "By the end of the program, participants will be equipped with both theoretical knowledge and practical insight to ensure safe, reliable, and efficient operation of flare and drain systems in process facilities."
+  ],
+  "image": require("./coursesImg/Drains & Flares_ Design, Operation, and Troubleshooting.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "· Process, mechanical, and instrumentation engineers.\n· Operations and maintenance personnel working in oil, gas, refining, and petrochemical plants.\n· HSE and safety engineers involved in flare and relief system design.\n· Participants with a basic understanding of process engineering principles, thermodynamics, and process safety.\n· Familiarity with PFDs and P&IDs is beneficial but not mandatory."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the purpose and objectives of flare and drain systems in process facilities.",
+    "Explain the functions of flares and their role in plant safety and environmental compliance.",
+    "Describe how flare systems work, including combustion, smokeless operation, and thermal radiation control.",
+    "Identify the different types of flare systems (e.g., elevated, ground, enclosed, marine).",
+    "Differentiate between types of flare stacks and their applications.",
+    "Interpret flare representation and data in process documentation and engineering deliverables.",
+    "Recognize the interaction between flares and process systems during normal operation, upset, and emergency conditions.",
+    "Analyze key operating parameters such as pressure, flow, purge gas, steam/air assist, and flame stability.",
+    "Apply best practices for the operation of flare and drain systems.",
+    "Troubleshoot common flare issues such as smoking, flame instability, excessive noise, liquid carryover, and radiation concerns."
+  ],
+  "outline": [
+    "Module 1: Objectives",
+    "Module 2: The Functions of Flares.",
+    "Module 3: How Flares Work",
+    "Module 4: The Different Types Of Flare Systems",
+    "Module 5: Different types of flare stacks",
+    "Module 6: Flare Representation and Data",
+    "Module 7: Flares & Processes",
+    "Module 8: Operating Parameters",
+    "Module 9: Operation",
+    "Module 10: Troubleshooting"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 99,
+  "title": "LNG Pumps Technologies",
+  "date": "Present",
+  "description": [
+    "This course provides a detailed introduction to LNG (Liquefied Natural Gas) pumps, focusing on their design, selection, technologies, and leading manufacturers. Participants will explore the critical role of LNG pumps in cryogenic handling, storage, and transfer operations, including loading, unloading, and regasification processes. The course emphasizes the technical considerations in selecting the right pump equipment, the principles behind different LNG pump technologies, and an overview of major global manufacturers. Through case studies and practical insights, learners will gain the knowledge to evaluate, operate, and maintain LNG pump systems safely and efficiently."
+  ],
+  "image": require("./coursesImg/LNG Pumps Technologies.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "2 Days",
+  "prerequisite": [
+    "· Basic knowledge of LNG value chain (liquefaction, shipping, storage, and regasification).\n· Familiarity with cryogenic fluids and their handling.\n· Understanding of pump fundamentals and fluid mechanics."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Describe the role and importance of pumps in LNG handling and transfer operations.",
+    "Identify key types of LNG pumps and their operating principles.",
+    "Apply equipment selection criteria based on operational, safety, and efficiency requirements.",
+    "Compare different LNG pump technologies (submerged, in-tank, inline, transfer pumps, etc.).",
+    "Recognize major LNG pump manufacturers and understand their technological offerings.",
+    "Evaluate the performance, reliability, and maintenance considerations of LNG pumps.",
+    "Incorporate safety and best practices into LNG pump operations and selection."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: LNG Pump Equipment Selection",
+    "Module 3: LNG Pump Technologies",
+    "Module 4: LNG Pump Manufacturers"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦100,000 / $80",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 100,
+  "title": "Packed Tower Design & Applications",
+  "date": "Present",
+  "description": [
+    "Packed towers are widely used in the chemical, petrochemical, refining, and environmental industries for mass transfer operations such as absorption, stripping, distillation, and extraction. This course provides a comprehensive understanding of packed tower design principles, packing selection, and process applications across various operating conditions.",
+    "Participants will learn the differences between random dumped packings and structured packings, and how to apply them for efficient gas–liquid and liquid–liquid operations. The course emphasizes practical design considerations, column internals, hydraulics, and operational challenges, along with real-world applications in pollution control, heat transfer, and industrial separation processes (e.g., atmospheric, vacuum, and pressure distillation).",
+    "By combining theoretical principles with case-based applications, the course equips participants with the tools to design, optimize, and troubleshoot packed tower systems."
+  ],
+  "image": require("./coursesImg/Packed Tower Design & Applications.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "4 Days",
+  "prerequisite": [
+    "· Background in fluid mechanics, heat & mass transfer, and basic separation processes.\n· Familiarity with PFDs and P&IDs."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the fundamentals of packed tower operation and their role in process industries.",
+    "Differentiate between random dumped packings and structured packings, and determine the criteria for selection.",
+    "Apply packed tower design principles for gas absorption and liquid stripping operations.",
+    "Explain the application of packed towers in pollution control systems (e.g., scrubbers).",
+    "Understand the role of packing in heat transfer enhancement within columns.",
+    "Analyze the use of packed towers in atmospheric, vacuum, and pressure distillation processes.",
+    "Identify and design column internals such as distributors, redistributors, and demisters to ensure uniform flow and efficiency.",
+    "Explore the role of packed towers in liquid–liquid extraction processes.",
+    "Evaluate hydraulic limitations such as flooding, weeping, entrainment, and pressure drop.",
+    "Apply best practices in design, operation, and troubleshooting of packed tower systems for optimized performance."
+  ],
+  "outline": [
+    "Module 1: Random Dumped Packings",
+    "Module 2: Structured Packings",
+    "Module 3: Gas Absorption",
+    "Module 4: Liquid Stripping",
+    "Module 5: Pollution Control",
+    "Module 6: Heat Transfer",
+    "Module 7: Atmospheric Distillation",
+    "Module 8: Vacuum Distillation",
+    "Module 9: Pressure Distillation",
+    "Module 10: Column Internals",
+    "Module 11: Liquid-Liquid Extraction"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+  {
+    "id": 101,
+    "title": "Process Design Package Sulphur Recovery Unit",
+    "date": "Present",
+    "description": [
+      "The Sulphur Recovery Unit (SRU) is a critical component of gas processing and refining facilities, designed to recover elemental sulfur from hydrogen sulfide (H₂S)–rich streams using the Claus process and tail gas treating technologies. A properly developed Process Design Package (PDP) ensures safe, reliable, and efficient SRU operation, covering process description, equipment specifications, control systems, safety, and operational guidelines.",
+      "This course provides a comprehensive framework for understanding, designing, and operating an SRU based on a process design package. Participants will gain in-depth knowledge of process flow, instrumentation and control, equipment, safety measures, catalyst handling, startup and shutdown procedures, special operations (Aquisulf sulfur degassing), process analysis methods, and supporting engineering documents.",
+      "The training bridges theory, design principles, and real-world operation, equipping participants with the expertise to evaluate SRU design packages, ensure compliance with environmental standards, and support plant commissioning and operations."
+    ],
+    "image": require("./coursesImg/Process Design Package Sulphur Recovery Unit.jpg"),
+    "tags": [],
+    "category": "process",
+    "duration": "5 Days",
+    "prerequisite": [
+      "This course is designed for professionals in refining, gas processing, and EPC industries, including:\n· Process, design, and operations engineers involved in SRU or acid gas treatment.\n· Instrumentation and control engineers responsible for SRU automation and safety.\n· Commissioning and operations personnel working on sulfur recovery or tail gas treating.\n· EPC contractors and licensors developing SRU design documentation.\nRecommended knowledge:\n· Fundamentals of chemical process design and equipment selection.\n· Basic understanding of Claus process chemistry and gas treating operations.\n· Familiarity with P&IDs, control systems, and HAZOP methodology.\n· Prior exposure to process simulation tools (HYSYS, ProMax, UniSim, etc.)."
+    ],
+    "methodology": "Theoretical/Practical",
+    "objectives": [
+      "Explain the role and importance of the SRU in refinery and gas plant operations.",
+      "Interpret a Process Design Package (PDP) for SRU, including process flow diagrams, equipment specifications, and supporting documents.",
+      "Understand the process design description and chemical reactions of the Claus process.",
+      "Describe the instrumentation and control strategies applied in SRU for safe and reliable operation.",
+      "Identify key safety considerations, including H₂S handling, sulfur hazards, and emergency procedures.",
+      "Recognize the function of major SRU equipment such as reactors, condensers, reheaters, incinerators, and degassing units.",
+      "Apply knowledge of operation preparation, catalyst unloading/loading, and startup checklists.",
+      "Distinguish between normal startup, shutdown, and special operating procedures for SRU.",
+      "Operate and monitor critical process parameters to ensure stable and efficient sulfur recovery.",
+      "Describe the Aquisulf process for liquid sulfur degassing, including startup, operation, and shutdown procedures.",
+      "Perform hydrocarbon and sulfur recovery analysis methods for process monitoring and compliance.",
+      "Utilize drawings and references (PFDs, P&IDs, datasheets) as part of SRU design documentation.",
+      "Evaluate the overall process performance and suggest design or operational improvements."
+    ],
+    "outline": [
+      "Module 1: Introduction",
+      "Module 2: Process Design Description.",
+      "Module 3: Instrumentation and Control System",
+      "Module 4: Safety Information",
+      "Module 5: Equipment’s",
+      "Module 6: Preparation of Operation",
+      "Module 7: Catalyst Unloading",
+      "Module 8: Preparation and Checklist for Startup",
+      "Module 9: Normal Startup for the Unit",
+      "Module 10: Special Operating Procedures",
+      "Module 11: Operation and Process Parameters",
+      "Module 12: Shutdown of the Unit",
+      "Module 13: Aquisulf Startup (Liquid Sulfur Degassing)",
+      "Module 14: Operation and Process Parameters of Aquisulf",
+      "Module 15: Shutdown of the Aquisulf",
+      "Module 16: Hydrocarbon Analysis in Acid Gas",
+      "Module 17: Sulfur Recovery Analysis Method",
+      "Module 18: References",
+      "Module 19: Drawing"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦250,000 / $200",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 102,
+    "title": "Process Plant Layout – General Principles",
+    "date": "Present",
+    "description": [
+      "Process plant layout is a critical phase in the design and development of chemical, petrochemical, and refinery facilities. It involves the systematic arrangement of equipment, piping, utilities, and supporting facilities to ensure safe, efficient, and economical operations. Good plant layout improves operability, maintainability, safety, and compliance with regulations, while minimizing capital and operating costs.",
+      "This course introduces the principles, methodologies, and practices of process plant layout, guiding participants through site and plot layout, planning activities, development methods, and hazard assessment techniques. Using real-world case studies and industry standards, the course equips participants with the ability to interpret and apply layout concepts to practical engineering projects."
+    ],
+    "image": require("./coursesImg/Process Plant Layout – General Principles.jpg"),
+    "tags": [],
+    "category": "process",
+    "duration": "3 Days",
+    "prerequisite": [
+      "This course is designed for engineers, designers, and project professionals involved in plant engineering and design. Recommended background includes:\n· Basic understanding of chemical or process engineering principles.\n· Familiarity with process flow diagrams (PFDs) and piping & instrumentation diagrams (P&IDs).\n· General knowledge of safety, hazard analysis, and project design workflow.\n· Experience with engineering design tools (AutoCAD, AVEVA E3D, Plant 3D, SmartPlant, etc.)."
+    ],
+    "methodology": "Theoretical/Practical",
+    "objectives": [
+      "Explain the importance of plant layout in process industries.",
+      "Define the discipline of process plant layout and its role in EPC project execution.",
+      "Apply site layout principles to determine plant location, orientation, and integration with infrastructure.",
+      "Apply plot layout principles for arranging process units, utility systems, offsites, and safety zones.",
+      "Plan layout activities systematically, from conceptual design to detailed engineering.",
+      "Use different methods for layout conception and development, including analogues, modular design, and best practice case studies.",
+      "Employ layout analogues and visual aids (3D models, block diagrams, sketches) for communication and decision-making.",
+      "Conduct hazard assessments of plant layouts, integrating safety distances, fire protection, and regulatory requirements.",
+      "Balance operability, safety, and cost considerations in layout decision-making.",
+      "Critically review and evaluate layout deliverables as part of multidisciplinary engineering teams."
+    ],
+    "outline": [
+      "Module 1: Introduction",
+      "Module 2: Discipline of Process Plant Layout.",
+      "Module 3: Site Layout Principles",
+      "Module 4: Plot Layout Principles",
+      "Module 5: Planning of Layout Activities",
+      "Module 6: Methods for Layout, Conception, and Development",
+      "Module 7: Layout Analogues and Visual Aids",
+      "Module 8: Hazard Assessment of Plant Layout"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦150,000 / $120",
+    "certification": "Certificate of Completion"
+  },
+
+  {
+    "id": 103,
+    "title": "Process Plant Layout - Detailed Site and Plot Layout",
+    "date": "Present",
+    "description": [
+      "Detailed site and plot layout is a crucial phase in the engineering of process plants. It involves defining the precise arrangement of facilities, equipment, and infrastructure to achieve an optimum balance of safety, operability, constructability, maintainability, and environmental compliance.",
+      "This course builds on general layout principles and dives deeper into detailed considerations such as storage facilities, utility systems, pollution control, transportation logistics, and in-building arrangements. It emphasizes industry standards, safety guidelines, and real-world best practices used in oil & gas, petrochemical, refinery, and power plants.",
+      "Through case studies and design exercises, participants will gain practical knowledge of how to plan, evaluate, and optimize detailed layouts to meet both technical and regulatory requirements."
+    ],
+    "image": require("./coursesImg/Process Plant Layout - Detailed Site and Plot Layout.jpg"),
+    "tags": [],
+    "category": "process",
+    "duration": "3 Days",
+    "prerequisite": [
+      "Participants are expected to have:\n· Basic knowledge of chemical or process engineering principles.\n· Familiarity with plant layout fundamentals (general site and plot design concepts).\n· Understanding of process documentation (PFDs, P&IDs, equipment datasheets).\n· Awareness of safety and environmental regulations applicable to industrial facilities.\n· Prior exposure to engineering design tools (AutoCAD, SmartPlant, AVEVA E3D, or Plant 3D) is helpful but not mandatory."
+    ],
+    "methodology": "Theoretical/Practical",
+    "objectives": [
+      "Understand the detailed aspects of process plant site and plot layout beyond general principles.",
+      "Design and optimize transportation systems within process plants for efficiency and safety.",
+      "Apply engineering and safety guidelines for bulk fluid storage (tanks, spheres, bullets).",
+      "Develop layouts for bulk solid storage considering handling, dust control, and environmental issues.",
+      "Plan warehouse storage areas for spare parts, consumables, and maintenance tools.",
+      "Integrate pollution control facilities into site layouts in line with regulatory and environmental requirements.",
+      "Analyze and design utility systems, including general utilities and specialized services (water, steam, power).",
+      "Plan and optimize central services such as control rooms, substations, laboratories, and maintenance shops.",
+      "Evaluate constructability aspects and translate them into layout design for efficient construction and installation.",
+      "Prepare detailed plot layouts including spacing, safety distances, and accessibility for operations and maintenance.",
+      "Develop effective layouts within buildings, ensuring functionality, safety, and compliance with building codes.",
+      "Balance safety, operability, and cost considerations in site and plot layout decision-making.",
+      "Critically assess detailed layout drawings and propose improvements to optimize plant design."
+    ],
+    "outline": [
+      "Module 1: Transportation",
+      "Module 2: Bulk Fluid Storage",
+      "Module 3: Bulk Solid Storage",
+      "Module 4: Warehouse Storage",
+      "Module 5: Pollution Control",
+      "Module 6: Utilities I: General",
+      "Module 7: Utilities II: Water and Steam",
+      "Module 8: Central Services",
+      "Module 9: Construction and Layout",
+      "Module 10: Details of Plot Layout",
+      "Module 11: Layout Within Buildings"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦150,000 / $120",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 104,
+    "title": "Process Plant Layout - Detailed Layout of Equipment",
+    "date": "Present",
+    "description": [
+      "The layout of process equipment is one of the most critical stages in the design of industrial plants. The arrangement of tanks, reactors, heat exchangers, furnaces, and other key equipment directly impacts safety, operability, maintainability, energy efficiency, and cost-effectiveness.",
+      "This course provides a comprehensive guide to the detailed layout of major process equipment, addressing both technical design considerations and practical engineering requirements. It covers spacing rules, safety distances, access requirements, maintenance provisions, and integration of auxiliary systems.",
+      "By studying real-world examples and applying layout guidelines, participants will gain the knowledge to develop efficient, safe, and compliant plant layouts that meet both engineering and regulatory standards."
+    ],
+    "image": require("./coursesImg/Process Plant Layout - Detailed Layout of Equipment.jpg"),
+    "tags": [],
+    "category": "process",
+    "duration": "3 Days",
+    "prerequisite": [
+      "Participants are expected to have:\n· Basic understanding of process engineering and equipment design.\n· Familiarity with PFDs (Process Flow Diagrams) and P&IDs (Piping & Instrumentation Diagrams).\n· Prior exposure to general plant layout principles.\n· Awareness of safety and regulatory standards related to process industries.\n· Knowledge of 3D plant design tools (SmartPlant, AVEVA E3D, AutoCAD Plant 3D, etc.)."
+    ],
+    "methodology": "Theoretical/Practical",
+    "objectives": [
+      "Understand the principles of equipment arrangement in process plant layouts.",
+      "Apply spacing, safety, and operability guidelines for tanks, drums, and storage vessels.",
+      "Design layouts for furnaces and fired equipment with due consideration for radiation, safety clearances, and fuel systems.",
+      "Optimize the placement of distillation columns and towers, ensuring accessibility and structural support.",
+      "Plan layouts of heat exchangers for maintainability and piping integration.",
+      "Integrate reactors into plant layouts with focus on process efficiency, safety, and catalyst handling.",
+      "Design appropriate layouts for mixers, filters, and centrifuges, considering solids handling and maintenance needs.",
+      "Address layout challenges in solids handling plants, including conveyors, bins, and hoppers.",
+      "Plan dryer installations with ventilation, energy efficiency, and environmental controls.",
+      "Develop layouts for filling and packaging facilities, integrating logistics, safety, and product handling requirements.",
+      "Evaluate detailed layout drawings for compliance with international codes and standards (API, ASME, NFPA, OSHA, etc.).",
+      "Balance trade-offs between space utilization, cost, operability, and safety in equipment arrangement.",
+      "Apply best practices to ensure constructability and maintainability in plant equipment layout."
+    ],
+    "outline": [
+      "Module 1: Tanks and Drums",
+      "Module 2: Furnaces and Fired Equipment",
+      "Module 3: Distillation Columns and Towers",
+      "Module 4: Heat Exchangers",
+      "Module 5: Reactors",
+      "Module 6: Mixers",
+      "Module 7: Filters",
+      "Module 8: Centrifuges",
+      "Module 9: Solids Handling Plant",
+      "Module 10: Dryers",
+      "Module 11: Filling and Packaging"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦150,000 / $120",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 105,
+    "title": "Process Plant Layout - Detailed Layout Materials",
+    "date": "Present",
+    "description": [
+      "The effective layout of materials-handling systems, mechanical equipment, piping networks, and instrumentation is central to ensuring safe, reliable, and cost-effective operations in a process plant. Poor arrangement can lead to excessive pressure drops, vibration issues, maintenance difficulties, and even safety hazards.",
+      "This course focuses on the detailed layout of pumps, compressors, conveyors, piping systems, and instrumentation within process facilities. Special attention is given to pipe stress analysis, ensuring that piping systems can withstand thermal expansion, vibration, and mechanical loads.",
+      "Participants will learn how to integrate mechanical, piping, and instrumentation considerations into a cohesive plant layout that supports operability, maintainability, constructability, and compliance with international standards."
+    ],
+    "image": require("./coursesImg/Process Plant Layout - Detailed Layout Materials.jpg"),
+    "tags": [],
+    "category": "process",
+    "duration": "3 Days",
+    "prerequisite": [
+      "· A basic understanding of process engineering and equipment operation.\n· Familiarity with plant layout fundamentals and general engineering drawings.\n· Prior exposure to pumps, compressors, and piping systems in industrial facilities.\n· Awareness of codes and standards such as ASME, API, and ISA.\n· Experience with 3D plant design tools (e.g., AVEVA E3D, SmartPlant, AutoCAD Plant 3D)."
+    ],
+    "methodology": "Theoretical",
+    "objectives": [
+      "Understand the layout principles for pumps, including suction piping design, NPSH considerations, accessibility, and alignment.",
+      "Apply best practices for the placement and layout of compressors, addressing vibration, noise, cooling, and safety spacing.",
+      "Design and optimize conveyor layouts for solids handling plants, ensuring efficiency, safety, and maintenance access.",
+      "Develop piping layouts that balance cost, safety, operability, and constructability.",
+      "Perform pipe stress analysis basics, including thermal expansion, support placement, and load considerations.",
+      "Integrate instrumentation systems into the layout, ensuring visibility, accessibility, and compliance with ISA guidelines.",
+      "Identify interdisciplinary interactions between mechanical, piping, and instrumentation layouts to avoid conflicts.",
+      "Evaluate layout drawings against safety, operability, and maintainability requirements.",
+      "Apply industry standards and regulatory requirements in equipment and piping arrangement.",
+      "Optimize layouts to reduce pressure drop, vibration risk, and maintenance downtime."
+    ],
+    "outline": [
+      "Module 1: Pumps",
+      "Module 2: Compressors.",
+      "Module 3: Conveyors",
+      "Module 4: Piping",
+      "Module 5: Pipe Stress Analysis",
+      "Module 6: Instrumentation"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦150,000 / $120",
+    "certification": "Certificate of Completion"
+  },
+
+  {
+  "id": 106,
+  "title": "Regulators",
+  "date": "Present",
+  "description": [
+    "This course provides a comprehensive understanding of pressure regulators and associated safety devices used in the oil, gas, and process industries. Participants will explore the components, operating principles, and design considerations of direct-operated and pilot-operated regulators, as well as relief valves and vacuum control systems. The course also covers advanced topics such as series and monitor regulations, valve sizing calculations, chemical compatibility of materials, and considerations for extreme temperatures and corrosive environments. By the end of the course, participants will be able to select, size, and maintain regulators effectively, ensuring safe and efficient system operation."
+  ],
+  "image": require("./coursesImg/Regulators.jpg"),
+  "tags": [],
+  "category": "process",
+  "duration": "5 Days",
+  "prerequisite": [
+    "· Basic knowledge of process instrumentation and control systems.\n· Understanding of fluid mechanics and pressure control concepts.\n· Familiarity with general safety standards in industrial operations."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Describe the fundamental principles and applications of pressure regulators.",
+    "Identify and explain the functions of regulator components.",
+    "Understand the operation of direct-operated and pilot-operated regulators.",
+    "Select and size reducing regulators for various applications.",
+    "Apply overpressure protection methods and relief valve principles.",
+    "Explain series regulations, monitor regulations, and their applications.",
+    "Perform valve sizing calculations for accurate system design.",
+    "Understand vacuum control and freezing considerations in regulator operations.",
+    "Evaluate chemical compatibility of elastomers and metals used in regulators.",
+    "Apply knowledge of sulfide stress cracking and cold temperature effects on regulator performance."
+  ],
+  "outline": [
+    "Module 1: Introduction to Regulators",
+    "Module 2: Regulators Components",
+    "Module 3: Principles of Direct-Operated Regulators",
+    "Module 4: Principles of Pilot-Operated Regulators",
+    "Module 5: Selecting and Sizing of Reducing Regulators",
+    "Module 6: Overpressure Protection Methods",
+    "Module 7: Principles of Relief Valves",
+    "Module 8: Principles of Series Regulations and Monitor Regulations",
+    "Module 9: Valve Sizing Calculations",
+    "Module 10: Vacuum Control",
+    "Module 11: Freezing",
+    "Module 12: Chemical Compatibility of Elastomers and Metals",
+    "Module 13: Sulfide Stress Cracking",
+    "Module 14: Cold Temperature Considerations"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦350,000 / $300",
+  "certification": "Certificate of Completion"
+},
+
+
+  {
+    "id": 107,
+    "title": "Project Management Methodology",
+    "date": "Present",
+    "description": [
+      "This course provides participants with a structured approach to managing projects across industries using a proven project management methodology. It guides learners through all phases of the project lifecycle—from initiation to closing—while emphasizing planning, execution, monitoring, and controlling. Participants will also gain hands-on knowledge of essential project documentation, such as project charters, communication plans, status reports, and lessons learned. By the end of the course, learners will be equipped with practical tools and best practices to deliver projects successfully, within scope, schedule, and budget, while managing risks and stakeholder expectations."
+    ],
+    "image": require("./coursesImg/Project Management Methodology.jpg"),
+    "tags": [],
+    "category": "project management",
+    "duration": "4 Days",
+    "prerequisite": [
+      "· Basic knowledge of organizational operations and business processes.\n· Familiarity with general project concepts.\n· Prior exposure to project work in their domain."
+    ],
+    "methodology": "Theoretical",
+    "objectives": [
+      "Explain the phases of the project management lifecycle and their interrelationships.",
+      "Initiate projects effectively by defining objectives, scope, and key stakeholders.",
+      "Develop comprehensive project plans covering schedule, resources, cost, risks, and communication.",
+      "Apply execution, monitoring, and controlling practices to ensure projects remain on track.",
+      "Use project documentation tools such as charters, agreements, communication plans, and status reports.",
+      "Manage project changes systematically through structured change request processes.",
+      "Close projects effectively, capturing agreements, completion reports, and lessons learned.",
+      "Apply methodology best practices to improve consistency, efficiency, and project success rates."
+    ],
+    "outline": [
+      "Module 1: Overview",
+      "Module 2: Initiation",
+      "Module 3: Planning",
+      "Module 4: Execution, Controlling and Monitoring",
+      "Module 5: Additional Information on Controlling / Monitoring",
+      "Module 6: Closing",
+      "Module 7: Project Request Form",
+      "Module 8: Project Charter",
+      "Module 9: Project Agreement",
+      "Module 10: Project Communication Plan",
+      "Module 11: Project Status Report",
+      "Module 12: Project Change Request Form",
+      "Module 13: Project Completion Agreement",
+      "Module 14: Project Completion Lessons Learned"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦150,000 / $120",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 108,
+    "title": "Guide to Differential pressure (DP) Flow Measurement",
+    "date": "Present",
+    "description": [
+      "Differential pressure (DP) flow measurement is one of the most widely used technologies in process industries due to its reliability, versatility, and compatibility with various fluids. This course provides participants with a comprehensive guide to DP flow measurement principles, technologies, and applications across gas, liquid, and steam systems.",
+      "The course introduces the fundamentals of fluid flow, the theory behind DP flow measurement, and key applications in process systems. Participants will explore different primary element technologies (such as orifice plates, venturi tubes, and flow nozzles), transmitter technologies, and the integration of Rosemount primary elements and flow meters. Special emphasis is given to installation practices, calibration, troubleshooting, and engineering reference data to ensure accurate and reliable flow measurement in real-world applications.",
+      "By the end of this training, participants will gain both theoretical knowledge and practical skills to optimize the use of DP flow meters in their respective industries."
+    ],
+    "image": require("./coursesImg/Guide to Differential pressure (DP) Flow Measurement.jpg"),
+    "tags": [],
+    "category": "PAI",
+    "duration": "3 Days",
+    "prerequisite": [
+      "· Flow instrumentation.\n· Basic understanding of fluid mechanics, pressure measurement, and instrumentation systems.\n· Familiarity with P&IDs and basic control loops is beneficial but not mandatory."
+    ],
+    "methodology": "Theoretical",
+    "objectives": [
+      "Understand the principles and operation of differential pressure flow meters.",
+      "Define and apply basic fluid and flow concepts relevant to DP measurement.",
+      "Explain the theory of DP flow measurement, including Bernoulli’s principle and continuity equations.",
+      "Identify the applications of DP flow measurement for gas, liquid, and steam systems.",
+      "Differentiate between primary element technologies (orifice plates, venturi tubes, flow nozzles, pitot tubes, wedge meters, etc.).",
+      "Understand transmitter technologies and their role in DP flow measurement accuracy.",
+      "Explore the features and benefits of Rosemount primary elements and flow meters.",
+      "Apply best practices for DP flow meter installation to avoid measurement errors.",
+      "Perform calibration, maintenance, and troubleshooting of DP flow measurement systems.",
+      "Use engineering data, pipe data, conversions, and equivalents in flow measurement calculations and reporting."
+    ],
+    "outline": [
+      "Module 1: Differential pressure Flow Meter",
+      "Module 2: Fluids and Flow Basic Terms and Concepts.",
+      "Module 3: Theory of Differential pressure Flow",
+      "Module 4: Gas, Liquid, and Steam Applications",
+      "Module 5: Primary Element Technologies",
+      "Module 6: Transmitter Technology",
+      "Module 7: Rosemount Primary Elements and Flow Meters",
+      "Module 8: Differential pressure Flow Meter Installation",
+      "Module 9: Calibration, Maintenance and Troubleshooting",
+      "Module 10: Engineering Data, Pipe Data, and Conversions and Equivalents"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦200,000 / $180",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 109,
+    "title": "Storage Facilities & Terminal",
+    "date": "Present",
+    "description": [
+      "This course provides a comprehensive understanding of storage facilities and oil terminal operations. Participants will gain insights into the critical functions of oil terminals, including storage management, shipment processes, and metering systems. The course emphasizes operational efficiency, safety, and regulatory compliance within oil and gas storage and terminal environments. Practical examples and case studies will enhance learners’ ability to apply concepts to real-world scenarios in petroleum storage and handling."
+    ],
+    "image": require("./coursesImg/Storage Facilities & Terminal.jpg"),
+    "tags": [],
+    "category": "Petroleum",
+    "duration": "3 Days",
+    "prerequisite": [
+      "Participants are expected to have:\n· Basic knowledge of petroleum industry operations.\n· Understanding of oil and gas logistics and transportation.\n· Familiarity with safety protocols and industrial standards."
+    ],
+    "methodology": "Theoretical",
+    "objectives": [
+      "Describe the fundamental structure and functions of oil storage facilities and terminals.",
+      "Explain the roles and responsibilities involved in terminal operations.",
+      "Understand storage principles, tank types, and inventory management practices.",
+      "Analyze shipment processes, including loading, unloading, and transportation logistics.",
+      "Interpret metering techniques, instrumentation, and flow measurement for operational accuracy.",
+      "Apply industry best practices for safety, environmental compliance, and operational efficiency."
+    ],
+    "outline": [
+      "Module 1: Introduction",
+      "Module 2: Functions of an Oil Terminal",
+      "Module 3: Storage",
+      "Module 4: Shipment",
+      "Module 5: Metering"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦100,000 / $80",
+    "certification": "Certificate of Completion"
+  },
+  {
+    "id": 110,
+    "title": "Transfer & Stock Piling Operations in the Crude Oil Refining Industry",
+    "date": "Present",
+    "description": [
+      "This course provides a comprehensive understanding of transfer and stockpiling operations within crude oil refineries, focusing on the safe, efficient, and compliant management of crude, refined products, and liquefied gases. Participants will explore the operational, safety, and asset integrity aspects of storage, blending, and transfer processes. The course also addresses interfaces with middle-stream companies, flaring systems management, metering, billing, and the integration of process safety management (PSM) practices. Through case studies and practical examples, learners will develop the ability to optimize stockpiling operations while maintaining safety, regulatory compliance, and operational efficiency."
+    ],
+    "image": require("./coursesImg/Transfer & Stock Piling Operations in the Crude Oil Refining Industry.jpg"),
+    "tags": [],
+    "category": "Petroleum",
+    "duration": "7 Days",
+    "prerequisite": [
+      "· Basic knowledge of crude oil refining processes and refinery operations.\n· Familiarity with industrial safety practices and process control.\n· Understanding of storage and handling principles for hydrocarbons."
+    ],
+    "methodology": "Theoretical",
+    "objectives": [
+      "Describe the current context and trends in the downstream oil industry.",
+      "Understand crude oil refining processes and their relationship to stockpiling operations.",
+      "Explain the role and importance of transfer and stockpiling operations in a refinery.",
+      "Classify storage tanks and understand their selection criteria and operational considerations.",
+      "Apply blending techniques for crude oil and refined products, including LPG, gasoline, fuel oil, and diesel.",
+      "Manage flaring systems safely and in compliance with environmental regulations.",
+      "Implement process safety management practices in transfer and stockpiling operations.",
+      "Coordinate transfer and stockpiling operations with maintenance activities to enhance safety and efficiency.",
+      "Apply asset integrity management principles to ensure reliable and safe operations.",
+      "Manage the interface between refinery stockpiling operations and middle-stream companies effectively.",
+      "Ensure safety and asset management in LPG and liquefied gas storage facilities.",
+      "Oversee accurate metering and billing operations for refined products and crude."
+    ],
+    "outline": [
+      "Module 1: Current Context of the Downstream Industry",
+      "Module 2: Overview of Crude Oil Refining Processes",
+      "Module 3: The Role of Transfer and Stockpiling Operations in a Crude Oil Refinery",
+      "Module 4: Types and Classification of Storage Tanks",
+      "Module 5: Blending Operations (Crude Oil, LPG, Gasoline, Fuel Oil, and Diesel)",
+      "Module 6: Flaring Systems and How to Manage these Systems Adequately",
+      "Module 7: Process Safety Management in Transfer and Stockpiling Operations",
+      "Module 8: Calling the Attention to Transfer and Stockpiling Area – The Relation with Maintenance",
+      "Module 9: Asset Integrity Management in Transfer and Stockpiling Sector",
+      "Module 10: Managing the Interface between Refinery Stockpiling Operations and Middle Stream Companies",
+      "Module 11: Process Safety and Asset Management in LPG and Liquefied Gas Storage Farm",
+      "Module 12: Management of Metering and Billing Operations"
+    ],
+    "assessment": "Online Written Exam",
+    "cdf": [
+      "Classroom-based training",
+      "Online courses",
+      "In-house workshops",
+      "On-the-job training"
+    ],
+    "cost": "₦500,000 / $450",
+    "certification": "Certificate of Completion"
+  },
+
+  {
+  "id": 111,
+  "title": "Safety Devices for Protection Against Excessive Pressure (ISO 4126) Bursting Discs and Applications Course",
+  "date": "Present",
+  "description": [
+    "This course provides a comprehensive study of safety devices designed to protect pressure equipment from excessive pressure, in line with the requirements of ISO 4126. Emphasis is placed on bursting disc safety devices, their materials, types, and associated components such as holders, supports, and seals. The course also explores specified bursting pressure requirements, inspection, testing, certification, and product designation as mandated by ISO standards.",
+    "By the end of the program, participants will have the knowledge and skills to evaluate, select, and apply bursting disc devices in industrial systems, ensuring compliance with international safety and quality standards."
+  ],
+  "image": require("./coursesImg/Safety Devices for Protection Against Excessive Pressure (ISO 4126) Bursting Discs and Applications Course.jpg"),
+  "tags": [],
+  "category": "hazop hazid",
+  "duration": "3 Days",
+  "prerequisite": [
+    "· A general understanding of process equipment (pressure vessels, piping, relief systems).\n· Basic knowledge of fluid mechanics and thermodynamics.\n· Familiarity with industrial safety standards (API, ASME, PED, or equivalent) is advantageous.\n· Engineering, operations, or maintenance background in oil & gas, petrochemical, chemical, or power sectors"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the role and importance of safety devices in preventing overpressure hazards.",
+    "Understand the scope and applications of bursting disc safety devices as defined by ISO 4126.",
+    "Identify suitable materials for bursting discs, considering chemical compatibility, corrosion resistance, and temperature limits.",
+    "Differentiate between types of bursting discs (forward-acting, reverse-acting, composite, etc.) and their operating principles.",
+    "Describe the design and function of bursting disc holders, back pressure supports, temperature shields, and stiffening rings.",
+    "Recognize the role of gaskets and seals in maintaining integrity of bursting disc assemblies.",
+    "Apply correct assembly and installation practices to ensure safety and reliability.",
+    "Interpret specified bursting pressure requirements and compliance criteria in ISO 4126.",
+    "Understand manufacturer inspection requirements and quality assurance procedures.",
+    "Explain test procedures (burst testing, proof testing, and other acceptance tests).",
+    "Identify certification requirements for bursting disc devices under ISO 4126.",
+    "Correctly interpret product designation and markings for compliance and traceability.",
+    "Apply course knowledge to case studies and real-world scenarios in industrial safety systems."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Scope",
+    "Module 3: Materials",
+    "Module 4: Types of Bursting Discs",
+    "Module 5: Bursting Disc Holders",
+    "Module 6: Back Pressure Supports",
+    "Module 7: Temperature Shields",
+    "Module 8: Stiffening Rings",
+    "Module 9: Gaskets/Seals",
+    "Module 10: Assembly of Bursting Disc Safety Devices",
+    "Module 11: Specified Bursting Pressure Requirements",
+    "Module 12: Inspection by the Manufacturer",
+    "Module 13: Test Procedures",
+    "Module 14: Certification",
+    "Module 15: Product Designation",
+    "Module 16: Marking",
+    "Module 17: Packaging and Storage"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+}
+
 
 
 

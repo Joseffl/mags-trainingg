@@ -60,7 +60,7 @@ const Section = styled.div`
 `;
 
 const Title = styled.div`
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
   color: ${({ theme }) => theme.text_primary};
   margin: 8px 6px 0px 6px;
@@ -79,6 +79,13 @@ const Desc = styled.div`
     font-size: 14px;
     margin: 6px 6px;
   }
+`;
+
+const SectionHeader = styled.h3`
+  font-size: 18px;
+  font-weight: 700; /* Bold */
+  margin-bottom: 8px;
+  color: ${({ theme }) => theme.text_primary};
 `;
 
 const Image = styled.img`
@@ -255,25 +262,18 @@ const Index = ({ openModal, setOpenModal }) => {
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-
-
   const detectCurrencyAndAmount = (costString) => {
     if (!costString) return { amount: 0, currency: 'NGN' };
     const costParts = costString.split('/');
 
     if (costParts.length === 1) {
       const cleaned = parseFloat(costParts[0].replace(/[^0-9.]/g, '')) || 0;
-      // Guess currency based on symbol
       const isNGN = costString.includes('₦') || costString.toLowerCase().includes('ngn');
       return { amount: cleaned, currency: isNGN ? 'NGN' : 'USD' };
     }
 
     let amount, currency;
-
-    // If user has selected or entered a preferred currency, check it
-    // Otherwise detect based on string symbol
     if (formData.currency) {
-      // Use the user-selected currency from formData
       if (formData.currency === 'NGN') {
         amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
         currency = 'NGN';
@@ -282,7 +282,6 @@ const Index = ({ openModal, setOpenModal }) => {
         currency = 'USD';
       }
     } else {
-      // Detect from string if no explicit choice
       if (costParts[0].includes('₦')) {
         amount = parseFloat(costParts[0].replace(/[^0-9.]/g, ''));
         currency = 'NGN';
@@ -291,14 +290,13 @@ const Index = ({ openModal, setOpenModal }) => {
         currency = 'USD';
       }
     }
-
     return { amount, currency };
   };
 
   const { amount, currency } = detectCurrencyAndAmount(project?.cost || "0");
 
   const config = {
-    public_key: 'FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X', // ✅ sandbox public key
+    public_key: 'FLWPUBK-8f52bd899374f757a9bb33483a49f8f4-X',
     tx_ref: `tx_${Date.now()}`,
     amount: amount,
     currency: currency,
@@ -315,23 +313,6 @@ const Index = ({ openModal, setOpenModal }) => {
   };
 
   const handleFlutterPayment = useFlutterwave(config);
-
-  //   const handleFormSubmit = (e) => {
-  //   e.preventDefault();
-  //   console.log('Proceeding to Flutterwave payment...');
-
-  //   handleFlutterPayment({
-  //     callback: (response) => {
-  //       console.log('Payment Response:', response);
-  //       closePaymentModal();
-  //       setFormOpen(false);
-  //       setOpenModal({ state: false, project: null });
-  //     },
-  //     onClose: () => {
-  //       console.log('Payment closed');
-  //     },
-  //   });
-  // };
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
@@ -405,86 +386,118 @@ const Index = ({ openModal, setOpenModal }) => {
                 <Tag key={tag}>{tag}</Tag>
               ))}
             </Tags>
-            <Desc><h3>About this Course</h3></Desc>
-            <div>
-              {Array.isArray(project?.description) ? (
-                project.description.map((desc, index) => (
-                  <p key={index} style={{ marginBottom: '1rem' }}>{desc}</p>
-                ))
-              ) : (
-                <p style={{ marginBottom: '1rem' }}>{project?.description || 'No description available'}</p>
-              )}
-            </div>
-            {/* <Desc>
-              <h3> Duration </h3> {project?.duration}
-            </Desc> */}
-            <Desc>
-              <h3>Methodology </h3>
-              {project?.methodology}
-            </Desc>
-            {/* <Desc>
-              <h3>Prerequisite</h3>
-              <p>
-                {project?.prerequisite.map((prerequisite, index) => (
-                  <li key={index}>{prerequisite}</li>
-                ))}
-              </p>
-            </Desc> */}
 
             <Desc>
-              <h3>Prerequisite</h3>
+              <SectionHeader>About this Course</SectionHeader>
+              {Array.isArray(project?.description) ? (
+                <div>
+                  {project.description.map((desc, index) => (
+                    <p key={index} style={{ marginBottom: '1rem' }}>{desc}</p>
+                  ))}
+                </div>
+              ) : (
+                <p>{project?.description || 'No description available'}</p>
+              )}
+            </Desc>
+
+            <Desc>
+              <SectionHeader>Methodology</SectionHeader>
+              <p>{project?.methodology}</p>
+            </Desc>
+
+            <Desc>
+              <SectionHeader>Prerequisite</SectionHeader>
               {project?.prerequisite?.length > 0 ? (
                 <div>
-                  {project.prerequisite[0].split('\n').map((line, index) => {
-                    // Check if the line is a heading (no bullet point)
-                    if (!line.startsWith('·')) {
-                      return <p key={index} style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>{line}</p>;
-                    }
-                    // Render bullet points as list items
-                    return <li key={index} style={{ marginLeft: '1rem' }}>{line.replace('· ', '')}</li>;
-                  })}
+                  {project.prerequisite.map((item, idx) => (
+                    item.includes("\n") ? (
+                      item.split("\n").map((line, index) => {
+                        if (line.trim().endsWith(":")) {
+                          return (
+                            <p
+                              key={`${idx}-${index}`}
+                              style={{
+                                fontWeight: "bold",
+                                marginTop: "1rem",
+                                marginBottom: "0.5rem",
+                              }}
+                            >
+                              {line.replace("·", "").trim()}
+                            </p>
+                          );
+                        }
+                        return (
+                          <li
+                            key={`${idx}-${index}`}
+                            style={{ marginLeft: "1.5rem", marginBottom: "0.5rem" }}
+                          >
+                            {line.replace("·", "").trim()}
+                          </li>
+                        );
+                      })
+                    ) : (
+                      <li
+                        key={idx}
+                        style={{ marginLeft: "1.5rem", marginBottom: "0.5rem" }}
+                      >
+                        {item.trim()}
+                      </li>
+                    )
+                  ))}
                 </div>
               ) : (
                 <p>No prerequisites available</p>
               )}
             </Desc>
+
             <SideBySideSections>
               <Section>
-                <h3>Learning outcomes</h3>
-                <p>
-                  {project?.objectives.map((objective, index) => (
-                    <li key={index}>{objective}</li>
-                  ))}
-                </p>
+                <SectionHeader><b>Learning outcomes</b></SectionHeader>
+                {project?.objectives?.length > 0 ? (
+                  <div>
+                    <p style={{ marginBottom: "0.5rem", fontWeight: "500" }}>
+                      By the end of this course, participants will be able to:
+                    </p>
+                    <ul style={{ listStyleType: "disc", paddingLeft: "1.5rem" }}>
+                      {project.objectives.map((objective, index) => (
+                        <li
+                          key={index}
+                          style={{ marginBottom: "0.5rem" }}
+                        >
+                          {objective}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : (
+                  <p>No learning outcomes available</p>
+                )}
               </Section>
               <Section>
-                <h3>Course outline</h3>
-                <p>
+                <SectionHeader>Course outline</SectionHeader>
+                <ul>
                   {project?.outline.map((outline, index) => (
-                    <p key={index}>{outline}</p>
+                    <li key={index}>{outline}</li>
                   ))}
-                </p>
+                </ul>
               </Section>
             </SideBySideSections>
+
             <Desc>
-              <h3>Assessment </h3>
+              <SectionHeader>Assessment</SectionHeader>
               <p>{project?.assessment}</p>
             </Desc>
+
             <Desc>
-              <h3>Course Delivery Formats</h3>
-              <p>
-                Online/Virtual
-              </p>
-              {/* <p>
-                {project?.cdf.map((cdf, index) => (
-                  <li key={index}>{cdf}</li>
-                ))}
-              </p> */}
+              <SectionHeader>Course Delivery Formats</SectionHeader>
+              <p>Online/Virtual</p>
             </Desc>
+
             <Desc>
-              <h3>Cost </h3>
+              <SectionHeader>Cost</SectionHeader>
               <p>{project?.cost}</p>
             </Desc>
+
             <ButtonGroup>
               <Button dull onClick={() => setFormOpen(true)}>Enroll Now</Button>
               <Button
