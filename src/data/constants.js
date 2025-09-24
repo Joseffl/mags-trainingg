@@ -14559,7 +14559,7 @@ export const projects = [
 
   {
     id: 10,
-    title: "HAZOP Guidelines for ARAMCO standards",
+    title: "HAZOP Guidelines for Oil and Gas standards",
     date: "Oct 2022 - Present",
     description:
     [

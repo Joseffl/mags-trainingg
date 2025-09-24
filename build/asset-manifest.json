@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e80bb966.css",
-    "main.js": "/static/js/main.498a6819.js",
+    "main.js": "/static/js/main.e1227dc1.js",
     "static/media/piping systems & piping calculation.png": "/static/media/piping systems & piping calculation.932826f0057007093f38.png",
     "static/media/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.png": "/static/media/Pressure Vessel Design, Shell, Head, Nozzle and Basic Flange.755ae8491fd59507826a.png",
     "static/media/Process I & C(Transmission Systems).png": "/static/media/Process I & C(Transmission Systems).5b9ad87ad4af3748690b.png",
@@ -150,7 +150,7 @@
     "static/media/Storage Facilities & Terminal.jpg": "/static/media/Storage Facilities & Terminal.4e70aa5e15b94d894712.jpg",
     "static/media/HAZOP (Bp procedure).jpg": "/static/media/HAZOP (Bp procedure).65174b34879caf5cc96e.jpg",
     "static/media/Project Management Methodology.jpg": "/static/media/Project Management Methodology.a56277243206c9104aee.jpg",
-    "static/media/HAZOP Guidelines for ARAMCO standards.jpg": "/static/media/HAZOP Guidelines for ARAMCO standards.3931d90287c5d49a7194.jpg",
+    "static/media/HAZOP Guidelines for ARAMCO standards.jpg": "/static/media/HAZOP Guidelines for ARAMCO standards.e32f95dff1f5d54165e7.jpg",
     "static/media/Steam Boilers.jpg": "/static/media/Steam Boilers.ef03d2101471c58f532e.jpg",
     "static/media/Badger ethylbenzene technology.jpg": "/static/media/Badger ethylbenzene technology.330d54aa49a6389cdb55.jpg",
     "static/media/Centrifugal Compressor Surge.jpg": "/static/media/Centrifugal Compressor Surge.10e4eb4570d3e996e45d.jpg",
@@ -165,10 +165,10 @@
     "static/media/HeroBanner.jpg": "/static/media/HeroBanner.31154bfc10cd2e406099.jpg",
     "index.html": "/index.html",
     "main.e80bb966.css.map": "/static/css/main.e80bb966.css.map",
-    "main.498a6819.js.map": "/static/js/main.498a6819.js.map"
+    "main.e1227dc1.js.map": "/static/js/main.e1227dc1.js.map"
   },
   "entrypoints": [
     "static/css/main.e80bb966.css",
-    "static/js/main.498a6819.js"
+    "static/js/main.e1227dc1.js"
   ]
 }
