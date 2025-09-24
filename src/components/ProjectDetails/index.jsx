@@ -402,7 +402,7 @@ const Index = ({ openModal, setOpenModal }) => {
 
             <Desc>
               <SectionHeader>Methodology</SectionHeader>
-              <p>{project?.methodology}</p>
+              <p>Theoritical/Practical</p>
             </Desc>
 
             <Desc>
