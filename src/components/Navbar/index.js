@@ -91,7 +91,7 @@ const Navbar = () => {
             </NavLink>
             <DropdownMenu>
               <DropdownLink to="/training">All Courses</DropdownLink>
-              <DropdownLink to="/training-schedule">2026 Schedule</DropdownLink>
+              {/* <DropdownLink to="/training-schedule">2026 Schedule</DropdownLink> */}
             </DropdownMenu>
           </Dropdown>
           <NavLink>
@@ -162,13 +162,13 @@ const Navbar = () => {
             >
               Training
             </MobileLink>
-            <MobileLink
+            {/* <MobileLink
               as={Link}
               to="/training-schedule"
               onClick={() => setIsOpen(false)}
             >
               Training Schedule
-            </MobileLink>
+            </MobileLink> */}
 
             <MobileLink
               as={HashLink}
