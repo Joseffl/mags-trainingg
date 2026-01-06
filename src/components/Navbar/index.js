@@ -87,7 +87,7 @@ const Navbar = () => {
           <Dropdown>
             <NavLink as={Link} to="/training" style={{ marginBottom: 0 }}>
               Training{" "}
-              <span style={{ fontSize: "10px", marginLeft: "4px" }}>▼</span>
+              {/* <span style={{ fontSize: "10px", marginLeft: "4px" }}>▼</span> */}
             </NavLink>
             <DropdownMenu>
               <DropdownLink to="/training">All Courses</DropdownLink>
