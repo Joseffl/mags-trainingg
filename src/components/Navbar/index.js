@@ -87,11 +87,11 @@ const Navbar = () => {
           <Dropdown>
             <NavLink as={Link} to="/training" style={{ marginBottom: 0 }}>
               Training{" "}
-              {/* <span style={{ fontSize: "10px", marginLeft: "4px" }}>▼</span> */}
+              <span style={{ fontSize: "10px", marginLeft: "4px" }}>▼</span>
             </NavLink>
             <DropdownMenu>
-              <DropdownLink to="/training">All Courses avail</DropdownLink>
-              {/* <DropdownLink to="/training-schedule">2026 Schedule</DropdownLink> */}
+              <DropdownLink to="/training">All Courses </DropdownLink>
+              <DropdownLink to="/training-schedule">2026 Schedule</DropdownLink>
             </DropdownMenu>
           </Dropdown>
           <NavLink>
@@ -162,13 +162,13 @@ const Navbar = () => {
             >
               Training
             </MobileLink>
-            {/* <MobileLink
+            <MobileLink
               as={Link}
               to="/training-schedule"
               onClick={() => setIsOpen(false)}
             >
-              Training Schedule
-            </MobileLink> */}
+              2026 Training Schedule
+            </MobileLink>
 
             <MobileLink
               as={HashLink}

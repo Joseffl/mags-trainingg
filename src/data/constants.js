@@ -14,7 +14,7 @@ export const trainingSchedule = [
     { id: 1, title: "Process Modeling / Simulation using Aspen HYSYS", start: "16 Jan 2026", end: "24 Jan 2026", cost: "180,000", link: "https://magsengineeringlimited.com/courses/process-modelingsimulation-using-aspen-hysys" },
     { id: 2, title: "Control Valve Sizing", start: "26 Jan 2026", end: "29 Jan 2026", cost: "100,000", link: "https://magsengineeringlimited.com/courses/control-valve-sizing" },
     { id: 3, title: "Pump Sizing", start: "30 Jan 2026", end: "02 Feb 2026", cost: "120,000", link: "https://magsengineeringlimited.com/courses/pump-sizing" },
-    { id: 4, title: "Line Sizing (Liquid, Gas & Multiphase)", start: "03 Feb 2026", end: "07 Feb 2026", cost: "150,000", link: "" },
+    { id: 4, title: "Line Sizing (Liquid, Gas & Multiphase)", start: "03 Feb 2026", end: "07 Feb 2026", cost: "150,000", link: "https://magsengineeringlimited.com/courses/line-sizing" },
     { id: 5, title: "Valves Piping and Pipelines", start: "09 Feb 2026", end: "13 Feb 2026", cost: "200,000", link: "https://magsengineeringlimited.com/courses/valves-piping-and-pipelines" },
     { id: 6, title: "Pump Characteristics & Applications", start: "16 Feb 2026", end: "20 Feb 2026", cost: "200,000", link: "https://magsengineeringlimited.com/courses/pump-characteristics-applications" },
     { id: 7, title: "Piping Systems & Piping Calculation", start: "23 Feb 2026", end: "28 Feb 2026", cost: "400,000", link: "https://magsengineeringlimited.com/courses/piping-systems-piping-calculation" },
@@ -54,7 +54,7 @@ export const trainingSchedule = [
     { id: 41, title: "Design Engineering Safety Checklist", start: "06 Jul 2026", end: "06 Jul 2026", cost: "100,000", link: "https://magsengineeringlimited.com/courses/design-engineering-safety-checklist" },
     { id: 42, title: "HAZID", start: "08 Jul 2026", end: "09 Jul 2026", cost: "120,000", link: "https://magsengineeringlimited.com/courses/hazid" },
     { id: 43, title: "HAZOP", start: "10 Jul 2026", end: "11 Jul 2026", cost: "120,000", link: "https://magsengineeringlimited.com/courses/hazop" },
-    { id: 44, title: "Plumbing Engineering", start: "13 Jul 2026", end: "16 Jul 2026", cost: "250,000", link: "https://magsengineeringlimited.com/courses/fundamentals-of-plumbing-engineering" },
+    { id: 44, title: "Plumbing Engineering", start: "13 Jul 2026", end: "16 Jul 2026", cost: "250,000", link: "https://magsengineeringlimited.com/courses/plumbing-engineering" },
     { id: 45, title: "Process P&ID", start: "17 Jul 2026", end: "18 Jul 2026", cost: "100,000", link: "https://magsengineeringlimited.com/courses/process-pid" },
     { id: 46, title: "P&ID Development Procedure", start: "20 Jul 2026", end: "24 Jul 2026", cost: "300,000", link: "https://magsengineeringlimited.com/courses/pid-development-procedure" },
     { id: 47, title: "Distillation Column Selection and Sizing", start: "25 Jul 2026", end: "27 Jul 2026", cost: "100,000", link: "https://magsengineeringlimited.com/courses/distillation-column-selection-and-sizing" },
@@ -84,7 +84,7 @@ export const trainingSchedule = [
     { id: 71, title: "Chemical Process Safety", start: "07 Oct 2026", end: "12 Oct 2026", cost: "450,000", link: "https://magsengineeringlimited.com/courses/chemical-process-safety-" },
     { id: 72, title: "Centrifugal Compressor for Petroleum & Chemical Service", start: "13 Oct 2026", end: "14 Oct 2026", cost: "60,000", link: "https://magsengineeringlimited.com/courses/centrifugal-compressor-for-petroleum-chemical-and-gas-service-industries" },
     { id: 73, title: "LPG SAFETY", start: "15 Oct 2026", end: "17 Oct 2026", cost: "250,000", link: "https://magsengineeringlimited.com/courses/lpg-safety" },
-    { id: 74, title: "Chemical and Process Plant Commissioning", start: "19 Oct 2026", end: "22 Oct 2026", cost: "700,000", link: "" },
+    { id: 74, title: "Chemical and Process Plant Commissioning", start: "19 Oct 2026", end: "22 Oct 2026", cost: "500,000", link: "https://magsengineeringlimited.com/courses/chemical-and-process-plant-commissioning" },
     { id: 75, title: "Project Control Deliverables", start: "23 Oct 2026", end: "24 Oct 2026", cost: "250,000", link: "https://magsengineeringlimited.com/courses/project-control-deliverables" },
     { id: 76, title: "Quality Assurance / Quality Control Plan", start: "26 Oct 2026", end: "28 Oct 2026", cost: "120,000", link: "https://magsengineeringlimited.com/courses/quality-assurance-quality-control-plan" },
     { id: 77, title: "Work Sequence for Piping Planning Design", start: "29 Oct 2026", end: "31 Oct 2026", cost: "150,000", link: "https://magsengineeringlimited.com/courses/work-sequence-for-piping-planning-design" },
@@ -22081,6 +22081,249 @@ export const projects = [
     "On-the-job training"
   ],
   "cost": "₦200,000 / $180",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 63,
+  "title": "Line Sizing",
+  "date": "Present",
+  "description": [
+    "A comprehensive professional training program covering gas, liquid, and multiphase pipeline sizing for oil, gas, chemical, and petrochemical facilities.",
+    "This course equips engineers with the practical knowledge and skills required to accurately size gas, liquid, and multiphase pipelines using internationally recognized codes and standards. Participants will gain hands-on exposure to manual calculations and simulation-based approaches using Excel and Aspen HYSYS.",
+    "Codes & Standards Covered: API RP 14E, ISO 13703, Norsok P-001, and Company/project piping standards (Shell, Chevron, Exxon Mobil)."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Line%20sizing(Int).png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Fundamentals of fluid mechanics",
+    "Pipe friction, Reynolds number, and pressure drop",
+    "Pipe schedules and dimensions",
+    "Fluid properties and design parameters",
+    "Basic knowledge of Excel"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understanding the essential parameters of fluid flow (flow rate, velocity, pressure drop, etc.)",
+    "Understanding the gas flow velocity and pressure drop importance and calculation",
+    "Surge the typical surge factors.",
+    "Apply velocity and pressure drop criteria for gas, liquid, and multiphase line sizing",
+    "Understand surge, fluid hammer, and transient effects",
+    "Perform friction factor and flow regime evaluations",
+    "Apply erosional and minimum velocity criteria for multiphase flow",
+    "Use GPSA Engineering Data Book for pipeline design",
+    "Perform line sizing using industry codes and standards",
+    "Conduct pipeline sizing using Excel and Aspen HYSYS"
+  ],
+  "outline": [
+    "Module 1: Introduction to gas line sizing parameters (flow rate, velocity, pressure drop, etc.)",
+    "Module 2: Fundamentals of Line Sizing",
+    "Module 3: Surge, Fluid Hammer & Transient Effects",
+    "Module 4: Line Sizing Calculation Fundamentals",
+    "Module 5: Codes, Standards & GPSA Engineering Data Book",
+    "Module 6: Gas Line Sizing Methodology",
+    "Module 7: Liquid Line Sizing Methodology",
+    "Module 8: Multiphase Line Sizing & Flow Assurance Basics",
+    "Module 9: Practical Workshops using Excel & Aspen HYSYS"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom",
+    "Face to Face",
+    "Virtual"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 64,
+  "title": "Plumbing Engineering",
+  "date": "Present",
+  "description": [
+    "Fundamentals of plumbing engineering encompass the principles and knowledge that are essential for designing, installing, and maintaining plumbing systems in buildings, industrial facilities, and infrastructure. This course covers the network of pipes, fixtures, and equipment used to deliver clean water and remove wastewater while ensuring safety, efficiency, and compliance with local building codes.",
+    "The program explores specialized systems beyond typical water supply and drainage, including healthcare facility plumbing, fire protection, and industrial waste treatment. Participants will also learn about environmentally-friendly solutions, such as green plumbing and bioremediation systems, which are increasingly relevant in sustainable construction."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Plumbing%20engineering.png",
+  "tags": [],
+  "category": "Construction/Petroleum",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Basic Understanding of Engineering Principles",
+    "Construction Knowledge",
+    "Mathematics",
+    "Blueprint Reading"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Recognize and apply plumbing-specific terminology, symbols, and formulas essential for plumbing engineering and system design.",
+    "Comprehend and utilize national and international standards for plumbing materials and equipment.",
+    "Learn how to write detailed plumbing specifications, including system components and performance requirements.",
+    "Learn the basics of value engineering in plumbing design to optimize functionality while minimizing costs.",
+    "Understand the principles behind designing effective sanitary drainage systems and cold water supply systems.",
+    "Master the principles behind domestic water heating systems, including selection and maintenance.",
+    "Explore private sewage disposal and private water supply systems (wells and pumps).",
+    "Understand fire protection plumbing systems and compliance with fire safety codes.",
+    "Gain specialized knowledge in plumbing systems for healthcare facilities and industrial waste treatment.",
+    "Understand the design and safety considerations for gasoline, diesel oil, steam, condensate, and compressed air piping systems."
+  ],
+  "outline": [
+    "Module 1: Formulas, Symbols, and Terminology",
+    "Module 2: Standards for Plumbing Materials and Equipment",
+    "Module 3: Specifications",
+    "Module 4: Basics of Value Engineering",
+    "Module 5: Sanitary Drainage Systems",
+    "Module 6: Cold Water Systems",
+    "Module 7: Domestic Water Heating Systems",
+    "Module 8: Private Sewage Disposal Systems",
+    "Module 9: Fire Protection Systems",
+    "Module 10: Plumbing Design for Healthcare Facilities",
+    "Module 11: Treatment of Industrial Waste",
+    "Module 12: Irrigation Systems",
+    "Module 13: Gasoline and Diesel Oil Systems",
+    "Module 14: Steam and Condensate Piping",
+    "Module 15: Compressed Air Systems"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦250,000 / $200",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 65,
+  "title": "P&ID Development Procedure",
+  "date": "Present",
+  "description": [
+    "Developing a Piping and Instrumentation Diagram (P&ID) is a critical step in designing and documenting a process system. A P&ID shows the layout of equipment, piping, instruments, and control systems, serving as an essential tool for engineers and operators to understand how a process works.",
+    "This beginner course provides a comprehensive introduction to the creation, interpretation, and management of P&IDs in industrial environments. It covers fundamental concepts, symbols, and conventions, as well as the identification and specification of equipment, pipelines, and instrumentation systems. Participants will learn the essential workflow used by contractors to ensure accuracy and quality throughout the design process."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/P%20&%20ID%20development%20procedure.png",
+  "tags": [],
+  "category": "Petroleum/Engineering",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic understanding of industrial processes, piping systems, and instrumentation.",
+    "Familiarity with technical drawing concepts or engineering symbols is helpful but not required."
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the overall structure and purpose of P&IDs in the context of industrial systems.",
+    "Identify and understand pipeline symbols, flow paths, and auxiliary lines (electrical, control, instrumentation).",
+    "Apply conventions for pipeline identification, numbering, and product designations.",
+    "Analyze pipeline specifications, insulation roles, and the use of various pipe fittings.",
+    "Identify symbols and functions for various valves, including on/off, control, one-way, and special duty valves.",
+    "Represent tanks, pressure vessels, pumps, compressors, and heat exchangers accurately in diagrams.",
+    "Understand the role of instrumentation, including sensors, transmitters, and controllers.",
+    "Learn the contractor workflow for developing, reviewing, and managing P&IDs from design to on-site operations."
+  ],
+  "outline": [
+    "Module 1: Structure",
+    "Module 2: Pipeline Symbols",
+    "Module 3: Other Lines",
+    "Module 4: Pipeline Numbering and Identification",
+    "Module 5: Product Designations",
+    "Module 6: System Numbering",
+    "Module 7: Pipeline Numbering",
+    "Module 8: Pipeline Specifications",
+    "Module 9: Insulation",
+    "Module 10: Pipe Fittings",
+    "Module 11: Valves",
+    "Module 12: Valves used for 'On/Off' Service",
+    "Module 13: Valves used for 'Control' Service",
+    "Module 14: Valves used for 'One-Way' Service",
+    "Module 15: Valves used for 'Special' Duties",
+    "Module 16: Valve Actuators",
+    "Module 17: Tanks and Pressure Vessels",
+    "Module 18: Tank and Vessel Fixtures and Fittings",
+    "Module 19: Filters",
+    "Module 20: Pumps and Compressors",
+    "Module 21: Metering Devices",
+    "Module 22: Heat Exchangers",
+    "Module 23: Other items of Equipment",
+    "Module 24: Equipment Identification",
+    "Module 25: Instrument",
+    "Module 26: Contractor Workflow Description",
+    "Module 27: Responsibilities and organization",
+    "Module 28: Control, verification and review documents",
+    "Module 29: On-site management of P&IDs"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦300,000 / $250",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 66,
+  "title": "Chemical and Process Plant Commissioning",
+  "date": "Present",
+  "description": [
+    "The Chemical and Process Plant Commissioning course provides a structured foundation for planning, organizing, and preparing the essential activities required before on-site commissioning begins. This phase focuses on the administrative, technical, contractual, and organizational elements necessary to ensure safe, efficient, and successful commissioning execution.",
+    "The program also emphasizes the practical execution of commissioning activities, involving hands-on implementation, verification of equipment integrity, adherence to safety requirements, and readiness for safe initial start-up. Participants will learn to transition a newly built plant to operational readiness through rigorous testing and systematic handover procedures."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Chemical%20and%20Process%20Plant%20Commissioning.png",
+  "tags": [],
+  "category": "Petroleum/Engineering",
+  "duration": "4 Days",
+  "prerequisite": [
+    "Completion of Chemical & Process Plant Commissioning – Phase 1 (Prepare) or equivalent industry experience.",
+    "Solid understanding of process equipment, instrumentation, electrical systems, and P&IDs.",
+    "Knowledge of construction quality checks and mechanical completion requirements.",
+    "Familiarity with industry safety standards (LOTO, PTW, and hazard analysis).",
+    "Experience in plant operations, EPC projects, maintenance, or testing is an advantage."
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the importance of appointing a Commissioning Manager and outline associated responsibilities.",
+    "Define commissioning scopes, interfaces, and contractual boundaries with EPC, OEMs, and subcontractors.",
+    "Establish team composition, roles, and organizational structures for commissioning.",
+    "Develop high-level commissioning plans, system files, checklists, and Standard Operating Procedures (SOPs).",
+    "Identify commissioning support requirements including utilities, temporary systems, and manpower plans.",
+    "Design a commissioning tagging system for tracking equipment status and punch lists.",
+    "Conduct Factory Acceptance Testing (FAT) and Pre-Start-Up Safety Reviews (PSSR).",
+    "Implement pre-commissioning procedures for piping, instruments, and electrical systems.",
+    "Execute leak testing, initial start-up procedures, and troubleshooting during activation.",
+    "Coordinate final documentation, commissioning dossiers, and formal handover to operations."
+  ],
+  "outline": [
+    "Module 1: Appointing the Commissioning Manager",
+    "Module 2: Commissioning Scope and Contracts",
+    "Module 3: Develop an Initial Commissioning Plan or Philosophy",
+    "Module 4: Appointment, Composition of the Commissioning Team, Roles, Responsibilities and Organization Chart",
+    "Module 5: Develop Training Materials",
+    "Module 6: Develop Standard Operating Procedures (SOPs)",
+    "Module 7: Devise Handover Procedure",
+    "Module 8: Devise Commissioning Tagging System",
+    "Module 9: Factory Acceptance Testing",
+    "Module 10: Pre-Commissioning Procedures",
+    "Module 11: Instrument Loop, Electrical and Control System Testing",
+    "Module 12: Commissioning Punchlisting",
+    "Module 13: Handover from Construction to Commissioning",
+    "Module 14: Pre-Commissioning HAZOP Studies or Pre-Start-Up Safety",
+    "Module 15: Commissioning and Initial Start-Up Plus Procedures",
+    "Module 16: Handover to Operations"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦500,000 / $400",
   "certification": "Certificate of Completion"
 }
 
