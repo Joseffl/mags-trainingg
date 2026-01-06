@@ -90,7 +90,7 @@ const Navbar = () => {
               {/* <span style={{ fontSize: "10px", marginLeft: "4px" }}>▼</span> */}
             </NavLink>
             <DropdownMenu>
-              <DropdownLink to="/training">All Courses</DropdownLink>
+              <DropdownLink to="/training">All Courses avail</DropdownLink>
               {/* <DropdownLink to="/training-schedule">2026 Schedule</DropdownLink> */}
             </DropdownMenu>
           </Dropdown>
