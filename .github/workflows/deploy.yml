@@ -21,10 +21,15 @@ jobs:
           script: |
             # 1. Enter the directory
             cd /home/magsengineeringlimited/htdocs/www.magsengineeringlimited.com
+
+            git config --global --add safe.directory /home/magsengineeringlimited/htdocs/www.magsengineeringlimited.com
+
             
             # 2. Force reset and pull (prevents merge conflicts with manual changes)
             git fetch --all
             git reset --hard origin/main
+
+            
             
             # 3. Create .env file from GitHub Secrets
             echo "REACT_APP_EMAILJS_SERVICE_ID=${{ secrets.REACT_APP_EMAILJS_SERVICE_ID }}" > .env
