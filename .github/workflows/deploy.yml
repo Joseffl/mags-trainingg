@@ -1,0 +1,40 @@
+name: VPS Deployment
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            # 1. Enter the directory (Make sure this path exists on your VPS!)
+            cd /home/magsengineeringlimited/htdocs/www.magsengineeringlimited.com
+            
+            # 2. Update code
+            git pull origin main
+            
+            # 3. Create .env file from GitHub Secrets
+            echo "REACT_APP_EMAILJS_SERVICE_ID=${{ secrets.REACT_APP_EMAILJS_SERVICE_ID }}" > .env
+            echo "REACT_APP_EMAILJS_TEMPLATE_ID=${{ secrets.REACT_APP_EMAILJS_TEMPLATE_ID }}" >> .env
+            echo "REACT_APP_EMAILJS_PUBLIC_KEY=${{ secrets.REACT_APP_EMAILJS_PUBLIC_KEY }}" >> .env
+            echo "REACT_APP_FLW_PUBLIC_KEY=${{ secrets.REACT_APP_FLW_PUBLIC_KEY }}" >> .env
+            echo "CI=false" >> .env
+            
+            # 4. Install and Build
+            npm install
+            npm run build
+            
+            # 5. Restart (Optional - only if you use PM2 for a backend)
+            # pm2 restart all
