@@ -90,7 +90,7 @@ export const trainingSchedule = [
     { id: 77, title: "Work Sequence for Piping Planning Design", start: "29 Oct 2026", end: "31 Oct 2026", cost: "150,000", link: "https://magsengineeringlimited.com/courses/work-sequence-for-piping-planning-design" },
     { id: 78, title: "Process Control for Operators", start: "02 Nov 2026", end: "06 Nov 2026", cost: "350,000", link: "https://magsengineeringlimited.com/courses/process-control-for-operators" },
     { id: 79, title: "Risk-Based Inspection", start: "07 Nov 2026", end: "10 Nov 2026", cost: "150,000", link: "https://magsengineeringlimited.com/courses/risk-based-inspection" },
-    { id: 80, title: "Hazards and Safety in Process Industries", start: "11 Nov 2026", end: "17 Nov 2026", cost: "250,000", link: "" },
+    { id: 80, title: "Liquefied Natural Gas Industry", start: "11 Nov 2026", end: "17 Nov 2026", cost: "300,000", link: "https://magsengineeringlimited.com/courses/liquefied-natural-gas-industry" },
 ];
 
 export const skills = [
@@ -22325,7 +22325,653 @@ export const projects = [
   ],
   "cost": "₦500,000 / $400",
   "certification": "Certificate of Completion"
+},
+
+{
+  "id": 67,
+  "title": "Production Of Phosphoric Acid",
+  "date": "Present",
+  "description": [
+    "The Production of Phosphoric Acid course provides a comprehensive understanding of the industrial production processes, equipment, environmental considerations, and safety aspects associated with phosphoric acid manufacturing. Phosphoric acid is a key intermediate in the fertilizer and chemical industries, and its production involves corrosive chemicals, high-temperature reactions, and significant environmental and occupational hazards.",
+    "This course covers process technologies, material handling, storage and transfer systems, emission sources, environmental monitoring, and hazard management. Emphasis is placed on safe, efficient, and environmentally responsible operation, supported by real-world case studies and lessons learned from operating plants."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/PRODUCTION%20OF%20PHOSPHORIC%20ACID%20Course.png",
+  "tags": [],
+  "category": "PC",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of chemical engineering or industrial process operations",
+    "Familiarity with process flow diagrams (PFDs) and P&IDs",
+    "General awareness of health, safety, and environmental (HSE) principles"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand phosphoric acid production technologies and their key process steps.",
+    "Identify equipment and materials of construction suitable for corrosive service.",
+    "Recognize environmental impacts and emission sources associated with phosphoric acid plants.",
+    "Apply emission monitoring and environmental compliance practices.",
+    "Identify major process and occupational hazards and appropriate control measures.",
+    "Promote safe, efficient, and environmentally responsible operation of phosphoric acid production facilities."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Description of Production Processes",
+    "Module 3: Description of Storage and Transfer Equipment",
+    "Module 4: Environmental Data",
+    "Module 5: Emission Monitoring",
+    "Module 6: Major Hazards",
+    "Module 7: Occupational Health & Safety",
+    "Module 8: Case Studies"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦120,000 / $100",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 68,
+  "title": "Distillation Operation",
+  "date": "Present",
+  "description": [
+    "The Distillation Operation course provides an in-depth, operations-focused understanding of tray and packed distillation columns, covering mechanical internals, operating principles, control philosophies, commissioning, startup, shutdown, and troubleshooting. The course bridges the gap between design intent and real-world operation, enabling participants to diagnose and resolve common and complex distillation problems.",
+    "Emphasis is placed on hydraulic behavior, mass transfer efficiency, operability limitations, pressure relief, and process control, with extensive discussion on field-based issues such as flooding, foaming, weeping, entrainment, and maldistribution. The course also covers reboilers, condensers, and column control strategies, making it highly practical for operations, process, and troubleshooting engineers."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Distillation%20Operation%20Course.png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "7 Days",
+  "prerequisite": [
+    "Basic understanding of process engineering principles",
+    "Familiarity with mass and energy balances",
+    "Fundamental knowledge of phase equilibrium and vapor–liquid behavior"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the operational behavior of tray and packed distillation columns.",
+    "Identify and troubleshoot common and complex distillation problems such as flooding, foaming, weeping, and efficiency loss.",
+    "Evaluate the impact of internals, feed distribution, and reflux arrangements on column performance.",
+    "Operate and troubleshoot reboilers and condensers in coordination with column operation.",
+    "Apply effective startup, shutdown, and commissioning practices to ensure safe and reliable operation.",
+    "Implement appropriate pressure, temperature, and composition control strategies for stable separation.",
+    "Assess overpressure risks and protection philosophy for distillation systems.",
+    "Translate field test data into actionable operational improvements."
+  ],
+  "outline": [
+    "Module 1: Distillation Troubleshooting",
+    "Module 2: Reflux and Intermediate Feed Inlets for Tray Columns",
+    "Module 3: Reflux and Intermediate Feed Distribution and Liquid Redistribution in Packed Towers",
+    "Module 4: Bottom Section and Column Outlets",
+    "Module 5: Gravity Lines and Instruments and Access Connections",
+    "Module 6: Tray and Downcomer Layout",
+    "Module 7: Mechanical Requirements for Trays",
+    "Module 8: Internal Unique to Packed Towers",
+    "Module 9: Distillation Overpressure Relief",
+    "Module 10: Column Assembly and Preparation for Commissioning",
+    "Module 11: Column Commissioning",
+    "Module 12: Column Startup and Shutdown",
+    "Module 13: Operation Difficulties",
+    "Module 14: Column Field Testing; Flooding, Foaming, Efficiency and Troubleshooting",
+    "Module 15: Reboilers and Condensers Operation and Troubleshooting",
+    "Module 16: Basic Distillation Control Philosophy",
+    "Module 17: Reboiler, Condensers and Pressure Control",
+    "Module 18: Temperature and Composition Control",
+    "Module 19: Miscellaneous Column Controls"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦400,000 / $350",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 69,
+  "title": "Liquefied Natural Gas Industry",
+  "date": "Present",
+  "description": [
+    "The Liquefied Natural Gas (LNG) Industry course provides an integrated understanding of the technical, commercial, and project-driven nature of the global LNG business. It covers the complete LNG value chain from upstream natural gas supply and liquefaction to shipping, import terminals, and end-use markets—while also addressing the commercial structures, contracts, economics, and regulatory frameworks that underpin LNG projects.",
+    "The course emphasizes the project-based nature of LNG developments, the evolution of LNG business models, and the interplay between engineering, shipping, finance, and commercial agreements. Participants will gain practical insight into how LNG projects are structured, financed, built, operated, and marketed in a rapidly evolving global energy landscape."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Liquefied%20Natural%20Gas%20Industry.png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic understanding of oil and gas or energy industry fundamentals",
+    "General knowledge of engineering, economics, or commercial principles",
+    "Familiarity with project-based developments"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand the complete LNG value chain, from upstream gas to end markets.",
+    "Explain the project-driven nature of LNG developments and their associated risks.",
+    "Evaluate LNG project economics and commercial structures, including SPAs and shipping contracts.",
+    "Understand the technical fundamentals of LNG liquefaction, shipping, and regasification.",
+    "Navigate regulatory, contractual, and market considerations affecting LNG projects.",
+    "Assess future trends and challenges facing the LNG industry, including energy transition impacts."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: The Project Nature of the LNG Business",
+    "Module 3: Evolution of the LNG Business Model",
+    "Module 4: LNG Projects",
+    "Module 5: LNG Shipping",
+    "Module 6: The Economics of an LNG Project",
+    "Module 7: Upstream Natural Gas",
+    "Module 8: The Liquefaction Plant",
+    "Module 9: LNG Tankers",
+    "Module 10: LNG Import Terminals",
+    "Module 11: LNG Project Formation",
+    "Module 12: Upstream Gas Supply Agreements",
+    "Module 13: LNG Sale and Purchase Agreements",
+    "Module 14: LNG Tanker Contracts",
+    "Module 15: Shipping Conventions and Regulations",
+    "Module 16: LNG Terminal Siting and Regulatory Issues",
+    "Module 17: LNG Import Terminal Use Agreements",
+    "Module 18: The Future of LNG"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦300,000 / $250",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 70,
+  "title": "Production, Storage, and Handling of Liquefied Natural Gas (LNG)",
+  "date": "Present",
+  "description": [
+    "The Production, Storage, and Handling of Liquefied Natural Gas (LNG) course provides a comprehensive understanding of the technical, safety, and operational aspects of LNG facilities across the value chain. The course focuses on liquefaction processes, cryogenic storage, vaporization, transfer systems, and facility design, with strong emphasis on plant siting, layout, risk management, and fire protection.",
+    "Participants will gain practical knowledge of LNG facility engineering requirements, applicable codes and standards, and safe handling of cryogenic and flammable materials, including both large-scale and small-scale LNG installations. Quantitative Risk Analysis (QRA) principles are introduced to support performance-based siting and safety decisions."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Production,%20Storage,%20and%20Handling%20of%20Liquefied%20Natural%20Gas%20(LNG).png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic understanding of oil and gas processing operations",
+    "Familiarity with process flow diagrams (PFDs) and P&IDs",
+    "Fundamental knowledge of process safety and HSE principles"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand LNG production, storage, and handling principles across the LNG value chain.",
+    "Apply LNG facility design requirements in accordance with international codes and standards.",
+    "Design and assess LNG storage, vaporization, and transfer systems safely and efficiently.",
+    "Identify and mitigate LNG-specific hazards, including cryogenic and flammable risks.",
+    "Evaluate plant siting and layout options using prescriptive and performance-based approaches.",
+    "Support safe operation, maintenance, and emergency preparedness of LNG facilities."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: General Requirements",
+    "Module 3: Plant Siting",
+    "Module 4: Plant Layout",
+    "Module 5: Process Equipment",
+    "Module 6: Stationary LNG Storage",
+    "Module 7: Vaporization Facilities",
+    "Module 8: Piping Systems and Components",
+    "Module 9: Instrumentation and Electrical Services",
+    "Module 10: Plant Facilities Design",
+    "Module 11: Impounding Area and Drainage System Design & Capacity",
+    "Module 12: Mobile and Temporary LNG Facility",
+    "Module 13: Transfer Systems for Hazardous Fluids",
+    "Module 14: Fire Protection, Safety, and Security",
+    "Module 15: Requirements for Stationary Applications for Small Scale LNG Facilities",
+    "Module 16: Operating, Maintenance, and Personnel Training",
+    "Module 17: Performance-Based LNG Plant Siting Using Quantitative Risk Analysis (QRA)"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦300,000 / $250",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 71,
+  "title": "Guideline for Design Construction and Operations",
+  "date": "Present",
+  "description": [
+    "The Guideline for Design, Construction and Operations course provides a comprehensive understanding of the regulatory, technical, operational, and HSE requirements governing oil and gas production facilities. The course is designed to guide participants through the full facility lifecycle, from regulatory approvals and design considerations to construction, installation, and safe operational practices.",
+    "Emphasis is placed on compliance with regulatory frameworks, minimum engineering standards, operational readiness, and the integration of health, safety, and environmental (HSE) requirements into facility design and day-to-day operations. The course helps participants align engineering decisions with regulatory expectations, ensuring facilities are safe, reliable, and compliant throughout their operating life."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Guideline%20for%20Design%20Construction%20and%20Operations.png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of oil and gas production facilities",
+    "Familiarity with engineering design or plant operations",
+    "Understanding of process safety and HSE principles"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand regulatory expectations governing the design, construction, and operation of oil and gas production facilities.",
+    "Navigate approval and consent processes required by regulatory authorities.",
+    "Apply minimum engineering and construction standards to ensure safe and compliant facilities.",
+    "Implement operational requirements that support safe, reliable, and efficient facility performance.",
+    "Integrate HSE principles into facility design and operations, minimizing risk to people, assets, and the environment.",
+    "Support compliance and audit readiness throughout the facility lifecycle."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Application Procedure for Regulatory Approvals and Consents for Oil & Gas Production Facilities",
+    "Module 3: Minimum Design, Construction, and Installation Considerations and Specifications",
+    "Module 4: Minimum Facility Operations Requirement",
+    "Module 5: Minimum HSE Requirements for Facility Operations"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 72,
+  "title": "Bunkering Of Liquefied Natural Gas Fueled Vessels",
+  "date": "Present",
+  "description": [
+    "The Bunkering of Liquefied Natural Gas (LNG) Fueled Vessels course provides a structured and practical understanding of the design, operation, and safety management of LNG bunkering activities. With the rapid adoption of LNG as a marine fuel to meet environmental regulations, safe and efficient bunkering operations have become critical for ports, terminals, ship operators, and bunker service providers.",
+    "This course covers LNG transfer system design requirements, bunkering processes and procedures, quality and management systems, and personnel competency requirements, with emphasis on risk control, regulatory compliance, and operational best practices. The training addresses ship-to-ship, truck-to-ship, and terminal-to-ship LNG bunkering operations."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/bunkering%20of%20liquefied%20natural%20gas%20fueled%20vessels%20(2).png",
+  "tags": [],
+  "category": "Petroleum",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of marine operations and ship systems",
+    "Familiarity with LNG properties and cryogenic safety principles",
+    "General understanding of process safety, HSE, and maritime regulations"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the principles and hazards of LNG bunkering operations for LNG-fueled vessels.",
+    "Apply transfer system design requirements to ensure safe LNG handling and containment.",
+    "Execute LNG bunkering procedures safely and efficiently, including normal and emergency operations.",
+    "Implement effective management and quality assurance systems for LNG bunkering activities.",
+    "Define training and competency requirements for personnel involved in LNG bunkering operations.",
+    "Ensure compliance with international maritime and LNG safety regulations."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Transfer system design requirements",
+    "Module 3: LNG bunkering processes and procedures",
+    "Module 4: Management system/quality assurance",
+    "Module 5: Personnel training"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 73,
+  "title": "Design Petroleum Fuel Facilities",
+  "date": "Present",
+  "description": [
+    "The Design of Petroleum Fuel Facilities course provides comprehensive technical and practical guidance on the planning, engineering design, operation, rehabilitation, and closure of petroleum fuel storage and distribution systems. The course covers bulk fuel storage terminals, aviation fueling systems, marine and ground fueling facilities, pipelines, and supporting infrastructure, with strong emphasis on safety, reliability, regulatory compliance, and lifecycle management.",
+    "Participants will gain in-depth understanding of POL (Petroleum, Oil & Lubricants) facility design principles, applicable international standards, system configuration, and best practices for both greenfield and brownfield projects. The course integrates design considerations for normal operations, rehabilitation, temporary deactivation, and permanent facility closure, making it ideal for engineers involved in long-term fuel infrastructure development."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/DESIGN%20PETROLEUM%20FUEL%20FACILITIES.png",
+  "tags": [],
+  "category": "mechanical",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic knowledge of petroleum products and fuel properties",
+    "Fundamental understanding of process, mechanical, piping, or civil engineering",
+    "Familiarity with industrial facilities or oil & gas infrastructure",
+    "Basic understanding of P&IDs and engineering drawings"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Understand petroleum fuel facility design principles and their application across aviation, marine, ground, and pipeline systems.",
+    "Apply international codes and standards to the design of POL storage and distribution facilities.",
+    "Design bulk fuel storage and fueling systems with emphasis on safety, operability, and maintainability.",
+    "Evaluate piping and tank system requirements, including materials, layouts, and protection systems.",
+    "Plan interterminal pipelines and transfer systems for reliable fuel movement.",
+    "Develop rehabilitation and upgrade strategies for aging fuel facilities.",
+    "Manage temporary deactivation and permanent closure of fueling facilities in compliance with environmental and safety regulations.",
+    "Integrate lifecycle thinking into petroleum fuel facility design, from concept to decommissioning."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: General Design Information",
+    "Module 3: Bulk Fuel Storage Facilities",
+    "Module 4: Aircraft Fueling Facilities",
+    "Module 5: Marine Receiving And Dispensing Facilities",
+    "Module 6: Interterminal And Installation Pipelines",
+    "Module 7: Ground Products Fueling Facilities",
+    "Module 8: Atmospheric Storage Tanks",
+    "Module 9: Piping Systems",
+    "Module 10: Alternate Pol Facilities",
+    "Module 11: Support Facilities",
+    "Module 12: Major Rehabilitation",
+    "Module 13: Fueling Facility Temporary Deactivation",
+    "Module 14: Fueling Facility Closure"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦250,000 / $200",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 74,
+  "title": "Practical Centrifugal Pumps Design, Operation and Maintenance",
+  "date": "Present",
+  "description": [
+    "The Practical Centrifugal Pumps – Design, Operation and Maintenance course provides a comprehensive and hands-on understanding of centrifugal pump systems, focusing on how pumps are designed, selected, operated, installed, and maintained in real industrial environments. The course bridges theory and practice, enabling participants to understand pump hydraulics, internal forces, performance characteristics, and common failure modes.",
+    "Emphasis is placed on correct pump specification and selection, proper installation and commissioning practices, performance testing, and preventive maintenance strategies. Participants will learn how to diagnose operational problems, improve reliability, and extend pump service life while maintaining safe and efficient plant operation."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Practical%20Centrifugal%20Pumps%20Design,%20Operation%20and%20Maintenance.png",
+  "tags": [],
+  "category": "mechanical",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic understanding of fluid mechanics and process operations",
+    "Familiarity with industrial equipment and piping systems",
+    "Exposure to maintenance or operations environments is advantageous"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand centrifugal pump design and operating principles.",
+    "Apply pump hydraulics concepts to evaluate performance and efficiency.",
+    "Select and specify centrifugal pumps correctly for various services.",
+    "Interpret pump curves and operating characteristics to avoid off-design operation.",
+    "Implement proper installation, commissioning, and testing practices.",
+    "Identify and troubleshoot common centrifugal pump problems.",
+    "Apply effective maintenance practices to improve reliability and reduce downtime."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Centrifugal pump design and construction",
+    "Module 3: Pump hydraulics",
+    "Module 4: Forces in centrifugal pumps",
+    "Module 5: Centrifugal pump operation and characteristics",
+    "Module 6: Pump specification and selection",
+    "Module 7: Pump testing and inspection",
+    "Module 8: Pump installation and commissioning",
+    "Module 9: Centrifugal pump maintenance"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦200,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 75,
+  "title": "Purging Principles & Practice",
+  "date": "Present",
+  "description": [
+    "The Purging Principles and Practice course provides a comprehensive understanding of the theory, methods, and safe execution of purging operations used in oil & gas, natural gas transmission, LNG, and LPG facilities. Purging is a critical activity during commissioning, start-up, shutdown, maintenance, and decommissioning, where incorrect practices can lead to fires, explosions, or toxic exposure.",
+    "This course focuses on controlling purging operations, selection of inert purge media, gas analysis, instrumentation, and application-specific purging practices for pipelines and process facilities. Real-world operational scenarios are used to emphasize safe transition between air, inert gas, and hydrocarbons."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/PURGING%20PRINCIPLES%20AND%20PRACTICE.png",
+  "tags": [],
+  "category": "mechanical",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of process engineering and pipeline systems",
+    "Familiarity with hydrocarbon properties"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Explain the principles and safety importance of purging operations in hydrocarbon facilities.",
+    "Select appropriate purging methods and inert media for different systems and applications.",
+    "Control and monitor purging activities to prevent flammable or explosive atmospheres.",
+    "Interpret gas analysis data to verify safe conditions before system handover.",
+    "Apply purging practices safely in natural gas pipelines, LNG, and LPG facilities.",
+    "Support commissioning, maintenance, and shutdown activities in compliance with industry standards."
+  ],
+  "outline": [
+    "Module 1: General Information",
+    "Module 2: Control of Purging",
+    "Module 3: Gas Analysis & Instrumentation",
+    "Module 4: Inert Purge Media",
+    "Module 5: Natural Gas Transmission & Distribution Pipe",
+    "Module 6: Liquefied Natural Gas Facilities",
+    "Module 7: Liquefied Petroleum Gas Facilities"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 76,
+  "title": "Process Safety in Upstream Oil and Gas",
+  "date": "Present",
+  "description": [
+    "The Process Safety in Upstream Oil and Gas course provides a comprehensive understanding of process safety principles and their application across upstream oil and gas operations, including wells, onshore production facilities, offshore installations, and project execution phases. The course is structured around Risk-Based Process Safety (RBPS) concepts, focusing on the prevention and mitigation of major accident hazards such as loss of containment, fires, explosions, and blowouts.",
+    "Participants will learn how process safety is applied throughout the upstream asset lifecycle from well design and drilling through production, facility operation, and project execution. The course integrates engineering, operational, and organizational aspects of process safety, emphasizing practical implementation rather than theory alone."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Process%20Safety%20in%20Upstream%20Oil%20and%20Gas.png",
+  "tags": [],
+  "category": "hazop hazid",
+  "duration": "5 Days",
+  "prerequisite": [
+    "Basic understanding of oil and gas upstream operations",
+    "Familiarity with engineering or operational environments",
+    "General awareness of health, safety, and environmental (HSE) principles"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand key process safety principles and their importance in upstream oil and gas operations.",
+    "Apply the Risk-Based Process Safety (RBPS) framework to identify and manage major accident hazards.",
+    "Recognize process safety risks associated with wells, onshore, and offshore production facilities.",
+    "Apply barrier and integrity management concepts across the upstream lifecycle.",
+    "Integrate process safety into engineering design, construction, and installation activities.",
+    "Support safe operations and regulatory compliance through effective process safety practices."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: The Upstream Industry",
+    "Module 3: Overview of Risk Based Process Safety (RBPS)",
+    "Module 4: Application of Process Safety to Wells",
+    "Module 5: Application of Process Safety to Onshore Production",
+    "Module 6: Application of Process Safety to Offshore Production",
+    "Module 7: Application of Process Safety to Engineering Design, Construction and Installation"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 77,
+  "title": "Hydrogen Technologies",
+  "date": "Present",
+  "description": [
+    "The Hydrogen Technologies course provides a comprehensive introduction to hydrogen as an energy carrier, covering its production, storage, handling, fueling infrastructure, and utilization in power and mobility applications. The course emphasizes safety, performance-based design, and regulatory compliance, addressing the unique hazards and engineering challenges associated with hydrogen systems.",
+    "Participants will gain practical insights into gaseous and liquefied hydrogen technologies, hydrogen fueling facilities, fuel cell power systems, and hydrogen generation processes. The course integrates fire safety principles, performance-based approaches, and system design considerations, making it highly relevant to professionals involved in hydrogen projects across industrial, transportation, and energy sectors."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Hydrogen%20Technologies.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic understanding of engineering fundamentals (mechanical, process, electrical, or chemical)",
+    "Familiarity with industrial safety principles and hazardous materials handling",
+    "General knowledge of energy systems or oil & gas facilities"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand hydrogen properties and applications across industrial, mobility, and power sectors.",
+    "Apply fire safety and risk management principles specific to hydrogen systems.",
+    "Evaluate gaseous and liquefied hydrogen technologies, including storage and fueling infrastructure.",
+    "Apply performance-based design concepts to hydrogen facility safety and compliance.",
+    "Understand hydrogen generation and fuel cell technologies and their role in energy systems.",
+    "Support safe design, operation, and regulatory compliance of hydrogen facilities and projects."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: General Fire Safety Requirement",
+    "Module 3: Performance-Based Option",
+    "Module 4: General Hydrogen Requirements",
+    "Module 5: Gaseous Hydrogen",
+    "Module 6: Liquefied Hydrogen",
+    "Module 7: GH2 Vehicle Fueling Facilities",
+    "Module 8: LH2 Fueling Facilities",
+    "Module 9: Hydrogen Fuel Cell Power Systems",
+    "Module 10: Hydrogen Generation Systems"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦180,000 / $150",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 78,
+  "title": "P&ID Reviewing Checklist",
+  "date": "Present",
+  "description": [
+    "The P&ID Reviewing Checklist course provides a structured and systematic approach to reviewing Piping and Instrumentation Diagrams (P&IDs) throughout the project lifecycle. P&IDs are the backbone of process design, construction, commissioning, operation, and safety analysis; errors or omissions can lead to costly rework, safety incidents, and operational inefficiencies.",
+    "This course equips participants with practical checklists and review methodologies to ensure P&IDs are complete, consistent, technically correct, and compliant with project specifications and industry standards. Emphasis is placed on format consistency, symbol usage, technical accuracy, and design integrity, enabling participants to identify gaps and risks early in the project."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/P&ID%20Checklist.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic understanding of process engineering concepts",
+    "Familiarity with P&IDs, PFDs, and engineering drawings",
+    "General knowledge of process equipment, piping, and instrumentation"
+  ],
+  "methodology": "Theoretical",
+  "objectives": [
+    "Apply a structured checklist approach to reviewing P&IDs.",
+    "Verify format and documentation compliance with project and company standards.",
+    "Confirm correct application of symbols and drawing conventions.",
+    "Identify technical errors, omissions, and inconsistencies in process, piping, and instrumentation details.",
+    "Assess design completeness, operability, and safety readiness of P&IDs.",
+    "Support effective HAZOP, construction, commissioning, and operations through high-quality P&IDs."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Format Check",
+    "Module 3: Demonstration Rules Check",
+    "Module 4: Technical Check",
+    "Module 5: Design Check"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
+},
+
+{
+  "id": 79,
+  "title": "Process Design of Separation Vessels",
+  "date": "Present",
+  "description": [
+    "The Process Design of Separation Vessels course provides a comprehensive and practical understanding of the process design principles, selection criteria, and sizing methodologies for separation vessels used in oil & gas, petrochemical, and process industries. Separation vessels—such as knockout drums, two-phase and three-phase separators, and reflux drums—are critical for protecting downstream equipment, ensuring product quality, and maintaining safe and reliable plant operation.",
+    "This course focuses on process design rather than mechanical design, emphasizing phase separation fundamentals, sizing calculations, operating envelopes, and performance limitations. Through worked examples and real-life case studies, participants will learn how to select the right separator type, determine vessel dimensions, and evaluate design adequacy under varying operating conditions."
+  ],
+  "image": "https://ik.imagekit.io/mags/courses/Process%20Design%20of%20Separation%20Vessels.png",
+  "tags": [],
+  "category": "process",
+  "duration": "3 Days",
+  "prerequisite": [
+    "Basic knowledge of process engineering fundamentals",
+    "Familiarity with phase behavior, vapor–liquid equilibrium, and fluid properties",
+    "Understanding of process flow diagrams (PFDs) and P&IDs"
+  ],
+  "methodology": "Theoretical/Practical",
+  "objectives": [
+    "Understand the function and application of different types of separation vessels.",
+    "Select appropriate separator configurations based on process and operating requirements.",
+    "Apply basic sizing calculations for gas–liquid and liquid–liquid separation.",
+    "Design knockout drums, two-phase, and three-phase separators from a process perspective.",
+    "Evaluate separator performance limits and identify potential operational issues.",
+    "Review and validate separator designs using sound engineering judgment and case-study experience."
+  ],
+  "outline": [
+    "Module 1: Introduction",
+    "Module 2: Selection of Separator Type",
+    "Module 3: Basic Sizing Information",
+    "Module 4: Design of Knockout Drums and Vertical Two Phase Separators",
+    "Module 5: Design of Horizontal Separators and Reflux Drums",
+    "Module 6: Design of High Pressure Vertical Three-phase Separators",
+    "Module 7: Package Units",
+    "Module 8: Case Studies"
+  ],
+  "assessment": "Online Written Exam",
+  "cdf": [
+    "Classroom-based training",
+    "Online courses",
+    "In-house workshops",
+    "On-the-job training"
+  ],
+  "cost": "₦150,000 / $120",
+  "certification": "Certificate of Completion"
 }
+
+
 
 
 
