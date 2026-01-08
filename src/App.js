@@ -6,7 +6,7 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
-import Skills from "./components/Skills";
+import Skills from "./components/Services/index.js";
 import Projects from "./components/Projects";
 // import Courses from "./components/Courses"; // Ensure this is correctly imported
 import Contact from "./components/Contact";
@@ -14,8 +14,8 @@ import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
-import Services from './components/Services';
-import SkillDetail from "./components/SkillDetails/index.js";
+import ServicesExpanded from './components/ServicesExpanded/index.js';
+import ServiceDetail from "./components/ServiceDetails/index.js";
 import Index from "./components/Experience";
 import CoursePage from "./pages/CoursePage/index.jsx";
 import Terms from "./components/Terms/index.js";
@@ -80,7 +80,7 @@ function App() {
               element={<Skills openModal={openModal} setOpenModal={setOpenModal} />} 
             />
             <Route path="/services" element={<Index openModal={openModal} setOpenModal={setOpenModal}/>} />
-            <Route path="/services/:id" element={<SkillDetail openModal={openModal} setOpenModal={setOpenModal}/>} />
+            <Route path="/services/:id" element={<ServiceDetail openModal={openModal} setOpenModal={setOpenModal}/>} />
             {/* <Route path="/" element={<ServicesPage />} /> */}
             <Route path="/courses/:slug" element={<CoursePage />} />
             <Route path="/T&C" element={<Terms />} />
@@ -91,7 +91,7 @@ function App() {
             <Route 
               path="/role/:id" 
               element={
-                <Services 
+                <ServicesExpanded 
                   openModal={openModal} 
                   setOpenModal={setOpenModal} 
                 />
@@ -113,20 +113,3 @@ function App() {
 export default App;
 
 
-// function App() {
-//   return (
-//     <div className="h-screen flex flex-col items-center justify-center bg-gray-100">
-//       <h1 className="text-5xl font-bold text-blue-600 font-poppins">
-//         Tailwind Active 🎉
-//       </h1>
-//       <p className="mt-4 text-lg text-gray-700 font-montserrat">
-//         Fonts + Utilities are working!
-//       </p>
-//       <button className="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition">
-//         Test Button
-//       </button>
-//     </div>
-//   );
-// }
-
-// export default App;

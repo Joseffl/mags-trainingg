@@ -1,9 +1,9 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
-import { experiences } from '../../data/constants'; // Import the experiences data
+import { experiences } from '../../data/constants'; 
 
-const SkillDetailContainer = styled.div`
+const ServiceDetailContainer = styled.div`
   padding: 40px;
   max-width: 800px;
   margin: 0 auto;
@@ -31,16 +31,16 @@ const ServicesList = styled.ul`
   text-align: left;  // Aligns the list to the left
 `;
 
-const SkillDetail = () => {
-  const { id } = useParams(); // Get the id from the URL params
-  const experience = experiences.find((exp) => exp.id === Number(id)); // Find the experience by id
+const ServiceDetail = () => {
+  const { id } = useParams(); 
+  const experience = experiences.find((exp) => exp.id === Number(id)); 
 
   if (!experience) {
     return <p style={{ textAlign: 'center', fontSize: '18px', color: '#888' }}>No details found</p>;
   }
 
   return (
-    <SkillDetailContainer>
+    <ServiceDetailContainer>
       <Title>{experience.role}</Title>
       <Description>{experience.desc}</Description>
       {experience.skills && experience.skills.length > 0 ? (
@@ -52,8 +52,8 @@ const SkillDetail = () => {
       ) : (
         <p style={{ color: '#888', textAlign: 'left' }}>No details available yet</p>
       )}
-    </SkillDetailContainer>
+    </ServiceDetailContainer>
   );
 };
 
-export default SkillDetail;
+export default ServiceDetail;

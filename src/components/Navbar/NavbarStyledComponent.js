@@ -21,7 +21,7 @@ export const NavbarContainer = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 60px;
+  height: 70px;
   z-index: 1;
   width: 100%;
   padding: 0 24px;
@@ -79,8 +79,8 @@ export const NavLink = styled.a`
     cursor: pointer;
     transition: all 0.2s ease-in-out;
     text-decoration: none;
-    display: flex;          /* Added */
-    align-items: center;    /* Added */
+    display: flex;         
+    align-items: center;   
     gap: 4px;
     :hover {
       color: ${({ theme }) => theme.primary};
@@ -148,7 +148,7 @@ export const MobileMenu = styled.div`
     justify-content: center;
     gap: 16px;
     position: absolute;
-    top: 80px;
+    top: 70px;
     right: 0;
     width: 100%;
     padding: 12px 40px 24px 40px;
